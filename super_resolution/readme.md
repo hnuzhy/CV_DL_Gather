@@ -1,1 +1,1 @@
-model compression
+super resolution
