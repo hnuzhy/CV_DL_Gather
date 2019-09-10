@@ -10,10 +10,10 @@ In terms of implementation method, pose estimation has two branches: `Top-down` 
 
 ## 2) Datasets
 At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)(CVPR2014)[1] and [COCO: Common Objects in Context](http://cocodataset.org/)(ECCV2014)[2].
-<br>MPII Human Pose Dataset<br>
+**MPII Human Pose Dataset**
 
 
-<br>COCO: Common Objects in Context<br>
+**COCO: Common Objects in Context**
 
 
 ## 3) SOTA Algorithms
