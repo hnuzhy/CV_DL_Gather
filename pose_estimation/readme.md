@@ -9,7 +9,7 @@ The general definition of `Human Pose Estimation` is as follows: Given a picture
 In terms of implementation method, pose estimation has two branches: `Top-down` and `Bottom-up`. `Top-down` first uses the human detector to get bounding boxes of bodies in the image, and then estimates the pose of each person. `Bottom-up` directly predicts the position of all human joints in the image, and then use post-processing algorithm to link them into complete poses. The performance of the former method is mainly dominated by detectors and easy to slaughter on public datasets than the latter, but its inference time of single image increases linearly with the number of people, and it does not perform well in crowded, cluttered and occluded scenes. The latter method is easy to perform poorly because of the problem of joint point connection algorithm, but its detection time is relatively stable, and there will be no big error in the case of crowding.
 
 ## 2) Datasets
-At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII][1] and [COCO][2].
+At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII][http://human-pose.mpi-inf.mpg.de/] and [COCO][http://cocodataset.org/].
 [1]: http://human-pose.mpi-inf.mpg.de/ "MPII Human Pose Dataset"
 [2]: http://cocodataset.org/ "COCO: Common Objects in Context"
 
