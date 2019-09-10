@@ -1,6 +1,7 @@
 # Pose Estimation
 ## 1) Introduction
 The general definition of `Human Pose Estimation` is as follows: Given a picture containing human body, the position of human joints can be detected, and the joints can be connected in a predetermined order to form pose. If there are multiple people, the joints should not be confused. Therefore, the pose estimation can be divided into two categories, `single` and `multiple`.
+
 ![example1](./materials/single_person_pose_estimation-stacked_hourglass.jpg)
 ![example2](./materials/multi_person_pose_estimation-PAF_openpose.jpg)
 
