@@ -13,9 +13,10 @@ In terms of implementation method, pose estimation has two branches: `Top-down` 
 ## 2) Datasets
 At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)(CVPR2014)[1] and [COCO: Common Objects in Context](http://cocodataset.org/)(ECCV2014)[2]. Although there is a detailed description of datasets on the official website, here is a brief summary of the important information for a quick start.
 
-**MPII Human Pose Dataset**
-
 ![example4](./materials/MPII_keypoints.jpg)
+![example5](./materials/COCO_keypoints.jpg)
+
+**MPII Human Pose Dataset**
 
 The dataset includes around *25K images* (precisely 24984) containing over *40K people* with annotated body joints. Overall the dataset covers *410 human activities* and each image is provided with an activity label. Each image was extracted from a YouTube video which is not very clear. And according to standard practice, authors withhold the test annotations to prevent overfitting and tuning on the test set. For external testing, an automatic evaluation server and performance analysis tools are provided.
 ```
@@ -25,7 +26,7 @@ limb_connection_list = [[0, 1], [1, 2], [2, 6], [3, 6], [3, 4], [4, 5], [6, 7], 
 
 **COCO: Common Objects in Context**
 
-![example5](./materials/COCO_keypoints.jpg)
+
 
 
 ## 3) SOTA Algorithms
