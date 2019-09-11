@@ -18,8 +18,8 @@ At present, the mainstream schemes for pose estimation are all based on data-dri
 ![example4](./materials/MPII_keypoints.jpg)
 
 The dataset includes around *25K images* (precisely 24984) containing over *40K people* with annotated body joints. Overall the dataset covers *410 human activities* and each image is provided with an activity label. Each image was extracted from a YouTube video which is not very clear. And according to standard practice, authors withhold the test annotations to prevent overfitting and tuning on the test set. For external testing, an automatic evaluation server and performance analysis tools are provided.
-'''joints_name_dict = {0: 'r ankle', 1: 'r knee', 2: 'r hip', 3: 'l hip', 4: 'l knee', 5: 'l ankle', 6: 'pelvis', 7: 'thorax', 8: 'upper neck', 9: 'head top', 10: 'r wrist', 11: 'r elbow', 12: 'r shoulder', 13: 'l shoulder', 14: 'l elbow', 15: 'l wrist'} # 16 points'''
-'''limb_connection_list = [[0, 1], [1, 2], [2, 6], [3, 6], [3, 4], [4, 5], [6, 7], [7, 8], [8, 9], [8, 12], [8, 13], [10, 11], [11, 12], [13, 14], [14, 15]] # 15 pairs'''
+```joints_name_dict = {0: 'r ankle', 1: 'r knee', 2: 'r hip', 3: 'l hip', 4: 'l knee', 5: 'l ankle', 6: 'pelvis', 7: 'thorax', 8: 'upper neck', 9: 'head top', 10: 'r wrist', 11: 'r elbow', 12: 'r shoulder', 13: 'l shoulder', 14: 'l elbow', 15: 'l wrist'} # 16 points```
+```limb_connection_list = [[0, 1], [1, 2], [2, 6], [3, 6], [3, 4], [4, 5], [6, 7], [7, 8], [8, 9], [8, 12], [8, 13], [10, 11], [11, 12], [13, 14], [14, 15]] # 15 pairs```
 
 **COCO: Common Objects in Context**
 
