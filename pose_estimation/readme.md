@@ -21,10 +21,10 @@ At present, the mainstream schemes for pose estimation are all based on data-dri
 The dataset includes around *25K images* (precisely 24984) containing over *40K people* with annotated body joints. Overall the dataset covers *410 human activities* and each image is provided with an activity label. Each image was extracted from a YouTube video which is not very clear. And according to standard practice, authors withhold the test annotations to prevent overfitting and tuning on the test set. For external testing, an automatic evaluation server and performance analysis tools are provided.
 ```
 # 16 joint points
-joints_name_dict = {0: 'r ankle', 1: 'r knee', 2: 'r hip', 3: 'l hip', 4: 'l knee', 
-    5: 'l ankle', 6: 'pelvis', 7: 'thorax', 8: 'upper neck', 
-    9: 'head top', 10: 'r wrist', 11: 'r elbow', 12: 'r shoulder', 
-    13: 'l shoulder', 14: 'l elbow', 15: 'l wrist'}
+joints_name_dict = {0: 'r ankle', 1: 'r knee', 2: 'r hip', 3: 'l hip', 
+    4: 'l knee', 5: 'l ankle', 6: 'pelvis', 7: 'thorax',
+    8: 'upper neck', 9: 'head top', 10: 'r wrist', 11: 'r elbow', 
+    12: 'r shoulder', 13: 'l shoulder', 14: 'l elbow', 15: 'l wrist'}
 # 15 limb pairs
 limb_connection_list = [[0, 1], [1, 2], [2, 6], [3, 6], [3, 4], [4, 5], [6, 7], [7, 8], [8, 9], 
     [8, 12], [8, 13], [10, 11], [11, 12], [13, 14], [14, 15]]
@@ -32,8 +32,18 @@ limb_connection_list = [[0, 1], [1, 2], [2, 6], [3, 6], [3, 4], [4, 5], [6, 7], 
 
 **COCO: Common Objects in Context**
 
+The dataset contains *91 common object categories* with 82 of them having more than 5,000 labeled instances. With a total of *2.5 million labeled instances* in *328K images*, the creation of the dataset drew upon extensive crowd worker involvement via novel user interfaces for *category detection*, *instance spotting* and *instance segmentation*. As for human keypoints annotation, it has been updated in later releases (after 2014).
 
-
+```
+# 18 joint points
+joints_name_dict = {0: 'nose', 1: 'neck', 2: 'Rshoulder', 3: 'Relbow', 4: 'Rwrist', 5: 'Lshoulder',
+    6: 'Lelbow', 7: 'Lwrist', 8: 'Rhip', 9: 'Rknee', 10: 'Rankle', 11: 'Lhip',
+    12: 'Lknee', 13: 'Lankle', 14: 'Leye', 15: 'Reye', 16:'Lear', 17:'Rear'}
+# 17 limb pairs, 19 limb pairs with two adding connections [2, 16] and [5, 17]
+limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
+    [1, 8], [8, 9], [9, 10], [1, 11], [11, 12], [12, 13], [1, 0],
+    [0, 14], [14, 16], [0, 15], [15, 17]]
+```
 
 ## 3) SOTA Algorithms
 
