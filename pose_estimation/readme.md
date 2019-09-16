@@ -53,19 +53,15 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 **Bottom-up**
 
-①PifPaf(CVPR2019)[6]
+①[PifPaf(CVPR2019)](./PifPaf/)[6]
 
-②PersonLab(ECCV2018)[7]
+②[PersonLab(ECCV2018)](./PersonLab/)[7]
 
-③PAF(CVPR2017)[8]
+③[PAF(CVPR2017)](./PAF/)[8]
 
-④Associative Embedding(NIPS2017)[9]
+④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/)[9]
 
-⑤MultiPoseNet(ECCV2018)[10]
-
-
-
-
+⑤[MultiPoseNet(ECCV2018)](./MultiPoseNet/)[10]
 
 ## 4) References
 [1] M. Andriluka, L. Pishchulin, P. Gehler, and B. Schiele. 2d human pose estimation: New benchmark and state of the art analysis. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
