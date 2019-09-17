@@ -60,7 +60,11 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 **Multi-Person Pose Estimation: Top-down**
 
+①[G-RMI(CVPR2017)](./G-RMI/)[15]
 
+②[Mask-RCNN(ICCV2017)(./Mask-RCNN/)][16]
+
+③[RMPE(ICCV2017)](./RMPE/)[17]
 
 **Multi-Person Pose Estimation: Bottom-up**
 
@@ -68,7 +72,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ②[PersonLab(ECCV2018)](./PersonLab/)[7]
 
-③[PAF(CVPR2017)](./PAF/)[8]
+③[PAF(CMU-Pose)(CVPR2017)](./PAF/)[8]
 
 ④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/)[9]
 
@@ -106,3 +110,9 @@ CVPR, 2010.
 [13] Newell, A., Yang, K., Deng, J.: Stacked hourglass networks for human pose estimation. In: ECCV. (2016)
 
 [14] Insafutdinov, E., Andriluka, M., Pishchulin, L., Tang, S., Andres, B., Schiele, B.: ArtTrack: Articulated multi-person tracking in the wild. In: CVPR. (2017)
+
+[15] Papandreou, G., Zhu, T., Kanazawa, N., Toshev, A., Tompson, J., Bregler, C., Murphy, K.: Towards accurate multi-person pose estimation in the wild. In: CVPR. (2017)
+
+[16] Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick; Mask R-CNN. The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 2961-2969
+
+[17] Fang, H.S., Xie, S., Tai, Y.W., Lu, C.: RMPE: Regional multi-person pose estimation. In: ICCV. (2017)
