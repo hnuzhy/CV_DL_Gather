@@ -37,7 +37,8 @@ The dataset contains *91 common object categories* with 82 of them having more t
 The main contribution of COCO datasets is the use of *Non-iconic Image Collection* which makes it different from traditional vision datasets including [ImageNet](http://www.image-net.org/)(CVPR2009)[3], [PASCAL VOC](http://host.robots.ox.ac.uk:8080/pascal/VOC/)(IJCV2010)[4] and [SUN](http://groups.csail.mit.edu/vision/SUN/)(CVPR2010)[5]. Besides, the standardized labeling pipeline and a large amount of time investment make COCO the most commonly used dataset by scientific researchers at present.
 
 ```
-# 18 joint points
+# 18 joint points (Note: original dataset actually has 17 points,
+# point 1 'neck' is a secondary addition of middle point between 'Lshoulder' and 'Rshoulder')
 joints_name_dict = {0: 'nose', 1: 'neck', 2: 'Rshoulder', 3: 'Relbow', 4: 'Rwrist', 5: 'Lshoulder',
     6: 'Lelbow', 7: 'Lwrist', 8: 'Rhip', 9: 'Rknee', 10: 'Rankle', 11: 'Lhip',
     12: 'Lknee', 13: 'Lankle', 14: 'Leye', 15: 'Reye', 16:'Lear', 17:'Rear'}
