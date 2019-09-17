@@ -66,6 +66,8 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ③[RMPE(ICCV2017)](./RMPE/)[17]
 
+④[HRNet(CVPR2019)](./HRNet/)[18]
+
 **Multi-Person Pose Estimation: Bottom-up**
 
 ①[PifPaf(CVPR2019)](./PifPaf/)[6]
@@ -116,3 +118,5 @@ CVPR, 2010.
 [16] Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick; Mask R-CNN. The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 2961-2969
 
 [17] Fang, H.S., Xie, S., Tai, Y.W., Lu, C.: RMPE: Regional multi-person pose estimation. In: ICCV. (2017)
+
+[18] Sun K , Xiao B , Liu D , et al. Deep High-Resolution Representation Learning for Human Pose Estimation. In: CVPR. (2019)
