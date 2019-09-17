@@ -62,7 +62,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ①[G-RMI(CVPR2017)](./G-RMI/)[15]
 
-②[Mask-RCNN(ICCV2017)(./Mask-RCNN/)][16]
+②[Mask-RCNN(ICCV2017)](./Mask-RCNN/)[16]
 
 ③[RMPE(ICCV2017)](./RMPE/)[17]
 
