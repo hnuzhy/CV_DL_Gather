@@ -21,12 +21,12 @@ The PersonLab system consists of a CNN model that predicts: (1) keypoint heatmap
 
 PersonLab does both pose estimation and instance segmentation task in one system. We only focus on the effect of the former branch pose estimation. Here are some topics what I think are important after reading the paper.
 
-1. ##Hough Voting##: Aggregate the detected heatmap and short-range offsets into 2D Hough score maps.
-2. *Bilinear Interpolation Kernel*: Compute Hough score using short-range offsets array.
-3. *Recurrent Offset Refinement*: Refine the mid-range pairwise offsets using the more accurate short-range offsets. *pairwise displacements = mid-range pairwise offsets + short-range offsets.*
-4. *Fast Greedy Decoding*: Group keypoints into detected person instances.
-5. *Non-Maximum Suppression*: Use a NMS radius of *r = 10* pixels to reject redundant candidate points.
-6. *Object Keypoint Similarity*: Evaluation metric OKS is used in the COCO keypoints task and penalizes localization errors for different keypoint types with different accuracy thresholds.
+1. **Hough Voting**: Aggregate the detected heatmap and short-range offsets into 2D Hough score maps.
+2. **Bilinear Interpolation Kernel**: Compute Hough score using short-range offsets array.
+3. **Recurrent Offset Refinement**: Refine the mid-range pairwise offsets using the more accurate short-range offsets. *pairwise displacements = mid-range pairwise offsets + short-range offsets.*
+4. **Fast Greedy Decoding**: Group keypoints into detected person instances.
+5. **Non-Maximum Suppression**: Use a NMS radius of *r = 10* pixels to reject redundant candidate points.
+6. **Object Keypoint Similarity**: Evaluation metric OKS is used in the COCO keypoints task and penalizes localization errors for different keypoint types with different accuracy thresholds.
 
 Focus on these points to facilitate the subsequent separation of pose estimation part.
 
