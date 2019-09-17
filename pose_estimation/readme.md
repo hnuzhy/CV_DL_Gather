@@ -49,9 +49,19 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ## 3) SOTA Algorithms
 
-**Top-down**
+**Single Person Pose Estimation**
 
-**Bottom-up**
+①[CPM(CVPR2016)](./CPM/)[11]
+
+②[StackedHourglass(ECCV2016)](./StackedHourglass/)[12]
+
+③[DeepPose(CVPR2014)](./DeepPose/)[13]
+
+**Multi-Person Pose Estimation: Top-down**
+
+
+
+**Multi-Person Pose Estimation: Bottom-up**
 
 ①[PifPaf(CVPR2019)](./PifPaf/)[6]
 
@@ -62,6 +72,8 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 ④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/)[9]
 
 ⑤[MultiPoseNet(ECCV2018)](./MultiPoseNet/)[10]
+
+⑥[ArtTrack(CVPR2017)](./ArtTrack/)[14]
 
 ## 4) References
 [1] M. Andriluka, L. Pishchulin, P. Gehler, and B. Schiele. 2d human pose estimation: New benchmark and state of the art analysis. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
@@ -86,3 +98,10 @@ CVPR, 2010.
 
 [10] M. Kocabas, S. Karagoz, and E. Akbas. Multiposenet: Fast multi-person pose estimation using pose residual network. European Conference on Computer Vision (ECCV), 2018.
 
+[11] Wei, S.E., Ramakrishna, V., Kanade, T., Sheikh, Y.: Convolutional pose machines. In: CVPR. (2016)
+
+[12] Toshev, A., Szegedy, C.: Deeppose: Human pose estimation via deep neural networks. In: CVPR. (2014)
+
+[13] Newell, A., Yang, K., Deng, J.: Stacked hourglass networks for human pose estimation. In: ECCV. (2016)
+
+[14] Insafutdinov, E., Andriluka, M., Pishchulin, L., Tang, S., Andres, B., Schiele, B.: ArtTrack: Articulated multi-person tracking in the wild. In: CVPR. (2017)
