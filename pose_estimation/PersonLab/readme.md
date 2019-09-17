@@ -11,8 +11,11 @@ This Bottom-up approach is an ECCV2018 paper named `Personlab: Person pose estim
 5. Also predict offset vectors to each of the K keypoints of the corresponding person instance for every person pixel;
 6. Use an efficient association algorithm to do instance segmentation decoding.
 
-Note: For working better in clutter, greedy decoding starts from the most confident detection keypoint instead of a definite landmark liking nose.
+Note: For working better in clutter, greedy decoding starts from the most confident detection keypoint instead of a definite landmark liking nose. Below is an overview of PersonLab method.
 
+![example1](./materials/network_architecture.jpg)
+
+The PersonLab system consists of a CNN model that predicts: (1) keypoint heatmaps, (2) short-range offsets, (3) mid-range pairwise offsets, (4) person segmentation maps, and (5) long-range offsets. The first three predictions are used by the _Pose Estimation Module_ in order to detect human poses while the latter two, along with the human pose detections, are used by the _Instance Segmentation Module_ in order to predict person instance segmentation masks.
 
 
 ## 2) Experiment
