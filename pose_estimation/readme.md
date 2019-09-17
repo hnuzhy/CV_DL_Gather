@@ -49,7 +49,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ## 3) SOTA Algorithms
 
-**Top-down**
+**Single Person Pose Estimation**
 
 ①[CPM(CVPR2016)](./CPM/)[11]
 
@@ -57,7 +57,11 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ③[DeepPose(CVPR2014)](./DeepPose/)[13]
 
-**Bottom-up**
+**Multi-Person Pose Estimation: Top-down**
+
+
+
+**Multi-Person Pose Estimation: Bottom-up**
 
 ①[PifPaf(CVPR2019)](./PifPaf/)[6]
 
