@@ -31,3 +31,5 @@ PersonLab does both pose estimation and instance segmentation task in one system
 Focus on these points to facilitate the subsequent separation of pose estimation part.
 
 ## 3) Implementation
+
+Unfortunately, authors did not provide the official implementation code. We have to do our best to reproduce the paper with the help of the work of good people and our own understanding.
