@@ -28,7 +28,9 @@ Codes are only tested Under Python2.7. Besides, you need to install [Pytorch](ht
 
 ## Results
 
-Below three images are detected with config: `scale_search = 0.5, 1, 1.2, 1.5` , `scale_ratio = 0.5` and `pk_mode = 'fullKP'`. The average time consumed is about 2.5 seconds. You can change `scale_ratio` back into `1.0` to detect more students. **NOTE：`plot_pose(all_keypoints, canvas, imageName, resultSavePath, save_joints_info=True)` in `eval_images.py` should be comment out when computing time.**  
+Below three images are detected with config: `scale_search = 0.5, 1, 1.2, 1.5` , `scale_ratio = 0.5` and `pk_mode = 'fullKP'`. The average time consumed is about 2.5 seconds. You can change `scale_ratio` back into `1.0` to detect more students.
+
+**NOTE：`plot_pose(all_keypoints, canvas, imageName, resultSavePath, save_joints_info=True)` in `eval_images.py` should be comment out when computing time.**  
 
 The first two 1K (1920x1080) images are from classroom.
 
