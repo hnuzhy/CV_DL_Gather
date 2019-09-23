@@ -21,11 +21,15 @@ Codes are only tested Under Python2.7. Besides, you need to install [Pytorch](ht
 
 ## Results
 
-Below three images are detected with config: `scale_search = 0.5, 1, 1.2, 1.5` , `scale_ratio = 0.5` and `pk_mode = 'fullKP'`. The average time consumed is about 2.5 seconds. NOTE：`plot_pose(all_keypoints, canvas, imageName, resultSavePath, save_joints_info=True)` in `eval_images.py` should be comment out when computing time.  
-The first two 1K (1920x1080) images are from classroom, and the last one is from lobby 4K (3840x2160) camera. It is cropped to 1800x1200 covering only key areas with students.
+Below three images are detected with config: `scale_search = 0.5, 1, 1.2, 1.5` , `scale_ratio = 0.5` and `pk_mode = 'fullKP'`. The average time consumed is about 2.5 seconds. **NOTE：`plot_pose(all_keypoints, canvas, imageName, resultSavePath, save_joints_info=True)` in `eval_images.py` should be comment out when computing time.**  
+
+The first two 1K (1920x1080) images are from classroom.
 
 ![img2](./test_imgs/classroom_test_result/01_0207_Student_pose.jpg)
 ![img3](./test_imgs/classroom_test_result/07_0100_pose.jpg)
+
+The last one is from lobby 4K (3840x2160) camera. It is cropped to 1800x1200 covering only key areas with students.
+
 ![img4](./test_imgs/classroom_test_result/022_ch40_2655_pose.jpg)
 
 By comparison, the test code runs faster and works better than the original code in our classroom scenario.
