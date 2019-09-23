@@ -74,7 +74,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ②[PersonLab(ECCV2018)](./PersonLab/)[7]
 
-③[PAF_CMU-OpenPose(CVPR2017)](./PAF/)[8]
+③[PAF_CMU-OpenPose(CVPR2017)](./PAF_CMU-OpenPose/)[8]
 
 ④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/)[9]
 
