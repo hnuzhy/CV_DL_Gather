@@ -26,6 +26,4 @@ The first two 1K (1920x1080) images are from classroom, and the last one is from
 ![img3](./test_imgs/classroom_test_result/07_0100_pose.jpg)
 ![img4](./test_imgs/classroom_test_result/022_ch40_2655_pose.jpg)
 
-## Related repository
-- CVPR'16, [Convolutional Pose Machines](https://github.com/shihenw/convolutional-pose-machines-release).
-- CVPR'17, [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
+By comparison, the test code runs faster and works better than the original code in our classroom scenario.
