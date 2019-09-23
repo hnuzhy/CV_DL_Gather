@@ -32,4 +32,5 @@ The last one is from lobby 4K (3840x2160) camera. It is cropped to 1800x1200 cov
 
 ![img4](./test_imgs/classroom_test_result/022_ch40_2655_pose.jpg)
 
-By comparison, the test code runs faster and works better than the original code in our classroom scenario.
+## Future
+By comparison, the test code runs faster and works better than the original code in our classroom scenario. But it can be found that PAF is still not good enough for students with **low resolution** or in **crowded situations**. The next step is to investigate the use of more advanced algorithms. [PersonLab(ECCV2018)](../PersonLab/) and [PifPaf(CVPR2019)](../PifPaf)
