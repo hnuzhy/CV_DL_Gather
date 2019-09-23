@@ -12,7 +12,7 @@ The deep model part of it uses VGGNet to extract image features, and then divide
 Codes are only tested Under Python2.7. Besides, you need to install [Pytorch](http://pytorch.org/) and OpenCV with pip
 
 ## Testing
-- `git clone https://github.com/hnuzhy/CV_DL_Gather/pose_estimation/PAF_CMU-OpenPose/` download test codes in your machine.
+- `git clone https://github.com/hnuzhy/CV_DL_Gather/tree/master/pose_estimation/PAF_CMU-OpenPose` download test codes in your machine.
 - `cd model` and download [pre-trained model](https://pan.baidu.com/s/1kLM_7LGJ19gKJ4a9VIMMAQ) to put it under this folder. PassWord is：**lt7h**
 - `python eval_images.py` to run test script. It will predict images under *./test_imgs/classroom_test/*. You can change `folderList` in `eval_images.py` to test your own images.
 - `cd src && vim config_file` You can edit *config_file* to change config for trade-off between detection accuracy and inference latency. `scale_search = 0.5, 1, 1.2, 1.5` is for image multi-scale detection. `scale_ratio = 0.5` will resize original image smaller to reduce time. `pk_mode = 'fullKP'` changes in ['fullKP', 'PK12'] for faster run. `'PK12'` mode predicts keypoints about upper body as below. 
