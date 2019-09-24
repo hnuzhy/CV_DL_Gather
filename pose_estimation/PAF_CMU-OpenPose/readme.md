@@ -42,4 +42,25 @@ The last one is from lobby 4K (3840x2160) camera. It is cropped to 1800x1200 cov
 ![img4](./test_imgs/classroom_test_result/022_ch40_2655_pose.jpg)
 
 ## 5) Future
-By comparison, the test code runs faster and works better than the original code in our classroom scenario. But it can be found that PAF is still not good enough for students with **low resolution** or in **crowded situations**. The next step is to investigate the use of more advanced algorithms. [PersonLab(ECCV2018)](../PersonLab/) and [PifPaf(CVPR2019)](../PifPaf/)
+By comparison, the test code runs faster and works better than the original code in our classroom scenario. But it can be found that PAF is still not good enough for students with **low resolution** or in **crowded situations**. Also, some other implementations of PAF may have better performance [other-implementations](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation#other-implementations). 
+You can refer to them if need.
+
+The next step is to investigate the use of more advanced algorithms. [PersonLab(ECCV2018)](../PersonLab/) and [PifPaf(CVPR2019)](../PifPaf/)
+
+## 6) Citation
+Please cite the paper in your publications if it helps your research:
+```
+@inproceedings{cao2017realtime,
+  author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
+  booktitle = {CVPR},
+  title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
+  year = {2017}
+  }
+  
+@inproceedings{wei2016cpm,
+  author = {Shih-En Wei and Varun Ramakrishna and Takeo Kanade and Yaser Sheikh},
+  booktitle = {CVPR},
+  title = {Convolutional pose machines},
+  year = {2016}
+  }
+```
