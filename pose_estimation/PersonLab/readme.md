@@ -59,7 +59,7 @@ OpenCV 3.4.3
   git checkout master
   ```
 - **Datasets:** Go [COCO](http://cocodataset.org/) to download [2017 Train images [118K/18GB]](http://images.cocodataset.org/zips/train2017.zip), [2017 Val images [5K/1GB]](http://images.cocodataset.org/zips/val2017.zip) and their GroundTrue [2017 Train/Val annotations [241MB]](http://images.cocodataset.org/annotations/annotations_trainval2017.zip). We use `train2017` to train our model and report mAP in `val2017`. Results on `test2017` need to use [COCO Online Evaluation Services](https://competitions.codalab.org/competitions/12061).
-- **Pre-Processing:** Please use script `./preprocessing/generate_hdf5.py` to transform images and annotations of keypoints and masks into HDF5 format that suitable for the `tfrecord API`. `./preprocessing/readme.md` has explained the code and some tricks for encoding masks in COCO.
+- **Pre-Processing:** Please use script `./preprocessing/generate_hdf5.py` to transform images and annotations of keypoints and masks into HDF5 format that suitable for the `tfrecord API`. Doc `[./preprocessing/readme.md](./preprocessing/readme.md)` has explained the code and some tricks for encoding masks in COCO.
 - **Training:**
 
 - **Testing:**
