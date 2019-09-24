@@ -1,4 +1,5 @@
-# PersonLab(ECCV2018)
+# PersonLab(ECCV2018) 
+For codes, go straight to 3)Implementation.
 
 ## 1) Introduction
 
@@ -17,7 +18,7 @@ Note: For working better in clutter, greedy decoding starts from the most confid
 
 The PersonLab system consists of a CNN model that predicts: (1) keypoint heatmaps, (2) short-range offsets, (3) mid-range pairwise offsets, (4) person segmentation maps, and (5) long-range offsets. The first three predictions are used by the _Pose Estimation Module_ in order to detect human poses while the latter two, along with the human pose detections, are used by the _Instance Segmentation Module_ in order to predict person instance segmentation masks.
 
-## 2) Impression
+## 2) Impression & Understanding
 
 PersonLab does both pose estimation and instance segmentation task in one system. We only focus on the effect of the former branch pose estimation. Here are some topics what I think are important after reading the paper.
 
@@ -28,8 +29,8 @@ PersonLab does both pose estimation and instance segmentation task in one system
 5. **Non-Maximum Suppression**: Use a NMS radius of *r = 10* pixels to reject redundant candidate points.
 6. **Object Keypoint Similarity**: Evaluation metric OKS is used in the COCO keypoints task and penalizes localization errors for different keypoint types with different accuracy thresholds.
 
-Focus on these points to facilitate the subsequent separation of pose estimation part.
+Focus on these points will help to facilitate the subsequent separation of pose estimation part.
 
 ## 3) Implementation
 
-Unfortunately, authors did not provide the official implementation code. We have to do our best to reproduce the paper with the help of the work of good people and our own understanding.
+Unfortunately, authors did not provide the official implementation code. We have to do our best to reproduce the paper with the help of the work of good people and our own understanding. This code repo is mainly based on a third-party implementation [Keras-Tensorflow of PersonLab](https://github.com/octiapp/KerasPersonLab). It provides no pre-trained model and mAP on COCO2017 test-dev. And he also can't guarantee the correctness and effectiveness of his code, neither can we.
