@@ -1,5 +1,5 @@
 # PersonLab(ECCV2018) 
-For codes, go straight to [3) Implementation](#3-implementation).
+For codes, go straight to [**3) Implementation**](#3-implementation).
 
 ## 1) Introduction
 
