@@ -55,9 +55,12 @@ OpenCV 3.4.3
 
 ### 3.4) Other Implementations
 
-[[Keras] octiapp/KerasPersonLab](https://github.com/octiapp/KerasPersonLab)
+[Keras Version]
+[octiapp/KerasPersonLab](https://github.com/octiapp/KerasPersonLab)
 
-[[TensorFlow] sydsim/personlab-tf](https://github.com/sydsim/personlab-tf)
+[TensorFlow Version]
+[scnuhealthy/Tensorflow_PersonLab](https://github.com/scnuhealthy/Tensorflow_PersonLab)
+[sydsim/personlab-tf](https://github.com/sydsim/personlab-tf)
 
 ### 3.5) Citation
 
