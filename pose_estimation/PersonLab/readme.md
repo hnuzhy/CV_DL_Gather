@@ -34,3 +34,23 @@ Focus on these points will help to facilitate the subsequent separation of pose 
 ## 3) Implementation
 
 Unfortunately, authors did not provide the official implementation code. We have to do our best to reproduce the paper with the help of the work of good people and our own understanding. This code repo is mainly based on a third-party implementation [Keras-Tensorflow of PersonLab](https://github.com/octiapp/KerasPersonLab). It provides no pre-trained model and mAP on COCO2017 test-dev. And he also can't guarantee the correctness and effectiveness of his code, neither can we.
+
+### 3.1) Environment
+
+### 3.2) Training and Testing
+
+### 3.3) Results
+
+### 3.4) Other Implementations
+
+### 3.5) Citation
+
+```
+@article{Papandreou2018PersonLab,
+  title={PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model},
+  author={Papandreou, George and Zhu, Tyler and Chen, Liang Chieh and Gidaris, Spyros and Tompson, Jonathan and Murphy, Kevin},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2018},
+}
+```
+
