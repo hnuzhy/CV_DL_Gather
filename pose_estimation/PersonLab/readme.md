@@ -51,13 +51,13 @@ OpenCV 3.4.3
 
 ### 3.2) Training and Testing
 - **Codes:** Download codes in your machine. You can ignore other unrelated parts and just pull `CV_DL_Gather/pose_estimation/PersonLab` as follows. **Do not use Windows PowerShell**, it doesn't support `parse-checkout`. Please use git bash or Linux.
-```
-git clone -n https://github.com/hnuzhy/CV_DL_Gather.git
-cd CV_DL_Gather
-git config core.sparsecheckout true
-echo pose_estimation/PersonLab >> .git/info/sparse-checkout
-git checkout master
-```
+  ```
+  git clone -n https://github.com/hnuzhy/CV_DL_Gather.git
+  cd CV_DL_Gather
+  git config core.sparsecheckout true
+  echo pose_estimation/PersonLab >> .git/info/sparse-checkout
+  git checkout master
+  ```
 - **Datasets:** Go [COCO](http://cocodataset.org/) to download [2017 Train images [118K/18GB]](http://images.cocodataset.org/zips/train2017.zip), [2017 Val images [5K/1GB]](http://images.cocodataset.org/zips/val2017.zip) and their GroundTrue [2017 Train/Val annotations [241MB]](http://images.cocodataset.org/annotations/annotations_trainval2017.zip).
 -
 
@@ -67,11 +67,11 @@ git checkout master
 ### 3.4) Other Implementations
 
 [Keras Version]
-[octiapp/KerasPersonLab](https://github.com/octiapp/KerasPersonLab)
+[[octiapp/KerasPersonLab]](https://github.com/octiapp/KerasPersonLab)
 
 [TensorFlow Version]
-[scnuhealthy/Tensorflow_PersonLab](https://github.com/scnuhealthy/Tensorflow_PersonLab)
-[sydsim/personlab-tf](https://github.com/sydsim/personlab-tf)
+[[scnuhealthy/Tensorflow_PersonLab]](https://github.com/scnuhealthy/Tensorflow_PersonLab)
+[[sydsim/personlab-tf]](https://github.com/sydsim/personlab-tf)
 
 ### 3.5) Citation
 
