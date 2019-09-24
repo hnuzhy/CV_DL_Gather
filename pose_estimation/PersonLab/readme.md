@@ -35,7 +35,19 @@ Focus on these points will help to facilitate the subsequent separation of pose 
 
 Unfortunately, authors did not provide the official implementation code. We have to do our best to reproduce the paper with the help of the work of good people and our own understanding. This code repo is mainly based on a third-party implementation [Keras-Tensorflow of PersonLab](https://github.com/octiapp/KerasPersonLab). It provides no pre-trained model and mAP on COCO2017 test-dev. And he also can't guarantee the correctness and effectiveness of his code, neither can we.
 
+NOTE: Original PersonLab mathod does both *Person Pose Estimation* and *Person Instance Segmentation*. And paper has no mention of the benefits of doing both tasks at the same time. So we only care about *Pose Estimation* and separate it from network architecture.
+
 ### 3.1) Environment
+
+This code was only tested in the following environment:
+```
+Ubuntu 18.04
+CUDA 10.1
+Python 3.6
+Tensorflow-gpu 1.12
+Keras 2.2.4
+OpenCV 3.4.3
+```
 
 ### 3.2) Training and Testing
 
