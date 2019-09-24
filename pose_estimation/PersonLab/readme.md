@@ -1,5 +1,5 @@
 # PersonLab(ECCV2018) 
-For codes, go straight to [3) Implementation](#https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/PersonLab/readme.md#3-implementation).
+For codes, go straight to [3) Implementation](#3-implementation).
 
 ## 1) Introduction
 
