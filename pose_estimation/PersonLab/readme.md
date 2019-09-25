@@ -44,9 +44,9 @@ This code was only tested in the following environment:
 Ubuntu 18.04
 CUDA 10.1
 Python 3.6
-Tensorflow-gpu 1.12
-Keras 2.2.4
-OpenCV 3.4.3
+Tensorflow-gpu 1.12 (sudo pip3 install tensorflow-gpu)
+Keras 2.2.4 (sudo pip3 install keras-gpu)
+OpenCV 3.4.3 (sudo pip3 install python-opencv)
 ```
 
 ### 3.2) Training and Testing
