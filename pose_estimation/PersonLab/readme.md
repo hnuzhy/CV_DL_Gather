@@ -41,12 +41,21 @@ Unfortunately, authors did not provide the official implementation code. We have
 
 This code was only tested in the following environment:
 ```
+Lab Server: 225 (2 GTX 1080Ti)
 Ubuntu 18.04
 CUDA 10.1
 Python 3.6
 Tensorflow-gpu 1.12
 Keras 2.2.4
 OpenCV 3.4.3
+
+Lab Server: 119 (3 Tesla K40c)
+Ubuntu 18.04
+CUDA 9.0
+Python 2.7
+Tensorflow-gpu 1.8.0
+Keras 2.1.6
+OpenCV 3.4.1
 ```
 
 ### 3.2) Training and Testing
