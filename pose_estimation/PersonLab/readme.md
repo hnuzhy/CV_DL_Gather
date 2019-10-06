@@ -85,11 +85,9 @@ We only chose to use full model to detect a demo picture. These results indicate
 
 **Pose Estimation Part:**
 
-Output_Map: Rshoulder
-![result1](./materials/Output_Map_Rshoulder.jpg)
+Output_Map: Rshoulder ![result1](./materials/Output_Map_Rshoulder.jpg)
 
-Heatmaps: Rshoulder
-![result2](./materials/Heatmaps_Rshoulder.jpg)
+Heatmaps: Rshoulder ![result2](./materials/Heatmaps_Rshoulder.jpg)
 
 visualize_short_offsets: Rshoulder
 ![result3](./materials/visualize_short_offsets.jpg)
