@@ -67,14 +67,22 @@ OpenCV 3.4.1
   echo pose_estimation/PersonLab >> .git/info/sparse-checkout
   git checkout master
   ```
+  
 - **Datasets:** Go [COCO](http://cocodataset.org/) to download [2017 Train images [118K/18GB]](http://images.cocodataset.org/zips/train2017.zip), [2017 Val images [5K/1GB]](http://images.cocodataset.org/zips/val2017.zip) and their GroundTrue [2017 Train/Val annotations [241MB]](http://images.cocodataset.org/annotations/annotations_trainval2017.zip). We use `train2017` to train our model and report mAP in `val2017`. Results on `test2017` need to use [COCO Online Evaluation Services](https://competitions.codalab.org/competitions/12061).
-- **Pre-Processing:** Please use script [`./preprocessing/generate_hdf5.py`](./preprocessing/generate_hdf5.py) to transform images and annotations of keypoints and masks into HDF5 format that suitable for the `tfrecord API`. Doc [`./preprocessing/readme.md`](./preprocessing/readme.md) has explained the code and some tricks for encoding masks in COCO.
-- **Training:**
 
-- **Testing:**
+- **Pre-Processing:** Please use script [`./preprocessing/generate_hdf5.py`](./preprocessing/generate_hdf5.py) to transform images and annotations of keypoints and masks into HDF5 format that suitable for the `tfrecord API`. Doc [`./preprocessing/readme.md`](./preprocessing/readme.md) has explained the code and some tricks for encoding masks in COCO. And using the script to preprocess COCO_train2017 will get a 66G ensemble file.
 
+- **Training:** You can change some configuration parameters that suit your training environment in [`./src/config.py`](./src/config.py). Among *TRAINING CONFIGS*, some key variables need to be modified flexibly, including *IMAGE_SHAPE, H5_DATASET, NUM_GPUS, BATCH_SIZE_PER_GPU, SAVE_MODEL_PATH, NUM_EPOCHS and INTER_SUPERVISION*. Note that the two states of *MODE* represent training original PersonLab or training only pose estimation. After that, run *train_personlab.py* script.
+
+- **Testing:** By using the trained model, we can test its effectiveness and time-consuming. Testing script *test_personlab.py* can plot 
+short-range offsets map, keypoints heatmap, short offsets, middle offsets and person poses. If MODE is 1 and it is full model, binary masks, long offsets and instance segmentation masks will also be showed. We only trained a semi-finished model of the whole algorithm. [full model](https://pan.baidu.com/s/1Poc-SoxpbWEI2nIRCkKXSg) password: **rvyj**. Although the model for pose estimation only converges, the detection effect is not good. [only pose](https://pan.baidu.com/s/1Sjir22yh5Wmt1k-ROal5qw) password: **xmrk** .
+
+  In addition, the time of some key steps is also measured, although the use of GPU can speed up the detection part of the model, the time-consuming of post-processing of Group Skeletons is still unbearable. Attempts to move certain operations to the GPU will not change this situation. All these seriously affect the real-time performance of PersonLab algorithm in our application.
 
 ### 3.3) Results
+
+We only chose to use full model to detect a demo picture. These results indicate that the model is far from satisfactory. And there is still much room for improvement in the reproduced algorithm.
+
 
 
 ### 3.4) Other Implementations
