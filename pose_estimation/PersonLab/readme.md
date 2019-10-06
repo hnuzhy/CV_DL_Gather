@@ -83,7 +83,27 @@ short-range offsets map, keypoints heatmap, short offsets, middle offsets and pe
 
 We only chose to use full model to detect a demo picture. These results indicate that the model is far from satisfactory. And there is still much room for improvement in the reproduced algorithm.
 
+**Pose Estimation Part:**
+Output_Map: Rshoulder
+![result1](./materials/Output_Map_Rshoulder.jpg)
+Heatmaps: Rshoulder
+![result2](./materials/Heatmaps_Rshoulder.jpg)
+visualize_short_offsets: Rshoulder
+![result3](./materials/visualize_short_offsets.jpg)
+visualize_mid_offsets_1: Rshoulder --> Rhip
+![result4](./materials/visualize_mid_offsets_1.jpg)
+visualize_mid_offsets_2: Rhip --> Rshoulder
+![result5](./materials/visualize_mid_offsets_2.jpg)
+plot_poses
+![result6](./materials/plot_poses.jpg)
 
+**Instance Segmentation Part:**
+Binary_Mask
+![result7](./materials/Binary_Mask.jpg)
+visualize_long_offsets
+![result8](./materials/visualize_long_offsets.jpg)
+plot_instance_masks
+![result9](./materials/plot_instance_masks.jpg)
 
 ### 3.4) Other Implementations
 
