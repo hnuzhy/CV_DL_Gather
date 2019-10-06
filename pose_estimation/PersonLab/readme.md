@@ -67,9 +67,12 @@ OpenCV 3.4.1
   echo pose_estimation/PersonLab >> .git/info/sparse-checkout
   git checkout master
   ```
+  
 - **Datasets:** Go [COCO](http://cocodataset.org/) to download [2017 Train images [118K/18GB]](http://images.cocodataset.org/zips/train2017.zip), [2017 Val images [5K/1GB]](http://images.cocodataset.org/zips/val2017.zip) and their GroundTrue [2017 Train/Val annotations [241MB]](http://images.cocodataset.org/annotations/annotations_trainval2017.zip). We use `train2017` to train our model and report mAP in `val2017`. Results on `test2017` need to use [COCO Online Evaluation Services](https://competitions.codalab.org/competitions/12061).
-- **Pre-Processing:** Please use script [`./preprocessing/generate_hdf5.py`](./preprocessing/generate_hdf5.py) to transform images and annotations of keypoints and masks into HDF5 format that suitable for the `tfrecord API`. Doc [`./preprocessing/readme.md`](./preprocessing/readme.md) has explained the code and some tricks for encoding masks in COCO.
-- **Training:**
+
+- **Pre-Processing:** Please use script [`./preprocessing/generate_hdf5.py`](./preprocessing/generate_hdf5.py) to transform images and annotations of keypoints and masks into HDF5 format that suitable for the `tfrecord API`. Doc [`./preprocessing/readme.md`](./preprocessing/readme.md) has explained the code and some tricks for encoding masks in COCO. And using the script to preprocess COCO_train2017 will get a 66G ensemble file.
+
+- **Training:** You can change some configuration parameters that suit your training environment in [`./src/config.py`]. Among *TRAINING CONFIGS*, some key variables need to be modified flexibly, including *IMAGE_SHAPE, H5_DATASET, NUM_GPUS, BATCH_SIZE_PER_GPU, SAVE_MODEL_PATH, NUM_EPOCHS and INTER_SUPERVISION*. Note that the two states of *MODE* represent training original PersonLab or training only pose estimation. We only trained a semi-finished model of the whole algorithm. []() Although the model for pose estimation only converges, the detection effect is not good. []()
 
 - **Testing:**
 
