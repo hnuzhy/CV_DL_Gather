@@ -77,7 +77,7 @@ OpenCV 3.4.1
 - **Testing:** By using the trained model, we can test its effectiveness and time-consuming. Testing script *test_personlab.py* can plot 
 short-range offsets map, keypoints heatmap, short offsets, middle offsets and person poses. If MODE is 1 and it is full model, binary masks, long offsets and instance segmentation masks will also be showed. We only trained a semi-finished model of the whole algorithm. [full model](https://pan.baidu.com/s/1Poc-SoxpbWEI2nIRCkKXSg) password: **rvyj**. Although the model for pose estimation only converges, the detection effect is not good. [only pose](https://pan.baidu.com/s/1Sjir22yh5Wmt1k-ROal5qw) password: **xmrk** .
 
-In addition, the time of some key steps is also measured, although the use of GPU can speed up the detection part of the model, the time-consuming of post-processing of Group Skeletons is still unbearable. Attempts to move certain operations to the GPU will not change this situation. All these seriously affect the real-time performance of PersonLab algorithm in our application.
+  In addition, the time of some key steps is also measured, although the use of GPU can speed up the detection part of the model, the time-consuming of post-processing of Group Skeletons is still unbearable. Attempts to move certain operations to the GPU will not change this situation. All these seriously affect the real-time performance of PersonLab algorithm in our application.
 
 ### 3.3) Results
 
