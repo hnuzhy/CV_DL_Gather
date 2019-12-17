@@ -1,8 +1,8 @@
-# PifPaf(CVPR2019)
+# SPM(ICCV2019)
 
 ## 1) Introduction
 
-Paper Name: `PifPaf - Composite Fields for Human Pose Estimation`. PifPaf uses a *Part Intensity Field (PIF)* to localize body parts and a *Part Association Field (PAF)* to associate body parts with each other to form full human poses. This new bottom-up method outperforms previous methods at low resolution and in crowded, cluttered and occluded scenes. These characteristics are very suitable for our classroom application.
+Paper Name: `Single-Stage Multi-Person Pose Machines`. As introduced in the root README file, this paper gives the first single stage multi-person pose estimation method. The abbreviation SPM comes from its name, and there are main two kinds of pipeline: **Structured Pose Representation (SPR)** and **Hierarchical SPR**.
 
 
 ## 2) Experiment
