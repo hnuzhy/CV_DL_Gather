@@ -16,7 +16,7 @@ The performance of the former method is mainly dominated by detectors and easy t
 
 Recently, with the rise of *single stage anchor-free* methods (like **CornerNet, FCOS, CenterNet**, and so on) in the field of object detection, the branch of single stage also appears in pose estimation. These anchor-free methods usually choose to predict the center point of an object and some offsets/displacements from the root point. For example, to get the rectangular bounding-box of an object, it can predict the width and height as offsets.
 
-Following this idea, single stage pose estimation can define a root joint of person, and the positions of the other keypoints are displacements *w.r.t.* the root point. So we can design an end-to-end single stage network to predict the center representative point and offsets of other joints. Obviously, single stage is more intuitive and compact than the traditional two-stage methods that suffer low efficiency. Below is an example diagram from a work **ICCV2019: Single-Stage Multi-Person Pose Machines**. It might be the first algorithm to produce single-stage MPPE.
+Following this idea, single stage pose estimation can define a root joint of person, and the positions of the other keypoints are displacements *w.r.t.* the root point. So we can design an end-to-end single stage network to predict the center representative point and offsets of other joints. Obviously, single stage is more intuitive and compact than the traditional two-stage methods that suffer low efficiency. Below is an example diagram from a work **ICCV2019: Single-Stage Multi-Person Pose Machines**. It might be the first algorithm to produce single-stage MPPE. And it will bring a new hot spot which makes MPPE closer to real application.
 
 ![example4](./materials/SPM_example_diagram.jpg)
 
@@ -92,6 +92,10 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ⑥[ArtTrack(CVPR2017)](./ArtTrack/)[14]
 
+**Multi-Person Pose Estimation: Single-Stage**
+
+①[SPM(ICCV2019)](./SPM/)[19]
+
 ## 4) References
 [1] M. Andriluka, L. Pishchulin, P. Gehler, and B. Schiele. 2d human pose estimation: New benchmark and state of the art analysis. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
 
@@ -130,3 +134,5 @@ CVPR, 2010.
 [17] Fang, H.S., Xie, S., Tai, Y.W., Lu, C.: RMPE: Regional multi-person pose estimation. In: ICCV. (2017)
 
 [18] Sun K , Xiao B , Liu D , et al. Deep High-Resolution Representation Learning for Human Pose Estimation. In: CVPR. (2019)
+
+[19] Nie X, Feng J, Zhang J, et al. Single-stage multi-person pose machines[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 6951-6960.
