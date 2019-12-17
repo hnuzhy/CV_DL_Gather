@@ -96,6 +96,8 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ①[SPM(ICCV2019)](./SPM/)[19]
 
+②[DirectPose(arxiv1911)](./DirectPose/)[20]
+
 ## 4) References
 [1] M. Andriluka, L. Pishchulin, P. Gehler, and B. Schiele. 2d human pose estimation: New benchmark and state of the art analysis. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
 
@@ -136,3 +138,5 @@ CVPR, 2010.
 [18] Sun K , Xiao B , Liu D , et al. Deep High-Resolution Representation Learning for Human Pose Estimation. In: CVPR. (2019)
 
 [19] Nie X, Feng J, Zhang J, et al. Single-stage multi-person pose machines[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 6951-6960.
+
+[20] Tian Z, Chen H, Shen C. DirectPose: Direct End-to-End Multi-Person Pose Estimation[J]. arXiv preprint arXiv:1911.07451, 2019.
