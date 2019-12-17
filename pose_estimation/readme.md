@@ -6,13 +6,14 @@ The general definition of `Human Pose Estimation` is as follows: Given a picture
 ![example1](./materials/single_person_pose_estimation-stacked_hourglass.jpg)
 ![example2](./materials/multi_person_pose_estimation-PAF_openpose.jpg)
 
-In terms of implementation method, pose estimation has two branches: `Top-down` and `Bottom-up`. 
+In terms of implementation method, pose estimation has two branches: `Top-down` and `Bottom-up`. `Top-down` first uses the human detector to get bounding boxes of bodies in the image, and then estimates the pose of each person. `Bottom-up` directly predicts the position of all human joints in the image, and then use post-processing algorithm to link them into complete poses.
 
-`Top-down` first uses the human detector to get bounding boxes of bodies in the image, and then estimates the pose of each person. `Bottom-up` directly predicts the position of all human joints in the image, and then use post-processing algorithm to link them into complete poses. The performance of the former method is mainly dominated by detectors and easy to slaughter on public datasets than the latter, but its inference time of single image increases linearly with the number of people, and it does not perform well in crowded, cluttered and occluded scenes. The latter method is easy to perform poorly because of the problem of joint point connection algorithm, but its detection time is relatively stable, and there will be no big error in the case of crowding.
+The performance of the former method is mainly dominated by detectors and easy to slaughter on public datasets than the latter, but its inference time of single image increases linearly with the number of people, and it does not perform well in crowded, cluttered and occluded scenes. The latter method is easy to perform poorly because of the problem of joint point connection algorithm, but its detection time is relatively stable, and there will be no big error in the case of crowding.
 
 ![example3](./materials/method_comparing.jpg)
 
 **=== Add in 2019-12-17: Single Stage Pose Estimation ===**
+
 Recently, with the rise of *single stage anchor-free* methods (like **CornerNet, FCOS, CenterNet**, and so on) in the field of object detection, the branch of single stage also appears in pose estimation. These anchor-free methods usually choose to predict the center point of an object and some offsets/displacements from the root point. For example, to get the rectangular bounding-box of an object, it can predict the width and height as offsets.
 
 Following this idea, single stage pose estimation can define a root joint of person, and the positions of the other keypoints are displacements *w.r.t.* the root point. So we can design an end-to-end single stage network to predict the center representative point and offsets of other joints. Obviously, single stage is more intuitive and compact than the traditional two-stage methods that suffer low efficiency. Below is an example diagram from a work **ICCV2019: Single-Stage Multi-Person Pose Machines**. It might be the first algorithm to produce single-stage MPPE.
