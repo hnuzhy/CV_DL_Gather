@@ -18,7 +18,7 @@ Recently, with the rise of *single stage anchor-free* methods (like **CornerNet,
 
 Following this idea, single stage pose estimation can define a root joint of person, and the positions of the other keypoints are displacements *w.r.t.* the root point. So we can design an end-to-end single stage network to predict the center representative point and offsets of other joints. Obviously, single stage is more intuitive and compact than the traditional two-stage methods that suffer low efficiency. Below is an example diagram from a work **ICCV2019: Single-Stage Multi-Person Pose Machines**. It might be the first algorithm to produce single-stage MPPE.
 
-![example4](./materials/SPM_example diagram.jpg)
+![example4](./materials/SPM_example_diagram.jpg)
 
 These methods 
 
