@@ -23,7 +23,7 @@ Following this idea, single stage pose estimation can define a root joint of per
 ## 2) Datasets
 At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)(CVPR2014)[1] and [COCO: Common Objects in Context](http://cocodataset.org/)(ECCV2014)[2]. Although there is a detailed description of datasets on the official website, here is a brief summary of the important information for a quick start.
 
-![example4](./materials/MPII_keypoints.jpg)
+![example4](./materials/MPII_keypoints.jpg, ./materials/COCO_keypoints.jpg)
 ![example5](./materials/COCO_keypoints.jpg)
 
 **MPII Human Pose Dataset**
@@ -49,9 +49,9 @@ The main contribution of COCO datasets is the use of *Non-iconic Image Collectio
 ```
 # 18 joint points (Note: original dataset actually has 17 points,
 # point 1 'neck' is a secondary addition of middle point between 'Lshoulder' and 'Rshoulder')
-joints_name_dict = {0: 'nose', 1: 'neck', 2: 'Rshoulder', 3: 'Relbow', 4: 'Rwrist', 5: 'Lshoulder',
-    6: 'Lelbow', 7: 'Lwrist', 8: 'Rhip', 9: 'Rknee', 10: 'Rankle', 11: 'Lhip',
-    12: 'Lknee', 13: 'Lankle', 14: 'Leye', 15: 'Reye', 16:'Lear', 17:'Rear'}
+joints_name_dict = {0: 'nose', 1: 'neck', 2: 'Lshoulder', 3: 'Lelbow', 4: 'Lwrist', 5: 'Rshoulder',
+    6: 'Relbow', 7: 'Rrist', 8: 'Lhip', 9: 'Lknee', 10: 'Lankle', 11: 'Rhip',
+    12: 'Rknee', 13: 'Rankle', 14: 'Leye', 15: 'Reye', 16:'Lear', 17:'Rear'}
 # 17 limb pairs, 19 limb pairs with two adding connections [2, 16] and [5, 17]
 limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
     [1, 8], [8, 9], [9, 10], [1, 11], [11, 12], [12, 13], [1, 0],
