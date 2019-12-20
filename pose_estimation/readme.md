@@ -24,7 +24,7 @@ Following this idea, single stage pose estimation can define a root joint of per
 At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)(CVPR2014)[1] and [COCO: Common Objects in Context](http://cocodataset.org/)(ECCV2014)[2]. Although there is a detailed description of datasets on the official website, here is a brief summary of the important information for a quick start.
 
 <center class="half">
-    <img src="./materials/MPII_keypoints.jpg" width="300"/><img src="./materials/COCO_keypoints.jpg" width="400"/>
+    <img src="./materials/MPII_keypoints.jpg" width="300"/><img src="./materials/COCO_keypoints.jpg" width="300"/>
 </center>
 
 **MPII Human Pose Dataset**
