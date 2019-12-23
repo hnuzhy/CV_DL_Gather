@@ -24,7 +24,7 @@ Suppose that we have known how the Top-Down and Bottom-Up method work. We just u
 **Bottom-Up:** This method first utilizes a keypoints estimator $g'$ to localize all body joints $\mathcal {J}$ in one image with function {$g':I \rightarrow \mathcal {J,C}$}. $\mathcal {C}$ indicates additional auxiliary vectors for assigning joint candidates to person instances. Then it performs joint allocation by sloving a graph partition problem (greedy matching in CPU) using strategy $f'$ which is formulated as {$f':\mathcal {J,C} \rightarrow \mathcal {P}$}.
 
 **Compact and Efficient SPM:** It uses an auxiliary joint or root joint $(x^r_i, y^r_i)$ to stand for the $i$th person instance position. And the position of the $j$th joint of person $i$ is $(x^j_i, y^j_i) = (x^r_i, y^r_i) + (\delta x^r_i, \delta y^r_i)$. In the equation, $(\delta x^r_i, \delta y^r_i)$ is the *offset* of the $j$th joint position w.r.t the root joint. Then we can get the way how the SPM represent human poses:
-$$\mathcal {P} = { {(x^r_i, y^r_i), (\delta x^1_i, \delta y^1_i), (\delta x^2_i, \delta y^2_i)..., (\delta x^K_i, \delta y^K_i) } }^N_{i=1}$$
+$$\mathcal {P} = { \{(x^r_i, y^r_i), (\delta x^1_i, \delta y^1_i), (\delta x^2_i, \delta y^2_i)..., (\delta x^K_i, \delta y^K_i) \} }^N_{i=1}$$
 
 
 
