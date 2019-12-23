@@ -18,6 +18,7 @@ Below is the diagram example of SPM. (b) gives the conventional pose representat
 Suppose that we have known how the Top-Down and Bottom-Up method work. We just use simple equations to explain them briefly.
 
 **Conventional Pose Representation:**
+
 $\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number of persons in image $I$, $K$ is joint catagories, and $P^i_j$ is the coordinates of $j$th joint of person $i$. Note that $P^i_j$ can be either 2D $(x^i_j, y^i_j)$ or 3D $(x^i_j, y^i_j, z^i_j)$. To obtain $\mathcal {P}$, there are mainly two two-stage methods: Top-Down and Bottom-Up.
 
 **1) Top-Down:** It first uses a person detector $f$ to localize person instances $\mathcal {B}$ (usually a set of bounding boxes) with function {$f:I \rightarrow \mathcal {B}$}, and then conducts single-person pose estimation with model $g$ to get corresponding keypoints of every person respectively. {$g:\mathcal {B},I \rightarrow \mathcal {P}$}.
@@ -25,9 +26,10 @@ $\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number 
 **2) Bottom-Up:** This method first utilizes a keypoints estimator $g'$ to localize all body joints $\mathcal {J}$ in one image with function {$g':I \rightarrow \mathcal {J,C}$}. $\mathcal {C}$ indicates additional auxiliary vectors for assigning joint candidates to person instances. Then it performs joint allocation by sloving a graph partition problem (greedy matching in CPU) using strategy $f'$ which is formulated as {$f':\mathcal {J,C} \rightarrow \mathcal {P}$}.
 
 **Compact and Efficient Single Stage Method SPM:** 
+
 **SPM:** It uses an auxiliary joint or root joint $(x^r_i, y^r_i)$ to stand for the $i$th person instance position. And the position of the $j$th joint of person $i$ is $(x^j_i, y^j_i) = (x^r_i, y^r_i) + (\delta x^r_i, \delta y^r_i)$. In the equation, $(\delta x^r_i, \delta y^r_i)$ is the *offset* of the $j$th joint position w.r.t the root joint. Then we can get the way how the SPM represent human poses: $\mathcal {P} = { [(x^r_i, y^r_i), (\delta x^1_i, \delta y^1_i), (\delta x^2_i, \delta y^2_i)..., (\delta x^K_i, \delta y^K_i)]  }^N_{i=1}$. *In the original paper, the author said that he exploited the **person centroid** as the root joint of the person instance. But how to get this **centroid point** has no explanation.*
 
-**Hierarchical SPR:**
+**Hierarchical SPR:** Offsets in SPM have different lengths of one person, and the prediction of long-range displacements turn to be bad due to possible large pose deformation. This brings challenge to offset regression by mapping from image representation to the vector domain. Hierarchical SPR factorizes long offsets into accumulative shorter ones to improve the performance. Joints are splited into four hierarchies including the root joint which is the first hierarchy. Torso joints (neck, shoulders, hips) are the second ones. Head, elbows and knees are put in the third. Wrists and ankles are put in the fourth. New formula of offsets calculation is $(x^j_i, y^j_i) = (x^j'_i, y^j'_i) + (\delta x^j'_i, \delta y^j'_i)$.
 
 
 ## 3) Experiment
