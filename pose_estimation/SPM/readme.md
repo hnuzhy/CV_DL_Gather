@@ -10,6 +10,12 @@ SPM is to some extent inspired by the one-stage anchor-free object detection alg
 
 ## 2) Methods
 
+Below is the diagram example of SPM. (b) gives the conventional pose representation which should predict all joints of every person in the input image. (c) shows the results of SPR. (d) is Hierarchical SPR. This keypoints annotation format comes from MPII.
+
+![example1](./imgs/SPM_example_diagram.jpg)
+
+Suppose that we have known how the Top-Down and Bottom-Up method work. $P = {P_1_i, P_2_i, ..., P_K_i}_N_{i=1}$
+
 
 
 ## 3) Experiment
