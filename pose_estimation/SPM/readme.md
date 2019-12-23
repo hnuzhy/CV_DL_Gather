@@ -17,7 +17,7 @@ Below is the diagram example of SPM. (b) gives the conventional pose representat
 [comment]: <> (MathJax Plugin for Github in Google Chrome)
 Suppose that we have known how the Top-Down and Bottom-Up method work. We just use simple equations to explain them briefly.
 
-**Conventional Pose Representation:** $\mathcal \hat{P} = {P^1_i, P^2_i, ..., P^K_i}^N_{i=1}$, where $N$ is the number of persons in image $I$, $K$ is joint catagories, and $P^i_j$ is the coordinates of $j$th joint of person $i$. Note that $P^i_j$ can be either 2D $(x^i_j, y^i_j)$ or 3D $(x^i_j, y^i_j, z^i_j)$. To obtain $\mathcal {P}$, there are mainly two two-stage methods: Top-Down and Bottom-Up.
+**Conventional Pose Representation:** $\mathcal {\hat{P}} = {P^1_i, P^2_i, ..., P^K_i}^N_{i=1}$, where $N$ is the number of persons in image $I$, $K$ is joint catagories, and $P^i_j$ is the coordinates of $j$th joint of person $i$. Note that $P^i_j$ can be either 2D $(x^i_j, y^i_j)$ or 3D $(x^i_j, y^i_j, z^i_j)$. To obtain $\mathcal {P}$, there are mainly two two-stage methods: Top-Down and Bottom-Up.
 
 **Top-Down:** It first uses a person detector $f$ to localize person instances $\mathcal {B}$ (usually a set of bounding boxes) with function $\{f:I \rightarrow \mathcal {B}\}$, and then conducts single-person pose estimation with model $g$ to get corresponding keypoints of every person respectively. $\{g:\mathcal {B},I \rightarrow \mathcal {P}\}$.
 
