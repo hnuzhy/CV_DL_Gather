@@ -14,8 +14,8 @@ Below is the diagram example of SPM. (b) gives the conventional pose representat
 
 ![example1](./imgs/SPM_example_diagram.jpg)
 
-[comment]: <> (MathJax Plugin for Github)
-Suppose that we have known how the Top-Down and Bottom-Up method work. ${\br P} = \{P^1_i, P^2_i, ..., P^K_i\}^N_{i=1}$
+[comment]: <> (MathJax Plugin for Github in Google Chrome)
+Suppose that we have known how the Top-Down and Bottom-Up method work. We just use simple equations to explain them briefly. $\mathcal {P} = \{P^1_i, P^2_i, ..., P^K_i\}^N_{i=1}$
 
 
 
