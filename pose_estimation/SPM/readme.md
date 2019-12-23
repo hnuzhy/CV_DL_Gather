@@ -14,7 +14,7 @@ Below is the diagram example of SPM. (b) gives the conventional pose representat
 
 ![example1](./imgs/SPM_example_diagram.jpg)
 
-<!- MathJax Plugin for Github -!>
+[comment]: <> MathJax Plugin for Github
 Suppose that we have known how the Top-Down and Bottom-Up method work. 
 
 
