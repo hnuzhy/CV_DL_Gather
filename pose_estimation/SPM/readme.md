@@ -8,6 +8,7 @@ Different from the traditional two-stage multi-person pose estimation methods (o
 
 SPM is to some extent inspired by the one-stage anchor-free object detection algorithms appeared recent months, such as FOCS, CornerNet, CenterNet. In particular, SPR defines the root joints to indicate all persons and their corresponding body joints are encoded into offsets or displacements *w.r.t* the root joints. Considering that some keypoints are far away from the root joint, the author thought *hierarchical representations* which is called **Hierarchical SPR**. In this way, the CNN model can predict keypoints in the outer ring from the root joint layer by layer. Note that root joints and displacements are outputed by model simultaneously. The idea in the paper can easily be adjusted from 2D to 3D pose estimation.
 
+
 ## 2) Method Description
 
 Below is the diagram example of SPM. (b) gives the conventional pose representation which should predict all joints of every person in the input image. (c) shows the results of SPR. (d) is Hierarchical SPR. This keypoints annotation format comes from MPII.
@@ -41,4 +42,8 @@ $\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number 
 
 **Inference Procedure and Decoding:** Firstly, we use the trained CNN model to get root joint confidence map $\hat{C^r}$ and offset maps  $\hat{D}$. Then, it performs point NMS on $\hat{C^r}$ to generate root joint set $(\hat{x}^r_i, \hat{y}^r_i)^\hat{N}_i$ with $\hat{N}$ is the estimated number of persons. For the left keypoints, combining root joint positions with displacement $Z.D^j(\hat{x}^r_i, \hat{y}^r_i)$.
 
-## 3) Experiment
+
+## 3) Source Codes
+
+
+## 4) Experiment Results
