@@ -119,4 +119,4 @@ We have not evaluated our model in COCO eval dataset to get mAP for its poor per
 ## 5) Future Work
 
 1) We will continue to improve and test the duplicated codes when multiple GPU cards resources are available.
-2) This SPM is a pioneering single-stage pose estimation work with mAP on COCO 0.669 which has a lot of space for improvement comparing with SOTA methods. We would like to follow this work and make progress. 
+2) This SPM is a pioneering single-stage pose estimation work with mAP on COCO **0.669** which has a lot of space for improvement comparing with SOTA methods. We would like to follow this work and make progress. 
