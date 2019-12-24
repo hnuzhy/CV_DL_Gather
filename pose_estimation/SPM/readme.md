@@ -82,15 +82,31 @@ Because the author does not release his source codes of SPM, we have to rely on 
 - Environment: We use **Python 3.7.4, Tensorflow-gpu 2.0.0, CUDA 10.1** and [**imgaug 0.3.0**](https://github.com/aleju/imgaug) in our project. The GPU is one Tesla P40 with memory ~23G. So the training the very slow and the performance of the middle model is not very good.
 - Dataset: [COCO](http://cocodataset.org/) 2017 about keypoints task. 
 - Download codes in your machine. You have no need to clone other unrelated projects, and just pull `CV_DL_Gather/pose_estimation/SPM` as follows. **Do not use Windows PowerShell**, it's not supported. Please use `git bash` or Linux.
-```
-git clone -n https://github.com/hnuzhy/CV_DL_Gather.git
-cd CV_DL_Gather
-git config core.sparsecheckout true
-echo pose_estimation/SPM >> .git/info/sparse-checkout
-git checkout master
-```
+  ```
+  git clone -n https://github.com/hnuzhy/CV_DL_Gather.git
+  cd CV_DL_Gather
+  git config core.sparsecheckout true
+  echo pose_estimation/SPM >> .git/info/sparse-checkout
+  git checkout master
+  ```
 - Training: Modify the parameters in `spm_config.py` file according to your requirements.
 - Testing: Use file `spm_model_test.py`. Due to the poor effect of the current model, we will consider releasing the trained model later.
 
 
 ## 4) Experiment Results
+
+We have not evaluated our model in COCO eval dataset to get mAP for its poor performance. And here we just testd three scenarios: wild(COCO), lobby, classroom.
+- wild(COCO)
+![demo1.1](./imgs/000000013291_center_map.jpg)
+![demo1.2](./imgs/000000013291_img_heatmap.jpg)
+![demo1.3](./imgs/000000013291_result.jpg)
+
+- lobby
+![demo2.1](./imgs/021_ch38_1354_center_map.jpg)
+![demo2.2](./imgs/021_ch38_1354_img_heatmap.jpg)
+![demo2.3](./imgs/021_ch38_1354_result.jpg)
+
+- classroom
+![demo3.1](./imgs/0100_center_map.jpg)
+![demo3.2](./imgs/0100_img_heatmap.jpg)
+![demo3.3](./imgs/0100_result.jpg)
