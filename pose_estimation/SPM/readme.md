@@ -95,7 +95,7 @@ Because the author does not release his source codes of SPM, we have to rely on 
 
 ## 4) Experiment Results
 
-We have not evaluated our model in COCO eval dataset to get mAP for its poor performance. And here we just testd three scenarios: wild(COCO), lobby, classroom. Up to now, from the results, we can say that the prediction of root joint is better than the prediction displacements of keypoints which is not refined enough.
+We have not evaluated our model in COCO eval dataset to get mAP for its poor performance. And here we just testd three scenarios: wild(COCO), lobby, classroom. Up to now, from the results, we can say that the prediction of root joint is better than the prediction displacements of keypoints which is not refined enough. As for the inference time, we will test it on GPU which is still under training wrok. In terms of training time, it takes about 1.3s to run one step with `batch = 2`
 
 - wild(COCO)
 
@@ -114,3 +114,9 @@ We have not evaluated our model in COCO eval dataset to get mAP for its poor per
 ![demo3.1](./imgs/0100_center_map.jpg)
 ![demo3.2](./imgs/0100_img_heatmap.jpg)
 ![demo3.3](./imgs/0100_result.jpg)
+
+
+## 5) Future Work
+
+1) We will continue to improve and test the duplicated codes when multiple GPU cards resources are available.
+2) This SPM is a pioneering single-stage pose estimation work with mAP on COCO 0.669 which has a lot of space for improvement comparing with SOTA methods. We would like to follow this work and make progress. 
