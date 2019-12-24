@@ -95,18 +95,22 @@ Because the author does not release his source codes of SPM, we have to rely on 
 
 ## 4) Experiment Results
 
-We have not evaluated our model in COCO eval dataset to get mAP for its poor performance. And here we just testd three scenarios: wild(COCO), lobby, classroom.
+We have not evaluated our model in COCO eval dataset to get mAP for its poor performance. And here we just testd three scenarios: wild(COCO), lobby, classroom. Up to now, from the results, we can say that the prediction of root joint is better than the prediction displacements of keypoints which is not refined enough.
+
 - wild(COCO)
+
 ![demo1.1](./imgs/000000013291_center_map.jpg)
 ![demo1.2](./imgs/000000013291_img_heatmap.jpg)
 ![demo1.3](./imgs/000000013291_result.jpg)
 
 - lobby
+
 ![demo2.1](./imgs/021_ch38_1354_center_map.jpg)
 ![demo2.2](./imgs/021_ch38_1354_img_heatmap.jpg)
 ![demo2.3](./imgs/021_ch38_1354_result.jpg)
 
 - classroom
+
 ![demo3.1](./imgs/0100_center_map.jpg)
 ![demo3.2](./imgs/0100_img_heatmap.jpg)
 ![demo3.3](./imgs/0100_result.jpg)
