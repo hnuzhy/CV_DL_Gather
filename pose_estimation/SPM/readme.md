@@ -20,7 +20,7 @@ Suppose that we have known how the Top-Down and Bottom-Up method work. We just u
 
 **Conventional Pose Representation:**
 
-$\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number of persons in image $I$, $K$ is the numner of joint catagories, and $P^j_i$ is the coordinates of $j$th joint of person $i$. Note that $P^j_i$ can be either 2D case $(x^i_j, y^i_j)$ or 3D case $(x^i_j, y^i_j, z^i_j)$. To obtain $\mathcal {P}$, there are mainly two two-stage methods: Top-Down and Bottom-Up.
+$\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number of persons in image $I$, $K$ is the numner of joint catagories, and $P^j_i$ is the coordinates of $j$th joint of person $i$. Note that $P^j_i$ can be either 2D case $(x^j_i, y^j_i)$ or 3D case $(x^j_i, y^j_i, z^j_i)$. To obtain $\mathcal {P}$, there are mainly two two-stage methods: Top-Down and Bottom-Up.
 
 - **Top-Down:** It first uses a person detector $f$ to localize person instances $\mathcal {B}$ (usually a set of bounding boxes) with function {$f:I \rightarrow \mathcal {B}$}, and then conducts single-person pose estimation with model $g$ to get corresponding keypoints of every person respectively. {$g:\mathcal {B},I \rightarrow \mathcal {P}$}.
 
