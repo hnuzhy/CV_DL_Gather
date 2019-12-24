@@ -34,7 +34,7 @@ $\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number 
 
 ![example2](./imgs/SPM_heatmap_offsets.jpg)
 
-- **Regression target for root joint position:** We use $C^r$ to donate the confidence map of the root joint and $C^r_i$ the root joint map of the $i$th person in one given image $I$. For a position $(x,y)$ in it, $C^r_i(x,y)$ is calculated by $C^r_i(x,y) = exp(-||(x,y)  - (x^r_i, y^r_i)||^2_2 / \sigma^2)$, where $(x^r_i, y^r_i)$ is the groundtruth root joint position and $\sigma$ is the variance of Gaussian distribution which is set as $\sigma = 7$. $C^r$ is an aggregation of peaks of all persons' $C^r_i$.
+- **Regression target for root joint position:** We use $C^r$ to donate the confidence map of the root joint and $C^r_i$ the root joint map of the $i$th person in one given image $I$. For a position $(x,y)$ in it, $C^r_i(x,y)$ is calculated by $C^r_i(x,y) = exp(-||(x,y)  - (x^r_i, y^r_i)||^2_2 / \sigma^2)$, where $(x^r_i, y^r_i)$ is the groundtruth root joint position and $\sigma$ is the variance of gaussian distribution which is set as $\sigma = 7$. $C^r$ is an aggregation of peaks of all persons' $C^r_i$.
 
 - **Regression target for body joint displacement:** We use $D^j$ to donate joint $j$ map and $D^j_i$ to donate the joint $j$ of person $i$. A position $(x,y)$ in image $I$ with $D^j_i(x,y)$ calculated by $D^j_i(x,y) = \frac{(\delta x, \delta y)}{Z}, with (x,y) \in \mathcal {N}^r_i$. Other positions $(x,y)$ in image $I$ are all zeros. Note that $\mathcal {N}^r_i = [(x,y) | ||(x,y)-(x^j_i, y^j_i)||^2_2 \le \tau]$ and $(\delta x, \delta y) = (x^j_i, y^j_i) - (x,y)$. The normalization factor $Z = \sqrt{H^2 + W^2}$, and $\tau = 7$ is for controlling the neighborhood size of every joint offset. Because some positions may be overlapped of joints displacements from different persons, $D^j$ for the $j$th joint is the average for all persons: $D^j(x,y) = \frac{1}{M^j} \sum_i{D^j_i(x,y)}$, where $M^j$ is the count of non-zero vectors at positon $(x,y)$ across all persons.
 
@@ -47,7 +47,8 @@ $\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number 
 
 Because the author does not release his source codes of SPM, we have to rely on other relevant post estimation code resources to reproduce the paper. We have some details different from the proposed SPM:
 - We replaced the backbone CNN architecture stacked hourglass(ECCV2016) with HRNet(CVPR2019). They both are designed specifically for pose estimation and have achieved remarkable effect.
-- 
+- The variance $\sigma$ of gaussian distribution for root joint's heatmap is not fixed here. We want to change its value according to the size of the human body and set different ratios in both width and height directions.
+- For the normalization of keypoints offsets, we temporarily do not use the paper's calculation method to take $Z$ value. In this way, the output value can be limited to the range $[-1, 1]$, but the loss is too small. We just set it to $1$ now.
 
 
 ## 4) Experiment Results
