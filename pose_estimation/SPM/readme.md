@@ -50,5 +50,26 @@ Because the author does not release his source codes of SPM, we have to rely on 
 - The variance $\sigma$ of gaussian distribution for root joint's heatmap is not fixed here. We want to change its value according to the size of the human body and set different ratios in both width and height directions.
 - For the normalization of keypoints offsets, we temporarily do not use the paper's calculation method to take $Z$ value. In this way, the output value can be limited to the range $[-1, 1]$, but the loss is too small. We just set it to $1$ now.
 
+Our codes list is as follows
+```bash
+/SPM
+  /ckpt  # put checkpoint model hre
+  /imgs  # some demos images and examples for algorithm explanation
+  /spm_logs  # put logs for tensorboard here
+  /src
+    data_aug.py  # data augmentation using image, bboxes and keypoints with [imgaug](https://github.com/aleju/imgaug)
+    dataset.py
+    hrnet32.py
+    losses.py
+    spm_config.py
+    spm_decoder.py
+    spm_encoder.py
+    spm_model.py
+    spm_train.py
+    utils.py
+  spm_model_test.py
+  spm_model_train.py
+  spm_model_train_distribute.py
+```
 
 ## 4) Experiment Results
