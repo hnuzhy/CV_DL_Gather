@@ -45,5 +45,9 @@ $\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number 
 
 ## 3) Source Codes
 
+Because the author does not release his source codes of SPM, we have to rely on other relevant post estimation code resources to reproduce the paper. We have some details different from the proposed SPM:
+- We replaced the backbone CNN architecture stacked hourglass(ECCV2016) with HRNet(CVPR2019). They both are designed specifically for pose estimation and have achieved remarkable effect.
+- 
+
 
 ## 4) Experiment Results
