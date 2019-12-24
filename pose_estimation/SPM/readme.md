@@ -50,7 +50,9 @@ Because the author does not release his source codes of SPM, we have to rely on 
 - The variance $\sigma$ of gaussian distribution for root joint's heatmap is not fixed here. We want to change its value according to the size of the human body and set different ratios in both width and height directions.
 - For the normalization of keypoints offsets, we temporarily do not use the paper's calculation method to take $Z$ value. In this way, the output value can be limited to the range $[-1, 1]$, but the loss is too small. We just set it to $1$ now.
 
-Our codes list is as follows
+
+
+**Our codes list is as follows**
 ```bash
 /SPM
 --/ckpt  # put checkpoint model hre
@@ -71,5 +73,20 @@ Our codes list is as follows
 --spm_model_train.py  # training code in single GPU with codes in ./src
 --spm_model_train_distribute.py  # training code in multi GPUs with codes in ./src
 ```
+
+**How to use these codes**
+- Environment: We use **Python 3.7.4, Tensorflow-gpu 2.0.0, CUDA 10.1** and **imgaug 0.3.0** in our project. The GPU is one Tesla P40 with memory ~23G. So the training the very slow and the performance of the middle model is not very good.
+- Dataset: [COCO](http://cocodataset.org/) 2017 about keypoints task. 
+- Download codes in your machine. You have no need to clone other unrelated projects, and just pull `CV_DL_Gather/pose_estimation/SPM` as follows. **Do not use Windows PowerShell**, it's not supported. Please use `git bash` or Linux.
+```
+git clone -n https://github.com/hnuzhy/CV_DL_Gather.git
+cd CV_DL_Gather
+git config core.sparsecheckout true
+echo pose_estimation/SPM >> .git/info/sparse-checkout
+git checkout master
+```
+- Training: Modify the parameters in `spm_config.py` file according to your requirements.
+- Testing: Use file `spm_model_test.py`. Due to the poor effect of the current model, we will consider releasing the trained model later.
+
 
 ## 4) Experiment Results
