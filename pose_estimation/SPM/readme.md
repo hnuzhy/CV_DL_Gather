@@ -53,23 +53,23 @@ Because the author does not release his source codes of SPM, we have to rely on 
 Our codes list is as follows
 ```bash
 /SPM
-    /ckpt  # put checkpoint model hre
-    /imgs  # some demos images and examples for algorithm explanation
-    /spm_logs  # put logs for tensorboard here
-    /src
-        data_aug.py  # data augmentation using image, bboxes and keypoints with API imgaug (https://github.com/aleju/imgaug)
-        dataset.py  # generate input data for Tensorflow model use function tf.data.Dataset.from_tensor_slices()
-        hrnet32.py  # high resolution network architecture with width = 32
-        losses.py   # total loss calculation
-        spm_config.py  # config file for dataset, training params, and testing params
-        spm_decoder.py  # after model inference, we should decode outputs (cneter_map and kps_map) into multi-pose
-        spm_encoder.py  # give image size, center points, keypoints, and sigmas params, generate heatmap and offset label
-        spm_model.py  # use backbone hrnet32 to bulid the whole model
-        spm_train.py  # train code in single GPU which includes iterative epochs and loss calculation, etc
-        utils.py  # some utils for dataset.py, spm_encoder.py and spm_decoder.py like dataloading and label processing.
-    spm_model_test.py  # test code using trained model to do inference
-    spm_model_train.py  # training code in single GPU with codes in ./src
-    spm_model_train_distribute.py  # training code in multi GPUs with codes in ./src
+--/ckpt  # put checkpoint model hre
+--/imgs  # some demos images and examples for algorithm explanation
+--/spm_logs  # put logs for tensorboard here
+--/src
+----data_aug.py  # data augmentation using image, bboxes and keypoints with API imgaug (https://github.com/aleju/imgaug)
+----dataset.py  # generate input data for Tensorflow model use function tf.data.Dataset.from_tensor_slices()
+----hrnet32.py  # high resolution network architecture with width = 32
+----losses.py   # total loss calculation
+----spm_config.py  # config file for dataset, training params, and testing params
+----spm_decoder.py  # after model inference, we should decode outputs (cneter_map and kps_map) into multi-pose
+----spm_encoder.py  # give image size, center points, keypoints, and sigmas params, generate heatmap and offset label
+----spm_model.py  # use backbone hrnet32 to bulid the whole model
+----spm_train.py  # train code in single GPU which includes iterative epochs and loss calculation, etc
+----utils.py  # some utils for dataset.py, spm_encoder.py and spm_decoder.py like dataloading and label processing.
+--spm_model_test.py  # test code using trained model to do inference
+--spm_model_train.py  # training code in single GPU with codes in ./src
+--spm_model_train_distribute.py  # training code in multi GPUs with codes in ./src
 ```
 
 ## 4) Experiment Results
