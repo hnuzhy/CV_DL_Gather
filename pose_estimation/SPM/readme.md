@@ -50,7 +50,8 @@ Because the author does not release his source codes of SPM, we have to rely on 
 - The variance $\sigma$ of gaussian distribution for root joint's heatmap is not fixed here. We want to change its value according to the size of the human body and set different ratios in both width and height directions.
 - For the normalization of keypoints offsets, we temporarily do not use the paper's calculation method to take $Z$ value. In this way, the output value can be limited to the range $[-1, 1]$, but the loss is too small. We just set it to $1$ now.
 
-
+![example3](./imgs/hourglass.jpg)
+![example4](./imgs/hrnet.jpg)
 
 **Our codes list is as follows**
 ```bash
@@ -59,7 +60,7 @@ Because the author does not release his source codes of SPM, we have to rely on 
 --/imgs  # some demos images and examples for algorithm explanation
 --/spm_logs  # put logs for tensorboard here
 --/src
-----data_aug.py  # data augmentation using image, bboxes and keypoints with API imgaug (https://github.com/aleju/imgaug)
+----data_aug.py  # data augmentation using image, bboxes and keypoints with API imgaug
 ----dataset.py  # generate input data for Tensorflow model use function tf.data.Dataset.from_tensor_slices()
 ----hrnet32.py  # high resolution network architecture with width = 32
 ----losses.py   # total loss calculation
@@ -75,7 +76,7 @@ Because the author does not release his source codes of SPM, we have to rely on 
 ```
 
 **How to use these codes**
-- Environment: We use **Python 3.7.4, Tensorflow-gpu 2.0.0, CUDA 10.1** and **imgaug 0.3.0** in our project. The GPU is one Tesla P40 with memory ~23G. So the training the very slow and the performance of the middle model is not very good.
+- Environment: We use **Python 3.7.4, Tensorflow-gpu 2.0.0, CUDA 10.1** and [**imgaug 0.3.0**](https://github.com/aleju/imgaug) in our project. The GPU is one Tesla P40 with memory ~23G. So the training the very slow and the performance of the middle model is not very good.
 - Dataset: [COCO](http://cocodataset.org/) 2017 about keypoints task. 
 - Download codes in your machine. You have no need to clone other unrelated projects, and just pull `CV_DL_Gather/pose_estimation/SPM` as follows. **Do not use Windows PowerShell**, it's not supported. Please use `git bash` or Linux.
 ```
