@@ -95,21 +95,21 @@ Because the author does not release his source codes of SPM, we have to rely on 
 
 ## 4) Experiment Results
 
-We have not evaluated our model in COCO eval dataset to get mAP for its poor performance. And here we just testd three scenarios: wild(COCO), lobby, classroom. Up to now, from the results, we can say that the prediction of root joint is better than the prediction displacements of keypoints which is not refined enough. As for the inference time, we will test it on GPU which is still under training wrok. In terms of training time, it takes about 1.3s to run one step with `batch = 2`
+We have not evaluated our model in COCO eval dataset to get mAP for its poor performance. And here we just testd three scenarios: wild(COCO), passageway, classroom. Up to now, from the results, we can say that the prediction of root joint is better than the prediction displacements of keypoints which is not refined enough. As for the inference time, we will test it on GPU which is still under training wrok. In terms of training time, it takes about 1.3s to run one step with `batch = 2`
 
-- wild(COCO)
+- wild(COCO), baseline image ususlly with size 500x300
 
 ![demo1.1](./imgs/000000013291_center_map.jpg)
 ![demo1.2](./imgs/000000013291_img_heatmap.jpg)
 ![demo1.3](./imgs/000000013291_result.jpg)
 
-- lobby
+- passageway, 4K(3840x2160) image is cropped to 1K(1920x1080)
 
 ![demo2.1](./imgs/021_ch38_1354_center_map.jpg)
 ![demo2.2](./imgs/021_ch38_1354_img_heatmap.jpg)
 ![demo2.3](./imgs/021_ch38_1354_result.jpg)
 
-- classroom
+- classroom, 1K(1920x1080) image with a lot of students
 
 ![demo3.1](./imgs/0100_center_map.jpg)
 ![demo3.2](./imgs/0100_img_heatmap.jpg)
