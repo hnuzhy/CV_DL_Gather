@@ -51,7 +51,9 @@ Because the author does not release his source codes of SPM, we have to rely on 
 - For the normalization of keypoints offsets, we temporarily do not use the paper's calculation method to take $Z$ value. In this way, the output value can be limited to the range $[-1, 1]$, but the loss is too small. We just set it to $1$ now.
 
 ![example3](./imgs/hourglass.jpg)
+<center>(hourglass architecture)</center>
 ![example4](./imgs/hrnet.jpg)
+<center>(hrnet architecture)</center>
 
 **Our codes list is as follows**
 ```bash
