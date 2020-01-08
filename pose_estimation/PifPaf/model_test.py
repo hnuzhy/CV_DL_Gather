@@ -10,12 +10,10 @@ import time
 from tools import predict
 
 if __name__ == '__main__':
-    model_path = './models/resnet101_block5-pif-paf.pkl'
+    model_path = './models/resnet101block5-pif-paf-edge401-190629-151620-b2db8c7e.pkl'
     # img_path = os.path.join(os.getcwd(), 'test_imgs')
     img_root_path = './test_imgs'
-    # img_names = ['04_0397_Student.jpg', '04_0466_Student.jpg', '05_0014_Student.jpg', '07_0123.jpg',
-        # '07_0265.jpg', '10_0047.jpg', '10_0261.jpg', '022_ch40_2655_0.8.jpg']
-    img_names = ['04_0397_Student.jpg', '04_0466_Student.jpg', '022_ch40_2655_0.8.jpg']
+    img_names = ['05_0014_Student.jpg', '10_0047.jpg', '022_ch40_2655_0.8.jpg']
     
     for index, img_name in enumerate(img_names):
         tic = time.time()
