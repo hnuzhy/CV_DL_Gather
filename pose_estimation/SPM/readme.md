@@ -2,7 +2,7 @@
 
 Paper URL: https://arxiv.org/abs/1908.09220
 
-For codes, go straight to [**3) Source Codes**](https://github.com/hunzhy/Pose_Estimation_Depository/tree/master/SPM#3-source-codes) in my another project. 
+For codes, go straight to [**3) Source Codes**](https://github.com/hnuzhy/Pose_Estimation_Depository/tree/master/SPM#3-source-codes) in my another project. 
 
 ## 1) Introduction
 
