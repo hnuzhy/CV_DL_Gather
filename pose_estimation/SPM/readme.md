@@ -17,7 +17,7 @@ SPM is to some extent inspired by the one-stage anchor-free object detection alg
 
 Below is the diagram example of SPM. (b) gives the conventional pose representation which should predict all joints of every person in the input image. (c) shows the results of SPR. (d) is Hierarchical SPR. This keypoints annotation format comes from MPII.
 
-![example1](./imgs/SPM_example_diagram.jpg)
+![example1](./materials/SPM_example_diagram.jpg)
 
 [comment]: <> (MathJax Plugin for Github in Google Chrome)
 Suppose that we have known how the Top-Down and Bottom-Up method work. We just use simple equations to explain them briefly.
@@ -36,7 +36,7 @@ $\mathcal {P} = {(P^1_i, P^2_i, ..., P^K_i )}^N_{i=1}$, where $N$ is the number 
 
 - **Hierarchical SPR:** Offsets in SPM have different lengths of one person, and the prediction of long-range displacements turns to be bad due to possible large pose deformation. This brings challenge to offset regression by mapping from image representation to the vector domain. Hierarchical SPR factorizes long offsets into accumulative shorter ones to improve the performance. Joints are splited into four hierarchies including the root joint which is the first hierarchy. Torso joints (neck, shoulders, hips) are the second ones. Head, elbows and knees are put in the third. Wrists and ankles are put in the fourth. New formula of offsets calculation is $(x^j_i, y^j_i) = (x^{j'}_i, y^{j'}_i) + (\delta x^{j'}_i, \delta y^{j'}_i)$. Here, the $(\delta x^{j'}_i, \delta y^{j'}_i)$ is the displacement between joints in adjacent hierarchies but not necessarily w.r.t the root joint.
 
-![example2](./imgs/SPM_heatmap_offsets.jpg)
+![example2](./materials/SPM_heatmap_offsets.jpg)
 
 - **Regression target for root joint position:** We use $C^r$ to donate the confidence map of the root joint and $C^r_i$ the root joint map of the $i$th person in one given image $I$. For a position $(x,y)$ in it, $C^r_i(x,y)$ is calculated by $C^r_i(x,y) = exp(-||(x,y)  - (x^r_i, y^r_i)||^2_2 / \sigma^2)$, where $(x^r_i, y^r_i)$ is the groundtruth root joint position and $\sigma$ is the variance of gaussian distribution which is set as $\sigma = 7$. $C^r$ is an aggregation of peaks of all persons' $C^r_i$.
 
