@@ -1,6 +1,7 @@
 # PersonLab(ECCV2018) 
 Paper URL: https://arxiv.org/abs/1803.08225
-For codes, go straight to [**3) Implementation**](#3-implementation).
+
+For codes, go straight to [**3) Implementation**](#3-implementation) in my /Pose_Estimation_Depository/PersonLab project.
 
 ## 1) Introduction
 
