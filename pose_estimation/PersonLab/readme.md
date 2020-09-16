@@ -3,6 +3,8 @@ Paper URL: https://arxiv.org/abs/1803.08225
 
 For codes, go straight to [**3) Implementation**](https://github.com/hunzhy/Pose_Estimation_Depository/tree/master/PersonLab#3-implementation) in my another project.
 
+**Note**: `PersonLab` is the work from Google with the same author with the top-down method `G-RMI`(CVPR2017). So we will find their intuitions about pose estimation are similar.
+
 ## 1) Introduction
 
 This Bottom-up approach is an ECCV2018 paper named `Personlab: Person pose estimation and instance segmentation with a bottomup, part-based, geometric embedding model`. PersonLab is simple and hence fast, it outperforms some SOTAs in both keypoint localization and instance segmentation task on COCO. In particular, the pipeline of this algorithm includes six main stages (not in order):
