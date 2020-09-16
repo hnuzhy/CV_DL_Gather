@@ -8,6 +8,8 @@ The deep model part of it uses VGGNet to extract image features, and then divide
 
 ![img1](./materials/PAF_NetworkArchitecture.jpg)
 
+![img2](./materials/COCO_keypoints_PK12.jpg)
+
 
 ## 2) Citation
 Please cite the paper in your publications if it helps your research:
