@@ -1,4 +1,5 @@
 # PersonLab(ECCV2018) 
+Paper URL: https://arxiv.org/abs/1803.08225
 For codes, go straight to [**3) Implementation**](#3-implementation).
 
 ## 1) Introduction
