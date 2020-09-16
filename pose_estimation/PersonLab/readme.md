@@ -1,7 +1,9 @@
 # PersonLab(ECCV2018) 
 Paper URL: https://arxiv.org/abs/1803.08225
 
-For codes, go straight to [**3) Implementation**](https://github.com/hunzhy/Pose_Estimation_Depository/tree/master/PersonLab#3-implementation) in my another project. **Note**: `PersonLab` is the work from Google with the same author with the top-down method `G-RMI`(CVPR2017). So we will find their intuitions about pose estimation are similar.
+For codes, go straight to [**3) Implementation**](https://github.com/hunzhy/Pose_Estimation_Depository/tree/master/PersonLab#3-implementation) in my another project. 
+
+**Note**: `PersonLab` is from Google with the same author with the top-down method `G-RMI`(CVPR2017). Their intuitions about pose estimation are similar.
 
 ## 1) Introduction
 
