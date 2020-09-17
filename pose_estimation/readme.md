@@ -72,41 +72,41 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 **Single Person Pose Estimation**
 
-①[CPM(CVPR2016)](./CPM/)[11]
+①[CPM(CVPR2016)](./CPM/)[11] Convolutional Pose Machines
 
-②[StackedHourglass(ECCV2016)](./StackedHourglass/)[12]
+②[StackedHourglass(ECCV2016)](./StackedHourglass/)[12] Stacked Hourglass Networks for Human Pose Estimation
 
-③[DeepPose(CVPR2014)](./DeepPose/)[13]
+③[DeepPose(CVPR2014)](./DeepPose/)[13] DeepPose: Human Pose Estimation via Deep Neural Networks
 
 **Multi-Person Pose Estimation: Top-down**
 
-①[G-RMI(CVPR2017)](./G-RMI/)[15]
+①[G-RMI(CVPR2017)](./G-RMI/)[15] Towards Accurate Multi-person Pose Estimation in the Wild
 
-②[Mask-RCNN(ICCV2017)](./Mask-RCNN/)[16]
+②[Mask-RCNN(ICCV2017)](./Mask-RCNN/)[16] Mask R-CNN
 
-③[RMPE(ICCV2017)](./RMPE/)[17]
+③[RMPE(ICCV2017)](./RMPE/)[17] RMPE: Regional Multi-Person Pose Estimation
 
-④[HRNet(CVPR2019)](./HRNet/)[18]
+④[HRNet(CVPR2019)](./HRNet/)[18] Deep High-Resolution Representation Learning for Human Pose Estimation
 
 **Multi-Person Pose Estimation: Bottom-up**
 
-①[PifPaf(CVPR2019)](./PifPaf/)[6]
+①[PifPaf(CVPR2019)](./PifPaf/)[6] PifPaf: Composite Fields for Human Pose Estimation
 
-②[PersonLab(ECCV2018)](./PersonLab/)[7]
+②[PersonLab(ECCV2018)](./PersonLab/)[7] PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model
 
-③[PAF_CMU-OpenPose(CVPR2017)](./PAF_CMU-OpenPose/)[8]
+③[PAF_CMU-OpenPose(CVPR2017)](./PAF_CMU-OpenPose/)[8] Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
 
-④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/)[9]
+④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/)[9] Associative Embedding: End-to-End Learning for Joint Detection and Grouping
 
-⑤[MultiPoseNet(ECCV2018)](./MultiPoseNet/)[10]
+⑤[MultiPoseNet(ECCV2018)](./MultiPoseNet/)[10] MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network
 
-⑥[ArtTrack(CVPR2017)](./ArtTrack/)[14]
+⑥[ArtTrack(CVPR2017)](./ArtTrack/)[14] ArtTrack: Articulated Multi-person Tracking in the Wild
 
 **Multi-Person Pose Estimation: Single-Stage**
 
-①[SPM(ICCV2019)](./SPM/)[19]
+①[SPM(ICCV2019)](./SPM/)[19] Single-Stage Multi-Person Pose Machines
 
-②[DirectPose(arxiv1911)](./DirectPose/)[20]
+②[DirectPose(arxiv1911)](./DirectPose/)[20] DirectPose: Direct End-to-End Multi-Person Pose Estimation
 
 ## 4) References
 [1] M. Andriluka, L. Pishchulin, P. Gehler, and B. Schiele. 2d human pose estimation: New benchmark and state of the art analysis. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
