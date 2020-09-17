@@ -70,7 +70,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ## 3) SOTA Algorithms
 
-**Single Person Pose Estimation**
+* **Single Person Pose Estimation**
 
 ①[CPM(CVPR2016)](./CPM/)[11] Convolutional Pose Machines
 
@@ -88,7 +88,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ④[HRNet(CVPR2019)](./HRNet/)[18] Deep High-Resolution Representation Learning for Human Pose Estimation
 
-**Multi-Person Pose Estimation: Bottom-up**
+* **Multi-Person Pose Estimation: Bottom-up**
 
 ①[PifPaf(CVPR2019)](./PifPaf/)[6] PifPaf: Composite Fields for Human Pose Estimation
 
@@ -102,7 +102,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ⑥[ArtTrack(CVPR2017)](./ArtTrack/)[14] ArtTrack: Articulated Multi-person Tracking in the Wild
 
-**Multi-Person Pose Estimation: Single-Stage**
+* **Multi-Person Pose Estimation: Single-Stage**
 
 ①[SPM(ICCV2019)](./SPM/)[19] Single-Stage Multi-Person Pose Machines
 
