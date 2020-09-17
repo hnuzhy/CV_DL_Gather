@@ -78,7 +78,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ③[DeepPose(CVPR2014)](./DeepPose/)[13] DeepPose: Human Pose Estimation via Deep Neural Networks
 
-o **Multi-Person Pose Estimation: Top-down**
+* **Multi-Person Pose Estimation: Top-down**
 
 ①[G-RMI(CVPR2017)](./G-RMI/)[15] Towards Accurate Multi-person Pose Estimation in the Wild
 
