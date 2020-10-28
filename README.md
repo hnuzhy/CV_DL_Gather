@@ -33,6 +33,7 @@
 * **[Definition]** Reinforcement learning (RL) is used to describe and solve the problem that agents use learning strategies to take actions to maximize reward or achieve specific goals in the process of interaction with the environment.
 
 * **[Supplement]** The common model of RL is standard **Markov Decision Process** (MDP). According to the given conditions, RL can be divided into **model-based RL** and **model-free RL**. The algorithms used to solve RL problems can be divided into strategy search algorithm and value function algorithm. Deep learning model can be used in RL to form deep reinforcement learning. Inspired by **behaviorist psychology**, RL focuses on online learning and tries to maintain a balance between exploration and exploitation. Unlike **supervised learning** and **unsupervised learning**, RL does not require any given data in advance, but obtains learning information and updates model parameters by receiving reward (feedback) from environment.
+  
   RL has been discussed in the fields of **information theory**, **game theory** and **automatic control**. It is used to explain the **equilibrium state under bounded rationality**, design **recommendation system** and robot interaction system. Some complex RL algorithms have general intelligence to solve complex problems to a certain extent, which can reach the human level in go and electronic games. The learning cost and training cost of RL are very high.
 * *Refer to branch [reinforcement_learning](./reinforcement_learning) for detailed introduction.*
 
