@@ -13,7 +13,7 @@
 
 # Model Compression
 * **[Definition]** Model compression is to minimize the consumption of storage space, computing space and time of deep models, and is also committed to accelerating the training and inference of the model.
-* **[Supplement]** Deep learning makes the performance of many computer vision tasks reach an unprecedented height. Although the complex model has better performance, the high storage space and computing resource consumption are the important reasons that make it difficult to effectively apply in various hardware platforms. Therefore, model compression is essential. To solve these problems, it is necessary to cut in from many aspects, including machine learning algorithm, optimization theory, computer architecture, data compression, index compilation and hardware design. The methods of model compression can be roughly divided into: **low rank approximation**, **network pruning**, **network quantification**, **knowledge distillation** and **compact network design**. This is the last battlefield of large-scale application of computer vision.
+* **[Supplement]** Deep learning makes the performance of many computer vision tasks reach an unprecedented height. Although the complex model has better performance, the high storage space and computing resource consumption are the important reasons that make it difficult to effectively apply in various hardware platforms. Therefore, model compression is essential. To solve these problems, it is necessary to cut in from many aspects, including **machine learning algorithm**, **optimization theory**, **computer architecture**, **data compression**, **index compilation** and **hardware design**. The methods of model compression can be roughly divided into: **low rank approximation**, **network pruning**, **network quantification**, **knowledge distillation** and **compact network design**. This is the last battlefield of large-scale application of computer vision.
 * *Refer to branch [model_compression](./model_compression) for detailed introduction.*
 
 
@@ -30,14 +30,14 @@
 
 
 # Reinforcement Learning
-* **[Definition]** 
-* **[Supplement]**
+* **[Definition]** Reinforcement learning (RL) is used to describe and solve the problem that agents use learning strategies to take actions to maximize reward or achieve specific goals in the process of interaction with the environment.
+* **[Supplement]** The common model of RL is standard **Markov Decision Process** (MDP). According to the given conditions, RL can be divided into **model-based RL** and **model-free RL**. The algorithms used to solve RL problems can be divided into strategy search algorithm and value function algorithm. Deep learning model can be used in RL to form deep reinforcement learning. Inspired by **behaviorist psychology**, RL focuses on online learning and tries to maintain a balance between exploration and exploitation. Unlike **supervised learning** and **unsupervised learning**, RL does not require any given data in advance, but obtains learning information and updates model parameters by receiving reward (feedback) from environment. RL has been discussed in the fields of **information theory**, **game theory** and **automatic control**. It is used to explain the **equilibrium state under bounded rationality**, design **recommendation system** and robot interaction system. Some complex RL algorithms have general intelligence to solve complex problems to a certain extent, which can reach the human level in go and electronic games. The learning cost and training cost of RL are very high.
 * *Refer to branch [reinforcement_learning](./reinforcement_learning) for detailed introduction.*
 
 
 # Super Resolution
 * **[Definition]** Image super resolution refers to the restoration of high-resolution image from a low-resolution image or image sequence.
-* **[Supplement]** Image super-resolution technology is divided into super resolution restoration and super resolution reconstruction. At present, image super resolution research can be divided into three main categories: interpolation based, reconstruction based and learning based methods. Not surprisingly, the involvement of deep learning technology makes a great breakthrough and progress in this low level visual task.
+* **[Supplement]** Image super-resolution technology is divided into super resolution restoration and super resolution reconstruction. At present, image super resolution research can be divided into three main categories: interpolation based, reconstruction based and learning based methods. Not surprisingly, the involvement of deep learning technology makes a great breakthrough and progress in this low level visual task. 
 * *Refer to branch [super_resolution](./super_resolution) for detailed introduction.*
 
 
