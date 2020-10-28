@@ -14,7 +14,9 @@ Collection research papers, related codes (if have) and reading notes about Mode
 
 
 # Object Detection
+* **[Definition]** The task of object detection includes the location and classification of the pre-defined objects in the image.
 
+* **[Supplement]** Object detection is always one of the basic, popular and important tasks in the field of computer vision. Especially after the great breakthrough of deep learning technology in **image classification** task (in 2012), the development of object detection is rather rapid, even now it is still the most active topic. Many technologies, ideas and innovations based on object detection have great significance for reference and promotion in other fields. Object detection is absolutely a bright pearl in the CV crown. *Refer to branch [object_detection](./object_detection) for detailed introduction.*
 
 
 # Pose Estimation
