@@ -1,10 +1,12 @@
+
 # Action Recognition
 * **[Definition]** Action recognition is to classify short video clips that have been pre-segmented (Actually, videos in real environments are generally not pre-segmented and contain a lot of irrelevant information).
 * **[Supplement]** The category of action recognition is usually all kinds of human actions, so it can also be called **Human Action Recognition**. However, most of the algorithms developed based on this problem are not specific to people, and can also be used for other types of video classification. In addition, the task of action recognition generally does not include the problem of **Temporal Action Detection** in videos. *Refer to branch [action_recognition](./action_recognition) for detailed introduction.*
 
 
 # Affective Computing
-
+* **[Definition]** Affective computing is to establish a harmonious human-computer environment by giving the computer the ability to recognize, understand, express and adapt to human affections, and make the computer have higher and comprehensive intelligence.
+* **[Supplement]** In computer vision field, the current affective computing mainly refers to **Facial Expression Recognition**, which includes three directions: universal expression recognition, **Facial Action Coding System (FACS)**, and continuous expression model **Valence-Arousal**. In addition, the input of accurate affective computing should be multimodal, including facial expression, voice and intonation, text information, body behavior and even electroencephalogram (EEG) signal. The definition of affection is always ambiguous for its multi-interdisciplinary character. So affective computing is rather difficult and has a long way to go. *Refer to branch [affective_computing](./affective_computing) for detailed introduction.*
 
 
 # Model Compression
