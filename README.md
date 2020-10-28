@@ -1,6 +1,6 @@
 # Action Recognition
 
-*Action recognition* is to classify short video clips that have been pre-segmented (Actually, videos in real environments are generally not pre-segmented and contain a lot of irrelevant information). The category of *action recognition* is usually all kinds of human actions, so it can also be called *human action recognition*. However, most of the algorithms developed based on this problem are not specific to people, and can also be used for other types of video classification. In addition, the task of action recognition generally does not include the problem of *Temporal Action Detection* in videos.
+Action recognition is to classify short video clips that have been pre-segmented (Actually, videos in real environments are generally not pre-segmented and contain a lot of irrelevant information). The category of action recognition is usually all kinds of human actions, so it can also be called **Human Action Recognition**. However, most of the algorithms developed based on this problem are not specific to people, and can also be used for other types of video classification. In addition, the task of action recognition generally does not include the problem of **Temporal Action Detection** in videos.
 
 # Affective Computing
 
