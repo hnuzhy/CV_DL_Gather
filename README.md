@@ -12,8 +12,9 @@
 
 
 # Model Compression
-Collection research papers, related codes (if have) and reading notes about Model Compression. It mainly includes Quantization, Pruning, Knowledge Distillation and Compact Network Design.
-
+* **[Definition]** Model compression is to minimize the consumption of storage space, computing space and time of deep models, and is also committed to accelerating the training and inference of the model.
+* **[Supplement]** Deep learning makes the performance of many computer vision tasks reach an unprecedented height. Although the complex model has better performance, the high storage space and computing resource consumption are the important reasons that make it difficult to effectively apply in various hardware platforms. Therefore, model compression is essential. To solve these problems, it is necessary to cut in from many aspects, including machine learning algorithm, optimization theory, computer architecture, data compression, index compilation and hardware design. The methods of model compression can be roughly divided into: **low rank approximation**, **network pruning**, **network quantification**, **knowledge distillation** and **compact network design**. This is the last battlefield of large-scale application of computer vision.
+* *Refer to branch [model_compression](./model_compression) for detailed introduction.*
 
 
 # Object Detection
@@ -29,8 +30,9 @@ Collection research papers, related codes (if have) and reading notes about Mode
 
 
 # Reinforcement Learning
-Collection research papers, related codes (if have) and reading notes about Reinforcement Learning. This topic focuses on Deep Reinforcement Learning.
-
+* **[Definition]** 
+* **[Supplement]**
+* *Refer to branch [reinforcement_learning](./reinforcement_learning) for detailed introduction.*
 
 
 # Super Resolution
