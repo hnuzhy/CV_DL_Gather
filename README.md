@@ -36,4 +36,6 @@ Collection research papers, related codes (if have) and reading notes about Sing
 
 
 # Visual Tracking
+* **[Definition]** Visual tracking refers to the detection, extraction, recognition and tracking of moving objects in image sequences.
+* **[Supplement]**
 
