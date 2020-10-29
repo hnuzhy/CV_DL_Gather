@@ -1,4 +1,4 @@
-# DarkPose
+# DarkPose(CVPR2020)
 
 Paper URL: https://arxiv.org/abs/1910.06278
 

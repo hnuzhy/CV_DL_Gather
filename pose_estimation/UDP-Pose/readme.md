@@ -1,4 +1,4 @@
-# UDP-Pose
+# UDP-Pose(CVPR2020)
 
 Paper URL: https://arxiv.org/abs/1911.07524
 

@@ -2,7 +2,7 @@
 
 Paper URL: https://arxiv.org/abs/1908.09220
 
-For codes, go straight to [**3) Source Codes**](https://github.com/hnuzhy/Pose_Estimation_Depository/tree/master/SPM#3-source-codes) in my another project. 
+The first author is a Chinese PhD student in Singapore's NUS, whose homepage is [NieXC](https://niexc.github.io/). No official code has been released so far. For codes, go straight to [**3) Source Codes**](https://github.com/hnuzhy/Pose_Estimation_Depository/tree/master/SPM#3-source-codes) in my another project. 
 
 ## 1) Introduction
 
