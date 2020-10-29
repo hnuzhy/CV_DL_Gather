@@ -26,10 +26,7 @@
 
 ### ▶ Two-Stage Top-Down Multiple Person Pose Estimation
 
-#### **HRNet(CVPR2019)**
-* [Paper] [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/abs/1902.09212)
-* [Codes|PyTorch(offical)] https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
-* [Codes|(Repositories using HRNet as backbone)] https://github.com/HRNet
+* **HRNet(CVPR2019)** Deep High-Resolution Representation Learning for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1902.09212)][[Codes|PyTorch(offical)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)][[Codes|(Repositories using HRNet as backbone)](https://github.com/HRNet)]
 
 
 
