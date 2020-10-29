@@ -17,6 +17,8 @@
 
 #### **StackHourglass(ECCV2016)**
 * [Paper] [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/abs/1603.06937)
+* [Codes|Torch7(offical old)] https://github.com/princeton-vl/pose-hg-train
+* [Codes|PyTorch(offical new)] https://github.com/princeton-vl/pytorch_stacked_hourglass
 * [Codes|Tensorflow(unoffical)] https://github.com/wbenbihi/hourglasstensorlfow
 
 #### **PyraNet(ICCV2017)**
@@ -39,6 +41,10 @@
 
 
 ### ▶  Two-Stage Bottom-Up Multiple Person Pose Estimation
+
+#### **AssociativeEmbedding(NIPS2017)**
+* [Paper] [Associative Embedding: End-to-end Learning for Joint Detection and Grouping](https://arxiv.org/abs/1611.05424)
+* [Codes|PyTorch(offical)] https://github.com/princeton-vl/pose-ae-train
 
 #### **HigherHRNet(CVPR2020)**
 * [Paper] [HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation](https://arxiv.org/abs/1908.10357)
