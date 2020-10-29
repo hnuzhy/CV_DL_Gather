@@ -110,7 +110,6 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ⑦ [HigherHRNet(CVPR2020)](./HigherHRNet/) Cheng B , Xiao B , Wang J , et al. HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation[C]// 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2020.
 
-⑧ [MDN3(CVPR2020)](./MDN3/) Varamesh A , Tuytelaars T . Mixture Dense Regression for Object Detection and Human Pose Estimation[C]// 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2020.
 
 * **Multi-Person Pose Estimation: Single-Stage**
 
