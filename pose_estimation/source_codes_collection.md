@@ -6,7 +6,12 @@
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 
 
-## 2) Papers and Sources Codes
+## 2) Pioneers and Experts
+
+👍 [Alejandro Newell](https://www.alejandronewell.com/)
+👍 [Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
+
+## 3) Papers and Sources Codes
 
 ### ▶ Single Person Pose Estimation
 
