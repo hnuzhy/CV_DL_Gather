@@ -36,7 +36,7 @@ At present, the mainstream schemes for pose estimation are all based on data-dri
 </table>
 
 
-**MPII Human Pose Dataset**
+* **MPII Human Pose Dataset**
 
 The dataset includes around *25K images* (precisely 24984) containing over *40K people* with annotated body joints. Overall the dataset covers *410 human activities* and each image is provided with an activity label. Each image was extracted from a YouTube video which is not very clear. And according to standard practice, authors withhold the test annotations to prevent overfitting and tuning on the test set. For external testing, an automatic evaluation server and performance analysis tools are provided.
 ```
@@ -50,7 +50,7 @@ limb_connection_list = [[0, 1], [1, 2], [2, 6], [3, 6], [3, 4], [4, 5], [6, 7], 
     [8, 12], [8, 13], [10, 11], [11, 12], [13, 14], [14, 15]]
 ```
 
-**COCO: Common Objects in Context**
+* **COCO: Common Objects in Context**
 
 The dataset contains *91 common object categories* with 82 of them having more than 5,000 labeled instances. With a total of *2.5 million labeled instances* in *328K images*, the creation of the dataset drew upon extensive crowd worker involvement via novel user interfaces for *category detection*, *instance spotting* and *instance segmentation*. As for human keypoints annotation, it has been updated in later releases (after 2014).
 
