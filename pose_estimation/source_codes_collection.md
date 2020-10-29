@@ -1,4 +1,4 @@
-#  List for public implementation of various pose estimation algorithms
+#  List for public implementation of various algorithms
 
 ## 1) Pubilc Datasets and Challenges
 
