@@ -21,6 +21,7 @@ Following this idea, single stage pose estimation can define a root joint of per
 
 ![example4](./materials/SPM_example_diagram.jpg)
 
+
 ## 2) Datasets
 At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)(CVPR2014)[1] and [COCO: Common Objects in Context](http://cocodataset.org/)(ECCV2014)[2]. Although there is a detailed description of datasets on the official website, here is a brief summary of the important information for a quick start.
 
@@ -68,48 +69,52 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
     [0, 14], [14, 16], [0, 15], [15, 17]]
 ```
 
+
 ## 3) SOTA Algorithms
 
 * **Single Person Pose Estimation**
 
-①[CPM(CVPR2016)](./CPM/)[11] Convolutional Pose Machines
+①[CPM(CVPR2016)](./CPM/) Wei, S.E., Ramakrishna, V., Kanade, T., Sheikh, Y.: Convolutional pose machines. In: CVPR. (2016)
 
-②[StackedHourglass(ECCV2016)](./StackedHourglass/)[12] Stacked Hourglass Networks for Human Pose Estimation
+②[StackedHourglass(ECCV2016)](./StackedHourglass/) Newell, A., Yang, K., Deng, J.: Stacked hourglass networks for human pose estimation. In: ECCV. (2016)
 
-③[DeepPose(CVPR2014)](./DeepPose/)[13] DeepPose: Human Pose Estimation via Deep Neural Networks
+③[DeepPose(CVPR2014)](./DeepPose/) Toshev, A., Szegedy, C.: Deeppose: Human pose estimation via deep neural networks. In: CVPR. (2014)
 
 * **Multi-Person Pose Estimation: Top-down**
 
-①[G-RMI(CVPR2017)](./G-RMI/)[15] Towards Accurate Multi-person Pose Estimation in the Wild
+①[G-RMI(CVPR2017)](./G-RMI/)[15] Papandreou, G., Zhu, T., Kanazawa, N., Toshev, A., Tompson, J., Bregler, C., Murphy, K.: Towards accurate multi-person pose estimation in the wild. In: CVPR. (2017)
 
-②[Mask-RCNN(ICCV2017)](./Mask-RCNN/)[16] Mask R-CNN
+②[Mask-RCNN(ICCV2017)](./Mask-RCNN/) Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick; Mask R-CNN. The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 2961-2969
 
-③[RMPE(ICCV2017)](./RMPE/)[17] RMPE: Regional Multi-Person Pose Estimation
+③[RMPE(ICCV2017)](./RMPE/) Fang, H.S., Xie, S., Tai, Y.W., Lu, C.: RMPE: Regional multi-person pose estimation. In: ICCV. (2017)
 
-④[HRNet(CVPR2019)](./HRNet/)[18] Deep High-Resolution Representation Learning for Human Pose Estimation
+④[HRNet(CVPR2019)](./HRNet/) Sun K , Xiao B , Liu D , et al. Deep High-Resolution Representation Learning for Human Pose Estimation. In: CVPR. (2019)
+
+⑤[DarkPose(CVPR2020)](./DarkPose)[]
 
 * **Multi-Person Pose Estimation: Bottom-up**
 
-①[PifPaf(CVPR2019)](./PifPaf/)[6] PifPaf: Composite Fields for Human Pose Estimation
+①[PifPaf(CVPR2019)](./PifPaf/) Kreiss, Sven and Bertoni, Lorenzo and Alahi, Alexandre. PifPaf: Composite Fields for Human Pose Estimation. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June, 2019.
 
-②[PersonLab(ECCV2018)](./PersonLab/)[7] PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model
+②[PersonLab(ECCV2018)](./PersonLab/) G. Papandreou, T. Zhu, L. Chen, S. Gidaris, J. Tompson, and K. Murphy. Personlab: Person pose estimation and instance segmentation with a bottomup, part-based, geometric embedding model. CoRR, abs/1803.08225, 2018. 2, 4, 5, 6, 8
 
-③[PAF_CMU-OpenPose(CVPR2017)](./PAF_CMU-OpenPose/)[8] Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+③[PAF_CMU-OpenPose(CVPR2017)](./PAF_CMU-OpenPose/) Z. Cao, T. Simon, S.-E. Wei, and Y. Sheikh. Realtime multi-person 2d pose estimation using part affinity fields. In CVPR, volume 1, page 7, 2017. 1, 2, 6, 7, 8
 
-④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/)[9] Associative Embedding: End-to-End Learning for Joint Detection and Grouping
+④[AssociativeEmbedding(NIPS2017)](./AssociativeEmbedding/) A. Newell, Z. Huang, and J. Deng. Associative embedding: End-to-end learning for joint detection and grouping. In Advances in Neural Information Processing Systems, pages 2277-2287, 2017. 2
 
-⑤[MultiPoseNet(ECCV2018)](./MultiPoseNet/)[10] MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network
+⑤[MultiPoseNet(ECCV2018)](./MultiPoseNet/) M. Kocabas, S. Karagoz, and E. Akbas. Multiposenet: Fast multi-person pose estimation using pose residual network. European Conference on Computer Vision (ECCV), 2018.
 
-⑥[ArtTrack(CVPR2017)](./ArtTrack/)[14] ArtTrack: Articulated Multi-person Tracking in the Wild
+⑥[ArtTrack(CVPR2017)](./ArtTrack/)[14] Insafutdinov, E., Andriluka, M., Pishchulin, L., Tang, S., Andres, B., Schiele, B.: ArtTrack: Articulated multi-person tracking in the wild. In: CVPR. (2017)
 
 * **Multi-Person Pose Estimation: Single-Stage**
 
-①[SPM(ICCV2019)](./SPM/)[19] Single-Stage Multi-Person Pose Machines
+①[SPM(ICCV2019)](./SPM/) Nie X, Feng J, Zhang J, et al. Single-stage multi-person pose machines[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 6951-6960.
 
-②[DirectPose(arxiv1911)](./DirectPose/)[20] DirectPose: Direct End-to-End Multi-Person Pose Estimation
+②[DirectPose(arxiv1911)](./DirectPose/) Tian Z, Chen H, Shen C. DirectPose: Direct End-to-End Multi-Person Pose Estimation[J]. arXiv preprint arXiv:1911.07451, 2019.
+
 
 ## 4) References
-* **datasets**
+* **dataset papers**
 
 [1] M. Andriluka, L. Pishchulin, P. Gehler, and B. Schiele. 2d human pose estimation: New benchmark and state of the art analysis. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
 
@@ -122,34 +127,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 [5] J. Xiao, J. Hays, K. A. Ehinger, A. Oliva, and A. Torralba, “SUN database: Large-scale scene recognition from abbey to zoo,” in CVPR, 2010.
 
-* **algorithms**
 
-[6] Kreiss, Sven and Bertoni, Lorenzo and Alahi, Alexandre. PifPaf: Composite Fields for Human Pose Estimation. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June, 2019.
+## 5) Statement
 
-[7] G. Papandreou, T. Zhu, L. Chen, S. Gidaris, J. Tompson, and K. Murphy. Personlab: Person pose estimation and instance segmentation with a bottomup, part-based, geometric embedding model. CoRR, abs/1803.08225, 2018. 2, 4, 5, 6, 8
-
-[8] Z. Cao, T. Simon, S.-E. Wei, and Y. Sheikh. Realtime multi-person 2d pose estimation using part affinity fields. In CVPR, volume 1, page 7, 2017. 1, 2, 6, 7, 8
-
-[9] A. Newell, Z. Huang, and J. Deng. Associative embedding: End-to-end learning for joint detection and grouping. In Advances in Neural Information Processing Systems, pages 2277-2287, 2017. 2
-
-[10] M. Kocabas, S. Karagoz, and E. Akbas. Multiposenet: Fast multi-person pose estimation using pose residual network. European Conference on Computer Vision (ECCV), 2018.
-
-[11] Wei, S.E., Ramakrishna, V., Kanade, T., Sheikh, Y.: Convolutional pose machines. In: CVPR. (2016)
-
-[12] Toshev, A., Szegedy, C.: Deeppose: Human pose estimation via deep neural networks. In: CVPR. (2014)
-
-[13] Newell, A., Yang, K., Deng, J.: Stacked hourglass networks for human pose estimation. In: ECCV. (2016)
-
-[14] Insafutdinov, E., Andriluka, M., Pishchulin, L., Tang, S., Andres, B., Schiele, B.: ArtTrack: Articulated multi-person tracking in the wild. In: CVPR. (2017)
-
-[15] Papandreou, G., Zhu, T., Kanazawa, N., Toshev, A., Tompson, J., Bregler, C., Murphy, K.: Towards accurate multi-person pose estimation in the wild. In: CVPR. (2017)
-
-[16] Kaiming He, Georgia Gkioxari, Piotr Dollar, Ross Girshick; Mask R-CNN. The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 2961-2969
-
-[17] Fang, H.S., Xie, S., Tai, Y.W., Lu, C.: RMPE: Regional multi-person pose estimation. In: ICCV. (2017)
-
-[18] Sun K , Xiao B , Liu D , et al. Deep High-Resolution Representation Learning for Human Pose Estimation. In: CVPR. (2019)
-
-[19] Nie X, Feng J, Zhang J, et al. Single-stage multi-person pose machines[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 6951-6960.
-
-[20] Tian Z, Chen H, Shen C. DirectPose: Direct End-to-End Multi-Person Pose Estimation[J]. arXiv preprint arXiv:1911.07451, 2019.
+This project is only for academic discussion and exchange, not for commercial purposes.
