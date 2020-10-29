@@ -15,13 +15,13 @@
 
 ### ▶ Single Person Pose Estimation
 
-* **CPM(CVPR2016)** Convolutional Pose Machines [[arxiv](https://arxiv.org/abs/1602.00134)][[Codes|Caffe(offical)](https://github.com/shihenw/convolutional-pose-machines-release)][[Codes|Tensorflow(unoffical)](https://github.com/psycharo/cpm)]
+* **CPM(CVPR2016)** Convolutional Pose Machines [[arxiv link](https://arxiv.org/abs/1602.00134)][[Codes|Caffe(offical)](https://github.com/shihenw/convolutional-pose-machines-release)][[Codes|Tensorflow(unoffical)](https://github.com/psycharo/cpm)]
 
-* **StackHourglass(ECCV2016)** [[Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/abs/1603.06937)] [[Codes|Torch7(offical old)](https://github.com/princeton-vl/pose-hg-train)][[Codes|PyTorch(offical new)](https://github.com/princeton-vl/pytorch_stacked_hourglass)][[Codes|Tensorflow(unoffical)](https://github.com/wbenbihi/hourglasstensorlfow)]
+* **StackHourglass(ECCV2016)** Stacked Hourglass Networks for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1603.06937)][[Codes|Torch7(offical old)](https://github.com/princeton-vl/pose-hg-train)][[Codes|PyTorch(offical new)](https://github.com/princeton-vl/pytorch_stacked_hourglass)][[Codes|Tensorflow(unoffical)](https://github.com/wbenbihi/hourglasstensorlfow)]
 
-* **PyraNet(ICCV2017)** [[Learning Feature Pyramids for Human Pose Estimation](https://arxiv.org/abs/1708.01101)] [[Codes|Torch(offical)](https://github.com/bearpaw/PyraNet)]
+* **PyraNet(ICCV2017)** Learning Feature Pyramids for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1708.01101)][[Codes|Torch(offical)](https://github.com/bearpaw/PyraNet)]
 
-* **Adversarial-PoseNet(ICCV2017)** [[Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation](https://arxiv.org/abs/1705.00389)] [[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
+* **Adversarial-PoseNet(ICCV2017)** Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1705.00389)][[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
  
 
 ### ▶ Two-Stage Top-Down Multiple Person Pose Estimation
