@@ -1,31 +1,23 @@
-# PAF (or named CMU-OpenPose)
+# UDP-Pose
 
-Paper URL: https://arxiv.org/abs/1611.08050
+Paper URL: https://arxiv.org/abs/1911.07524
 
-For codes, go straight to [**improved_PAF**](https://github.com/hnuzhy/Pose_Estimation_Depository/tree/master/PAF_CMU-OpenPose) in my another project. This code repo is a PyTorch version of *Realtime Multi-Person Pose Estimation*. It only inlcudes improved and reorganized test code rather than train code. For details about training your own model, please reference the origin code [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+Authors are all Chinese from Institute of Automation, Chinese Academy of Sciences. The paper full name is **The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation**, and UDP here means Unbiased Data Processing. The official code is released in [HuangJunJie2017/UDP-Pose](https://github.com/HuangJunJie2017/UDP-Pose). 
 
 ## 1) Introduction
-This PAF algorithm is from an Oral paper 2017 CVPR: **Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**. It is a milestone in the bottom-up branch. Thanks to the universality of method design and the thoroughness of open source, it is still the most widely used method even today, including practical applications and other complex visual tasks research. 
+The main contribution of UDP-Pose is to discover the defects of current pose estimation algorithms during data processing both in training and infenence, and then propose an unbiased data transformation pipeline. This method can be used as a model independent plug-in, combined with other methods, to enhance their mAP on the common datasets. Illustration for the processes between standard biased data transformation and proposed unbiased data transformation is below. In this paper, a lot of complicated mathematical formulas of error analysis are involved. Comprehension of my reading will be introduced later.
 
-The deep model part of it uses VGGNet to extract image features, and then divides into two branchs and multiple stages to predict the heatmaps of keypoints and the auxiliary vector PAFs used to help connect limbs, respectively. These iterations draw lessons from single person pose estimation CPM(CVPR2016). It's released source codes are here [Convolutional Pose Machines](https://github.com/shihenw/convolutional-pose-machines-release). The Network Architecture for predicting heatmaps and PAFs is as follows. After that, it needs to use faster greedy matching to decode heatmaps and PAFs to get keypoints and limbs connection for every person pose.
-
-![img1](./materials/PAF_NetworkArchitecture.jpg)
+![img1](./materials/UnbiasedDataProcessing.png)
 
 
 ## 2) Citation
 Please cite the paper in your publications if it helps your research:
 ```
-@inproceedings{cao2017realtime,
-  author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
-  booktitle = {CVPR},
-  title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
-  year = {2017}
-  }
-  
-@inproceedings{wei2016cpm,
-  author = {Shih-En Wei and Varun Ramakrishna and Takeo Kanade and Yaser Sheikh},
-  booktitle = {CVPR},
-  title = {Convolutional pose machines},
-  year = {2016}
-  }
+@InProceedings{Huang_2020_CVPR,
+author = {Huang, Junjie and Zhu, Zheng and Guo, Feng and Huang, Guan},
+title = {The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
 ```
