@@ -15,7 +15,7 @@
 
 * [(B站) 2019-2020年目标跟踪资源全汇总（论文、模型代码、优秀实验室）](https://www.bilibili.com/read/cv7636814)
 * [(B站) 张志鹏：Ocean/Ocean+：实时目标跟踪分割算法，小代价，大增益](https://www.bilibili.com/video/BV1354y1e7wU)
-* [(github) Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+* [(github) Visual Tracking Paper List](https://github.com/foolwood/benchmark_results)
 
 ## 4) Papers and Sources Codes
 
