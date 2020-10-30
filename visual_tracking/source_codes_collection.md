@@ -8,8 +8,8 @@
 
 ## 2) Pioneers and Experts
 
-[👍Alejandro Newell](https://www.alejandronewell.com/)
-[👍Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
+[👍Martin Danelljan](https://martin-danelljan.github.io/)
+
 
 ## 3) Blogs and Videos
 
