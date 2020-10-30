@@ -2,7 +2,7 @@
 
 ## 1) Pubilc Datasets and Challenges
 
-* [VOT Challenge](https://votchallenge.net/index.html) [[VOT git repos](https://github.com/votchallenge)]
+* [CrowdHuman Dataset](http://www.crowdhuman.org/download.html)
 
 
 
