@@ -11,6 +11,9 @@
 
 [👍Alejandro Newell](https://www.alejandronewell.com/)
 [👍Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
+[👍Zhe Cao](https://people.eecs.berkeley.edu/~zhecao/)
+[👍Tomas Simon](http://www.cs.cmu.edu/~tsimon/)
+[👍tensorboy](https://github.com/tensorboy)
 
 
 ## 3) Blogs, Videos and Applications
