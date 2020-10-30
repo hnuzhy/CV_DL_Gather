@@ -22,6 +22,16 @@
 * **FSA-Net(CVPR2019)** FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image [[paper link](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)][[Codes|Keras&Tensorflow(offical)](https://github.com/shamangary/FSA-Net)]
 
 
+## ⭐Head Detector
+
+### Materials
+
+
+### Papers
+
+* **FCHD(arxiv2018,ICIP2019)** FCHD: Fast and accurate head detection in crowded scenes [[arxiv link](https://arxiv.org/abs/1809.08766)][[Codes|PyTorch(offical)](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)][[CSDN blog](https://blog.csdn.net/javastart/article/details/82865858)]
+
+
 ## ⭐Face Alignment
 
 ### Materials
