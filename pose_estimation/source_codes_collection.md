@@ -4,6 +4,7 @@
 
 * [LIP(Look Into Person)](http://www.sysu-hcp.net/lip/index.php)
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
+* [COCO - Common Objects in Context](https://cocodataset.org/)
 
 
 ## 2) Pioneers and Experts
@@ -12,10 +13,15 @@
 [👍Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
 
 
-## 3) Blogs and Videos
+## 3) Blogs, Videos and Applications
 
-* [(B站)张锋-2D单人人体姿态估计及其应用](https://www.bilibili.com/video/av19006542/)
-* [(B站)人工智能 | 基于人体骨架的行为识别](https://www.bilibili.com/video/BV1wt411p7Ut/?spm_id_from=333.788.videocard.0)
+* [(B站 video) 张锋-2D单人人体姿态估计及其应用](https://www.bilibili.com/video/av19006542/)
+* [(B站 video) 人工智能 | 基于人体骨架的行为识别](https://www.bilibili.com/video/BV1wt411p7Ut/?spm_id_from=333.788.videocard.0)
+* [(CSDN blog) Paper List：CVPR 2018 人体姿态估计相关](https://blog.csdn.net/BockSong/article/details/80899689)
+* [(Website) 姿态估计交流网站ilovepose](http://www.ilovepose.cn/)
+* [(Application) FXMirror虚拟试衣解决方案](http://fxmirror.net/zh/features)
+* [(Application) 3D试衣间：人工智能虚拟试衣系统](http://3d.oleoad.com/3dshiyi.asp)
+
 
 
 ## 4) Papers and Sources Codes
@@ -52,4 +58,11 @@
 ### ▶  Single-Stage Multiple Person Pose Estimation
 
 * **SPM(ICCV2019)** Single-Stage Multi-Person Pose Machines [[arxiv link](https://arxiv.org/abs/1908.09220)][[Codes|PyTorch(offical not released)](https://github.com/NieXC/pytorch-spm)][[Codes|Tensorflow(unoffical)](https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines)]
+
+
+### ▶  Special Multiple Person Pose Estimation
+
+* **DensePose(CVPR2018)** DensePose: Dense Human Pose Estimation In The Wild [[arxiv link](https://arxiv.org/abs/1802.00434)][[project link](http://densepose.org/)][[Codes|Caffe2(offical)](https://github.com/facebookresearch/Densepose)]
+
+* **RF-Pose(CVPR2018)** Through-Wall Human Pose Estimation Using Radio Signals [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)][[project link](http://rfpose.csail.mit.edu/)]
 
