@@ -11,7 +11,14 @@
 [👍Alejandro Newell](https://www.alejandronewell.com/)
 [👍Jia Deng](https://www.cs.princeton.edu/~jiadeng/)
 
-## 3) Papers and Sources Codes
+
+## 3) Blogs and Videos
+
+* [(B站)张锋-2D单人人体姿态估计及其应用](https://www.bilibili.com/video/av19006542/)
+* [(B站)人工智能 | 基于人体骨架的行为识别](https://www.bilibili.com/video/BV1wt411p7Ut/?spm_id_from=333.788.videocard.0)
+
+
+## 4) Papers and Sources Codes
 
 ### ▶ Single Person Pose Estimation
 
