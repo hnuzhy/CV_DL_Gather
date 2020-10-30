@@ -22,10 +22,10 @@
 * [(B站 video) 人工智能 | 基于人体骨架的行为识别](https://www.bilibili.com/video/BV1wt411p7Ut/?spm_id_from=333.788.videocard.0)
 * [(CSDN blog) Paper List：CVPR 2018 人体姿态估计相关](https://blog.csdn.net/BockSong/article/details/80899689)
 * [(Website) 姿态估计交流网站ilovepose](http://www.ilovepose.cn/)
-
 * [(github) Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 * [(real time pose in github) tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
 * [(real time pose in github) PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile)
+* [(real time pose in github) Real-time 2D MPPE on CPU: Lightweight OpenPose](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch)
 * [(Application) FXMirror虚拟试衣解决方案](http://fxmirror.net/zh/features)
 * [(Application) 3D试衣间：人工智能虚拟试衣系统](http://3d.oleoad.com/3dshiyi.asp)
 
