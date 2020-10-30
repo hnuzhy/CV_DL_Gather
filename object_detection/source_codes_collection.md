@@ -13,21 +13,27 @@
 
 ## 3) Blogs and Videos
 
-* [(B站) 2019-2020年目标跟踪资源全汇总（论文、模型代码、优秀实验室）](https://www.bilibili.com/read/cv7636814)
-* [(B站) 张志鹏：Ocean/Ocean+：实时目标跟踪分割算法，小代价，大增益](https://www.bilibili.com/video/BV1354y1e7wU)
-* [(github) Visual Tracking Paper List](https://github.com/foolwood/benchmark_results)
+* [(github) High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection)
+* [(github) MMDetection: an open source object detection toolbox based on PyTorch by CUHK](https://github.com/open-mmlab/mmdetection)
+
 
 ## 4) Papers and Sources Codes
 
-### ▶ Survey
+### ▶ Two-stage Anchor based
 
 
 
-### ▶ Siamese Based
+### ▶ One-stage Anchor based
 
 
 
-### ▶ CF Based
+### ▶ One-stage Anchor free
 
-* **ECO(CVPR2017)** ECO: Efficient Convolution Operators for Tracking [[arxiv link](https://arxiv.org/abs/1611.09224)][[Codes|Matlab(offical)](https://github.com/martin-danelljan/ECO)][[Codes|MXNet(unoffical)](https://github.com/StrangerZhang/pyECO)][[CSDN blog](https://blog.csdn.net/zixiximm/article/details/54378397)]
+* **FCOS(CVPR2019)** FCOS: Fully Convolutional One-Stage Object Detection [[arxiv link](https://arxiv.org/abs/1904.01355)][[Codes|PyTorch(offical)](https://github.com/yqyao/FCOS_PLUS)][[Codes|PyTorch(unoffical using HRNet as backbone)](https://github.com/HRNet/HRNet-FCOS)]
+
+* **CornerNet(ECCV2018)** CornerNet: Detecting Objects as Paired Keypoints [[arxiv link](https://arxiv.org/abs/1808.01244)][[Codes|PyTorch(offical)](https://github.com/princeton-vl/CornerNet)][[Codes|PyTorch(offical CornerNet-Lite)](https://github.com/princeton-vl/CornerNet-Lite)]
+
+* **CenterNet(arxiv2019)** Objects as Points [[arxiv link](https://arxiv.org/abs/1904.07850)][[Codes|PyTorch(offical)](https://github.com/xingyizhou/CenterNet)]
+
+* **CenterNet(arxiv2019)** CenterNet: Keypoint Triplets for Object Detection [[arxiv link](https://arxiv.org/abs/1904.07850)][[Codes|PyTorch(offical)](https://github.com/Duankaiwen/CenterNet)]
 
