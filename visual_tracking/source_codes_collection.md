@@ -3,7 +3,7 @@
 ## 1) Pubilc Datasets and Challenges
 
 * [VOT Challenge](https://votchallenge.net/index.html) [[VOT git repos](https://github.com/votchallenge)]
-* [Moments in Time Dataset](http://moments.csail.mit.edu/)
+
 
 
 ## 2) Pioneers and Experts
