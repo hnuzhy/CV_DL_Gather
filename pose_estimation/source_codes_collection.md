@@ -14,6 +14,8 @@
 [👍Zhe Cao](https://people.eecs.berkeley.edu/~zhecao/)
 [👍Tomas Simon](http://www.cs.cmu.edu/~tsimon/)
 [👍tensorboy](https://github.com/tensorboy)
+[👍murdockhou](https://github.com/murdockhou)
+
 
 
 ## 3) Blogs, Videos and Applications
