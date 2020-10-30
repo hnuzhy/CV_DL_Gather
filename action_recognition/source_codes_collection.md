@@ -13,6 +13,7 @@
 ## 3) Blogs and Videos
 
 * [(B站) [ValseWebinar]视频行为识别 Action Recognition](https://www.bilibili.com/video/BV1yE411x7mw/?spm_id_from=trigger_reload)
+* [(B站) 人工智能 | 基于人体骨架的行为识别](https://www.bilibili.com/video/BV1wt411p7Ut/?spm_id_from=333.788.videocard.0)
 
 
 
