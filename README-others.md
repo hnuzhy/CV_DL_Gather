@@ -42,6 +42,15 @@
 * **3DDFA(CVPR2016)** Face Alignment Across Large Poses: A 3D Solution [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780392)][[project link](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)]
 
 
+## ⭐Pedestrian Localization
+
+### Materials
+
+
+### Papers
+
+* **Monoloco(ICCV2019)** MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[arxiv link](https://arxiv.org/abs/1906.06059)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/monoloco)]
+
 
 
 ## ⭐3D Face Reconstruction
@@ -61,4 +70,15 @@
 * [(github) A-Light-and-Fast-Face-Detector-for-Edge-Devices](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 
 ### Papers
+
+
+## ⭐SLAM (Simultaneous Localization and Mapping)
+
+### Materials
+
+* [(cnblogs) 视觉SLAM漫谈](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
+
+### Papers
+
+
 
