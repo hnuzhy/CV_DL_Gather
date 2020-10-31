@@ -3,6 +3,9 @@
 ## 1) Pubilc Datasets and Challenges
 
 * [Moments in Time Dataset](http://moments.csail.mit.edu/)
+* [Charades Challenge (Recognize and locate activities taking place in a video)](http://vuchallenge.org/charades.html)
+* [ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding](http://activity-net.org/)
+* [Kinetics Dataset](https://deepmind.com/research/open-source/kinetics) [[paper link: The Kinetics Human Action Video Dataset](https://arxiv.org/abs/1705.06950)]
 
 
 ## 2) Pioneers and Experts
@@ -24,11 +27,9 @@
 
 * **3D-ResNets(arxiv2020)** Would Mega-scale Datasets Further Enhance Spatiotemporal 3D CNNs? [[arxiv link](https://arxiv.org/abs/2004.04968)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
 
-### ▶ Siamese Based
+### ▶ Papers
 
-
-
-### ▶ CF Based
+* **I3D(CVPR2017)** Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arxiv link](https://arxiv.org/abs/1705.07750)][[Codes|Tensorflow(offical)](https://github.com/deepmind/kinetics-i3d)][[Codes|PyTorch(unoffical v1)](https://github.com/piergiaj/pytorch-i3d)][[Codes|PyTorch(unoffical v2)](https://github.com/hassony2/kinetics_i3d_pytorch)]
 
 
 
