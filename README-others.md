@@ -1,7 +1,7 @@
 # Here are collections about other CV topics
 
 **Contents Hyperlinks**
-  [⭐Deep Neural Networks](#deep-neural-networks)
+* [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Head/Hand Pose Estimation](#headhand-pose-estimation)
 * [⭐Head Detector](#head-detector)
 * [⭐Pedestrian Localization](#pedestrian-localization)
@@ -104,10 +104,21 @@
 
 * [(github) A-Light-and-Fast-Face-Detector-for-Edge-Devices](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 * [(website) FDDB: Face Detection Data Set and Benchmark Home](http://vis-www.cs.umass.edu/fddb/)
+* [(CSDN blogs) 人脸检测（十八）--TinyFace(S3FD,SSH,HR,RSA,Face R-CNN,PyramidBox)](https://blog.csdn.net/App_12062011/article/details/80534351)
 
 ### Papers
 
+* **MTCNN(SPL)** Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks [[paper link](https://kpzhang93.github.io/MTCNN_face_detection_alignment/paper/spl.pdf)][[Codes|Caffe&Matlab(offical)](https://github.com/kpzhang93/MTCNN_face_detection_alignment)][[Codes|MXNet(unoffical)](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection)][[Codes|Tensorflow(unoffical)](https://github.com/AITTSMD/MTCNN-Tensorflow)][[CSDN blog](https://blog.csdn.net/qq_36782182/article/details/83624357)]
+
 * **TinyFace(CVPR2017)** Finding Tiny Faces [[arxiv link](https://arxiv.org/abs/1612.04402)][[preject link](https://www.cs.cmu.edu/~peiyunh/tiny/)][[Codes|MATLAB(offical)](https://github.com/peiyunh/tiny)][[Codes|PyTorch(unoffical)](https://github.com/varunagrawal/tiny-faces-pytorch)]
+
+* **FaceBoxes(IJCB2017)** FaceBoxes: A CPU Real-time Face Detector with High Accuracy [[arxiv link](https://arxiv.org/abs/1708.05234)][[Codes|Caffe(offical)](https://github.com/sfzhang15/FaceBoxes)][[Codes|PyTorch(unoffical)](https://github.com/zisianw/FaceBoxes.PyTorch)]
+
+* **SSH(ICCV2017)** SSH: Single Stage Headless Face Detector [[arxiv link](https://arxiv.org/abs/1708.03979)][[Codes|Caffe(offical)](https://github.com/mahyarnajibi/SSH)]
+
+* **S3FD(ICCV2017)** S³FD: Single Shot Scale-invariant Face Detector [[arxiv link](https://arxiv.org/abs/1708.05237)][[Codes|Caffe(offical)](https://github.com/sfzhang15/SFD)]
+
+* **RSA(ICCV2017)** Recurrent Scale Approximation (RSA) for Object Detection [[arxiv link](https://arxiv.org/abs/1707.09531)][[Codes|Caffe(offical)](https://github.com/liuyuisanai/RSA-for-object-detection)]
 
 
 ## ⭐Face Recognition
@@ -117,10 +128,11 @@
 * [(website) EyeKey 眼神科技](http://www.eyekey.com/)
 * [(CSDN blogs) 人脸比对（1:N）](https://blog.csdn.net/intflojx/article/details/81278330)
 * [(github) Face Recognition (dlib with deep learning reaching 99.38% acc in LFW)](https://github.com/ageitgey/face_recognition)
+* [(website) face_recognition package](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)
 
 ### Papers
 
-* **ArcFace/InsightFace(CVPR2019)** ArcFace: Additive Angular Margin Loss for Deep Face Recognition [[arxiv link](https://arxiv.org/abs/1801.07698)][[Codes|MXNet(offical insightface)](https://github.com/deepinsight/insightface)][[Codes|MXNet(offical ArcFace)](https://github.com/deepinsight/insightface/tree/master/recognition/ArcFace)]
+* **ArcFace/InsightFace(CVPR2019)** ArcFace: Additive Angular Margin Loss for Deep Face Recognition [[arxiv link](https://arxiv.org/abs/1801.07698)][[Codes|MXNet(offical insightface)](https://github.com/deepinsight/insightface)][[Codes|MXNet(offical ArcFace)](https://github.com/deepinsight/insightface/tree/master/recognition/ArcFace)][[CSDN blog](https://blog.csdn.net/fire_light_/article/details/79602705)]
 
 * **SubCenter-ArcFace(ECCV2020)** Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces [[paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf)][[Codes|MXNet(offical SubCenter-ArcFace)](https://github.com/deepinsight/insightface/tree/master/recognition/SubCenter-ArcFace)][[CSDN blogs](https://blog.csdn.net/XBB102910/article/details/109400771)]
 
