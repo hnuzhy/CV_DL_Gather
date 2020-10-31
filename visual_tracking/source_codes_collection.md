@@ -25,6 +25,8 @@
 
 ### ▶ Siamese Based
 
+* **SiamMask(CVPR2019)** Fast Online Object Tracking and Segmentation: A Unifying Approach [[arxiv link](https://arxiv.org/abs/1812.05050)][[project link](http://www.robots.ox.ac.uk/~qwang/SiamMask/)][[Codes|PyTorch(offical)](https://github.com/foolwood/SiamMask)][[blog in wechat](https://mp.weixin.qq.com/s/tn3DBGQ-bfj8UCuupK-vHg)][[blog in bilibili](https://www.bilibili.com/video/av45602011/)]
+
 
 
 ### ▶ CF Based
