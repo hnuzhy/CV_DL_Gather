@@ -1,5 +1,12 @@
 # Here are collections about other CV topics
 
+## ⭐Deep Neural Networks
+
+* [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
+* [(CSDN blog) 五大经典卷积神经网络介绍：LeNet / AlexNet / GoogLeNet / VGGNet/ ResNet](https://blog.csdn.net/fendouaini/article/details/79807830)
+* [(cnblogs) Deep Learning回顾#之LeNet、AlexNet、GoogLeNet、VGG、ResNet](https://www.cnblogs.com/52machinelearning/p/5821591.html)
+
+
 ## ⭐Head/Hand Pose Estimation
 
 ### Materials
@@ -9,7 +16,6 @@
 * [(blogs) 使用opencv和dlib进行人脸姿态估计(python)](https://blog.csdn.net/yuanlulu/article/details/82763170)
 * [(cnblogs) paper 154：姿态估计（Hand Pose Estimation）相关总结](https://www.cnblogs.com/molakejin/p/8021574.html)
 * [(blogs) solvepnp三维位姿估算 | PnP 单目相机位姿估计（一、二、三）](https://blog.csdn.net/cocoaqin/article/details/77485436)
-
 * [(github) OpenFace 2.2.0: a facial behavior analysis toolkit](https://github.com/TadasBaltrusaitis/OpenFace)
 * [(github) Deepgaze contains useful packages including Head Pose Estimation](https://github.com/mpatacchiola/deepgaze)
 
@@ -68,8 +74,22 @@
 ### Materials
 
 * [(github) A-Light-and-Fast-Face-Detector-for-Edge-Devices](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
+* [(website) FDDB: Face Detection Data Set and Benchmark Home](http://vis-www.cs.umass.edu/fddb/)
 
 ### Papers
+
+* **TinyFace(CVPR2017)** Finding Tiny Faces [[arxiv link](https://arxiv.org/abs/1612.04402)][[preject link](https://www.cs.cmu.edu/~peiyunh/tiny/)][[Codes|MATLAB(offical)](https://github.com/peiyunh/tiny)][[Codes|PyTorch(unoffical)](https://github.com/varunagrawal/tiny-faces-pytorch)]
+
+
+## ⭐Beautify Face
+
+### Materials
+
+* [(github) BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo)
+* [(CSDN blogs) 图像滤镜艺术---换脸算法资源收集](https://blog.csdn.net/scythe666/article/details/81021041)
+
+### Papers
+
 
 
 ## ⭐SLAM (Simultaneous Localization and Mapping)
