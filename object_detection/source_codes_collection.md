@@ -3,6 +3,7 @@
 ## 1) Pubilc Datasets and Challenges
 
 * [CrowdHuman Dataset](http://www.crowdhuman.org/download.html)
+* [Cityscapes Dataset](https://www.cityscapes-dataset.com/) [[github - CityscapesScripts](https://github.com/mcordts/cityscapesScripts)]
 
 
 
