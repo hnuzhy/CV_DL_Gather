@@ -1,7 +1,7 @@
 # Here are collections about other CV topics
 
-Contents
-[⭐Deep Neural Networks](# ## ⭐Deep Neural Networks)
+**Contents**
+* [⭐Deep Neural Networks](#⭐Deep Neural Networks)
 
 
 
