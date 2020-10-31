@@ -1,8 +1,16 @@
 # Here are collections about other CV topics
 
 **Contents**
-* [⭐Deep Neural Networks](./README-others.md#deep-neural-networks)
+* [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Head/Hand Pose Estimation](#headhand-pose-estimation)
+* [⭐Head Detector](#head-detector)
+* [⭐Pedestrian Localization](#pedestrian-localization)
+* [⭐3D Face Reconstruction](3d-face-reconstruction)
+* [⭐Face Alignment](#face-alignment)
+* [⭐Face Detection](#face-detection)
+* [⭐Face Recognition](#face-recognition)
+* [⭐Beautify Face](#beautify-face)
+* [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultanous-location-and-mapping)
 
 
 
