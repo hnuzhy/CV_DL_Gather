@@ -85,6 +85,7 @@
 
 * **SPM(ICCV2019)** Single-Stage Multi-Person Pose Machines [[arxiv link](https://arxiv.org/abs/1908.09220)][[Codes|PyTorch(offical not released)](https://github.com/NieXC/pytorch-spm)][[Codes|Tensorflow(unoffical)](https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines)][[CSDN blog](https://blog.csdn.net/Murdock_C/article/details/100545377)]
 
+
 ### ▶  3D Multiple Person Pose Estimation
 
 * **mvpose(CVPR2019)** Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views [[arxiv link](https://arxiv.org/abs/1901.04111)][[project link](https://zju3dv.github.io/mvpose/)][[Codes|Torch&Tensorflow(offical)](https://github.com/zju3dv/mvpose)]
@@ -95,7 +96,14 @@
 
 ### ▶  Special Multiple Person Pose Estimation
 
+* **PoseTrack(CVPR2017)** PoseTrack: Joint Multi-Person Pose Estimation and Tracking [[arxiv link](https://arxiv.org/abs/1611.07727)][[Codes|Matlab&Caffe](https://github.com/iqbalu/PoseTrack-CVPR2017)]
+
+* **Detect-and-Track(CVPR2018)** Detect-and-Track: Efficient Pose Estimation in Videos [[arxiv link](https://arxiv.org/abs/1712.09184)][[project link](https://rohitgirdhar.github.io/DetectAndTrack/)][[Codes|Detectron(offical)](https://github.com/facebookresearch/DetectAndTrack/)]
+
+* **PoseFlow(BMVC2018)** Pose Flow: Efficient Online Pose Tracking [[arxiv link](https://arxiv.org/abs/1802.00977)][[Codes|AlphaPose(offical)](https://github.com/YuliangXiu/PoseFlow)]
+
 * **DensePose(CVPR2018)** DensePose: Dense Human Pose Estimation In The Wild [[arxiv link](https://arxiv.org/abs/1802.00434)][[project link](http://densepose.org/)][[Codes|Caffe2(offical)](https://github.com/facebookresearch/Densepose)]
 
 * **RF-Pose(CVPR2018)** Through-Wall Human Pose Estimation Using Radio Signals [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)][[project link](http://rfpose.csail.mit.edu/)]
+
 
