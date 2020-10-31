@@ -81,8 +81,12 @@
 
 ### Materials
 
+* [(jianshu) 人脸关键点对齐](https://www.jianshu.com/p/e4b9317a817f)
+* Procrustes Analysis [[CSDN blog](https://blog.csdn.net/u011808673/article/details/80733686)][[wikipedia](https://en.wikipedia.org/wiki/Procrustes_analysis)][[scipy.spatial.procrustes](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.procrustes.html)]
 
 ### Papers
+
+* **3000FPS(CVPR2014)** Face Alignment at 3000 FPS via Regressing Local Binary Features [[paper link](http://www.cse.psu.edu/~rtc12/CSE586/papers/regr_cvpr14_facealignment.pdf)][[Codes|opencv(offical)](https://github.com/freesouls/face-alignment-at-3000fps)][[Codes|liblinear(unoffical)](https://github.com/jwyang/face-alignment)][[CSDN blog](https://blog.csdn.net/lzb863/article/details/49890369)]
 
 * **3DDFA(CVPR2016)** Face Alignment Across Large Poses: A 3D Solution [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780392)][[project link](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)]
 
