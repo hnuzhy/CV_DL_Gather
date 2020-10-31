@@ -1,7 +1,7 @@
 # Here are collections about other CV topics
 
 **Contents**
-* [⭐Deep Neural Networks](#⭐Deep Neural Networks)
+* [⭐Deep Neural Networks](https://github.com/hnuzhy/CV_DL_Gather/blob/master/README-others.md#deepneuralnetworks)
 
 
 
