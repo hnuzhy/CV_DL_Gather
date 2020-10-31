@@ -82,7 +82,9 @@
 ### Materials
 
 * [(jianshu) 人脸关键点对齐](https://www.jianshu.com/p/e4b9317a817f)
-* Procrustes Analysis [[CSDN blog](https://blog.csdn.net/u011808673/article/details/80733686)][[wikipedia](https://en.wikipedia.org/wiki/Procrustes_analysis)][[scipy.spatial.procrustes](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.procrustes.html)]
+* Procrustes Analysis [[CSDN blog](https://blog.csdn.net/u011808673/article/details/80733686)][[wikipedia](https://en.wikipedia.org/wiki/Procrustes_analysis)][[scipy.spatial.procrustes](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.procrustes.html)][[github](https://github.com/Ahmer-444/Action-Recognition-ProcrustesAnalysis)]
+* [(website) Greek Mythology 浙江大学数学科学学院希腊神话浙江大学数学科学学院.ppt(Procrustes Analysis and its application in computer graphaics)](https://max.book118.com/html/2017/0307/94565569.shtm)
+* [(github) ASM-for-human-face-feature-points-matching](https://github.com/JiangtianPan/ASM-for-human-face-feature-points-matching)
 
 ### Papers
 
