@@ -19,18 +19,20 @@
 * [(B站) 人工智能 | 基于人体骨架的行为识别](https://www.bilibili.com/video/BV1wt411p7Ut/?spm_id_from=333.788.videocard.0)
 * [(知乎) 计算机视觉技术深度解读之视频动作识别](https://zhuanlan.zhihu.com/p/90041025)
 * [(github) Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+* [(CSDN blog) Kinetics-600 dataset介绍(包括ActivityNet)](https://blog.csdn.net/liuxiao214/article/details/80144375)
 
 
 ## 4) Papers and Sources Codes
 
-### ▶ Survey
-
-* **3D-ResNets(arxiv2020)** Would Mega-scale Datasets Further Enhance Spatiotemporal 3D CNNs? [[arxiv link](https://arxiv.org/abs/2004.04968)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
-
 ### ▶ Papers
+
+* **TSN(ECCV2016)** Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [[arxiv link](https://arxiv.org/abs/1608.00859)][[Codes|PyTorch(offical)](https://github.com/yjxiong/temporal-segment-networks)]
 
 * **I3D(CVPR2017)** Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arxiv link](https://arxiv.org/abs/1705.07750)][[Codes|Tensorflow(offical)](https://github.com/deepmind/kinetics-i3d)][[Codes|PyTorch(unoffical v1)](https://github.com/piergiaj/pytorch-i3d)][[Codes|PyTorch(unoffical v2)](https://github.com/hassony2/kinetics_i3d_pytorch)]
 
+* **RepresentationFlows(CVPR2019)** Representation Flow for Action Recognition [[arxiv link](https://arxiv.org/abs/1810.01455)][[project link](https://piergiaj.github.io/rep-flow-site/)][[Codes|PyTorch(offical)](https://github.com/piergiaj/representation-flow-cvpr19)]
+
+* **3D-ResNets(arxiv2020)** Would Mega-scale Datasets Further Enhance Spatiotemporal 3D CNNs? [[arxiv link](https://arxiv.org/abs/2004.04968)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
 
 
 
