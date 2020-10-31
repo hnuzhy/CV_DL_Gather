@@ -1,16 +1,19 @@
 # Here are collections about other CV topics
 
 **Contents**
-* [⭐Deep Neural Networks](https://github.com/hnuzhy/CV_DL_Gather/blob/master/README-others.md#deepneuralnetworks)
+* [⭐Deep Neural Networks](./README-others.md#deep-neural-networks)
 
 
 
 ## ⭐Deep Neural Networks
 
+### Materials
+
 * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
 * [(CSDN blog) 五大经典卷积神经网络介绍：LeNet / AlexNet / GoogLeNet / VGGNet/ ResNet](https://blog.csdn.net/fendouaini/article/details/79807830)
 * [(cnblogs) Deep Learning回顾#之LeNet、AlexNet、GoogLeNet、VGG、ResNet](https://www.cnblogs.com/52machinelearning/p/5821591.html)
 
+### Papers
 
 ## ⭐Head/Hand Pose Estimation
 
