@@ -16,15 +16,29 @@
 
 * [(github) High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection)
 * [(github) MMDetection: an open source object detection toolbox based on PyTorch by CUHK](https://github.com/open-mmlab/mmdetection)
+* [(github) TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+* [(CSDN blog) 目标检测——One-stage和Two-stage的详解](https://blog.csdn.net/gaoyu1253401563/article/details/86485851)
+* [(CSDN blog) Anchor-free的目标检测文章](https://blog.csdn.net/qq_33547191/article/details/90548564)
+* [(CSDN blog) 目标检测Anchor-free分支：基于关键点的目标检测（最新网络全面超越YOLOv3）](https://blog.csdn.net/qiu931110/article/details/89430747)
 
 
 ## 4) Papers and Sources Codes
 
 ### ▶ Two-stage Anchor based
 
+* **R-FCN(NIPS2016)** R-FCN: Object Detection via Region-based Fully Convolutional Networks [[arxiv link](https://arxiv.org/abs/1605.06409)][[Codes|Caffe&MATLAB(offical)](https://github.com/daijifeng001/R-FCN)][[Codes|Caffe(unoffical)](https://github.com/YuwenXiong/py-R-FCN)]
+
+* **DCN(ICCV2017)** Deformable Convolutional Networks [[arxiv link](https://arxiv.org/abs/1703.06211)][[Codes|MXNet(offical based on R-FCN)](https://github.com/msracver/Deformable-ConvNets)][[Codes|MXNet(unoffical based on R-FCN)](https://github.com/bharatsingh430/Deformable-ConvNets)]
+
+
+
 
 
 ### ▶ One-stage Anchor based
+
+* **RetinaNet(ICCV2017)** Focal Loss for Dense Object Detection [[arxiv link](https://arxiv.org/abs/1708.02002)][[Codes|PyTorch(unoffical)](https://github.com/yhenon/pytorch-retinanet)][[[Codes|Keras(unoffical)](https://github.com/fizyr/keras-retinanet)]
+
+* **Repulsion(CVPR2018)** Repulsion Loss: Detecting Pedestrians in a Crowd [[arxiv link](https://arxiv.org/abs/1711.07752)][[Codes|PyTorch(unoffical using SSD)](https://github.com/bailvwangzi/repulsion_loss_ssd)][[Codes|PyTorch(unoffical using RetinaNet)](https://github.com/rainofmine/Repulsion_Loss)][[CSDN blog](https://blog.csdn.net/gbyy42299/article/details/83956648)]
 
 
 
