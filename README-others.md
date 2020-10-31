@@ -11,6 +11,7 @@
 * [⭐Head Detector](#head-detector)
 * [⭐Head/Hand Pose Estimation](#headhand-pose-estimation)
 * [⭐Image Mosaic](#image-mosaic)
+* [⭐Image Restoration](#image-restoration)
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultanous-location-and-mapping)
@@ -158,6 +159,35 @@
 * [(cnblogs) OpenCV探索之路（二十四）图像拼接和图像融合技术](https://www.cnblogs.com/skyfsm/p/7411961.html)
 
 ### Papers
+
+
+## ⭐Image Restoration
+
+Image restoration includes **image in-painting**, **pixel interpolation**, **image deblurring**, and **image denoising**.
+ 
+### Materials
+
+* [(github) CNN-For-End-to-End-Deblurring (Keras)](https://github.com/axium/CNN-For-End-to-End-Deblurring--Keras)
+
+### Papers
+
+* **DnCNN(TIP2017)** Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising [[paper link](http://www4.comp.polyu.edu.hk/~cslzhang/paper/DnCNN.pdf)][[Codes|MATLAB(offical)](https://github.com/cszn/DnCNN)]
+
+* **MemNet(ICCV2017)** MemNet: A Persistent Memory Network for Image Restoration [[paper link](http://cvlab.cse.msu.edu/pdfs/Image_Restoration%20using_Persistent_Memory_Network.pdf)][[Codes|Matlab(offical)](https://github.com/tyshiwo/MemNet)]
+
+* **pix2pix(CVPR2017)** Image-to-Image Translation with Conditional Adversarial Nets [[arxiv link](https://arxiv.org/abs/1611.07004)][[project link](https://phillipi.github.io/pix2pix/)][[Codes|Torch(offical)](https://github.com/phillipi/pix2pix)][[Codes|PyTorch(offical)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
+
+* **DeepDeblur(CVPR2017)** [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)][[Codes|Torch(offical)](https://github.com/SeungjunNah/DeepDeblur_release)][[Codes|PyTorch(offical)](https://github.com/SeungjunNah/DeepDeblur-PyTorch)]
+
+* **ImageDeblurring(ICCV2017)** Deep Generative Filter for motion deblurring [[arxiv link](https://arxiv.org/abs/1709.03481)][[Codes|Keras&Tensorflow(offical)](https://github.com/leftthomas/ImageDeblurring)]
+
+* **DeblurGAN(CVPR2017)** DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks [[arxiv link](https://arxiv.org/pdf/1711.07064.pdf)][[Codes|PyTorch(offical)](https://github.com/KupynOrest/DeblurGAN)]
+
+* **SRN-Deblur(CVPR2018)** Scale-recurrent Network for Deep Image Deblurring [[paper link](http://www.xtao.website/projects/srndeblur/srndeblur_cvpr18.pdf)][[Codes|Tensorflow(offical)](https://github.com/jiangsutx/SRN-Deblur)]
+
+* **RNN-Deblur(CVPR2018)** Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks [[paper link](https://www.cs.cityu.edu.hk/~rynson/papers/cvpr18c.pdf)][[Codes|Matcaffe(offical)](https://github.com/zhjwustc/cvpr18_rnn_deblur_matcaffe)]
+
+* **Deep-Semantic-Face(CVPR2018)** Deep Semantic Face Deblurring [[paper link](https://research.nvidia.com/sites/default/files/pubs/2018-06_Deep-Semantic-Face//DeepSemanticFaceDeblur_CVPR18.pdf)][[project link](https://research.nvidia.com/publication/2018-06_Deep-Semantic-Face)][[Codes|Matlab(offical)](https://github.com/joanshen0508/Deep-Semantic-Face-Deblurring)]
 
 
 
