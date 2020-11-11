@@ -1,7 +1,7 @@
 # Reinforcement Learning
 
 
-# Lectures and Courses
+## Lectures and Courses
 
 **2020-11-11 强化学习课程tips**
 * 好的机械臂十分昂贵，一般都是机械动力与自动化专业研发设计，不适合采用模拟环境下诞生的强化学习方法来指导生成智能化机械臂；
