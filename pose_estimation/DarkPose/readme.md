@@ -7,7 +7,7 @@ Main authors in this paper are all Chinese from UESTC. For details about test an
 ## 1) Introduction
 DarkPose(DARK means Distribution-Aware coordinate Representation of Keypoint) is from paper named **Distribution-Aware Coordinate Representation for Human Pose Estimation**. It's not a new independent pose estimation algorithm but serving as a plug-in that is attached to a variety of other algorithms. This work fills the gap by studying the coordinate representation with a particular focus on the heatmap. Refer to the figure below. We will explain the details of this paper later.
 
-<img src="./materials/DARKPose.png" width = "400" alt="" align=center />
+<img src="./materials/DARKPose.png" height = "300" alt="" align=center />
 
 
 ## 2) Citation
