@@ -23,8 +23,9 @@
 
 * [(B站 video) 张锋-2D单人人体姿态估计及其应用](https://www.bilibili.com/video/av19006542/)
 * [(B站 video) 人工智能 | 基于人体骨架的行为识别](https://www.bilibili.com/video/BV1wt411p7Ut/?spm_id_from=333.788.videocard.0)
-* [(CSDN blog) Paper List：CVPR 2018 人体姿态估计相关](https://blog.csdn.net/BockSong/article/details/80899689)
 * [(Website) 姿态估计交流网站ilovepose](http://www.ilovepose.cn/)
+* [(CSDN blog) Paper List：CVPR 2018 人体姿态估计相关](https://blog.csdn.net/BockSong/article/details/80899689)
+* [(blog) ECCV 2020 论文大盘点-姿态估计与动作捕捉篇](https://my.oschina.net/u/4580264/blog/4654293)
 * [(github) Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 * [(real time pose in github) tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
 * [(real time pose in github) PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile)
