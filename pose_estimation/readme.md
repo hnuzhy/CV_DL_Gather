@@ -74,11 +74,15 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 * **Single Person Pose Estimation**
 
-① [DeepPose(CVPR2014)](./DeepPose/) Toshev, A., Szegedy, C.: Deeppose: Human pose estimation via deep neural networks. In: CVPR. (2014)
+① [DeepPose(CVPR2014)](./DeepPose/) Toshev, A., Szegedy, C.: DeepPose: Human Pose Estimation via Deep Neural Networks. In: CVPR. (2014)
 
-② [StackedHourglass(ECCV2016)](./StackedHourglass/) Newell, A., Yang, K., Deng, J.: Stacked hourglass networks for human pose estimation. In: ECCV. (2016)
+② [PoseMachines(ECCV2014)](./PoseMachines/) Ramakrishna V , Munoz D , Hebert M , et al. Pose Machines: Articulated Pose Estimation via Inference Machines. In: ECCV. (2014)
 
-③ [CPM(CVPR2016)](./CPM/) Wei, S.E., Ramakrishna, V., Kanade, T., Sheikh, Y.: Convolutional pose machines. In: CVPR. (2016)
+③ [StackedHourglass(ECCV2016)](./StackedHourglass/) Newell, A., Yang, K., Deng, J.: Stacked hourglass networks for human pose estimation. In: ECCV. (2016)
+
+④ [CPM(CVPR2016)](./CPM/) Wei, S.E., Ramakrishna, V., Kanade, T., Sheikh, Y.: Convolutional pose machines. In: CVPR. (2016)
+
+⑥ [UniPose(CVPR2020)](./UniPose/) Artacho B , Savakis A . UniPose: Unified Human Pose Estimation in Single Images and Videos. In: CVPR. (2020)
 
 * **Multi-Person Pose Estimation: Top-down**
 
@@ -88,11 +92,13 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 
 ③ [RMPE(ICCV2017)](./RMPE/) Fang, H.S., Xie, S., Tai, Y.W., Lu, C.: RMPE: Regional multi-person pose estimation. In: ICCV. (2017)
 
-④ [HRNet(CVPR2019)](./HRNet/) Sun K , Xiao B , Liu D , et al. Deep High-Resolution Representation Learning for Human Pose Estimation. In: CVPR. (2019)
+④ [CPN(CVPR2018)](./CPN/) Chen Y , Wang Z , Peng Y , et al. Cascaded Pyramid Network for Multi-Person Pose Estimation[J]. In: CVPR. (2018)
 
-⑤ [DarkPose(CVPR2020)](./DarkPose) Zhang F , Zhu X , Dai H , et al. Distribution-Aware Coordinate Representation for Human Pose Estimation[C]// 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2020.
+⑤ [HRNet(CVPR2019)](./HRNet/) Sun K , Xiao B , Liu D , et al. Deep High-Resolution Representation Learning for Human Pose Estimation. In: CVPR. (2019)
 
-⑥ [UDP-Pose(CVPR2020)](./UDP-Pose) Huang J , Zhu Z , Guo F , et al. The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation[C]// 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2020.
+⑥ [DarkPose(CVPR2020)](./DarkPose) Zhang F , Zhu X , Dai H , et al. Distribution-Aware Coordinate Representation for Human Pose Estimation[C]// 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2020.
+
+⑦ [UDP-Pose(CVPR2020)](./UDP-Pose) Huang J , Zhu Z , Guo F , et al. The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation[C]// 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2020.
 
 * **Multi-Person Pose Estimation: Bottom-up**
 
