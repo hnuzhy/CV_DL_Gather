@@ -26,6 +26,7 @@
 * [(Website) 姿态估计交流网站ilovepose](http://www.ilovepose.cn/)
 * [(CSDN blog) Paper List：CVPR 2018 人体姿态估计相关](https://blog.csdn.net/BockSong/article/details/80899689)
 * [(blog) ECCV 2020 论文大盘点-姿态估计与动作捕捉篇](https://my.oschina.net/u/4580264/blog/4654293)
+* [(blog) ECCV 2020 论文大盘点-3D人体姿态估计篇](https://xw.qq.com/cmsid/20200930A03Q3Y00)
 * [(github) Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 * [(real time pose in github) tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
 * [(real time pose in github) PoseEstimationForMobile](https://github.com/edvardHua/PoseEstimationForMobile)
