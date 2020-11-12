@@ -6,17 +6,18 @@ Authors are all Chinese from Institute of Automation, Chinese Academy of Science
 
 ## 0) Abstract
 
-![img0](./materials/Abstract.png)
+<img src="./materials/Abstract.png" width = "200" alt="" align=center />
 
 ## 1) Introduction
 
 UDP-Pose is either a new backbone for pose estimation nor a novel independent algorithm. It focuses on *Unbiased Data Processing* before data training and also subsequent infenence. UDP-Pose works as a plug-in for SOTA MPPE methods including HRNet and SimplePose to futher improve their mAP with less GFLOPS burden increase.
 
-![img1](./materials/UDP_plug-in.png)
+<img src="./materials/UDP_plug-in.png" width = "200" alt="" align=center />
 
 The main contribution of UDP-Pose is to discover the defects of current pose estimation algorithms during data processing both in training and infenence, and then propose an unbiased data transformation pipeline. This method can be used as a model independent plug-in, combined with other methods, to enhance their mAP on the common datasets. Illustration for the processes between *standard biased data transformation* and proposed *unbiased data transformation* is below. In this paper, a lot of complicated mathematical formulas of error analysis are involved. Comprehension of my reading will be showed later.
 
-![img2](./materials/UnbiasedDataProcessing.png)
+<img src="./materials/UnbiasedDataProcessing.png" width = "200" alt="" align=center />
+
 
 ## 2) Intensive Reading
 
