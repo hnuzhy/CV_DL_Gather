@@ -2,6 +2,7 @@
 
 ## 1) Pubilc Datasets and Challenges
 
+* [The Weizmann Dataset (year 2005)](http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html)
 * [Moments in Time Dataset](http://moments.csail.mit.edu/)
 * [Charades Challenge (Recognize and locate activities taking place in a video)](http://vuchallenge.org/charades.html)
 * [ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding](http://activity-net.org/)
