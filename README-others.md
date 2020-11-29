@@ -70,6 +70,7 @@
 * [(CSDN blogs) 人脸检测（十八）--TinyFace(S3FD,SSH,HR,RSA,Face R-CNN,PyramidBox)](https://blog.csdn.net/App_12062011/article/details/80534351)
 * [(github) e2e-joint-face-detection-and-alignment](https://github.com/KaleidoZhouYN/e2e-joint-face-detection-and-alignment)
 * [(github) libfacedetection in PyTorch](https://github.com/ShiqiYu/libfacedetection/)
+* [(github) 1MB lightweight face detection model (1MB轻量级人脸检测模型)](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 
 ### Papers
 
