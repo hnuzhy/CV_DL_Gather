@@ -52,3 +52,5 @@
 
 * **FCOS(ICCV2019)** FCOS: Fully Convolutional One-Stage Object Detection [[arxiv link](https://arxiv.org/abs/1904.01355)][[Codes|PyTorch_MASK_RCNN(offical)](https://github.com/tianzhi0549/FCOS)][[Codes|PyTorch(unoffical improved)](https://github.com/yqyao/FCOS_PLUS)][[Codes|PyTorch(unoffical using HRNet as backbone)](https://github.com/HRNet/HRNet-FCOS)][[blog_zhihu](https://zhuanlan.zhihu.com/p/63868458)]
 
+* **VFNet(arxiv2020)** VarifocalNet: An IoU-aware Dense Object Detector [[arxiv link](https://arxiv.org/abs/2008.13367)][[Codes|offical with MMDetection & PyTorch](https://github.com/hyz-xmaster/VarifocalNet)]
+
