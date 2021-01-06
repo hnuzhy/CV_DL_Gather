@@ -63,21 +63,42 @@
 
 * **Two-Stream(NIPS2014)** Two-Stream Convolutional Networks for Action Recognition in Videos [[arxiv link](http://de.arxiv.org/pdf/1406.2199)]
 
-* **two-stream fusion(CVPR2016)** Convolutional Two-Stream Network Fusion for Video Action Recognition [[arxiv link](https://arxiv.org/abs/1604.06573)][[Codes|offical Matlab](https://github.com/feichtenhofer/twostreamfusion)]
+* **two-stream+LSTM(CVPR2015)** Long-term Recurrent Convolutional Networks for Visual Recognition and Description [[arxiv link](https://arxiv.org/abs/1411.4389)][[project link](http://jeffdonahue.com/lrcn/)][[Codes|offical](https://github.com/woodfrog/ActionRecognition)]
 
-* **TSN(ECCV2016)** Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [[arxiv link](https://arxiv.org/abs/1608.00859)][[Codes|PyTorch(offical)](https://github.com/yjxiong/temporal-segment-networks)]
+* **two-stream+LSTM(CVPR2015)** Beyond short snippets: Deep networks for video classification [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Ng_Beyond_Short_Snippets_2015_CVPR_paper.html)]
 
-* **密集扩张网络(TIP2019)** Dense Dilated Network for Video Action Recognition [[](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8720204)]
+* **two-stream fusion(CVPR2016)** Convolutional Two-Stream Network Fusion for Video Action Recognition [[arxiv link](https://arxiv.org/abs/1604.06573)][[Codes|offical Matlab MatConvNet](https://github.com/feichtenhofer/twostreamfusion)]
+
+* **TSN(ECCV2016)** Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [[arxiv link](https://arxiv.org/abs/1608.00859)][[project link](http://yjxiong.me/others/tsn/)][[Codes|PyTorch(offical)](https://github.com/yjxiong/temporal-segment-networks)]
+
+* **Co-occurrence+LSTM(+pose)(AAAI2016)** Co-occurrence Feature Learning for Skeleton based Action Recognition using Regularized Deep LSTM Networks [[arxiv link](https://arxiv.org/abs/1603.07772)]
+
+* **RNN-based(+pose)(ECCV2016)** Online Human Action Detection using Joint Classification-Regression Recurrent Neural Networks [[arxiv link](https://arxiv.org/abs/1604.05633)]
+
+* **TSN-based improved 1(CVPR2017)** Deep Local Video Feature for Action Recognition [[arxiv link](https://arxiv.org/abs/1701.07368)]
+
+* **ST+Attention+LSTM(+pose)(AAAI2017)** An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data [[arxiv link](https://arxiv.org/abs/1611.06067)]
+
+* **TRN(TSN-based improved 2)(ECCV2018)** Temporal Relational Reasoning in Videos [[arxiv link](https://arxiv.org/pdf/1711.08496.pdf)]
+
+* **ST-GCN(+openpose)(AAAI2018)** Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[arxiv link](https://arxiv.org/abs/1801.07455)]
+
+* **密集扩张网络(TIP2019)** Dense Dilated Network for Video Action Recognition [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8720204)]
+
 
 #### 3) 基于三维卷积的神经网络(3D-ConvNet)
 
-* **C3D(ICCV2015)** Learning Spatiotemporal Features with 3D Convolutional Networks [[arxiv link](https://arxiv.org/pdf/1412.0767.pdf)][[paper link](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.html)]
+* **C3D(ICCV2015)** Learning Spatiotemporal Features with 3D Convolutional Networks [[arxiv link](https://arxiv.org/pdf/1412.0767.pdf)][[paper link](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.html)][[project link](https://vlg.cs.dartmouth.edu/c3d/)][[Codes|offical caffe](https://github.com/facebookarchive/C3D)]
 
 * **3D-ResNets(CVPR2018)** Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? [[arxiv link](https://arxiv.org/abs/1711.09577)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.pdf)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
 
-* **P3D(ICCV2017)** Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks [[arxiv link](https://arxiv.org/abs/1711.10305)]
+* **I3D(Facebook, use inception-V1)(CVPR2017)** Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arxiv link](https://arxiv.org/abs/1705.07750)][[Codes|Tensorflow(offical)](https://github.com/deepmind/kinetics-i3d)][[Codes|PyTorch(unoffical v1)](https://github.com/piergiaj/pytorch-i3d)][[Codes|PyTorch(unoffical v2)](https://github.com/hassony2/kinetics_i3d_pytorch)]
 
-* **I3D(CVPR2017)** Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arxiv link](https://arxiv.org/abs/1705.07750)][[Codes|Tensorflow(offical)](https://github.com/deepmind/kinetics-i3d)][[Codes|PyTorch(unoffical v1)](https://github.com/piergiaj/pytorch-i3d)][[Codes|PyTorch(unoffical v2)](https://github.com/hassony2/kinetics_i3d_pytorch)]
+* **T3D(CVPR2017)** Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification [[arxiv link](https://arxiv.org/abs/1711.08200)][[Codes|offical PyTorch](https://github.com/MohsenFayyaz89/T3D)]
+
+* **TPC(based on CDC)(AAAI2018)** Exploring Temporal Preservation Networks for Precise Temporal Action Localization [[arxiv link](https://arxiv.org/abs/1708.03280)]
+
+* **P3D(MSRA)(ICCV2017)** Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks [[arxiv link](https://arxiv.org/abs/1711.10305)][[CSDN blog](https://blog.csdn.net/u014380165/article/details/78986416)]
 
 * **3D-ResNets(arxiv2020)** Would Mega-scale Datasets Further Enhance Spatiotemporal 3D CNNs? [[arxiv link](https://arxiv.org/abs/2004.04968)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
 
@@ -86,7 +107,7 @@
 
 #### 4) 基于长短记忆网络(LSTM)
 
-* **LSTM-based(CVPR2015)** Long-term Recurrent Convolutional Networks for Visual Recognition and Description [[arxiv link](https://arxiv.org/abs/1411.4389)]
+* **two-stream+LSTM(CVPR2015)** Long-term Recurrent Convolutional Networks for Visual Recognition and Description [[arxiv link](https://arxiv.org/abs/1411.4389)][[project link](http://jeffdonahue.com/lrcn/)][[Codes|offical](https://github.com/woodfrog/ActionRecognition)]
 
 
 
