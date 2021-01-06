@@ -25,6 +25,7 @@
 * [(github) Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
 * [(CSDN blog) Kinetics-600 dataset介绍(包括ActivityNet)](https://blog.csdn.net/liuxiao214/article/details/80144375)
 * [(CSDN blog) 计算机视觉技术深度解读之视频动作识别](https://baijiahao.baidu.com/s?id=1649249453982510365&wfr=spider&for=pc)
+* [(CSDN blog) 视频行为识别检测综述 IDT TSN CNN-LSTM C3D CDC R-C3D](https://blog.csdn.net/xiaoxiaowenqiang/article/details/80752849)
 * [(CSDN blog) 行为识别数据集汇总](https://blog.csdn.net/u012507022/article/details/52876179)
 
 
@@ -51,15 +52,18 @@
 
 * **光流直方图(CVPR2008)** Learning Realistic Human Actions from Movies [[paper link](https://www2.cs.sfu.ca/~mori/courses/cmpt888/summer10/papers/laptev_cvpr08.pdf)]
 
-* **密集轨迹特征(ICCV2013)** Action Recognition with Improved Trajectories [[paper link](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)]
+* **密集轨迹特征DT(CVPR2011)** Action Recognition by Dense Trajectories [[paper link](http://www.nlpr.ia.ac.cn/2011papers/gjhy/gh37.pdf)][[project link](https://lear.inrialpes.fr/people/wang/improved_trajectories)][[Codes|offical C++](https://github.com/chensun11/dtfv)]
 
+* **密集轨迹特征iDT(ICCV2013)** Action Recognition with Improved Trajectories [[paper link](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)][[CSDN blog1](https://blog.csdn.net/wzmsltw/article/details/53023363)][[CSDN blog2](https://blog.csdn.net/wzmsltw/article/details/53221179)]
 
 * **RepresentationFlows(CVPR2019)** Representation Flow for Action Recognition [[arxiv link](https://arxiv.org/abs/1810.01455)][[project link](https://piergiaj.github.io/rep-flow-site/)][[Codes|PyTorch(offical)](https://github.com/piergiaj/representation-flow-cvpr19)]
 
 
-#### 2) 基于双流神经网络(Two-Stream)
+#### 2) 基于时空双流神经网络(Two-Stream)
 
 * **Two-Stream(NIPS2014)** Two-Stream Convolutional Networks for Action Recognition in Videos [[arxiv link](http://de.arxiv.org/pdf/1406.2199)]
+
+* **two-stream fusion(CVPR2016)** Convolutional Two-Stream Network Fusion for Video Action Recognition [[arxiv link](https://arxiv.org/abs/1604.06573)][[Codes|offical Matlab](https://github.com/feichtenhofer/twostreamfusion)]
 
 * **TSN(ECCV2016)** Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [[arxiv link](https://arxiv.org/abs/1608.00859)][[Codes|PyTorch(offical)](https://github.com/yjxiong/temporal-segment-networks)]
 
