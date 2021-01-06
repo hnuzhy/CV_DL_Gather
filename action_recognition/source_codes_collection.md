@@ -42,13 +42,61 @@
 
 ### ▶ Technique Papers
 
-* **TSN(ECCV2016)** Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [[arxiv link](https://arxiv.org/abs/1608.00859)][[Codes|PyTorch(offical)](https://github.com/yjxiong/temporal-segment-networks)]
+#### 1) 基于人工特征(Manual-Features)
 
-* **I3D(CVPR2017)** Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arxiv link](https://arxiv.org/abs/1705.07750)][[Codes|Tensorflow(offical)](https://github.com/deepmind/kinetics-i3d)][[Codes|PyTorch(unoffical v1)](https://github.com/piergiaj/pytorch-i3d)][[Codes|PyTorch(unoffical v2)](https://github.com/hassony2/kinetics_i3d_pytorch)]
+* **梯度直方图HOG(CVPR2005)** Histograms of Oriented Gradients for Human Detection [[paper link](https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/HOG.pdf)]
+
+* **时空兴趣点检测(IJCV2005)** On Space-Time Interest Points [[paper link](http://read.pudn.com/downloads142/doc/614011/2005_ijcv_laptev.pdf)]
+
+* **光流直方图(CVPR2008)** Learning Realistic Human Actions from Movies [[paper link](https://www2.cs.sfu.ca/~mori/courses/cmpt888/summer10/papers/laptev_cvpr08.pdf)]
+
+* **密集轨迹特征(ICCV2013)** Action Recognition with Improved Trajectories [[paper link](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf)]
+
 
 * **RepresentationFlows(CVPR2019)** Representation Flow for Action Recognition [[arxiv link](https://arxiv.org/abs/1810.01455)][[project link](https://piergiaj.github.io/rep-flow-site/)][[Codes|PyTorch(offical)](https://github.com/piergiaj/representation-flow-cvpr19)]
 
+
+#### 2) 基于双流神经网络(Two-Stream)
+
+* **Two-Stream(NIPS2014)** Two-Stream Convolutional Networks for Action Recognition in Videos [[arxiv link](http://de.arxiv.org/pdf/1406.2199)]
+
+* **TSN(ECCV2016)** Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [[arxiv link](https://arxiv.org/abs/1608.00859)][[Codes|PyTorch(offical)](https://github.com/yjxiong/temporal-segment-networks)]
+
+* **密集扩张网络(TIP2019)** Dense Dilated Network for Video Action Recognition [[](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8720204)]
+
+#### 3) 基于三维卷积的神经网络(3D-ConvNet)
+
+* **C3D(ICCV2015)** Learning Spatiotemporal Features with 3D Convolutional Networks [[arxiv link](https://arxiv.org/pdf/1412.0767.pdf)][[paper link](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.html)]
+
+* **3D-ResNets(CVPR2018)** Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? [[arxiv link](https://arxiv.org/abs/1711.09577)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.pdf)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
+
+* **P3D(ICCV2017)** Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks [[arxiv link](https://arxiv.org/abs/1711.10305)]
+
+* **I3D(CVPR2017)** Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset [[arxiv link](https://arxiv.org/abs/1705.07750)][[Codes|Tensorflow(offical)](https://github.com/deepmind/kinetics-i3d)][[Codes|PyTorch(unoffical v1)](https://github.com/piergiaj/pytorch-i3d)][[Codes|PyTorch(unoffical v2)](https://github.com/hassony2/kinetics_i3d_pytorch)]
+
 * **3D-ResNets(arxiv2020)** Would Mega-scale Datasets Further Enhance Spatiotemporal 3D CNNs? [[arxiv link](https://arxiv.org/abs/2004.04968)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
+
+
+
+
+#### 4) 基于长短记忆网络(LSTM)
+
+* **LSTM-based(CVPR2015)** Long-term Recurrent Convolutional Networks for Visual Recognition and Description [[arxiv link](https://arxiv.org/abs/1411.4389)]
+
+
+
+#### 5) 基于对抗神经网络(GAN)
+
+* **GAN-based(IJCAI2018)** Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks [[arxiv link](https://arxiv.org/abs/1805.04384)]
+
+
+
+
+
+
+
+
+
 
 
 
