@@ -96,9 +96,9 @@
 
 * **T3D(CVPR2017)** Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification [[arxiv link](https://arxiv.org/abs/1711.08200)][[Codes|offical PyTorch](https://github.com/MohsenFayyaz89/T3D)]
 
-* **TPC(based on CDC)(AAAI2018)** Exploring Temporal Preservation Networks for Precise Temporal Action Localization [[arxiv link](https://arxiv.org/abs/1708.03280)]
-
 * **P3D(MSRA)(ICCV2017)** Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks [[arxiv link](https://arxiv.org/abs/1711.10305)][[CSDN blog](https://blog.csdn.net/u014380165/article/details/78986416)]
+
+* **TPC(based on CDC)(AAAI2018)** Exploring Temporal Preservation Networks for Precise Temporal Action Localization [[arxiv link](https://arxiv.org/abs/1708.03280)]
 
 * **3D-ResNets(arxiv2020)** Would Mega-scale Datasets Further Enhance Spatiotemporal 3D CNNs? [[arxiv link](https://arxiv.org/abs/2004.04968)][[Codes|PyTorch(offical)](https://github.com/kenshohara/3D-ResNets-PyTorch)]
 
