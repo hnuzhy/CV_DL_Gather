@@ -4,6 +4,7 @@
 
 * [The KTH Dataset: Recognition of human actions (year 2004)](https://www.csc.kth.se/cvap/actions/)
 * [The Weizmann Dataset (year 2005)](http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html)
+* [HMDB: a large human motion database (year 2011)](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#dataset)
 * [Moments in Time Dataset](http://moments.csail.mit.edu/)
 * [Charades Challenge (Recognize and locate activities taking place in a video)](http://vuchallenge.org/charades.html)
 * [ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding](http://activity-net.org/)
