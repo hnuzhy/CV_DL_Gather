@@ -238,6 +238,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * [(github) Traffic-Rules-Violation-Detection (mobilenet-v1)](https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection)
 * [(github) Traffic-Rules-Violation-Detection-System (mobilenet-v1)](https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System)
 * [(github) Fully-Automated-red-light-Violation-Detection (Tensorflow based YOLOv3)](https://github.com/AhmadYahya97/Fully-Automated-red-light-Violation-Detection)
+* [(github) yolov3-vehicle-detection-paddle](https://github.com/Sharpiless/yolov3-vehicle-detection-paddle) [[CSDN link](https://blog.csdn.net/weixin_45449540/article/details/107345738)]
 
 ### Papers
 
