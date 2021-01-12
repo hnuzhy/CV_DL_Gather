@@ -15,6 +15,7 @@
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultanous-location-and-mapping)
+* [⭐Traffic Violation Detection](#traffic-violation-detection)
 
 
 
@@ -228,4 +229,15 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 ### Papers
 
 
+## ⭐Traffic Violation Detection]
+
+### Materials
+
+* [(github) Traffic-Rule-Violation-Detection-System (Tensorflow + OpenALPR )](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System)
+* [(github) Traffic-Signal-Violation-Detection-System (Tensorflow based YOLOv3)](https://github.com/anmspro/Traffic-Signal-Violation-Detection-System)
+* [(github) Traffic-Rules-Violation-Detection (mobilenet-v1)](https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection)
+* [(github) Traffic-Rules-Violation-Detection-System (mobilenet-v1)](https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System)
+* [(github) Fully-Automated-red-light-Violation-Detection (Tensorflow based YOLOv3)](https://github.com/AhmadYahya97/Fully-Automated-red-light-Violation-Detection)
+
+### Papers
 
