@@ -27,6 +27,7 @@
 * [(CSDN blog) 计算机视觉技术深度解读之视频动作识别](https://baijiahao.baidu.com/s?id=1649249453982510365&wfr=spider&for=pc)
 * [(CSDN blog) 视频行为识别检测综述 IDT TSN CNN-LSTM C3D CDC R-C3D](https://blog.csdn.net/xiaoxiaowenqiang/article/details/80752849)
 * [(CSDN blog) 行为识别数据集汇总](https://blog.csdn.net/u012507022/article/details/52876179)
+* [(CSDN blog) CVPR 2020 论文大盘点-动作识别篇](https://blog.csdn.net/moxibingdao/article/details/107329002)
 
 
 ## 4) Papers and Sources Codes
