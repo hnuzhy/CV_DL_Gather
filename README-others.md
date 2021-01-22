@@ -1,7 +1,10 @@
 # Here are collections about other CV topics
 
+
+
 **Contents Hyperlinks**
 
+* [⭐3D Camera](#3d-camera)
 * [⭐Beautify Face](#beautify-face)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Face Alignment](#face-alignment)
@@ -12,10 +15,21 @@
 * [⭐Head/Hand Pose Estimation](#headhand-pose-estimation)
 * [⭐Image Mosaic](#image-mosaic)
 * [⭐Image Restoration](#image-restoration)
+* [⭐Lane Detection](#lane-detection)
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultanous-location-and-mapping)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
+
+
+## ⭐3D Camera
+
+### Materials
+
+* [(website) A Comprehensive List of 3D Sensors Commonly Leveraged in ROS Development](https://rosindustrial.org/3d-camera-survey)
+* [(CSDN) 【深度相机系列六】深度相机哪家强？附详细参数对比清单](https://blog.csdn.net/electech6/article/details/78907463)
+
+### Papers
 
 
 
@@ -163,6 +177,7 @@
 
 ### Materials
 
+* [(zhihu) 基于图像的三维建模——特征点检测与匹配](https://zhuanlan.zhihu.com/p/128937547)
 * [(website) 图像拼接算法的综述 - A survey on image mosaicing techniques](http://s1nh.org/post/A-survey-on-image-mosaicing-techniques/)
 * [(cnblogs) OpenCV探索之路（二十四）图像拼接和图像融合技术](https://www.cnblogs.com/skyfsm/p/7411961.html)
 
@@ -198,6 +213,17 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * **Deep-Semantic-Face(CVPR2018)** Deep Semantic Face Deblurring [[paper link](https://research.nvidia.com/sites/default/files/pubs/2018-06_Deep-Semantic-Face//DeepSemanticFaceDeblur_CVPR18.pdf)][[project link](https://research.nvidia.com/publication/2018-06_Deep-Semantic-Face)][[Codes|Matlab(offical)](https://github.com/joanshen0508/Deep-Semantic-Face-Deblurring)]
 
 
+## ⭐Lane Detection
+
+### Materials
+
+
+### Papers
+
+* **LaneNet(IVS2018)** Towards End-to-End Lane Detection: an Instance Segmentation Approach [[arxiv link](https://arxiv.org/abs/1802.05591)][[project link](https://maybeshewill-cv.github.io/lanenet-lane-detection/)][[Codes|unoffical TF](https://github.com/MaybeShewill-CV/lanenet-lane-detection)]
+
+* **UltraLane(ECCV2020)** Ultra Fast Structure-aware Deep Lane Detection [[arxiv link](https://arxiv.org/abs/2004.11757)][[Codes|offical PyTorch](https://github.com/cfzd/Ultra-Fast-Lane-Detection)]
+
 
 ## ⭐Pedestrian Localization
 
@@ -229,7 +255,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 ### Papers
 
 
-## ⭐Traffic Violation Detection]
+## ⭐Traffic Violation Detection
 
 ### Materials
 
