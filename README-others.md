@@ -180,8 +180,19 @@
 * [(zhihu) 基于图像的三维建模——特征点检测与匹配](https://zhuanlan.zhihu.com/p/128937547)
 * [(website) 图像拼接算法的综述 - A survey on image mosaicing techniques](http://s1nh.org/post/A-survey-on-image-mosaicing-techniques/)
 * [(cnblogs) OpenCV探索之路（二十四）图像拼接和图像融合技术](https://www.cnblogs.com/skyfsm/p/7411961.html)
+* [(zhihu - YaqiLYU) 图像拼接现在还有研究的价值吗？有哪些可以研究的点？现在技术发展如何？](https://www.zhihu.com/question/34535199/answer/135169187)
+* [(zhihu - YaqiLYU) 目前最成熟的全景视频拼接技术是怎样的？](https://www.zhihu.com/question/34573969/answer/136464893)
+* [(opencv docs) Feature Detection and Description](https://docs.opencv.org/master/db/d27/tutorial_py_table_of_contents_feature2d.html)
+* [(github) [Real-Time Image Stitching] CS205 Computing Foundations for Computational Science Final Project(C++)](https://github.com/ziqiguo/CS205-ImageStitching)
+* [(github) [Image and Video Stitching] Conducts image stitching upon an input video to generate a panorama in 3D(Python)](https://github.com/WillBrennan/ImageStitching)
+* [(github) Multiple Image stitching in Python](https://github.com/kushalvyas/Python-Multiple-Image-Stitching)
+
 
 ### Papers
+
+* **NISwGSP(ECCV2016)** Natural Image Stitching with the Global Similarity Prior [[paper link](https://link.springer.com/chapter/10.1007%2F978-3-319-46454-1_12)][[Codes|offical C++ & Matlab](https://github.com/nothinglo/NISwGSP)]
+
+* **VFSMS(CMS2019)** A Fast Algorithm for Material Image Sequential Stitching [[paper link](http://www.sciencedirect.com/science/article/pii/S0927025618307158)][[software](https://www.mgedata.cn/app_entrance/microscope)][[Codes|offical python & C++](https://github.com/Keep-Passion/ImageStitch)]
 
 
 ## ⭐Image Restoration
