@@ -178,6 +178,9 @@
 
 * **DensePose(CVPR2018)** DensePose: Dense Human Pose Estimation In The Wild [[arxiv link](https://arxiv.org/abs/1802.00434)][[project link](http://densepose.org/)][[Codes|Caffe2(offical)](https://github.com/facebookresearch/Densepose)]
 
-* **RF-Pose(CVPR2018)** Through-Wall Human Pose Estimation Using Radio Signals [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)][[project link](http://rfpose.csail.mit.edu/)]
+* **RF-Pose(CVPR2018)(radio frequency)** Through-Wall Human Pose Estimation Using Radio Signals [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)][[project link](http://rfpose.csail.mit.edu/)]
+
+* **DoubleFusion(TPAMI2019)(3D single-view real-time depth-sensor)** DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor [[arxiv link](https://arxiv.org/pdf/1804.06023.pdf)]
+
 
 
