@@ -44,9 +44,9 @@
 
 * **(NIPS2014)(heatmaps)** Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1406.2984v1)]
 
-* **PoseMachines(ECCV2014)(regression)** Pose Machines: Articulated Pose Estimation via Inference Machines [[paper link](https://www.ri.cmu.edu/pub_files/2014/7/poseMachines.pdf)][[project link](http://www.cs.cmu.edu/~vramakri/poseMachines.html)]
+* ⭐**PoseMachines(ECCV2014)(regression)** Pose Machines: Articulated Pose Estimation via Inference Machines [[paper link](https://www.ri.cmu.edu/pub_files/2014/7/poseMachines.pdf)][[project link](http://www.cs.cmu.edu/~vramakri/poseMachines.html)]
 
-* **DeepPose(CVPR2014)(AlexNet based)(regression)** DeepPose: Human Pose Estimation via Deep Neural Networks [[arxiv link](https://arxiv.org/abs/1312.4659)][[Codes|OpenCV(unoffical)](https://github.com/mitmul/deeppose)]
+* ⭐**DeepPose(CVPR2014)(AlexNet based)(regression)** DeepPose: Human Pose Estimation via Deep Neural Networks [[arxiv link](https://arxiv.org/abs/1312.4659)][[Codes|OpenCV(unoffical)](https://github.com/mitmul/deeppose)]
 
 * **(ICCV2015)(video based)** Flowing ConvNets for Human Pose Estimation in Videos [[arxiv link](https://arxiv.org/abs/1506.02897)]
 
@@ -58,9 +58,9 @@
 
 * **IEF(CVPR2016)(GoogleNet Based)(regression)** Human Pose Estimation with Iterative Error Feedback [[arxiv link](https://arxiv.org/abs/1507.06550)]
 
-* **CPM(CVPR2016)(heatmaps)** Convolutional Pose Machines [[arxiv link](https://arxiv.org/abs/1602.00134)][[Codes|Caffe(offical)](https://github.com/shihenw/convolutional-pose-machines-release)][[Codes|Tensorflow(unoffical)](https://github.com/psycharo/cpm)]
+* ⭐**CPM(CVPR2016)(heatmaps)** Convolutional Pose Machines [[arxiv link](https://arxiv.org/abs/1602.00134)][[Codes|Caffe(offical)](https://github.com/shihenw/convolutional-pose-machines-release)][[Codes|Tensorflow(unoffical)](https://github.com/psycharo/cpm)]
 
-* **StackHourglass(ECCV2016)(heatmaps)** Stacked Hourglass Networks for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1603.06937)][[Codes|Torch7(offical old)](https://github.com/princeton-vl/pose-hg-train)][[Codes|PyTorch(offical new)](https://github.com/princeton-vl/pytorch_stacked_hourglass)][[Codes|Tensorflow(unoffical)](https://github.com/wbenbihi/hourglasstensorlfow)]
+* ⭐**StackedHourglass(ECCV2016)(heatmaps)** Stacked Hourglass Networks for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1603.06937)][[Codes|Torch7(offical old)](https://github.com/princeton-vl/pose-hg-train)][[Codes|PyTorch(offical new)](https://github.com/princeton-vl/pytorch_stacked_hourglass)][[Codes|Tensorflow(unoffical)](https://github.com/wbenbihi/hourglasstensorlfow)]
 
 * **HourglassResidualUnits(HRUs)(CVPR2017)(heatmaps)** Multi-context Attention for Human Pose Estimation [[arciv link](https://arxiv.org/abs/1702.07432)]
 
@@ -69,7 +69,6 @@
 * **(ICCV2017)(ResNet-50 Based)(regression)** Compositional Human Pose Regression [[arxiv link](https://arxiv.org/abs/1704.00159)]
 
 * **Adversarial-PoseNet(ICCV2017)(GAN)** Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1705.00389)][[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
-
 
 * **(ECCV2018)(structure information)** Multi-Scale Structure-Aware Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1803.09894)]
 
