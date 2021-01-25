@@ -68,12 +68,11 @@
 
 * **(ICCV2017)(ResNet-50 Based)(regression)** Compositional Human Pose Regression [[arxiv link](https://arxiv.org/abs/1704.00159)]
 
-* **Adversarial-PoseNet(ICCV2017)(GAN)** Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1705.00389)][[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
+* ⭐**Adversarial-PoseNet(ICCV2017)(GAN)** Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1705.00389)][[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
 
 * **(ECCV2018)(structure information)** Multi-Scale Structure-Aware Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1803.09894)]
 
 * **(ECCV2018)(structure information)** Deeply Learned Compositional Models for Human Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007%2F978-3-030-01219-9_12)]
-
 
 * **(CVPR2018)(multi-task/video based)(regression)** 2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning [[arxiv link](https://arxiv.org/abs/1802.09232)]
 
@@ -85,24 +84,47 @@
 
 
 
+
 ### ▶ Two-Stage Top-Down Multiple Person Pose Estimation
 
-* **DeeperCut(ECCV2016)** DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model [[arxiv link](http://arxiv.org/abs/1605.03170)][[project link](http://pose.mpi-inf.mpg.de/#)][[Codes|Tensorflow(offical)](https://github.com/eldar/pose-tensorflow)]
+* **(ECCV2016)** Multi-Person Pose Estimation with Local Joint-to-Person Associations [[arxiv link](https://arxiv.org/abs/1608.08526)]
 
-* **AlphaPose(ICCV2017)** RMPE: Regional Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/1612.00137)][[project link](https://www.mvig.org/research/alphapose.html)][[Codes|PyTorch(offical)](https://github.com/MVIG-SJTU/AlphaPose)]
+* ⭐**DeeperCut(ECCV2016)** DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model [[arxiv link](http://arxiv.org/abs/1605.03170)][[project link](http://pose.mpi-inf.mpg.de/#)][[Codes|Tensorflow(offical)](https://github.com/eldar/pose-tensorflow)]
 
-* **SimpleBaseline(ECCV2018)** Simple Baselines for Human Pose Estimation and Tracking [[arxiv link](https://arxiv.org/abs/1804.06208)][[Codes|PyTorch(offical)](https://github.com/Microsoft/human-pose-estimation.pytorch)][[Codes|PyTorch(flowtrack part)](https://github.com/simochen/flowtrack.pytorch)]
+* **(CVPR2017)** Towards Accurate Multi-person Pose Estimation in the Wild [[arxiv link](https://arxiv.org/abs/1701.01779)]
 
-* **CPN(CVPR2018)** Cascaded Pyramid Network for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1711.07319)][[Codes|Tensorflow(offical)](https://github.com/chenyilun95/tf-cpn)][[Codes|Tensorflow(offical megvii)](https://github.com/megvii-detection/tf-cpn)][[zhihu blogs](https://zhuanlan.zhihu.com/p/37582402)]
+* **(ICCV2017)** A Coarse-Fine Network for Keypoint Localization [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Huang_A_Coarse-Fine_Network_ICCV_2017_paper.html)]
 
-* **HRNet(CVPR2019)** Deep High-Resolution Representation Learning for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1902.09212)][[Codes|PyTorch(offical)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)][[Codes|(Repositories using HRNet as backbone)](https://github.com/HRNet)][[Codes|Tensorflow for fun](https://github.com/VXallset/deep-high-resolution-net.TensorFlow)]
+* ⭐**AlphaPose/RMPE(ICCV2017)** RMPE: Regional Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/1612.00137)][[project link](https://www.mvig.org/research/alphapose.html)][[Codes|PyTorch(offical)](https://github.com/MVIG-SJTU/AlphaPose)]
 
-* **DarkPose(CVPR2020)** Distribution-Aware Coordinate Representation for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1910.06278)][[project link](https://ilovepose.github.io/coco/)][[Codes|PyTorch(offical)](https://github.com/ilovepose/DarkPose)]
+* ⭐**SimpleBaseline(ECCV2018)** Simple Baselines for Human Pose Estimation and Tracking [[arxiv link](https://arxiv.org/abs/1804.06208)][[Codes|PyTorch(offical)](https://github.com/Microsoft/human-pose-estimation.pytorch)][[Codes|PyTorch(flowtrack part)](https://github.com/simochen/flowtrack.pytorch)]
 
-* **UDP-Pose(CVPR2020)** The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07524)][[Codes|](https://github.com/HuangJunJie2017/UDP-Pose)]
+* ⭐**CPN(CVPR2018)** Cascaded Pyramid Network for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1711.07319)][[Codes|Tensorflow(offical)](https://github.com/chenyilun95/tf-cpn)][[Codes|Tensorflow(offical megvii)](https://github.com/megvii-detection/tf-cpn)][[zhihu blogs](https://zhuanlan.zhihu.com/p/37582402)]
+
+* ⭐**HRNet(CVPR2019)** Deep High-Resolution Representation Learning for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1902.09212)][[Codes|PyTorch(offical)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)][[Codes|(Repositories using HRNet as backbone)](https://github.com/HRNet)][[Codes|Tensorflow for fun](https://github.com/VXallset/deep-high-resolution-net.TensorFlow)]
+
+* **(CVPR2019)** Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information [[arxiv link](https://arxiv.org/abs/1905.03466)]
+
+* **(CVPR2019)** PoseFix: Model-Agnostic General Human Pose Refinement Network [[paper link](https://www.researchgate.net/publication/338506497_PoseFix_Model-Agnostic_General_Human_Pose_Refinement_Network)]
+ 
+* **(arxiv2019)** Rethinking on Multi-Stage Networks for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1901.00148v1)]
+
+* ⭐**DarkPose(CVPR2020)** Distribution-Aware Coordinate Representation for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1910.06278)][[project link](https://ilovepose.github.io/coco/)][[Codes|PyTorch(offical)](https://github.com/ilovepose/DarkPose)]
+
+* ⭐**UDP-Pose(CVPR2020)** The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07524)][[Codes|](https://github.com/HuangJunJie2017/UDP-Pose)]
+
+* **Graph-PCNN(arxiv 2020)** Graph-PCNN: Two Stage Human Pose Estimation with Graph Pose Refinement [[arxiv link](http://arxiv.org/abs/2007.10599)]
+
+* **RSN-PRM(arxiv2020)** Learning Delicate Local Representations for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2003.04030v3)]
+
+* **OPEC-Net(arxiv2020)** Peeking into occluded joints: A novel framework for crowd pose estimation [[arxiv link](https://arxiv.org/abs/2003.10506)]
+
+* **(arxiv2020)(video based)** Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos [[arxiv link](https://arxiv.org/abs/2004.12652)]
 
 
 ### ▶  Two-Stage Bottom-Up Multiple Person Pose Estimation
+
+
 
 * **OpenPose(CVPR2017)** Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [[arxiv link](https://arxiv.org/abs/1611.08050)][[Codes|Caffe&Matlab(offical)](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)][[Codes|Caffe(offical only for testing)](https://github.com/CMU-Perceptual-Computing-Lab/openpose)][Codes|PyTorch(unoffical by tensorboy)](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)]
 
