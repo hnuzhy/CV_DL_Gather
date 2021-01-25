@@ -40,23 +40,49 @@
 
 ### ▶ Single Person Pose Estimation
 
-* **PoseMachines(ECCV2014)** Pose Machines: Articulated Pose Estimation via Inference Machines [[paper link](https://www.ri.cmu.edu/pub_files/2014/7/poseMachines.pdf)][[project link](http://www.cs.cmu.edu/~vramakri/poseMachines.html)]
+* **Modeep(ACCV2014)(video based)** MoDeep: A Deep Learning Framework Using Motion Features for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1409.7963)]
 
-* **DeepPose(CVPR2014)(AlexNet based)** DeepPose: Human Pose Estimation via Deep Neural Networks [[arxiv link](https://arxiv.org/abs/1312.4659)][[Codes|OpenCV(unoffical)](https://github.com/mitmul/deeppose)]
+* **(NIPS2014)(heatmaps)** Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1406.2984v1)]
 
-* **IEF(CVPR2016)(GoogleNet Based)** Human Pose Estimation with Iterative Error Feedback [[arxiv link](https://arxiv.org/abs/1507.06550)]
+* **PoseMachines(ECCV2014)(regression)** Pose Machines: Articulated Pose Estimation via Inference Machines [[paper link](https://www.ri.cmu.edu/pub_files/2014/7/poseMachines.pdf)][[project link](http://www.cs.cmu.edu/~vramakri/poseMachines.html)]
 
-* **CPM(CVPR2016)** Convolutional Pose Machines [[arxiv link](https://arxiv.org/abs/1602.00134)][[Codes|Caffe(offical)](https://github.com/shihenw/convolutional-pose-machines-release)][[Codes|Tensorflow(unoffical)](https://github.com/psycharo/cpm)]
+* **DeepPose(CVPR2014)(AlexNet based)(regression)** DeepPose: Human Pose Estimation via Deep Neural Networks [[arxiv link](https://arxiv.org/abs/1312.4659)][[Codes|OpenCV(unoffical)](https://github.com/mitmul/deeppose)]
 
-* **StackHourglass(ECCV2016)** Stacked Hourglass Networks for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1603.06937)][[Codes|Torch7(offical old)](https://github.com/princeton-vl/pose-hg-train)][[Codes|PyTorch(offical new)](https://github.com/princeton-vl/pytorch_stacked_hourglass)][[Codes|Tensorflow(unoffical)](https://github.com/wbenbihi/hourglasstensorlfow)]
+* **(ICCV2015)(video based)** Flowing ConvNets for Human Pose Estimation in Videos [[arxiv link](https://arxiv.org/abs/1506.02897)]
 
-* **PyraNet(ICCV2017)** Learning Feature Pyramids for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1708.01101)][[Codes|Torch(offical)](https://github.com/bearpaw/PyraNet)]
+* **(ECCV2016)(heatmaps)** Human Pose Estimation using Deep Consensus Voting [[arxiv link](https://arxiv.org/abs/1603.08212)]
 
-* **(ICCV2017)(ResNet-50 Based)** Compositional Human Pose Regression [[arxiv link](https://arxiv.org/abs/1704.00159)]
+* **(CVPR2016)(structure information)** End-To-End Learning of Deformable Mixture of Parts and Deep Convolutional Neural Networks for Human Pose Estimation [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_End-To-End_Learning_of_CVPR_2016_paper.html)]
 
-* **Adversarial-PoseNet(ICCV2017)** Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1705.00389)][[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
+* **(CVPR2016)(structure information)** Structured Feature Learning for Pose Estimation [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chu_Structured_Feature_Learning_CVPR_2016_paper.html)]
 
-* **(CVPR2018)(multi-task)** 2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning [[arxiv link](https://arxiv.org/abs/1802.09232)]
+* **IEF(CVPR2016)(GoogleNet Based)(regression)** Human Pose Estimation with Iterative Error Feedback [[arxiv link](https://arxiv.org/abs/1507.06550)]
+
+* **CPM(CVPR2016)(heatmaps)** Convolutional Pose Machines [[arxiv link](https://arxiv.org/abs/1602.00134)][[Codes|Caffe(offical)](https://github.com/shihenw/convolutional-pose-machines-release)][[Codes|Tensorflow(unoffical)](https://github.com/psycharo/cpm)]
+
+* **StackHourglass(ECCV2016)(heatmaps)** Stacked Hourglass Networks for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1603.06937)][[Codes|Torch7(offical old)](https://github.com/princeton-vl/pose-hg-train)][[Codes|PyTorch(offical new)](https://github.com/princeton-vl/pytorch_stacked_hourglass)][[Codes|Tensorflow(unoffical)](https://github.com/wbenbihi/hourglasstensorlfow)]
+
+* **HourglassResidualUnits(HRUs)(CVPR2017)(heatmaps)** Multi-context Attention for Human Pose Estimation [[arciv link](https://arxiv.org/abs/1702.07432)]
+
+* **PyraNet(ICCV2017)(heatmaps)** Learning Feature Pyramids for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1708.01101)][[Codes|Torch(offical)](https://github.com/bearpaw/PyraNet)]
+
+* **(ICCV2017)(ResNet-50 Based)(regression)** Compositional Human Pose Regression [[arxiv link](https://arxiv.org/abs/1704.00159)]
+
+* **Adversarial-PoseNet(ICCV2017)(GAN)** Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1705.00389)][[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
+
+
+* **(ECCV2018)(structure information)** Multi-Scale Structure-Aware Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1803.09894)]
+
+* **(ECCV2018)(structure information)** Deeply Learned Compositional Models for Human Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007%2F978-3-030-01219-9_12)]
+
+
+* **(CVPR2018)(multi-task/video based)(regression)** 2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning [[arxiv link](https://arxiv.org/abs/1802.09232)]
+
+* **(CVPR2019)(structure information)** Does Learning Specific Features for Related Parts Help Human Pose Estimation? [[paper link](eeexplore.ieee.org/document/8953713)]
+
+* **(arxiv2020)(video based)** Key Frame Proposal Network for Efficient Pose Estimation in Videos [[arxiv link](https://arxiv.org/abs/2007.15217)]
+
+* **UniPose(CVPR2020)(video based)** UniPose: Unified Human Pose Estimation in Single Images and Videos [[arxiv link](https://arxiv.org/abs/2001.08095)]
 
 
 
