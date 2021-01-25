@@ -42,7 +42,9 @@
 
 * **PoseMachines(ECCV2014)** Pose Machines: Articulated Pose Estimation via Inference Machines [[paper link](https://www.ri.cmu.edu/pub_files/2014/7/poseMachines.pdf)][[project link](http://www.cs.cmu.edu/~vramakri/poseMachines.html)]
 
-* **DeepPose(CVPR2014)** DeepPose: Human Pose Estimation via Deep Neural Networks [[arxiv link](https://arxiv.org/abs/1312.4659)][[Codes|OpenCV(unoffical)](https://github.com/mitmul/deeppose)]
+* **DeepPose(CVPR2014)(AlexNet based)** DeepPose: Human Pose Estimation via Deep Neural Networks [[arxiv link](https://arxiv.org/abs/1312.4659)][[Codes|OpenCV(unoffical)](https://github.com/mitmul/deeppose)]
+
+* **IEF(CVPR2016)(GoogleNet Based)** Human Pose Estimation with Iterative Error Feedback [[arxiv link](https://arxiv.org/abs/1507.06550)]
 
 * **CPM(CVPR2016)** Convolutional Pose Machines [[arxiv link](https://arxiv.org/abs/1602.00134)][[Codes|Caffe(offical)](https://github.com/shihenw/convolutional-pose-machines-release)][[Codes|Tensorflow(unoffical)](https://github.com/psycharo/cpm)]
 
@@ -50,9 +52,13 @@
 
 * **PyraNet(ICCV2017)** Learning Feature Pyramids for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1708.01101)][[Codes|Torch(offical)](https://github.com/bearpaw/PyraNet)]
 
+* **(ICCV2017)(ResNet-50 Based)** Compositional Human Pose Regression [[arxiv link](https://arxiv.org/abs/1704.00159)]
+
 * **Adversarial-PoseNet(ICCV2017)** Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1705.00389)][[Codes|PyTorch(unoffical)](https://github.com/rohitrango/Adversarial-Pose-Estimation)]
- 
- 
+
+* **(CVPR2018)(multi-task)** 2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning [[arxiv link](https://arxiv.org/abs/1802.09232)]
+
+
 
 ### ▶ Two-Stage Top-Down Multiple Person Pose Estimation
 
