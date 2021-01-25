@@ -84,8 +84,7 @@
 
 
 
-
-### ▶ Two-Stage Top-Down Multiple Person Pose Estimation
+### ▶ Two-Stage [Top-Down] Multiple Person Pose Estimation
 
 * **(ECCV2016)** Multi-Person Pose Estimation with Local Joint-to-Person Associations [[arxiv link](https://arxiv.org/abs/1608.08526)]
 
@@ -101,7 +100,7 @@
 
 * ⭐**CPN(CVPR2018)** Cascaded Pyramid Network for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1711.07319)][[Codes|Tensorflow(offical)](https://github.com/chenyilun95/tf-cpn)][[Codes|Tensorflow(offical megvii)](https://github.com/megvii-detection/tf-cpn)][[zhihu blogs](https://zhuanlan.zhihu.com/p/37582402)]
 
-* ⭐**HRNet(CVPR2019)** Deep High-Resolution Representation Learning for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1902.09212)][[Codes|PyTorch(offical)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)][[Codes|(Repositories using HRNet as backbone)](https://github.com/HRNet)][[Codes|Tensorflow for fun](https://github.com/VXallset/deep-high-resolution-net.TensorFlow)]
+* ⭐**HRNet(CVPR2019)** Deep High-Resolution Representation Learning for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1902.09212)][[Codes|PyTorch(offical)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)][[Codes|(Repositories using HRNet as backbone)](https://github.com/HRNet)][[Codes|Tensorflow for fun](https://github.com/VXallset/deep-high-resolution-net.TensorFlow)][[Codes|Tensorflow HRNet-V2(unoffical)](https://github.com/AI-Chen/HRNet-V2)]
 
 * **(CVPR2019)** Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information [[arxiv link](https://arxiv.org/abs/1905.03466)]
 
@@ -122,23 +121,35 @@
 * **(arxiv2020)(video based)** Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos [[arxiv link](https://arxiv.org/abs/2004.12652)]
 
 
-### ▶  Two-Stage Bottom-Up Multiple Person Pose Estimation
+### ▶  Two-Stage [Bottom-Up] Multiple Person Pose Estimation
 
+* **DeepCut(CVPR2016)** DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1511.06645)]
 
+* **DeeperCut(ECCV2016)** DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model [[arxiv link](https://arxiv.org/abs/1605.03170)]
 
-* **OpenPose(CVPR2017)** Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [[arxiv link](https://arxiv.org/abs/1611.08050)][[Codes|Caffe&Matlab(offical)](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)][[Codes|Caffe(offical only for testing)](https://github.com/CMU-Perceptual-Computing-Lab/openpose)][Codes|PyTorch(unoffical by tensorboy)](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)]
+* **ArtTrack(CVPR2017)** ArtTrack: Articulated Multi-Person Tracking in the Wild [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/papers/Insafutdinov_ArtTrack_Articulated_Multi-Person_CVPR_2017_paper.pdf)]
 
-* **AssociativeEmbedding(NIPS2017)** Associative Embedding: End-to-end Learning for Joint Detection and Grouping [[arxiv link](https://arxiv.org/abs/1611.05424)][[Codes|PyTorch(offical)](https://github.com/princeton-vl/pose-ae-train)]
+* ⭐**OpenPose(CVPR2017)** Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [[arxiv link](https://arxiv.org/abs/1611.08050)][[Codes|Caffe&Matlab(offical)](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)][[Codes|Caffe(offical only for testing)](https://github.com/CMU-Perceptual-Computing-Lab/openpose)][Codes|PyTorch(unoffical by tensorboy)](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)]
 
-* **MultiPoseNet(ECCV2018)** MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [[arxiv link](https://arxiv.org/abs/1807.04067)][[Codes|PyTorch(offical)](https://github.com/salihkaragoz/pose-residual-network-pytorch)]
+* ⭐**AssociativeEmbedding(NIPS2017)** Associative Embedding: End-to-end Learning for Joint Detection and Grouping [[arxiv link](https://arxiv.org/abs/1611.05424)][[Codes|PyTorch(offical)](https://github.com/princeton-vl/pose-ae-train)]
 
-* **PersonLab(ECCV2018)** PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model [[arxiv link](https://arxiv.org/abs/1803.08225)][[Codes|Keras&Tensorflow(unoffical by octiapp)](https://github.com/octiapp/KerasPersonLab)][[Codes|Tensorflow(unoffical)](https://github.com/scnuhealthy/Tensorflow_PersonLab)][[Codes|Tensorflow HRNet-V2(unoffical)](https://github.com/AI-Chen/HRNet-V2)]
+* **(ICCVW2017)** Multi-Person Pose Estimation for PoseTrack with Enhanced Part Affinity Fields [[paper link](https://posetrack.net/workshops/iccv2017/pdfs/ML_Lab.pdf)][[CSDN blog](https://blog.csdn.net/m0_37644085/article/details/82928933)]
 
-* **OpenPifPaf(CVPR2019)** PifPaf: Composite Fields for Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.pdf)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/openpifpaf)]
+* **(CVPRW2018)** Learning to Refine Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1804.07909)]
 
-* **HigherHRNet(CVPR2020)** HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.10357)][[Codes|PyTorch(offical)](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)]
+* ⭐**MultiPoseNet(ECCV2018)(multi-task)** MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [[arxiv link](https://arxiv.org/abs/1807.04067)][[Codes|PyTorch(offical)](https://github.com/salihkaragoz/pose-residual-network-pytorch)]
 
-* **MDN3(CVPR2020)** Mixture Dense Regression for Object Detection and Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1912.00821)][[Codes|PyTorch(offical)](https://github.com/alivaramesh/MixtureDenseRegression)]
+* ⭐**PersonLab(ECCV2018)(multi-task)** PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model [[arxiv link](https://arxiv.org/abs/1803.08225)][[Codes|Keras&Tensorflow(unoffical by octiapp)](https://github.com/octiapp/KerasPersonLab)][[Codes|Tensorflow(unoffical)](https://github.com/scnuhealthy/Tensorflow_PersonLab)]
+
+ * **DirectPose(arxiv2019)** DirectPose: Direct End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07451v2)]
+
+* ⭐**OpenPifPaf(CVPR2019)** PifPaf: Composite Fields for Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.pdf)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/openpifpaf)]
+
+* ⭐**HigherHRNet(CVPR2020)** HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.10357)][[Codes|PyTorch(offical)](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)]
+
+* ⭐**MDN3(CVPR2020)** Mixture Dense Regression for Object Detection and Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1912.00821)][[Codes|PyTorch(offical)](https://github.com/alivaramesh/MixtureDenseRegression)]
+
+* **HGG(arxiv2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/2007.11864)]
 
 
 
