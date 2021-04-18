@@ -18,7 +18,7 @@
 * [⭐Lane Detection](#lane-detection)
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Semantic Segmentation](#semantic-segmentation)
-* [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultanous-location-and-mapping)
+* [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
 * [⭐Sound Source Localization](#sound-source-localization)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
 
