@@ -19,6 +19,7 @@
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultanous-location-and-mapping)
+* [⭐Sound Source Localization](#sound-source-localizationn)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
 
 
@@ -279,9 +280,23 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 ### Materials
 
-* [(cnblogs) 视觉SLAM漫谈](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
+* [(cnblogs) 视觉SLAM漫谈](https://blog.csdn.net/weixin_41537599/article/details/110819969)
 
 ### Papers
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Sound Source Localizatio
+
+### Materials
+
+* [(cnblogs) 【论文导读】Learning to Localize Sound Source in Visual Scenes】&soundnet的复现](https://blog.csdn.net/zzc15806/article/details/80772152)
+* [(cnblogs) 论文【Learning to Localize Sound Source in Visual Scenes】&soundnet的复现](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
+
+### Papers
+
+* **SoundLocation(CVPR2018)** Learning to Localize Sound Source in Visual Scenes [[arxiv link](https://arxiv.org/pdf/1803.03849.pdf)][[Codes|offical PyTorch based on SoundNet](https://github.com/ardasnck/learning_to_localize_sound_source)][[Codes|unoffical PyTorch](https://github.com/liyidi/soundnet_localize_sound_source)]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
