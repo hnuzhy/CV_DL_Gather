@@ -42,6 +42,7 @@
 
 * [(CSDN blogs) 6D姿态估计算法汇总（上）](https://blog.csdn.net/qq_29462849/article/details/103740960)
 * [(CSDN blogs) 6D姿态估计算法汇总（下）](https://blog.csdn.net/qq_29462849/article/details/103741059)
+* [(zhihu) VR设备常说的3DOF和6DOF到底是什么？](https://zhuanlan.zhihu.com/p/114650000)
 
 ### Papers
 
