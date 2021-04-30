@@ -5,6 +5,7 @@
 **Contents Hyperlinks**
 
 * [⭐3D Camera](#3d-camera)
+* [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Beautify Face](#beautify-face)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Face Alignment](#face-alignment)
@@ -29,6 +30,18 @@
 
 * [(website) A Comprehensive List of 3D Sensors Commonly Leveraged in ROS Development](https://rosindustrial.org/3d-camera-survey)
 * [(CSDN) 【深度相机系列六】深度相机哪家强？附详细参数对比清单](https://blog.csdn.net/electech6/article/details/78907463)
+
+### Papers
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐6D Object Pose Estimation
+
+### Materials
+
+* [(CSDN blogs) 6D姿态估计算法汇总（上）](https://blog.csdn.net/qq_29462849/article/details/103740960)
+* [(CSDN blogs) 6D姿态估计算法汇总（下）](https://blog.csdn.net/qq_29462849/article/details/103741059)
 
 ### Papers
 
