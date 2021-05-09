@@ -80,7 +80,7 @@
 
 * **(arxiv2020)(video based)** Key Frame Proposal Network for Efficient Pose Estimation in Videos [[arxiv link](https://arxiv.org/abs/2007.15217)]
 
-* **UniPose(CVPR2020)(video based)** UniPose: Unified Human Pose Estimation in Single Images and Videos [[arxiv link](https://arxiv.org/abs/2001.08095)]
+* **UniPose(CVPR2020)(video based)** UniPose: Unified Human Pose Estimation in Single Images and Videos [[arxiv link](https://arxiv.org/abs/2001.08095)][[Codes|PyTorch(offical)](https://github.com/bmartacho/UniPose)]
 
 
 
@@ -119,6 +119,8 @@
 * **OPEC-Net(arxiv2020)** Peeking into occluded joints: A novel framework for crowd pose estimation [[arxiv link](https://arxiv.org/abs/2003.10506)]
 
 * **(arxiv2020)(video based)** Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos [[arxiv link](https://arxiv.org/abs/2004.12652)]
+
+* **OmniPose(arxiv2021)** OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2103.10180)]
 
 
 ### ▶  Two-Stage [Bottom-Up] Multiple Person Pose Estimation
