@@ -2,18 +2,19 @@
 
 ## 1) Pubilc Datasets and Challenges
 
-### **For Head Pose Estimation**
+### ⭐**For Head Pose Estimation**
 * [BIWI RGBD-ID Dataset](http://robotics.dei.unipd.it/reid/index.php): The BIWI RGBD-ID Dataset is a RGB-D dataset of people targeted to long-term people re-identification from RGB-D cameras. It contains 50 training and 56 testing sequences of 50 different people.
-* [**For Head Pose Estimation**][300W-LP & AFLW2000-3D](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3ddfa/main.htm): 300W-LP has the synthesized large-pose face images from 300W. AFLW2000-3D is the fitted 3D faces of the first 2000 AFLW samples, which can be used for 3D face alignment evaluation.
+* [300W-LP & AFLW2000-3D](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3ddfa/main.htm): 300W-LP has the synthesized large-pose face images from 300W. AFLW2000-3D is the fitted 3D faces of the first 2000 AFLW samples, which can be used for 3D face alignment evaluation.
 
-### **For Head Detection**
+### ⭐**For Head Detection**
 * [HollywoodHead dataset](https://www.di.ens.fr/willow/research/headdetection/): HolleywoodHeads dataset is a head detection datset. HollywoodHeads dataset contains 369846 human heads annotated in 224740 video frames from 21 Hollywood movies.
 * [Brainwash dataset](https://exhibits.stanford.edu/data/catalog/sx925dc9385): Brainwash dataset is related for face detection. Brainwash dataset contains 11917 images with 91146 labeled people.
 * [SCUT-HEAD-Dataset-Release](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release): SCUT-HEAD is a large-scale head detection dataset, including 4405 images labeld with 111251 heads. The dataset consists of two parts. PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated.
 
-### **For Head Detection or Crowd Counting**
+### ⭐**For Head Detection or Crowd Counting**
 * [Shanghaitech dataset](https://github.com/desenzhou/ShanghaiTechDataset): Dataset appeared in Single Image Crowd Counting via Multi Column Convolutional Neural Network(MCNN) in CVPR2016.
 * [UCF-QNRF - A Large Crowd Counting Data Set](https://www.crcv.ucf.edu/data/ucf-qnrf/): It contains 1535 images which are divided into train and test sets of 1201 and 334 images respectively. Paper is published in ECCV2018.
+
 
 ## 2) Pioneers and Experts
 
