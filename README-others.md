@@ -1,7 +1,11 @@
 # Here are collections about other CV topics
 
+
+
 **Contents Hyperlinks**
 
+* [⭐3D Camera](#3d-camera)
+* [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Beautify Face](#beautify-face)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Face Alignment](#face-alignment)
@@ -12,11 +16,39 @@
 * [⭐Head/Hand Pose Estimation](#headhand-pose-estimation)
 * [⭐Image Mosaic](#image-mosaic)
 * [⭐Image Restoration](#image-restoration)
+* [⭐Lane Detection](#lane-detection)
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Semantic Segmentation](#semantic-segmentation)
-* [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultanous-location-and-mapping)
+* [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
+* [⭐Sound Source Localization](#sound-source-localization)
+* [⭐Traffic Violation Detection](#traffic-violation-detection)
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐3D Camera
+
+### Materials
+
+* [(website) A Comprehensive List of 3D Sensors Commonly Leveraged in ROS Development](https://rosindustrial.org/3d-camera-survey)
+* [(CSDN) 【深度相机系列六】深度相机哪家强？附详细参数对比清单](https://blog.csdn.net/electech6/article/details/78907463)
+
+### Papers
 
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐6D Object Pose Estimation
+
+### Materials
+
+* [(CSDN blogs) 6D姿态估计算法汇总（上）](https://blog.csdn.net/qq_29462849/article/details/103740960)
+* [(CSDN blogs) 6D姿态估计算法汇总（下）](https://blog.csdn.net/qq_29462849/article/details/103741059)
+* [(zhihu) VR设备常说的3DOF和6DOF到底是什么？](https://zhuanlan.zhihu.com/p/114650000)
+
+### Papers
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Beautify Face
 
@@ -28,17 +60,25 @@
 ### Papers
 
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
 ## ⭐Deep Neural Networks
+
+### Frameworks
+
+* **PyTorch** [Home Page](https://pytorch.org/), [Offical Documentation](https://pytorch.org/docs/stable/index.html)
+* **TensorFlow** [Home Page](https://tensorflow.google.cn/), [Offical Documentation](https://tensorflow.google.cn/versions/r1.15/api_docs/python/tf)
 
 ### Materials
 
 * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
 * [(CSDN blog) 五大经典卷积神经网络介绍：LeNet / AlexNet / GoogLeNet / VGGNet/ ResNet](https://blog.csdn.net/fendouaini/article/details/79807830)
 * [(cnblogs) Deep Learning回顾#之LeNet、AlexNet、GoogLeNet、VGG、ResNet](https://www.cnblogs.com/52machinelearning/p/5821591.html)
+* [(github) HRNet: HRNet-Applications-Collection](https://github.com/HRNet/HRNet-Applications-Collection)
 
 ### Papers
 
-
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Face Alignment
 
@@ -60,6 +100,7 @@
 
 * **PRNet(ECCV2018)** Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[arxiv link](https://arxiv.org/abs/1803.07835)][[Codes|TensorFlow(offical)](https://github.com/YadiraF/PRNet)]
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Face Detection
 
@@ -88,6 +129,10 @@
 
 * **DSFD(CVPR2019)** DSFD: Dual Shot Face Detector [[arxiv link](https://arxiv.org/abs/1810.10220)][[Codes|PyTorch(offical)](https://github.com/yxlijun/DSFD.pytorch)][[CSDN blog](https://blog.csdn.net/wwwhp/article/details/83757286)]
 
+* **LFFD(arxiv2019)** LFFD: A Light and Fast Face Detector for Edge Devices [[arxiv link](https://arxiv.org/abs/1904.10633)][[Codes|PyTorch, offical V1](https://github.com/YonghaoHe/LFFD-A-Light-and-Fast-Face-Detector-for-Edge-Devices)][[Codes|PyTorch, offical V2](https://github.com/YonghaoHe/LFD-A-Light-and-Fast-Detector)]
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
 ## ⭐Face Recognition
 
 ### Materials
@@ -103,6 +148,7 @@
 
 * **SubCenter-ArcFace(ECCV2020)** Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces [[paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf)][[Codes|MXNet(offical SubCenter-ArcFace)](https://github.com/deepinsight/insightface/tree/master/recognition/SubCenter-ArcFace)][[CSDN blogs](https://blog.csdn.net/XBB102910/article/details/109400771)]
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Face Reconstruction (3D)
 
@@ -116,7 +162,7 @@
 
 
 
-
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Head Detector
 
@@ -128,6 +174,7 @@
 * **FCHD(arxiv2018,ICIP2019)** FCHD: Fast and accurate head detection in crowded scenes [[arxiv link](https://arxiv.org/abs/1809.08766)][[Codes|PyTorch(offical)](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)][[CSDN blog](https://blog.csdn.net/javastart/article/details/82865858)]
 
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Head/Hand Pose Estimation
 
@@ -149,18 +196,31 @@
 
 * **FSA-Net(CVPR2019)** FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image [[paper link](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)][[Codes|Keras&Tensorflow(offical)](https://github.com/shamangary/FSA-Net)]
 
-
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Image Mosaic
 
 
 ### Materials
 
+* [(zhihu) 基于图像的三维建模——特征点检测与匹配](https://zhuanlan.zhihu.com/p/128937547)
 * [(website) 图像拼接算法的综述 - A survey on image mosaicing techniques](http://s1nh.org/post/A-survey-on-image-mosaicing-techniques/)
 * [(cnblogs) OpenCV探索之路（二十四）图像拼接和图像融合技术](https://www.cnblogs.com/skyfsm/p/7411961.html)
+* [(zhihu - YaqiLYU) 图像拼接现在还有研究的价值吗？有哪些可以研究的点？现在技术发展如何？](https://www.zhihu.com/question/34535199/answer/135169187)
+* [(zhihu - YaqiLYU) 目前最成熟的全景视频拼接技术是怎样的？](https://www.zhihu.com/question/34573969/answer/136464893)
+* [(opencv docs) Feature Detection and Description](https://docs.opencv.org/master/db/d27/tutorial_py_table_of_contents_feature2d.html)
+* [(github) [Real-Time Image Stitching] CS205 Computing Foundations for Computational Science Final Project(C++)](https://github.com/ziqiguo/CS205-ImageStitching)
+* [(github) [Image and Video Stitching] Conducts image stitching upon an input video to generate a panorama in 3D(Python)](https://github.com/WillBrennan/ImageStitching)
+* [(github) Multiple Image stitching in Python](https://github.com/kushalvyas/Python-Multiple-Image-Stitching)
+
 
 ### Papers
 
+* **NISwGSP(ECCV2016)** Natural Image Stitching with the Global Similarity Prior [[paper link](https://link.springer.com/chapter/10.1007%2F978-3-319-46454-1_12)][[Codes|offical C++ & Matlab](https://github.com/nothinglo/NISwGSP)]
+
+* **VFSMS(CMS2019)** A Fast Algorithm for Material Image Sequential Stitching [[paper link](http://www.sciencedirect.com/science/article/pii/S0927025618307158)][[software](https://www.mgedata.cn/app_entrance/microscope)][[Codes|offical python & C++](https://github.com/Keep-Passion/ImageStitch)]
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Image Restoration
 
@@ -190,7 +250,25 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **Deep-Semantic-Face(CVPR2018)** Deep Semantic Face Deblurring [[paper link](https://research.nvidia.com/sites/default/files/pubs/2018-06_Deep-Semantic-Face//DeepSemanticFaceDeblur_CVPR18.pdf)][[project link](https://research.nvidia.com/publication/2018-06_Deep-Semantic-Face)][[Codes|Matlab(offical)](https://github.com/joanshen0508/Deep-Semantic-Face-Deblurring)]
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
+## ⭐Lane Detection
+
+### Materials
+
+### Datasets
+
+* **CULane** SCNN(AAAI2018) Spatial As Deep: Spatial CNN for Traffic Scene Understanding [[dataset homepage](https://xingangpan.github.io/projects/CULane.html)]
+
+### Papers
+ 
+* **SCNN(AAAI2018)** Spatial As Deep: Spatial CNN for Traffic Scene Understanding [[arxiv link](https://arxiv.org/abs/1712.06080)][[Codes|offical Torch & Matlab](https://github.com/XingangPan/SCNN)]
+
+* **LaneNet(IVS2018)** Towards End-to-End Lane Detection: an Instance Segmentation Approach [[arxiv link](https://arxiv.org/abs/1802.05591)][[project link](https://maybeshewill-cv.github.io/lanenet-lane-detection/)][[Codes|unoffical TF](https://github.com/MaybeShewill-CV/lanenet-lane-detection)]
+
+* **UltraLane(ECCV2020)** Ultra Fast Structure-aware Deep Lane Detection [[arxiv link](https://arxiv.org/abs/2004.11757)][[Codes|offical PyTorch](https://github.com/cfzd/Ultra-Fast-Lane-Detection)]
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Pedestrian Localization
 
@@ -201,6 +279,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **Monoloco(ICCV2019)** MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[arxiv link](https://arxiv.org/abs/1906.06059)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/monoloco)]
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Semantic Segmentation
 
@@ -212,14 +291,44 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **FCIS(CVPR2017)** Fully Convolutional Instance-aware Semantic Segmentation [[arxiv link](https://arxiv.org/abs/1611.07709)][[Codes|MXNet(offical based on RFCN)](https://github.com/msracver/FCIS)][[CSDN blog](https://blog.csdn.net/jiongnima/article/details/78961147)]
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐SLAM (Simultaneous Localization and Mapping)
 
 ### Materials
 
-* [(cnblogs) 视觉SLAM漫谈](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
+* [(cnblogs) 视觉SLAM漫谈](https://blog.csdn.net/weixin_41537599/article/details/110819969)
 
 ### Papers
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
+## ⭐Sound Source Localization
+
+### Materials
+
+* [(cnblogs) 【论文导读】Learning to Localize Sound Source in Visual Scenes】&soundnet的复现](https://blog.csdn.net/zzc15806/article/details/80772152)
+* [(cnblogs) 论文【Learning to Localize Sound Source in Visual Scenes】&soundnet的复现](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
+
+### Papers
+
+* **SoundNet(NIPS2016)** SoundNet: Learning Sound Representations from Unlabeled Video [[arxiv link](https://arxiv.org/pdf/1610.09001.pdf)][[Codes|offical TensorFlow](https://github.com/cvondrick/soundnet)][(CSDN blog)[https://blog.csdn.net/zzc15806/article/details/80669883]]
+* 
+* **SoundLocation(CVPR2018)** Learning to Localize Sound Source in Visual Scenes [[arxiv link](https://arxiv.org/pdf/1803.03849.pdf)][[Codes|offical PyTorch based on SoundNet](https://github.com/ardasnck/learning_to_localize_sound_source)][[Codes|unoffical PyTorch](https://github.com/liyidi/soundnet_localize_sound_source)]
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Traffic Violation Detection
+
+### Materials
+
+* [(github) Traffic-Rule-Violation-Detection-System (Tensorflow + OpenALPR )](https://github.com/ShreyAmbesh/Traffic-Rule-Violation-Detection-System)
+* [(github) Traffic-Signal-Violation-Detection-System (Tensorflow based YOLOv3)](https://github.com/anmspro/Traffic-Signal-Violation-Detection-System)
+* [(github) Traffic-Rules-Violation-Detection (mobilenet-v1)](https://github.com/rahatzamancse/Traffic-Rules-Violation-Detection)
+* [(github) Traffic-Rules-Violation-Detection-System (mobilenet-v1)](https://github.com/sakibreza/Traffic-Rules-Violation-Detection-System)
+* [(github) Fully-Automated-red-light-Violation-Detection (Tensorflow based YOLOv3)](https://github.com/AhmadYahya97/Fully-Automated-red-light-Violation-Detection)
+* [(github) yolov3-vehicle-detection-paddle](https://github.com/Sharpiless/yolov3-vehicle-detection-paddle) [[CSDN link](https://blog.csdn.net/weixin_45449540/article/details/107345738)]
+
+### Papers
 
