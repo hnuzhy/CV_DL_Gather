@@ -11,6 +11,12 @@
 * *Refer to branch [affective_computing](./affective_computing) for detailed introduction.*
 
 
+# Face Head Related
+* **[Definition]** Here, we will collect some algorithms and materials about people face and head including detection, estimation, reconstruction and recognition in Computer Vision. The input is mostly a 2D image (may also having RGB-D or RGB-times). The outputs are points, bounding-boxes, Euler angles and so on.
+* **[Supplement]** Various tasks in deep learning based Computer Vision have strong relation with person's face, sometimes the head. Therefore, we do not discuss them separately. Especially, the face related works or fileds include **Face Detection**, **Face Alignment**, **Face Reconstruction (3D)**, **Face Recognition**, **Beautify Face** and so on. The head related tasks are mainly about **Head Detector** and **Head/Hand Pose Estimation**. We will also introduce some other interesting related topics as long as we have found thems.
+* *Refer to branch [face_head_related](./face_head_related) for detailed introduction.*
+
+
 # Model Compression
 * **[Definition]** Model compression is to minimize the consumption of storage space, computing space and time of deep models, and is also committed to accelerating the training and inference of the model.
 * **[Supplement]** Deep learning makes the performance of many computer vision tasks reach an unprecedented height. Although the complex model has better performance, the high storage space and computing resource consumption are the important reasons that make it difficult to effectively apply in various hardware platforms. Therefore, model compression is essential. To solve these problems, it is necessary to cut in from many aspects, including **machine learning algorithm**, **optimization theory**, **computer architecture**, **data compression**, **index compilation** and **hardware design**. The methods of model compression can be roughly divided into: **low rank approximation**, **network pruning**, **network quantification**, **knowledge distillation** and **compact network design**. This is the last battlefield of large-scale application of computer vision.
