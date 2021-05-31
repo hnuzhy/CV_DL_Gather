@@ -12,8 +12,9 @@
 * [SCUT-HEAD-Dataset-Release](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release): SCUT-HEAD is a large-scale head detection dataset, including 4405 images labeld with 111251 heads. The dataset consists of two parts. PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated.
 
 ### ⭐**For Head Detection or Crowd Counting**
-* [Shanghaitech dataset](https://github.com/desenzhou/ShanghaiTechDataset): Dataset appeared in Single Image Crowd Counting via Multi Column Convolutional Neural Network(MCNN) in CVPR2016.
-* [UCF-QNRF - A Large Crowd Counting Data Set](https://www.crcv.ucf.edu/data/ucf-qnrf/): It contains 1535 images which are divided into train and test sets of 1201 and 334 images respectively. Paper is published in ECCV2018.
+* [ShanghaiTech dataset](https://github.com/desenzhou/ShanghaiTechDataset): Dataset appeared in Single Image Crowd Counting via Multi Column Convolutional Neural Network(MCNN) in CVPR2016. 情况介绍：【包含标注图片 1198 张，共 330165 人，分为 A 和 B 两个部分，A 包含 482 张图片，均为网络下载的含高度拥挤人群的场景图片，人群数量从 33 到 3139 个不等，训练集包含 300 张图片和测试集包含 182 张图片。B 包含 716 张图片，这些图片的人流场景相对稀疏，拍摄于街道的固定摄像头，群体数量从 12 到 578 不等。训练集包含 400 张图像，测试集包含 316 张图像。】
+* [UCF-QNRF - A Large Crowd Counting Data Set](https://www.crcv.ucf.edu/data/ucf-qnrf/): It contains 1535 images which are divided into train and test sets of 1201 and 334 images respectively. Paper is published in ECCV2018. 情况介绍：【这是最新发布的最大人群数据集。它包含 1535 张来自 Flickr、网络搜索和 Hajj 片段的密集人群图像。数据集包含广泛的场景，拥有丰富的视角、照明变化和密度多样性，计数范围从 49 到 12865 不等，这使该数据库更加困难和现实。此外，图像分辨率也很大，因此导致头部尺寸出现大幅变化。】
+* [UCSD Pedestrian Dataset](http://visal.cs.cityu.edu.hk/downloads/): Video of people on pedestrian walkways at UCSD, and the corresponding motion segmentations. Currently two scenes are available.  情况介绍：【由 2000 帧监控摄像机拍摄的照片组成，尺寸为 238×158。这个数据集的密度相对较低，每幅图像 11 到 46 人不等，平均约 25 人。在所有帧中，帧 601 到 1400 为训练集，其余帧为测试集。】
 
 
 ## 2) Pioneers and Experts
