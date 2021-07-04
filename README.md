@@ -55,3 +55,7 @@
 * **[Supplement]** The purpose of visual tracking is to obtain the motion parameters of the moving object, such as position, velocity, acceleration and trajectory, so as to process and analyze the next step, realize the behavior understanding of the moving object, and complete the higher level visual task. Visual tracking can be divided into two branches, CNN and correlation filtering. At present, CNN has not fully occupied the field of tracking. On the one hand, CNN model has poor real-time processing of images, on the other hand, there is a lot of redundant information in video. Visual tracking is the most significant and challenging task in the CV field.
 * *Refer to branch [visual_tracking](./visual_tracking) for detailed introduction.*
 
+# Other Collection Depository
+* **[(github)daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)** 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
+
+
