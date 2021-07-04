@@ -56,6 +56,6 @@
 * *Refer to branch [visual_tracking](./visual_tracking) for detailed introduction.*
 
 # Other Collection Depository
-* **[(github)daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)** 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
+* **[(github)daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)**
 
 
