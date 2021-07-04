@@ -5,6 +5,7 @@
 ### ⭐**For Head Pose Estimation**
 * [BIWI RGBD-ID Dataset](http://robotics.dei.unipd.it/reid/index.php): The BIWI RGBD-ID Dataset is a RGB-D dataset of people targeted to long-term people re-identification from RGB-D cameras. It contains 50 training and 56 testing sequences of 50 different people.
 * [300W-LP & AFLW2000-3D](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3ddfa/main.htm): 300W-LP has the synthesized large-pose face images from 300W. AFLW2000-3D is the fitted 3D faces of the first 2000 AFLW samples, which can be used for 3D face alignment evaluation.
+* [CMU Panoptic Studio Dataset](http://domedb.perception.cs.cmu.edu/index.html): Currently, 480 VGA videos, 31 HD videos, 3D body pose, and calibration data are available. PointCloud DB from 10 Kinects (with corresponding 41 RGB videos) is also available (6+ hours of data). Please refer the official website for details. Dataset paper link [Panoptic studio: A massively multiview system for social interaction capture](https://arxiv.org/pdf/1612.03153.pdf).
 
 ### ⭐**For Head Detection**
 * [HollywoodHead dataset](https://www.di.ens.fr/willow/research/headdetection/): HolleywoodHeads dataset is a head detection datset. HollywoodHeads dataset contains 369846 human heads annotated in 224740 video frames from 21 Hollywood movies.
@@ -154,6 +155,7 @@
 * [(blogs) solvepnp三维位姿估算 | PnP 单目相机位姿估计（一、二、三）](https://blog.csdn.net/cocoaqin/article/details/77485436)
 * [(github) OpenFace 2.2.0: a facial behavior analysis toolkit](https://github.com/TadasBaltrusaitis/OpenFace)
 * [(github) Deepgaze contains useful packages including Head Pose Estimation](https://github.com/mpatacchiola/deepgaze)
+* []()
 
 #### Papers
 
