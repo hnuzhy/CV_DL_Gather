@@ -129,6 +129,10 @@
 ### Materials
 
 * [(zhihu) 一文读懂YOLO V5 与 YOLO V4](https://zhuanlan.zhihu.com/p/161083602?d=1605663864267)
+* [(zhihu) 如何评价YOLOv5？](https://www.zhihu.com/question/399884529)
+* [(csdn blog) YOLO/V1、V2、V3目标检测系列介绍](https://blog.csdn.net/qq26983255/article/details/82119232)
+* [(csdn blog) 睿智的目标检测26——Pytorch搭建yolo3目标检测平台](https://blog.csdn.net/weixin_44791964/article/details/105310627)
+* [(csdn blog) 睿智的目标检测30——Pytorch搭建YoloV4目标检测平台](https://blog.csdn.net/weixin_44791964/article/details/106214657/)
 
 ### Papers
 
