@@ -172,6 +172,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * [(zhihu) 一些想法：关于行人检测与重识别](https://zhuanlan.zhihu.com/p/39282286)
 * [(zhihu) 零基础实战行人重识别ReID项目-基于Milvus的以图搜图](https://zhuanlan.zhihu.com/p/141204192)
 * [(csdnblog) 行人重识别（Person Re-ID）【一】：常用评测指标](https://blog.csdn.net/qq_38451119/article/details/83000061)
+* [(csdnblog) 云从科技：详解跨镜追踪（ReID）技术实现及应用场景](https://edu.csdn.net/course/detail/8426)
 
 ### Datasets
 
@@ -181,7 +182,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 ### Papers
 
-* **Monoloco(ICCV2019)** MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[arxiv link](https://arxiv.org/abs/1906.06059)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/monoloco)]
+* **(TOMM2017)** A Discriminatively Learned CNN Embedding for Person Re-identification [[arxiv link](https://arxiv.org/pdf/1611.05666.pdf)][[Codes|caffe+keras(official)](https://github.com/layumi/2016_person_re-ID)][[CSDN blog](https://blog.csdn.net/weixin_41427758/article/details/80091596)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
