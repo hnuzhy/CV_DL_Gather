@@ -12,6 +12,7 @@
 * [⭐Image Restoration](#image-restoration)
 * [⭐Lane Detection](#lane-detection)
 * [⭐Pedestrian Localization](#pedestrian-localization)
+* [⭐Person ReID](#person-reid)
 * [⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
 * [⭐Sound Source Localization](#sound-source-localization)
@@ -161,6 +162,29 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * **Monoloco(ICCV2019)** MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[arxiv link](https://arxiv.org/abs/1906.06059)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/monoloco)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Person ReID
+
+### Materials
+
+* [(zhihu) 从零开始行人重识别](https://zhuanlan.zhihu.com/p/50387521)
+* [(zhihu) (转)行人重识别(ReID) ——技术实现及应用场景](https://zhuanlan.zhihu.com/p/64362368)
+* [(zhihu) 一些想法：关于行人检测与重识别](https://zhuanlan.zhihu.com/p/39282286)
+* [(zhihu) 零基础实战行人重识别ReID项目-基于Milvus的以图搜图](https://zhuanlan.zhihu.com/p/141204192)
+* [(csdnblog) 行人重识别（Person Re-ID）【一】：常用评测指标](https://blog.csdn.net/qq_38451119/article/details/83000061)
+
+### Datasets
+
+* [Market1501 [Tsinghua University; 32217 images; 1501 persons; 6 cameras]](http://liangzheng.com.cn/Project/project_reid.html)
+* [DukeMTMC-ReID [Duke University; 36441 images; 1812 persons; 8 cameras]](https://github.com/sxzrt/DukeMTMC-reID_evaluation#download-dataset)
+* [CUHK03 [CUHK University; 13164 images; 1467 persons; 10 cameras]](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)
+
+### Papers
+
+* **Monoloco(ICCV2019)** MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation [[arxiv link](https://arxiv.org/abs/1906.06059)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/monoloco)]
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
 
 ## ⭐Semantic Segmentation
 
