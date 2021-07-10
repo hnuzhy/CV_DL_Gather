@@ -16,6 +16,9 @@
 * [(B站) 2019-2020年目标跟踪资源全汇总（论文、模型代码、优秀实验室）](https://www.bilibili.com/read/cv7636814)
 * [(B站) 张志鹏：Ocean/Ocean+：实时目标跟踪分割算法，小代价，大增益](https://www.bilibili.com/video/BV1354y1e7wU)
 * [(github) Visual Tracking Paper List](https://github.com/foolwood/benchmark_results)
+* [(github) Yolov5 deepsort inference，使用YOLOv5+Deepsort实现车辆行人追踪和计数](https://github.com/Sharpiless/Yolov5-deepsort-inference)
+* [(github) Real-time multi-object tracker using YOLO v5 and deep sort](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)[[Evaluation Page]](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch/wiki/Evaluation)
+* [(github) [Official DeepSort] MOT tracking using deepsort and yolov3 with pytorch](https://github.com/ZQPei/deep_sort_pytorch)
 
 ## 4) Papers and Sources Codes
 
