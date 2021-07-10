@@ -173,6 +173,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * [(zhihu) 零基础实战行人重识别ReID项目-基于Milvus的以图搜图](https://zhuanlan.zhihu.com/p/141204192)
 * [(csdnblog) 行人重识别（Person Re-ID）【一】：常用评测指标](https://blog.csdn.net/qq_38451119/article/details/83000061)
 * [(csdnblog) 云从科技：详解跨镜追踪（ReID）技术实现及应用场景](https://edu.csdn.net/course/detail/8426)
+* [(tencent cloud) 云从科技资深算法研究员：详解跨镜追踪(ReID)技术实现及难点 | 公开课笔记](https://cloud.tencent.com/developer/article/1160607)
 
 ### Datasets
 
