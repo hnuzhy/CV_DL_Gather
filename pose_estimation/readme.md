@@ -58,12 +58,18 @@ The dataset contains *91 common object categories* with 82 of them having more t
 The main contribution of COCO datasets is the use of *Non-iconic Image Collection* which makes it different from traditional vision datasets including [ImageNet](http://www.image-net.org/)(CVPR2009)[3], [PASCAL VOC](http://host.robots.ox.ac.uk:8080/pascal/VOC/)(IJCV2010)[4] and [SUN](http://groups.csail.mit.edu/vision/SUN/)(CVPR2010)[5]. Besides, the standardized labeling pipeline and a large amount of time investment make COCO the most commonly used dataset by scientific researchers at present.
 
 ```
-# 18 joint points (Note: original dataset actually has 17 points,
-# point 1 'neck' is a secondary addition of middle point between 'Lshoulder' and 'Rshoulder')
-joints_name_dict = {0: 'nose', 1: 'neck', 2: 'Lshoulder', 3: 'Lelbow', 4: 'Lwrist', 5: 'Rshoulder',
-    6: 'Relbow', 7: 'Rrist', 8: 'Lhip', 9: 'Lknee', 10: 'Lankle', 11: 'Rhip',
-    12: 'Rknee', 13: 'Rankle', 14: 'Leye', 15: 'Reye', 16:'Lear', 17:'Rear'}
-# 17 limb pairs, 19 limb pairs with two adding connections [2, 16] and [5, 17]
+# 18 joint points (Note: original COCO dataset actually has 17 points, the point 1 'neck' 
+# is a secondary addition of middle point between 'Lshoulder' and 'Rshoulder')
+
+joints_name_dict_18 = {0: 'nose', 1: 'neck', 2: 'Lshoulder', 3: 'Lelbow', 4: 'Lwrist', 
+    5: 'Rshoulder', 6: 'Relbow', 7: 'Rrist', 8: 'Lhip', 9: 'Lknee', 10: 'Lankle', 
+    11: 'Rhip', 12: 'Rknee', 13: 'Rankle', 14: 'Leye', 15: 'Reye', 16:'Lear', 17:'Rear'}
+    
+joints_name_dict_17 = {0: 'nose', 1: 'Leye', 2: 'Reye', 3: 'Lear', 4: 'Rear', 
+    5: 'Lshoulder', 6: 'Rshoulder', 7: 'Lelbow', 8: 'Relbow', 9: 'Lwrist', 10: 'Rrist', 
+    11: 'Lhip', 12: 'Rhip', 13: 'Lknee', 14: 'Rknee', 15: 'Lankle', 16: 'Rankle'}
+    
+# For 18 joint points, 17 limb pairs, 19 limb pairs with two adding connections [2, 16] and [5, 17]
 limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
     [1, 8], [8, 9], [9, 10], [1, 11], [11, 12], [12, 13], [1, 0],
     [0, 14], [14, 16], [0, 15], [15, 17]]
