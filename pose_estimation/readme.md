@@ -69,10 +69,10 @@ joints_name_dict_17 = {0: 'nose', 1: 'Leye', 2: 'Reye', 3: 'Lear', 4: 'Rear',
     5: 'Lshoulder', 6: 'Rshoulder', 7: 'Lelbow', 8: 'Relbow', 9: 'Lwrist', 10: 'Rrist', 
     11: 'Lhip', 12: 'Rhip', 13: 'Lknee', 14: 'Rknee', 15: 'Lankle', 16: 'Rankle'}
     
-# For 18 joint points, 17 limb pairs, 19 limb pairs with two adding connections [2, 16] and [5, 17]
-limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
-    [1, 8], [8, 9], [9, 10], [1, 11], [11, 12], [12, 13], [1, 0],
-    [0, 14], [14, 16], [0, 15], [15, 17]]
+# For 18 joint points, there are 17 limb pairs, 19 limb pairs with two adding connections [2, 16] and [5, 17]
+limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7], [1, 8], [8, 9], [9, 10], [1, 11], 
+    [11, 12], [12, 13], [1, 0], [0, 14], [14, 16], [0, 15], [15, 17]]
+
 ```
 
 
