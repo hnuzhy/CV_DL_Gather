@@ -22,6 +22,7 @@
 * [(github) [Official DeepSort] MOT tracking using deepsort and yolov3 with pytorch](https://github.com/ZQPei/deep_sort_pytorch)
 * [(github) [YOLOv5 + SORT] ClassySORT is a simple real-time multi-object tracker (MOT)](https://github.com/tensorturtle/classy-sort-yolov5)
 * [(github) [FastMOT] High-performance multiple object tracking based on YOLO, Deep SORT, and KLT](https://github.com/GeekAlexis/FastMOT)
+* [(github} [IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking](https://github.com/ifzhang/FairMOT)
 
 ## 4) Papers and Sources Codes
 
