@@ -1,4 +1,4 @@
-Facial Expression Recognition (FER)
+* Facial Expression Recognition (FER)
 
 [(github) AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER)
 
@@ -11,3 +11,10 @@ Facial Expression Recognition (FER)
 [(github) Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network](https://github.com/omarsayed7/Deep-Emotion)
 
 [(github) FERAtt: Facial Expression Recognition with Attention Net](https://github.com/pedrodiamel/ferattention)
+
+
+* Face Detection
+
+[(github) Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
+
+[(github) Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch)
