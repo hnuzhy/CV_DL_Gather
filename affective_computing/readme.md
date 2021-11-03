@@ -19,4 +19,4 @@
 
 [(github) Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch)
 
-[(github) DSFD: Dual Shot Face Detector腾讯优图高精度双分支人脸检测器](https://github.com/Tencent/FaceDetection-DSFD)
+[(github) DSFD: Dual Shot Face Detector腾讯优图高精度双分支人脸检测器](https://github.com/Tencent/FaceDetection-DSFD) [DSFD-Pytorch-Inference](https://github.com/hukkelas/DSFD-Pytorch-Inference)
