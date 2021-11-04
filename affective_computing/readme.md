@@ -15,6 +15,8 @@
 
 * Face Detection
 
+[(github) Face detection algorithms in PyTorch. (MTCNN FaceBoxes Tiny face PyramidBox S3FD DSFD)](https://github.com/cs-giung/face-detection-pytorch)
+
 [(github) Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 
 [(github) Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch)
