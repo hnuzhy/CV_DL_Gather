@@ -153,7 +153,7 @@
 
 * **HGG(arxiv2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/2007.11864)]
 
-
+* **SAHR(CVPR2021)(arxiv2021)** Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2012.15175)][[Codes | official pytorch](https://github.com/greatlog/SWAHR-HumanPose)]
 
 ### ▶  Single-Stage Multiple Person Pose Estimation
 
