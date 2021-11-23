@@ -57,5 +57,7 @@
 
 # Other Collection Depository
 * **[(github)daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)**
+* **[(zhihu)CVPR2021的最新论文汇总](https://zhuanlan.zhihu.com/p/354043252?ivk_sa=1024320u)**
+* **[(zhihu)ICCV2021的最新论文汇总](https://zhuanlan.zhihu.com/p/392575669)**
 
 
