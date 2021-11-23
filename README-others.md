@@ -14,6 +14,7 @@
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Person ReID](#person-reid)
 * [⭐Semantic Segmentation](#semantic-segmentation)
+* [⭐Semi/Un-supervised Learning](#semi-un-supervised-learning)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
 * [⭐Sound Source Localization](#sound-source-localization)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
@@ -197,6 +198,22 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 ### Papers
 
 * **FCIS(CVPR2017)** Fully Convolutional Instance-aware Semantic Segmentation [[arxiv link](https://arxiv.org/abs/1611.07709)][[Codes|MXNet(offical based on RFCN)](https://github.com/msracver/FCIS)][[CSDN blog](https://blog.csdn.net/jiongnima/article/details/78961147)]
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+
+## ⭐Semi/Un-supervised Learning
+
+### Materials
+
+
+
+### Papers
+
+* **Model Evaluation(CVPR2021)** Are Labels Necessary for Classifier Accuracy Evaluation?(测试集没有标签，可以拿来测试模型吗？) [[arxiv link](https://arxiv.org/abs/2007.02915)][[CSDN blog](https://zhuanlan.zhihu.com/p/328686799)]
+
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
