@@ -213,6 +213,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **Model Evaluation(CVPR2021)** Are Labels Necessary for Classifier Accuracy Evaluation?(测试集没有标签，可以拿来测试模型吗？) [[arxiv link](https://arxiv.org/abs/2007.02915)][[CSDN blog](https://zhuanlan.zhihu.com/p/328686799)]
 
+* **PCS-FUDA(CVPR2021)** Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [[arxiv link](https://arxiv.org/pdf/2103.16765.pdf)][[project link](http://xyue.io/pcs-fuda/)][[codes|official PyTorch](https://github.com/zhengzangw/PCS-FUDA)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
