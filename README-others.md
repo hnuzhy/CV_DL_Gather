@@ -14,7 +14,7 @@
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Person ReID](#person-reid)
 * [⭐Semantic Segmentation](#semantic-segmentation)
-* [⭐Semi/Un-supervised Learning](#semi-un-supervised-learning)
+* [⭐Semi and Un-supervised Learning](#semi-and-un-supervised-learning)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
 * [⭐Sound Source Localization](#sound-source-localization)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
@@ -203,7 +203,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 
-## ⭐Semi/Un-supervised Learning
+## ⭐Semi and Un-supervised Learning
 
 ### Materials
 
