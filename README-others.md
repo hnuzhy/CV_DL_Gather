@@ -218,6 +218,14 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **DA-FasterRCNN(CVPR2018)(Baseline&Milestone)** Domain Adaptive Faster R-CNN for Object Detection in the Wild [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.html)][[codes|official Caffe](https://github.com/yuhuayc/da-faster-rcnn)][[Zhihu blog](https://zhuanlan.zhihu.com/p/371721493)]
 
+* **Strong-Weak DA(CVPR2019)** Strong-Weak Distribution Alignment for Adaptive Object Detection [[arxiv link](https://arxiv.org/pdf/1812.04798.pdf)][[project link](http://cs-people.bu.edu/keisaito/research/CVPR2019.html)][[codes|official PyTorch](https://github.com/VisionLearningGroup/DA_Detection)]
+
+* **(ECCV2020)** YOLO in the Dark - Domain Adaptation Method for Merging Multiple Models [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660341.pdf)]
+
+* **(ECCV2020)** One-Shot Unsupervised Cross-Domain Detection [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610715.pdf)]
+
+* **CR-DA-DET(CVPR2020)** Exploring Categorical Regularization for Domain Adaptive Object Detection [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Exploring_Categorical_Regularization_for_Domain_Adaptive_Object_Detection_CVPR_2020_paper.pdf)][[codes|official PyTorch](https://github.com/Megvii-Nanjing/CR-DA-DET)]
+
 * **Model Evaluation(CVPR2021)** Are Labels Necessary for Classifier Accuracy Evaluation?(测试集没有标签，可以拿来测试模型吗？) [[arxiv link](https://arxiv.org/abs/2007.02915)][[CSDN blog](https://zhuanlan.zhihu.com/p/328686799)]
 
 * **PCS-FUDA(CVPR2021)** Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [[arxiv link](https://arxiv.org/pdf/2103.16765.pdf)][[project link](http://xyue.io/pcs-fuda/)][[codes|official PyTorch](https://github.com/zhengzangw/PCS-FUDA)]
@@ -226,6 +234,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **UMT(CVPR2021)** Unbiased Mean Teacher for Cross-domain Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Unbiased_Mean_Teacher_for_Cross-Domain_Object_Detection_CVPR_2021_paper.pdf)][[codes|official PyTorch](https://github.com/kinredon/umt)]
 
+* **Survey(arxiv2021)** Unsupervised Domain Adaptation of Object Detectors: A Survey [[paper link](https://arxiv.org/pdf/2105.13502.pdf)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
