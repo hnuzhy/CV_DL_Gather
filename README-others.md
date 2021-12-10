@@ -257,6 +257,10 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **Survey(arxiv2021)** Unsupervised Domain Adaptation of Object Detectors: A Survey [[paper link](https://arxiv.org/pdf/2105.13502.pdf)]
 
+* **MS-DAYOLO(ICIP2021)(YOLOV4)** Multiscale Domain Adaptive YOLO for Cross-Domain Object Detection [[arxiv link](https://arxiv.org/abs/2106.01483)][[csdn blog](https://cloud.tencent.com/developer/article/1843695)]
+
+* **DAYOLO(PRML2021)(YOLOV3)** Domain Adaptive YOLO for One-Stage Cross-Domain Detection [[paper link](https://proceedings.mlr.press/v157/zhang21c.html)]
+
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐SLAM (Simultaneous Localization and Mapping)
