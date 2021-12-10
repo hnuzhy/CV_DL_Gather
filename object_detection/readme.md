@@ -20,6 +20,11 @@
 * [(CSDN blog) 目标检测——One-stage和Two-stage的详解](https://blog.csdn.net/gaoyu1253401563/article/details/86485851)
 * [(CSDN blog) Anchor-free的目标检测文章](https://blog.csdn.net/qq_33547191/article/details/90548564)
 * [(CSDN blog) 目标检测Anchor-free分支：基于关键点的目标检测（最新网络全面超越YOLOv3）](https://blog.csdn.net/qiu931110/article/details/89430747)
+* [(CSDN blog) YOLO V4 Tiny改进版来啦！速度294FPS精度不减YOLO V4 Tiny](https://blog.csdn.net/Yong_Qi2015/article/details/109685373)
+* [(blog) YOLO V5 is Here! Custom Object Detection Tutorial with YOLO V5](https://pub.towardsai.net/yolo-v5-is-here-custom-object-detection-tutorial-with-yolo-v5-12666ee1774e)
+* [(github) Yolo v4, v3 and v2 for Windows and Linux](https://github.com/AlexeyAB/darknet)
+* [(github) Darknet & Scaled-YOLOv4 & YOLOv4](https://github.com/pjreddie/darknet)
+* [(github) Yolov5 Yolov4 Yolov3 TensorRT Implementation](https://github.com/enazoe/yolo-tensorrt)
 * [(github) YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/ultralytics/yolov5)
 * [(github) A Faster Pytorch Implementation of Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch)
 
