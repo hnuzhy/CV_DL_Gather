@@ -14,6 +14,7 @@
 
 ## 3) Blogs and Videos
 
+* [(CSDNblog) 理解COCO的评价指标：AP，AP50，AP70，mAP，AP[.50:.05:.95]](https://blog.csdn.net/qq_27095227/article/details/105450470)
 * [(github) High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection)
 * [(github) MMDetection: an open source object detection toolbox based on PyTorch by CUHK](https://github.com/open-mmlab/mmdetection)
 * [(github) TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
