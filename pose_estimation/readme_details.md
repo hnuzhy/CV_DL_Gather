@@ -161,6 +161,9 @@
 
 * **CenterNet(arxiv2019)** Objects as Points [[arxiv link](https://arxiv.org/abs/1904.07850)]
 
+* **KAPAO(arxiv2021)** Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2111.08557)][[codes|(official pytorch using YOLOv5)](https://github.com/wmcnally/kapao)]
+
+
 
 ### ▶  3D Multiple Person Pose Estimation
 
