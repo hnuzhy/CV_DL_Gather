@@ -1,7 +1,5 @@
 # Here are collections about other CV topics
 
-
-
 **Contents Hyperlinks**
 
 * [⭐3D Camera](#3d-camera)
@@ -15,7 +13,6 @@
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Person ReID](#person-reid)
 * [⭐Semantic Segmentation](#semantic-segmentation)
-* [⭐Semi and Un-supervised Learning](#semi-and-un-supervised-learning)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
 * [⭐Sound Source Localization](#sound-source-localization)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
