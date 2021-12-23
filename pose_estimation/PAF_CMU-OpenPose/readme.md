@@ -2,7 +2,7 @@
 
 Paper URL: https://arxiv.org/abs/1611.08050
 
-For codes, go straight to [**improved_PAF**](https://github.com/hnuzhy/Pose_Estimation_Depository/tree/master/PAF_CMU-OpenPose) in my another project. This code repo is a PyTorch version of *Realtime Multi-Person Pose Estimation*. It only inlcudes improved and reorganized test code rather than train code. For details about training your own model, please reference the origin code [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+For codes, go straight to [**improved_PAF**](https://github.com/hnuzhy/PAF_CMU-OpenPose) in my another project. This code repo is a PyTorch version of *Realtime Multi-Person Pose Estimation*. It only inlcudes improved and reorganized test code rather than train code. For details about training your own model, please reference the origin code [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
 ## 1) Introduction
 This PAF algorithm is from an Oral paper 2017 CVPR: **Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields**. It is a milestone in the bottom-up branch. Thanks to the universality of method design and the thoroughness of open source, it is still the most widely used method even today, including practical applications and other complex visual tasks research. 
