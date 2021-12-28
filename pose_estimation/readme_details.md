@@ -188,4 +188,8 @@
 * **DoubleFusion(TPAMI2019)(3D single-view real-time depth-sensor)** DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor [[arxiv link](https://arxiv.org/pdf/1804.06023.pdf)]
 
 
+### ▶  Domain Adaptive Multiple Person Pose Estimation
+
+* **Pose-ADHNN(ACMMM2021)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose-ADHNN)]
+
 
