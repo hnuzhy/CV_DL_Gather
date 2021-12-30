@@ -3,6 +3,7 @@
 ## 1) Pubilc Datasets and Challenges
 
 * [LIP(Look Into Person)](http://www.sysu-hcp.net/lip/index.php)
+* [Human3.6M (TPAMI2014) (3D single person)](http://vision.imar.ro/human3.6m/description.php)
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 * [COCO - Common Objects in Context](https://cocodataset.org/)
 * [DensePose-COCO Dataset (CVPR2018)](http://densepose.org/#dataset)
