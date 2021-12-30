@@ -6,6 +6,7 @@
 * [Human3.6M (TPAMI2014) (3D single person)](http://vision.imar.ro/human3.6m/description.php)
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 * [COCO - Common Objects in Context](https://cocodataset.org/)
+* [JTA - A synthetical dataset for pedestrian pose estimation and tracking (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)]
 * [DensePose-COCO Dataset (CVPR2018)](http://densepose.org/#dataset)
 * [PoseTrack: Dataset and Benchmark](https://posetrack.net/)
 * [Mannequin RGB and IRS in-bed pose estimation dataset](https://github.com/ostadabbas/in-bed-pose-estimation)
