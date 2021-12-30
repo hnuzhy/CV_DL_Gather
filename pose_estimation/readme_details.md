@@ -6,7 +6,7 @@
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 * [COCO - Common Objects in Context](https://cocodataset.org/)
 * [PoseTrack: Dataset and Benchmark](https://posetrack.net/)
-* [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://sites.google.com/view/yoga-82/home)
+* [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://sites.google.com/view/yoga-82/home)[[kaggle](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset)]
 
 ## 2) Pioneers and Experts
 
