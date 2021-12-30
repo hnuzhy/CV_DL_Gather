@@ -9,7 +9,7 @@
 * [CMU Panoptic Studio Dataset (3D single and multiple real person pose in the lab)](http://domedb.perception.cs.cmu.edu/)
 * [SURREAL dataset (CVPR2017) (3D single synthetic person pose in the indoor)](https://www.di.ens.fr/willow/research/surreal/)[[paper link](https://arxiv.org/abs/1701.01370)]
 * [Drive&Act dataset (ICCV2019) (3D openpose single real person pose in the car)](https://www.driveandact.com/)[[paper link](https://www.driveandact.com/publication/2019_iccv_drive_and_act/2019_iccv_drive_and_act.pdf)]
-* [COCO-WholeBody (ECCV2020)](https://github.com/jin-s13/COCO-WholeBody)[[paper link](https://arxiv.org/abs/2007.11858)]
+* [COCO-WholeBody (ECCV2020) (re-annotated based on keypoints in COCO dataset)](https://github.com/jin-s13/COCO-WholeBody)[[paper link](https://arxiv.org/abs/2007.11858)]
 * [IKEA ASSEMBLY DATASET (WACV2021) (3D single and multiple real person pose in the lab)](https://ikeaasm.github.io/)[[paper link](https://arxiv.org/abs/2007.00394)][[google drive](https://drive.google.com/drive/folders/1xkDp--QuUVxgl4oJjhCDb2FWNZTkYANq)]
 * [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://sites.google.com/view/yoga-82/home)[[kaggle](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset)]
 * [UAV-Human Dataset (CVPR2021) (not all appeared persons are annotated)](https://github.com/SUTDCV/UAV-Human)[[paper link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_UAV-Human_A_Large_Benchmark_for_Human_Behavior_Understanding_With_Unmanned_CVPR_2021_paper.pdf)][[google drive](https://drive.google.com/drive/folders/1QeYXeM_pbWBSSmpRr_rKHurMpI2TxAKs)]
