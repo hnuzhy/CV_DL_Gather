@@ -116,6 +116,8 @@
 
 * ⭐**HRNet(CVPR2019)** Deep High-Resolution Representation Learning for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1902.09212)][[Codes|PyTorch(offical)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)][[Codes|(Repositories using HRNet as backbone)](https://github.com/HRNet)][[Codes|Tensorflow for fun](https://github.com/VXallset/deep-high-resolution-net.TensorFlow)][[Codes|Tensorflow HRNet-V2(unoffical)](https://github.com/AI-Chen/HRNet-V2)]
 
+* ⭐**CrowdPose(CVPR2019)** CrowdPose: Efficient Crowded Scenes Pose Estimation and a New Benchmark [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_CrowdPose_Efficient_Crowded_Scenes_Pose_Estimation_and_a_New_Benchmark_CVPR_2019_paper.html)][[codes|(SJTU) official PyTorch](https://github.com/Jeff-sjtu/CrowdPose)]
+
 * **(CVPR2019)** Multi-Person Pose Estimation with Enhanced Channel-wise and Spatial Information [[arxiv link](https://arxiv.org/abs/1905.03466)]
 
 * **(CVPR2019)** PoseFix: Model-Agnostic General Human Pose Refinement Network [[paper link](https://www.researchgate.net/publication/338506497_PoseFix_Model-Agnostic_General_Human_Pose_Refinement_Network)]
