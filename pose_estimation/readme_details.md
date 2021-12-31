@@ -8,7 +8,7 @@
 * [COCO - Common Objects in Context](https://cocodataset.org/)
 * [DensePose-COCO Dataset (CVPR2018)](http://densepose.org/#dataset)
 * [PoseTrack: Dataset and Benchmark](https://posetrack.net/)
-* [JTA(Joint Track Auto) - A synthetical dataset for pedestrian pose estimation and tracking from GTA-V (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)][[github link](https://github.com/fabbrimatteo/JTA-Dataset)][[JTA-Extension](https://github.com/thomasgolda/Human-Pose-Estimation-for-Real-World-Crowded-Scenarios)]
+* [JTA(Joint Track Auto) - A synthetical dataset from GTA-V (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)][[github link](https://github.com/fabbrimatteo/JTA-Dataset)][[JTA-Extension](https://github.com/thomasgolda/Human-Pose-Estimation-for-Real-World-Crowded-Scenarios)]
 * [Mannequin RGB and IRS in-bed pose estimation dataset](https://github.com/ostadabbas/in-bed-pose-estimation)
 * [CMU Panoptic Studio Dataset (3D single and multiple real person pose in the lab)](http://domedb.perception.cs.cmu.edu/)
 * [SURREAL dataset (CVPR2017) (3D single synthetic person pose in the indoor)](https://www.di.ens.fr/willow/research/surreal/)[[paper link](https://arxiv.org/abs/1701.01370)]
