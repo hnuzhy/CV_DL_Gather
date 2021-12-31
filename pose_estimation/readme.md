@@ -82,7 +82,10 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7], [1, 8], 
 joint_vis: { 1: "visible", 2: "occlude", 3: "invisible"}
 
 # 14 joint points
-joints_name_dict_14 = { 0: "right shoulder", 1: "right elbow", 2: "right wrist", 3: "left shoulder", 4: "left elbow", 5: "left wrist", 6: "right hip", 7: "right knee", 8: "right ankle", 9: "left hip", 10: "left knee", 11: "left ankle", 12: "head tops" 13: "upper neck"}
+joints_name_dict_14 = { 0: "right shoulder", 1: "right elbow", 2: "right wrist", 
+    3: "left shoulder", 4: "left elbow", 5: "left wrist", 
+    6: "right hip", 7: "right knee", 8: "right ankle", 
+    9: "left hip", 10: "left knee", 11: "left ankle", 12: "head tops" 13: "upper neck"}
 
 # 13 limb pairs
 limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
