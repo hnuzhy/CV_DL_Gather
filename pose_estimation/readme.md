@@ -58,6 +58,8 @@ The dataset contains *91 common object categories* with 82 of them having more t
 The main contribution of COCO datasets is the use of *Non-iconic Image Collection* which makes it different from traditional vision datasets including [ImageNet](http://www.image-net.org/)(CVPR2009)[3], [PASCAL VOC](http://host.robots.ox.ac.uk:8080/pascal/VOC/)(IJCV2010)[4] and [SUN](http://groups.csail.mit.edu/vision/SUN/)(CVPR2010)[5]. Besides, the standardized labeling pipeline and a large amount of time investment make COCO the most commonly used dataset by scientific researchers at present.
 
 ```
+joint_vis: { 0: "invisible", 1: "occlude", 2: "visible" }
+
 # 18 joint points (Note: original COCO dataset actually has 17 points, the point 1 'neck' 
 # is a secondary addition of middle point between 'Lshoulder' and 'Rshoulder')
 
@@ -72,7 +74,19 @@ joints_name_dict_17 = {0: 'nose', 1: 'Leye', 2: 'Reye', 3: 'Lear', 4: 'Rear',
 # For 18 joint points, there are 17 limb pairs, 19 limb pairs with two adding connections [2, 16] and [5, 17]
 limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7], [1, 8], [8, 9], [9, 10], [1, 11], 
     [11, 12], [12, 13], [1, 0], [0, 14], [14, 16], [0, 15], [15, 17]]
+```
 
+* **AI Challenger**
+
+```
+joint_vis: { 1: "visible", 2: "occlude", 3: "invisible"}
+
+# 14 joint points
+joints_name_dict_14 = { 0: "right shoulder", 1: "right elbow", 2: "right wrist", 3: "left shoulder", 4: "left elbow", 5: "left wrist", 6: "right hip", 7: "right knee", 8: "right ankle", 9: "left hip", 10: "left knee", 11: "left ankle", 12: "head tops" 13: "upper neck"}
+
+# 13 limb pairs
+limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
+    [13,6],[6,7],[7,8],[13,9],[9,10],[10,11]]
 ```
 
 
