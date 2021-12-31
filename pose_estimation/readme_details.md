@@ -7,6 +7,7 @@
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 * [COCO - Common Objects in Context](https://cocodataset.org/)
 * [AI Challenger (arxiv2017 & ICME2019)](https://github.com/AIChallenger/AI_Challenger_2017)[[paper link](https://arxiv.org/abs/1711.06475)]
+* [MHP - Multi-Human Parsing (ACMMM2018)](https://lv-mhp.github.io/dataset)
 * [OCHuman(Occluded Human) Dataset (CVPR2019)](https://github.com/liruilong940607/OCHumanApi)
 * [DensePose-COCO Dataset (CVPR2018)](http://densepose.org/#dataset)
 * [PoseTrack: Dataset and Benchmark](https://posetrack.net/)
