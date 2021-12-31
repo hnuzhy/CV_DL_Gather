@@ -6,6 +6,7 @@
 * [Human3.6M (TPAMI2014) (3D single person)](http://vision.imar.ro/human3.6m/description.php)
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
 * [COCO - Common Objects in Context](https://cocodataset.org/)
+* [AI Challenger (arxiv2017 & ICME2019)](https://github.com/AIChallenger/AI_Challenger_2017)[[paper link](https://arxiv.org/abs/1711.06475)]
 * [DensePose-COCO Dataset (CVPR2018)](http://densepose.org/#dataset)
 * [PoseTrack: Dataset and Benchmark](https://posetrack.net/)
 * [JTA(Joint Track Auto) - A synthetical dataset from GTA-V (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)][[github link](https://github.com/fabbrimatteo/JTA-Dataset)][[JTA-Extension](https://github.com/thomasgolda/Human-Pose-Estimation-for-Real-World-Crowded-Scenarios)]
