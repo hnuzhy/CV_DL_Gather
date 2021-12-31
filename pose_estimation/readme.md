@@ -29,10 +29,12 @@ At present, the mainstream schemes for pose estimation are all based on data-dri
 <tr>
 <th>MPII Keypoints Indexs</th>
 <th>COCO Keypoints Indexs</th>
+<th>AIC Keypoints Indexs</th>
 </tr>
 <tr>
 <td><img src="./materials/MPII_keypoints.jpg" height="420"></td>
-<td><img src="./materials/COCO_keypoints.jpg" height="420"></td>
+<td><img src="./materials/COCO_keypoints.jpg" height="420"></td> 
+<td><img src="./materials/AIC_keypoints.jpg" height="420"></td>
 </tr>
 </table>
 
