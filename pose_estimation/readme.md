@@ -34,7 +34,7 @@ At present, the mainstream schemes for pose estimation are all based on data-dri
 <tr>
 <td><img src="./materials/MPII_keypoints.jpg" height="360"></td>
 <td><img src="./materials/COCO_keypoints.jpg" height="360"></td> 
-<td><img src="./materials/AIC_keypoints.jpg" height="360"></td>
+<td><img src="./materials/AIChallenger_keypoints.jpg" height="360"></td>
 </tr>
 </table>
 
