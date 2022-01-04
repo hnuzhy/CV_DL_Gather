@@ -2,6 +2,8 @@
 
 ## 1) Pubilc Datasets and Challenges
 
+### Slim and Simple
+
 * [LIP(Look Into Person)](http://www.sysu-hcp.net/lip/index.php)
 * [Human3.6M (TPAMI2014) (3D single person)](http://vision.imar.ro/human3.6m/description.php)
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#)
@@ -12,6 +14,9 @@
 * [CrowdPose (CVPR2019)](https://github.com/Jeff-sjtu/CrowdPose)
 * [DensePose-COCO Dataset (CVPR2018)](http://densepose.org/#dataset)
 * [PoseTrack: Dataset and Benchmark](https://posetrack.net/)
+
+### Mixed, Synthetic and Complicated
+
 * [JTA(Joint Track Auto) - A synthetical dataset from GTA-V (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)][[github link](https://github.com/fabbrimatteo/JTA-Dataset)][[JTA-Extension](https://github.com/thomasgolda/Human-Pose-Estimation-for-Real-World-Crowded-Scenarios)]
 * [Mannequin RGB and IRS in-bed pose estimation dataset](https://github.com/ostadabbas/in-bed-pose-estimation)
 * [CMU Panoptic Studio Dataset (3D single and multiple real person pose in the lab)](http://domedb.perception.cs.cmu.edu/)
@@ -23,6 +28,7 @@
 * [UAV-Human Dataset (CVPR2021) (not all appeared persons are annotated)](https://github.com/SUTDCV/UAV-Human)[[paper link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_UAV-Human_A_Large_Benchmark_for_Human_Behavior_Understanding_With_Unmanned_CVPR_2021_paper.pdf)][[google drive](https://drive.google.com/drive/folders/1QeYXeM_pbWBSSmpRr_rKHurMpI2TxAKs)]
 * [Mirrored-Human Dataset (CVPR2021 Oral)](https://zju3dv.github.io/Mirrored-Human/)[[paper link](https://arxiv.org/pdf/2104.00340.pdf)]
 * [AGORA: A synthetic human pose and shape dataset (CVPR2021)](https://agora.is.tue.mpg.de/) [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)][[github link](https://github.com/pixelite1201/agora_evaluation)]
+* [InfiniteForm: Open Source Dataset for Human Pose Estimation (NIPSW2021)](https://pixelate.ai/InfiniteForm) [[paper link](https://arxiv.org/abs/2110.01330)][[github link](https://github.com/toinfinityai/infiniteform)]
 
 
 ## 2) Pioneers and Experts
