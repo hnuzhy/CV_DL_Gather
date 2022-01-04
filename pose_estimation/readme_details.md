@@ -19,7 +19,7 @@
 * [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark (CVPR2019)](https://github.com/Jeff-sjtu/CrowdPose)
 * [JTA(Joint Track Auto) - A synthetical dataset from GTA-V (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)][[github link](https://github.com/fabbrimatteo/JTA-Dataset)][[JTA-Extension](https://github.com/thomasgolda/Human-Pose-Estimation-for-Real-World-Crowded-Scenarios)]
 * [Mannequin RGB and IRS in-bed pose estimation dataset](https://github.com/ostadabbas/in-bed-pose-estimation)
-* [CMU Panoptic Studio Dataset (3D single and multiple real person pose in the lab)](http://domedb.perception.cs.cmu.edu/)
+* [CMU Panoptic Studio Dataset (3D single and multiple real person pose in the lab)](http://domedb.perception.cs.cmu.edu/) [[github link](https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox)]
 * [SURREAL dataset (CVPR2017) (3D single synthetic person pose in the indoor)](https://www.di.ens.fr/willow/research/surreal/)[[paper link](https://arxiv.org/abs/1701.01370)]
 * [Drive&Act dataset (ICCV2019) (3D openpose single real person pose in the car with 5 views)](https://www.driveandact.com/)[[paper link](https://www.driveandact.com/publication/2019_iccv_drive_and_act/2019_iccv_drive_and_act.pdf)]
 * [COCO-WholeBody (ECCV2020) (re-annotated based on keypoints in COCO dataset)](https://github.com/jin-s13/COCO-WholeBody)[[paper link](https://arxiv.org/abs/2007.11858)]
