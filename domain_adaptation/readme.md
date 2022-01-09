@@ -20,6 +20,8 @@
 
 ## Papers
 
+### Domain Adaptation for Image Classification / Object Detection / Semantic Segmentation / Keypoint Detection
+
 * **⭐DA-FasterRCNN(CVPR2018)(Baseline&Milestone)** Domain Adaptive Faster R-CNN for Object Detection in the Wild [[arxiv link](https://arxiv.org/abs/1803.03243)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.html)][[codes|official Caffe](https://github.com/yuhuayc/da-faster-rcnn)][[Zhihu blog](https://zhuanlan.zhihu.com/p/371721493)]
 
 * **Strong-Weak DA(CVPR2019)** Strong-Weak Distribution Alignment for Adaptive Object Detection [[arxiv link](https://arxiv.org/pdf/1812.04798.pdf)][[project link](http://cs-people.bu.edu/keisaito/research/CVPR2019.html)][[codes|official PyTorch](https://github.com/VisionLearningGroup/DA_Detection)]
