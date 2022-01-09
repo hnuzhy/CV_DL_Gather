@@ -114,7 +114,8 @@ limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
 </table>
 
 * **CrowdPose**
-For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+
+CrowdPose is a new benchmark for efficient pose estimation ubder crowded scenes. It has collected `20K` images from the former three popular datasets (MPII, COCO and AIC) with balanced *CrowdIndex*, and re-annotate them with `14` joints (the same as AIC but with different order). For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
 
 * **PoseTrack**
 For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
