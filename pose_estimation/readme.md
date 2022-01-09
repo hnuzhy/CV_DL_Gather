@@ -98,6 +98,30 @@ limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
     [13,6],[6,7],[7,8],[13,9],[9,10],[10,11]]
 ```
 
+**=== Add in 2022-01-09: Other Newly Built Datasets/Benchmarks for Pose Estimation ===**
+
+<table>
+<tr>
+<th>CrowdPose Keypoints Indexs</th>
+<th>PoseTrack Keypoints Indexs</th>
+<th>AGORA Keypoints Indexs</th>
+</tr>
+<tr>
+<td><img src="./materials/CrowdPose_keypoints.jpg" height="360"></td>
+<td><img src="./materials/PoseTrack_keypoints.jpg" height="360"></td> 
+<td><img src="./materials/AGORA_keypoints.jpg" height="360"></td>
+</tr>
+</table>
+
+* **CrowdPose**
+For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+
+* **PoseTrack**
+For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+
+* **AGORA**
+For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+
 
 ## 3) SOTA Algorithms Interpretation
 
