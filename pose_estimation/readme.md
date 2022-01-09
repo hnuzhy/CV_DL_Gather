@@ -113,15 +113,53 @@ limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
 </tr>
 </table>
 
-* **CrowdPose**
+* **CrowdPose (CVPR2019)**
 
 CrowdPose is a new benchmark for efficient pose estimation ubder crowded scenes. It has collected `20K` (train:val:test = `5:1:4`) images from the former three popular datasets (MPII, COCO and AIC) with balanced *CrowdIndex*, and re-annotated them with `14` joints (the same as AIC but with different order). For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
 
-* **PoseTrack**
-For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+* **PoseTrack (Challenge 2018)**
 
-* **AGORA**
-For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+PoseTrack is a large-scale benchmark for human pose estimation and articulated tracking in video. It provides a publicly available training and validation set as well as an evaluation server for benchmarking on a held-out test set. For keypoints, it claims `17` joints of many frames are manually annotated. However, two joints (left_ear and right_ear) are actually not labeled. Besides, the official website shows it has`>1356` video sequences, `>46K` annotated video frames, and `>276K` body pose annotations. We can use those labeled frames to build a still frame based pose estimation task. For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+
+* **AGORA (CVPR2021)**
+
+The authors of AGORA have found that there is a domain gap between current datasets and common scenes containing people. To obtain ground-truth 3D pose, current datasets limit the complexity of clothing, environmental conditions, number of subjects, and occlusion. Thus, they bulit this synthetic dataset with high realism and highly accurate ground truth. It totally contains `14,413` and `1,071` images for train-set and validation-set, correspondingly. AGORA can be used both for 2D and 3D pose estimation tasks. For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+
+```
+### CrowdPose
+joint_vis: { 1: "visible", 2: "occlude", 3: "invisible"}
+# 14 joint points
+joints_name_dict_14 = { 0: "left_shoulder", 1: "right_shoulder", 2: "left_elbow", 3: "right_elbow", 
+    4: "left_wrist", 5: "right_wrist", 6: "left_hip", 7: "right_hip", 8: "left_knee", 9: "right_knee", 
+    10: "left_ankle", 11: "right_ankle", 12: "top_head", 13: "upper_neck"}
+# 13 limb pairs
+limb_connection_list = [[12,13],[13,1],[1,3],[3,5],[13,0],[0,2],[2,4],
+    [13,7],[7,9],[9,11],[13,6],[6,8],[8,10]]
+    
+### PoseTrack
+# joint_vis is not available. All labeled joints are set as 1, not labeles are set as 0
+# 17 joint points (Please note, "left_ear" and "right_ear" are actually not labeled)
+joints_name_dict_17 = { 0: "nose", 1: "head_bottom", 2: "head_top", 3: "left_ear", 4: "right_ear", 
+    5: "left_shoulder", 6: "right_shoulder", 7: "left_elbow", 8: "right_elbow", 9: "left_wrist", 10: "right_wrist", 
+    11: "left_hip", 12: "right_hip", 13: "left_knee", 14: "right_knee", 15: "left_ankle", 16: "right_ankle"}
+# 19 limb pairs (joint index need -1)
+limb_connection_list = [[16,14], [14,12], [17,15], [15,13], [12,13], [6,12], [7,13], 
+    [6,7], [6,8], [7,9], [8,10], [9,11], [2,3], [1,2], [1,3], [2,4], [3,5], [4,6], [5,7]]
+
+### AGORA
+# joint_vis is not available. All labeled joints are set as 1, not labeles are set as 0
+# 25 joint points maybe (We have not found the accurate joint index until now. It says AGORA has used OpenPose.
+Maybe 25 is right. https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_02_output.html)
+joints_name_dict_25 = {0: 'nose', 1: 'neck', 2: 'Lshoulder', 3: 'Lelbow', 4: 'Lwrist', 
+    5: 'Rshoulder', 6: 'Relbow', 7: 'Rrist', 8: 'body_center(center of hips)', 9: 'Lhip', 10: 'Lknee', 11: 'Lankle', 
+    12: 'Rhip', 13: 'Rknee', 14: 'Rankle', 15: 'Leye', 16: 'Reye', 17:'Lear', 18:'Rear',
+    19: 'Rbig_toe',  20: 'Rsmall_toe',  21: 'Rheel',  22: 'Lbig_toe',  23: 'Lsmall_toe',  24: 'Lheel'}
+# 24 limb pairs
+limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
+    [1, 8], [1, 0], [0, 15], [15, 17], [0, 16], [16, 18],
+    [8, 9], [9, 10], [10, 11], [11, 24],[11, 22], [22, 23], 
+    [8, 12], [12, 13], [13, 14], [14, 21],[14, 19], [19, 20]]
+```
 
 
 ## 3) SOTA Algorithms Interpretation
