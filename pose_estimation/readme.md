@@ -105,7 +105,7 @@ limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
 <th>CrowdPose Keypoints Indexs</th>
 <th>PoseTrack Keypoints Indexs</th>
 <th>AGORA Keypoints Indexs</th>
-<th>OpenPose 25 Keypoints Indexs</th>
+<th>OpenPose 25 Joints</th>
 </tr>
 <tr>
 <td><img src="./materials/CrowdPose_keypoints.jpg" height="360"></td>
