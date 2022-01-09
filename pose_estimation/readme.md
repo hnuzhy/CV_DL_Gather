@@ -23,7 +23,7 @@ Following this idea, single stage pose estimation can define a root joint of per
 
 
 ## 2) Datasets
-At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)(CVPR2014)[1] and [COCO: Common Objects in Context](http://cocodataset.org/)(ECCV2014)[2]. Although there is a detailed description of datasets on the official website, here is a brief summary of the important information for a quick start.
+At present, the mainstream schemes for pose estimation are all based on data-driven deep learning methods. And there are two popular public datasets, [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)(CVPR2014)[1] and [COCO: Common Objects in Context](http://cocodataset.org/)(ECCV2014)[2]. Also, [AI Challenger](https://github.com/AIChallenger/AI_Challenger_2017)(2017)[3] provides many CV tasks with keypoints detection inside. Although there is a detailed description of datasets on the official website, here is a brief summary of the important information for a quick start.
 
 <table>
 <tr>
@@ -83,6 +83,8 @@ limb_connection_list = [[16,14],[14,12],[17,15],[15,13],[12,13],[6,12],[7,13],[6
 ```
 
 * **AI Challenger**
+
+AI Challenger (AIC) is a platform for open datasets and programming competitions to artificial intelligence (AI) talents around the world. It has three sub-datasets, *human keypoint detection (HKD)*, *large-scale attribute dataset (LAD)* and *image Chinese captioning (ICC)*. This dataset has annotated *class labels (LAD)*, *keypoint coordinate (HKD)*, *bounding box (HKD and LAD)*, *attribute (LAD)* and *caption (ICC)*. For pose estimation task, it has totally about `300k` images, `700k` Humans, and `14` Keypoints labels. The joint names list and their linm pairs are collected below.
 
 ```
 joint_vis: { 1: "visible", 2: "occlude", 3: "invisible"}
@@ -166,6 +168,7 @@ limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
 
 [5] J. Xiao, J. Hays, K. A. Ehinger, A. Oliva, and A. Torralba, “SUN database: Large-scale scene recognition from abbey to zoo,” in CVPR, 2010.
 
+[6] Wu J, Zheng H, Zhao B, et al. Ai challenger: A large-scale dataset for going deeper in image understanding[J]. arXiv preprint arXiv:1711.06475, 2017.
 
 ## 5) Statement
 
