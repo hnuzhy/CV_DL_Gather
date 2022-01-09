@@ -167,8 +167,7 @@ limb_connection_list = [[1, 2], [1, 5], [2, 3], [3, 4], [5, 6], [6, 7],
 # 14 joint points
 joints_name_dict_14_from_25 = {1: 'left_hip', 2: 'right_hip', 4: 'left_knee', 5: 'right_knee',
     7: 'left_ankle', 8: 'right_ankle', 12: 'upper_neck', 15: 'head_center',
-    16: 'left_shoulder', 17: 'right_shoulder', 18: 'left_elbow', 
-    19: 'right_elbow', 20: 'left_wrist', 21: 'right_wrist'}
+    16: 'left_shoulder', 17: 'right_shoulder', 18: 'left_elbow', 19: 'right_elbow', 20: 'left_wrist', 21: 'right_wrist'}
 # We can change the order to build a AIC-style or CrowdPose-style label
 # For 'top_head' joint, we can calculate it by assuming that ('upper_neck' + 'top_head')/2 = 'head_center'
 ```
