@@ -60,6 +60,7 @@
 * [(Application) 3D试衣间：人工智能虚拟试衣系统](http://3d.oleoad.com/3dshiyi.asp)
 * [(blog) A Comprehensive Guide to Human Pose Estimation](https://www.v7labs.com/blog/human-pose-estimation-guide)
 * [(blog) (MMPose) 2D BODY KEYPOINT DATASETS](https://mmpose.readthedocs.io/en/latest/tasks/2d_body_keypoint.html)
+* [(github) (coco-annotator) Web-based image segmentation tool for object detection, localization, and keypoints](https://github.com/jsbroks/coco-annotator/)
 
 
 ## 4) Papers and Sources Codes
