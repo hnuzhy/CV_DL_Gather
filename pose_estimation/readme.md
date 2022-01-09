@@ -143,6 +143,7 @@ joints_name_dict_17 = { 0: "nose", 1: "head_bottom", 2: "head_top", 3: "left_ear
 # 19 limb pairs (joint index need -1)
 limb_connection_list = [[16,14], [14,12], [17,15], [15,13], [12,13], [6,12], [7,13], 
     [6,7], [6,8], [7,9], [8,10], [9,11], [2,3], [1,2], [1,3], [2,4], [3,5], [4,6], [5,7]]
+# Suppose that "head_bottom" joint is close to "upper_neck" joint, we can build a AIC-style or CrowdPose-style label.
 ```
 
 * **AGORA (CVPR2021)**
