@@ -118,15 +118,6 @@ limb_connection_list = [[12,13],[13,0],[0,1],[1,2],[13,3],[3,4],[4,5],
 * **CrowdPose (CVPR2019)**
 
 CrowdPose is a new benchmark for efficient pose estimation ubder crowded scenes. It has collected `20K` (train:val:test = `5:1:4`) images from the former three popular datasets (MPII, COCO and AIC) with balanced *CrowdIndex*, and re-annotated them with `14` joints (the same as AIC but with different order). For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
-
-* **PoseTrack (Challenge 2018)**
-
-PoseTrack is a large-scale benchmark for human pose estimation and articulated tracking in video. It provides a publicly available training and validation set as well as an evaluation server for benchmarking on a held-out test set. For keypoints, it claims `17` joints of many frames are manually annotated. However, two joints (left_ear and right_ear) are actually not labeled. Besides, the official website shows it has`>1356` video sequences, `>46K` annotated video frames, and `>276K` body pose annotations. We can use those labeled frames to build a still frame based pose estimation task. For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
-
-* **AGORA (CVPR2021)**
-
-The authors of AGORA have found that there is a domain gap between current datasets and common scenes containing people. To obtain ground-truth 3D pose, current datasets limit the complexity of clothing, environmental conditions, number of subjects, and occlusion. Thus, they bulit this synthetic dataset with high realism and highly accurate ground truth. It totally contains `14,413` and `1,071` images for train-set and validation-set, correspondingly. AGORA can be used both for 2D and 3D pose estimation tasks. For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
-
 ```
 ### CrowdPose
 joint_vis: { 1: "visible", 2: "occlude", 3: "invisible"}
@@ -137,7 +128,12 @@ joints_name_dict_14 = { 0: "left_shoulder", 1: "right_shoulder", 2: "left_elbow"
 # 13 limb pairs
 limb_connection_list = [[12,13],[13,1],[1,3],[3,5],[13,0],[0,2],[2,4],
     [13,7],[7,9],[9,11],[13,6],[6,8],[8,10]]
-    
+```
+
+* **PoseTrack (Challenge 2018)**
+
+PoseTrack is a large-scale benchmark for human pose estimation and articulated tracking in video. It provides a publicly available training and validation set as well as an evaluation server for benchmarking on a held-out test set. For keypoints, it claims `17` joints of many frames are manually annotated. However, two joints (left_ear and right_ear) are actually not labeled. Besides, the official website shows it has`>1356` video sequences, `>46K` annotated video frames, and `>276K` body pose annotations. We can use those labeled frames to build a still frame based pose estimation task. For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+```
 ### PoseTrack
 # joint_vis is not available. All labeled joints are set as 1, not labeles are set as 0
 # 17 joint points (Please note, "left_ear" and "right_ear" are actually not labeled)
@@ -147,7 +143,12 @@ joints_name_dict_17 = { 0: "nose", 1: "head_bottom", 2: "head_top", 3: "left_ear
 # 19 limb pairs (joint index need -1)
 limb_connection_list = [[16,14], [14,12], [17,15], [15,13], [12,13], [6,12], [7,13], 
     [6,7], [6,8], [7,9], [8,10], [9,11], [2,3], [1,2], [1,3], [2,4], [3,5], [4,6], [5,7]]
+```
 
+* **AGORA (CVPR2021)**
+
+The authors of AGORA have found that there is a domain gap between current datasets and common scenes containing people. To obtain ground-truth 3D pose, current datasets limit the complexity of clothing, environmental conditions, number of subjects, and occlusion. Thus, they bulit this synthetic dataset with high realism and highly accurate ground truth. It totally contains `14,413` and `1,071` images for train-set and validation-set, correspondingly. AGORA can be used both for 2D and 3D pose estimation tasks. For more information, please see [details](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#1-pubilc-datasets-and-challenges).
+```
 ### AGORA
 # joint_vis is not available. All labeled joints are set as 1, not labeles are set as 0
 # 25 joint points maybe (We have not found the accurate joint index until now. It says AGORA has used OpenPose.
