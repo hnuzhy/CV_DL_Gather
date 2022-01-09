@@ -2,7 +2,7 @@
 
 ## Defination
 
-`Domain Adaptation` belongs to `Semi` or `Un-supervised Learning` / `Transfer Learning` / `Few-shot Learning`. We especially focus on domain adaptative object detection for building robust object detection methods in real application.
+`Domain Adaptation` belongs to `Semi-supervised` or `Un-supervised Learning` / `Transfer Learning` / `Few-shot Learning`. We especially focus on domain adaptative object detection for building robust object detection methods in real application.
 
 ## Experts
 
