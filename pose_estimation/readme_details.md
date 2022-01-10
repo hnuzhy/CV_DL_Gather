@@ -11,7 +11,7 @@
 * [AI Challenger (arxiv2017 & ICME2019)](https://github.com/AIChallenger/AI_Challenger_2017)[[paper link](https://arxiv.org/abs/1711.06475)]
 * [MHP - Multi-Human Parsing (ACMMM2018)](https://lv-mhp.github.io/dataset)
 * [DensePose-COCO Dataset (CVPR2018)](http://densepose.org/#dataset)
-* [PoseTrack: Dataset and Benchmark](https://posetrack.net/) [[challenges links](https://posetrack.net/workshops/eccv2018/#challenges)][[github link](https://github.com/facebookresearch/DensePose/tree/main/PoseTrack)]
+* [PoseTrack: Dataset and Benchmark](https://posetrack.net/) [[challenges links](https://posetrack.net/workshops/eccv2018/#challenges)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Andriluka_PoseTrack_A_Benchmark_CVPR_2018_paper.html)][[github link](https://github.com/facebookresearch/DensePose/tree/main/PoseTrack)]
 
 ### Mixed, Synthetic and Complicated
 
