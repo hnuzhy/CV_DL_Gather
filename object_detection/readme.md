@@ -28,6 +28,7 @@
 * [(github) Yolov5 Yolov4 Yolov3 TensorRT Implementation](https://github.com/enazoe/yolo-tensorrt)
 * [(github) YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/ultralytics/yolov5)
 * [(github) A Faster Pytorch Implementation of Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch)
+* [(zhihu) 如何评价YOLOv5？](https://www.zhihu.com/question/399884529)
 
 
 ## 4) Papers and Sources Codes
