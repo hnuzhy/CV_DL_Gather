@@ -230,6 +230,8 @@
 
 * **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)]
 
+* **SynergyNet(3DV2021)** Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry [[paper link](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800a453/1zWEnuGbFte)][[project link](https://choyingw.github.io/works/SynergyNet)][[codes|PyTorch](https://github.com/choyingw/SynergyNet)]
+
 * **MOS(BMVC2021)** MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation [[paper link](https://www.bmvc2021-virtualconference.com/assets/papers/0580.pdf)]
 
 * **MTGLS(WACV2022)** MTGLS: Multi-Task Gaze Estimation With Limited Supervision [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Ghosh_MTGLS_Multi-Task_Gaze_Estimation_With_Limited_Supervision_WACV_2022_paper.html)]
