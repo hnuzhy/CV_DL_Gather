@@ -8,6 +8,7 @@
 
 ## 2) Annotation Tools
 
+* [LabelImg](https://github.com/tzutalin/labelImg) [🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images]
 * [Labelme](https://github.com/wkentaro/labelme) [Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)]
 * [CVAT](https://github.com/openvinotoolkit/cvat) [A Powerful and efficient Computer Vision Annotation Tool]
 * [EVA](https://github.com/Ericsson/eva) [A web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities]
