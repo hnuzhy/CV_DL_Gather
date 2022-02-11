@@ -5,7 +5,14 @@
   * **[⭐For Head Detection Only](#For-Head-Detection-Only)**
   * **[⭐For Head Detection or Crowd Counting](#For-Head-Detection-or-Crowd-Counting)**
 * **[2) Pioneers and Experts](#2-Pioneers-and-Experts)**
-* **[3) Related Materials (Papers, Sources Code, Blogs, Videos and Applications)](#3-Related Materials-Papers-Sources-Code-Blogs-Videos-and-Applications)**
+* **[3) Related Materials (Papers, Sources Code, Blogs, Videos and Applications)](#3-Related-Materials-Papers-Sources-Code-Blogs-Videos-and-Applications)**
+  * **[▶ Beautify Face](#Beautify-Face)**
+  * **[▶ Face Alignment](#Face-Alignment)**
+  * **[▶ Face Detection](#Face-Detection)**
+  * **[▶ Face Recognition](#Face-Recognition)**
+  * **[▶ Face Reconstruction (3D)](#Face-Reconstruction-3D)**
+  * **[▶ Head Detector](#Head-Detector)**
+  * **[▶ Head Pose Estimation](#Head-Pose-Estimation)**
 
 
 # List of public algorithms and datasets
