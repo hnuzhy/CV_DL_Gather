@@ -213,6 +213,8 @@
 
 * **FDN(AAAI2020)** FDN: Feature decoupling network for head pose estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6974)]
 
+* **Rankpose(BMVC2020)** RankPose: Learning Generalised Feature with Rank Supervision for Head Pose Estimation [[paper link](https://www.bmvc2020-conference.com/assets/papers/0401.pdf)][[codes|PyTorch](https://github.com/seathiefwang/RankPose)]
+
 * **EVA-GCN(CVPRW2021)** EVA-GCN: Head Pose Estimation Based on Graph Convolutional Networks [[paper link](http://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Xin_EVA-GCN_Head_Pose_Estimation_Based_on_Graph_Convolutional_Networks_CVPRW_2021_paper.html)][[codes|PyTorch](https://github.com/stoneMo/EVA-GCN)]
 
 * **TriNet(WACV2021)** A Vector-Based Representation to Enhance Head Pose Estimation
