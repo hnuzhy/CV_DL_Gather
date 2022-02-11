@@ -182,3 +182,19 @@
 * **FSA-Net(CVPR2019)** FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image [[paper link](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)][[Codes|Keras&Tensorflow(official)](https://github.com/shamangary/FSA-Net)]
 
 * **WHENet(BMVC2020)** WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose [[arxiv link](https://arxiv.org/abs/2005.10353)][[Codes|Kears&tensorflow(official)](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet)]
+
+* **RAFA-Net(ACCV2020)** Rotation Axis Focused Attention Network (RAFA-Net) for Estimating Head Pose [[paper link](https://openaccess.thecvf.com/content/ACCV2020/html/Behera_Rotation_Axis_Focused_Attention_Network_RAFA-Net_for_Estimating_Head_Pose_ACCV_2020_paper.html)][[codes|keras+tensorflow](https://github.com/ArdhenduBehera/RAFA-Net)]
+
+* **FDN(AAAI2020)** FDN: Feature decoupling network for head pose estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6974)]
+
+* **EVA-GCN(CVPRW2021)** EVA-GCN: Head Pose Estimation Based on Graph Convolutional Networks [[paper link](http://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Xin_EVA-GCN_Head_Pose_Estimation_Based_on_Graph_Convolutional_Networks_CVPRW_2021_paper.html)][[codes|PyTorch](https://github.com/stoneMo/EVA-GCN)]
+
+* **TriNet(WACV2021)** A Vector-Based Representation to Enhance Head Pose Estimation
+ [[paper link](http://openaccess.thecvf.com/content/WACV2021/html/Chu_A_Vector-Based_Representation_to_Enhance_Head_Pose_Estimation_WACV_2021_paper.html)][[codes|Tensorflow+Keras](https://github.com/anArkitek/TriNet_WACV2021)]
+
+* **Quatnet(Multimedia2019)** Quatnet: Quaternion-based head pose estimation with multiregression loss [[paper link](https://ieeexplore.ieee.org/abstract/document/8444061)]
+
+* **(IVC2020)** Improving head pose estimation using two-stage ensembles with top-k regression [[paper link](https://www.sciencedirect.com/sdfe/reader/pii/S0262885619304202/pdf)]
+
+* **(TPAMI2020)** Multi-Task Head Pose Estimation in-the-Wild [[paper link](https://bobetocalo.github.io/pdf/paper_pami20.pdf)][[codes|Tensorflow / C++](https://github.com/bobetocalo/bobetocalo_pami20)]
+
