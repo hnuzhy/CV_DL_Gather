@@ -1,9 +1,9 @@
 # Contents
 
 * **[1) Pubilc Datasets and Challenges](#1-Pubilc-Datasets-and-Challenges)**
-  **[⭐For Head Pose Estimation](⭐-For-Head-Pose-Estimation)**
-  **[]()**
-  **[]()**
+  * **[⭐For Head Pose Estimation](#For-Head-Pose-Estimation)**
+  * **[⭐For Head Detection Only](#For-Head-Detection-Only)**
+  * **[⭐For Head Detection or Crowd Counting](#For-Head-Detection-or-Crowd-Counting)**
 * **[2) Pioneers and Experts](#2-Pioneers-and-Experts)**
 * **[3) Related Materials (Papers, Sources Code, Blogs, Videos and Applications)](#3-Related Materials-Papers-Sources-Code-Blogs-Videos-and-Applications)**
 
@@ -17,7 +17,7 @@
 * [300W-LP & AFLW2000-3D](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3ddfa/main.htm): 300W-LP has the synthesized large-pose face images from 300W. AFLW2000-3D is the fitted 3D faces of the first 2000 AFLW samples, which can be used for 3D face alignment evaluation.
 * [CMU Panoptic Studio Dataset](http://domedb.perception.cs.cmu.edu/index.html): Currently, 480 VGA videos, 31 HD videos, 3D body pose, and calibration data are available. PointCloud DB from 10 Kinects (with corresponding 41 RGB videos) is also available (6+ hours of data). Please refer the official website for details. Dataset paper link [Panoptic studio: A massively multiview system for social interaction capture](https://arxiv.org/pdf/1612.03153.pdf).
 
-### ⭐**For Head Detection**
+### ⭐**For Head Detection Only**
 * [HollywoodHead dataset](https://www.di.ens.fr/willow/research/headdetection/): HolleywoodHeads dataset is a head detection datset. HollywoodHeads dataset contains 369846 human heads annotated in 224740 video frames from 21 Hollywood movies.
 * [Brainwash dataset](https://exhibits.stanford.edu/data/catalog/sx925dc9385): Brainwash dataset is related for face detection. Brainwash dataset contains 11917 images with 91146 labeled people.
 * [SCUT-HEAD-Dataset-Release](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release): SCUT-HEAD is a large-scale head detection dataset, including 4405 images labeld with 111251 heads. The dataset consists of two parts. PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated.
