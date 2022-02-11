@@ -172,9 +172,17 @@
 * [(github) Deepgaze contains useful packages including Head Pose Estimation](https://github.com/mpatacchiola/deepgaze)
 * [(github) [Suggestion] Annotate rigid objects in 2D image with standard 3D cube](https://github.com/openvinotoolkit/cvat/issues/3387)
 
+#### Papers(Journal)
+
+* **Survey(TPAMI2019)** Head Pose Estimation in Computer Vision: A Survey [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4497208)][[CSDN blog](https://blog.csdn.net/weixin_41703033/article/details/83215043)]
+
+* **Quatnet(Multimedia2019)** Quatnet: Quaternion-based head pose estimation with multiregression loss [[paper link](https://ieeexplore.ieee.org/abstract/document/8444061)]
+
+* **(IVC2020)** Improving head pose estimation using two-stage ensembles with top-k regression [[paper link](https://www.sciencedirect.com/sdfe/reader/pii/S0262885619304202/pdf)]
+
+* **(TPAMI2020)** Multi-Task Head Pose Estimation in-the-Wild [[paper link](https://bobetocalo.github.io/pdf/paper_pami20.pdf)][[codes|Tensorflow / C++](https://github.com/bobetocalo/bobetocalo_pami20)]
 
 #### Papers(Conference)
-
 
 * ⭐**HopeNet(CVPRW2018)** Fine-Grained Head Pose Estimation Without Keypoints [[arxiv link](https://arxiv.org/abs/1710.00925)][[Codes|PyTorch(official)](https://github.com/natanielruiz/deep-head-pose)][[CSDN blog](https://blog.csdn.net/qq_42189368/article/details/84849638)]
 
@@ -191,17 +199,14 @@
 * **TriNet(WACV2021)** A Vector-Based Representation to Enhance Head Pose Estimation
  [[paper link](http://openaccess.thecvf.com/content/WACV2021/html/Chu_A_Vector-Based_Representation_to_Enhance_Head_Pose_Estimation_WACV_2021_paper.html)][[codes|Tensorflow+Keras](https://github.com/anArkitek/TriNet_WACV2021)]
 
-* **LwPosr(WACV2022)** LwPosr: Lightweight Efficient Fine Grained Head Pose Estimation [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Dhingra_LwPosr_Lightweight_Efficient_Fine_Grained_Head_Pose_Estimation_WACV_2022_paper.html)]
-
 * **img2pose(CVPR2021)** img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Albiero_img2pose_Face_Alignment_and_Detection_via_6DoF_Face_Pose_Estimation_CVPR_2021_paper.html)][[codes|PyTorch](http://github.com/vitoralbiero/img2pose)]
 
-#### Papers(Journal)
+* **OsGG-Net(ACMMM2021)** OsGG-Net: One-step Graph Generation Network for Unbiased Head Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3474085.3475417)][[codes|PyTorch](https://github.com/stoneMo/OsGG-Net)]
 
-* **Survey(TPAMI2019)** Head Pose Estimation in Computer Vision: A Survey [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4497208)][[CSDN blog](https://blog.csdn.net/weixin_41703033/article/details/83215043)]
+* **(KSE2021)** Simultaneous face detection and 360 degree head pose estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9648838)]
 
-* **Quatnet(Multimedia2019)** Quatnet: Quaternion-based head pose estimation with multiregression loss [[paper link](https://ieeexplore.ieee.org/abstract/document/8444061)]
+* **LwPosr(WACV2022)** LwPosr: Lightweight Efficient Fine Grained Head Pose Estimation [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Dhingra_LwPosr_Lightweight_Efficient_Fine_Grained_Head_Pose_Estimation_WACV_2022_paper.html)]
 
-* **(IVC2020)** Improving head pose estimation using two-stage ensembles with top-k regression [[paper link](https://www.sciencedirect.com/sdfe/reader/pii/S0262885619304202/pdf)]
+* **HHP-Net(WACV2022)** HHP-Net: A Light Heteroscedastic Neural Network for Head Pose Estimation With Uncertainty [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Cantarini_HHP-Net_A_Light_Heteroscedastic_Neural_Network_for_Head_Pose_Estimation_WACV_2022_paper.html)][[codes|TensorFlow](https://github.com/cantarinigiorgio/HHP-Net)]
 
-* **(TPAMI2020)** Multi-Task Head Pose Estimation in-the-Wild [[paper link](https://bobetocalo.github.io/pdf/paper_pami20.pdf)][[codes|Tensorflow / C++](https://github.com/bobetocalo/bobetocalo_pami20)]
 
