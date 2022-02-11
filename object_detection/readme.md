@@ -8,7 +8,9 @@
 
 ## 2) Annotation Tools
 
-* [EVA (a web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities)](https://github.com/Ericsson/eva)
+* [Labelme [Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)]](https://github.com/wkentaro/labelme)
+* [CVAT [A Powerful and efficient Computer Vision Annotation Tool]](https://github.com/openvinotoolkit/cvat)
+* [EVA [A web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities]](https://github.com/Ericsson/eva)
 
 ## 3) Pioneers and Experts
 
