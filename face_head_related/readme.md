@@ -1,4 +1,9 @@
-#  List of public algorithms and datasets
+# Contents
+
+* **[1) Pubilc Datasets and Challenges](#1-Pubilc-Datasets-and-Challenges)**
+
+
+# List of public algorithms and datasets
 
 ## 1) Pubilc Datasets and Challenges
 
@@ -26,6 +31,8 @@
 
 
 ## 3) Related Materials (Papers, Sources Code, Blogs, Videos and Applications)
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ### ▶ Beautify Face
 
@@ -204,6 +211,14 @@
 * **OsGG-Net(ACMMM2021)** OsGG-Net: One-step Graph Generation Network for Unbiased Head Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3474085.3475417)][[codes|PyTorch](https://github.com/stoneMo/OsGG-Net)]
 
 * **(KSE2021)** Simultaneous face detection and 360 degree head pose estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9648838)]
+
+* **(KSE2021)** UET-Headpose: A sensor-based top-view head pose dataset [[paper link](https://ieeexplore.ieee.org/abstract/document/9648656)]
+
+* **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)]
+
+* **MOS(BMVC2021)** MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation [[paper link](https://www.bmvc2021-virtualconference.com/assets/papers/0580.pdf)]
+
+* **MTGLS(WACV2022)** MTGLS: Multi-Task Gaze Estimation With Limited Supervision [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Ghosh_MTGLS_Multi-Task_Gaze_Estimation_With_Limited_Supervision_WACV_2022_paper.html)]
 
 * **LwPosr(WACV2022)** LwPosr: Lightweight Efficient Fine Grained Head Pose Estimation [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Dhingra_LwPosr_Lightweight_Efficient_Fine_Grained_Head_Pose_Estimation_WACV_2022_paper.html)]
 
