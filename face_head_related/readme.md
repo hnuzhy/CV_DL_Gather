@@ -173,9 +173,8 @@
 * [(github) [Suggestion] Annotate rigid objects in 2D image with standard 3D cube](https://github.com/openvinotoolkit/cvat/issues/3387)
 
 
-#### Papers
+#### Papers(Conference)
 
-##### Conference
 
 * ⭐**HopeNet(CVPRW2018)** Fine-Grained Head Pose Estimation Without Keypoints [[arxiv link](https://arxiv.org/abs/1710.00925)][[Codes|PyTorch(official)](https://github.com/natanielruiz/deep-head-pose)][[CSDN blog](https://blog.csdn.net/qq_42189368/article/details/84849638)]
 
@@ -196,7 +195,7 @@
 
 * **img2pose(CVPR2021)** img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Albiero_img2pose_Face_Alignment_and_Detection_via_6DoF_Face_Pose_Estimation_CVPR_2021_paper.html)][[codes|PyTorch](http://github.com/vitoralbiero/img2pose)]
 
-###### Journal
+#### Papers(Journal)
 
 * **Survey(TPAMI2019)** Head Pose Estimation in Computer Vision: A Survey [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4497208)][[CSDN blog](https://blog.csdn.net/weixin_41703033/article/details/83215043)]
 
