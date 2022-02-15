@@ -195,6 +195,8 @@
 
 * **Survey(TPAMI2009)** Head Pose Estimation in Computer Vision: A Survey [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4497208)][[CSDN blog](https://blog.csdn.net/weixin_41703033/article/details/83215043)]
 
+* **(Neurocomputing2018)** Appearance based pedestrians head pose and body orientation estimation using deep learning [[paper link](https://www.sciencedirect.com/science/article/pii/S0925231217312869)]
+
 * **Quatnet(Multimedia2019)** Quatnet: Quaternion-based head pose estimation with multiregression loss [[paper link](https://ieeexplore.ieee.org/abstract/document/8444061)]
 
 * **(IVC2020)** Improving head pose estimation using two-stage ensembles with top-k regression [[paper link](https://www.sciencedirect.com/sdfe/reader/pii/S0262885619304202/pdf)]
@@ -202,6 +204,18 @@
 * **(TPAMI2020)** Multi-Task Head Pose Estimation in-the-Wild [[paper link](https://bobetocalo.github.io/pdf/paper_pami20.pdf)][[codes|Tensorflow / C++](https://github.com/bobetocalo/bobetocalo_pami20)]
 
 #### Papers(Conference)
+
+* **Dlib(68 points)(CVPR2014)** One Millisecond Face Alignment with an Ensemble of Regression Trees [[paper link](https://openaccess.thecvf.com/content_cvpr_2014/html/Kazemi_One_Millisecond_Face_2014_CVPR_paper.html)]
+
+* **3DDFA(CVPR2016)** Face Alignment Across Large Poses: A 3D Solution [[paper link](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
+
+* **FAN(12 points)(ICCV2017)** How Far Are We From Solving the 2D & 3D Face Alignment Problem? (And a Dataset of 230,000 3D Facial Landmarks) [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Bulat_How_Far_Are_ICCV_2017_paper.html)]
+
+* **KEPLER(FG2017)** KEPLER: Keypoint and Pose Estimation of Unconstrained Faces by Learning Efficient H-CNN Regressors [[paper link](https://ieeexplore.ieee.org/abstract/document/7961750)]
+
+* **SSR-Net-MD(IJCAI2018)** SSR-Net: A Compact Soft Stagewise Regression Network for Age Estimation [[paper link](https://www.ijcai.org/proceedings/2018/0150.pdf)][[codes|Tensorflow+Dlib+MTCNN](https://github.com/shamangary/SSR-Net)]
+
+* **HeadPose(FG2019)** Improving Head Pose Estimation with a Combined Loss and Bounding Box Margin Adjustment [[paper link](https://ieeexplore.ieee.org/abstract/document/8756605)][[codes|TensorFlow](https://github.com/MingzhenShao/HeadPose)]
 
 * ⭐**HopeNet(CVPRW2018)** Fine-Grained Head Pose Estimation Without Keypoints [[arxiv link](https://arxiv.org/abs/1710.00925)][[Codes|PyTorch(official)](https://github.com/natanielruiz/deep-head-pose)][[CSDN blog](https://blog.csdn.net/qq_42189368/article/details/84849638)]
 
