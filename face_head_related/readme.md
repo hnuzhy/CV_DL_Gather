@@ -205,6 +205,8 @@
 
 #### Papers(Conference)
 
+* **(ITSC2014)** Head detection and orientation estimation for pedestrian safety [[paper link](https://www.mrt.kit.edu/z/publ/download/2014/RehderKloedenStiller2014itsc.pdf)]
+
 * **Dlib(68 points)(CVPR2014)** One Millisecond Face Alignment with an Ensemble of Regression Trees [[paper link](https://openaccess.thecvf.com/content_cvpr_2014/html/Kazemi_One_Millisecond_Face_2014_CVPR_paper.html)]
 
 * **3DDFA(CVPR2016)** Face Alignment Across Large Poses: A 3D Solution [[paper link](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
