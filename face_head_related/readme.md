@@ -73,7 +73,7 @@
 
 #### Papers
 
-* **Dlib(CVPR2014)** One Millisecond Face Alignment with an Ensemble of Regression Trees [[paper link](https://openaccess.thecvf.com/content_cvpr_2014/html/Kazemi_One_Millisecond_Face_2014_CVPR_paper.html)][[codes|official C++](https://github.com/davisking/dlib)][pip install dlib]
+* **Dlib(CVPR2014)** One Millisecond Face Alignment with an Ensemble of Regression Trees [[paper link](https://openaccess.thecvf.com/content_cvpr_2014/html/Kazemi_One_Millisecond_Face_2014_CVPR_paper.html)][[codes|official C++](https://github.com/davisking/dlib)][`pip install dlib`]
 
 * **3000FPS(CVPR2014)** Face Alignment at 3000 FPS via Regressing Local Binary Features [[paper link](http://www.cse.psu.edu/~rtc12/CSE586/papers/regr_cvpr14_facealignment.pdf)][[Codes|opencv(offical)](https://github.com/freesouls/face-alignment-at-3000fps)][[Codes|liblinear(unoffical)](https://github.com/jwyang/face-alignment)][[CSDN blog](https://blog.csdn.net/lzb863/article/details/49890369)]
 
