@@ -79,7 +79,7 @@
 
 * **3DDFA(CVPR2016)** Face Alignment Across Large Poses: A 3D Solution [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780392)][[project link](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)]
 
-* **FAN(ICCV2017)** How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks) [[paper link](https://www.adrianbulat.com/downloads/FaceAlignment/FaceAlignment.pdf)][[Adrian Bulat](https://www.adrianbulat.com/)][[Codes|PyTorch(offical)](https://github.com/1adrianb/face-alignment)][[CSDN blogs](https://www.cnblogs.com/molakejin/p/8027573.html)]
+* **FAN(ICCV2017)** How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks) [[paper link](https://www.adrianbulat.com/downloads/FaceAlignment/FaceAlignment.pdf)][[Adrian Bulat](https://www.adrianbulat.com/)][[Codes|PyTorch(offical)](https://github.com/1adrianb/face-alignment)][[CSDN blogs](https://www.cnblogs.com/molakejin/p/8027573.html)][`pip install face-alignment`]
 
 * **PRNet(ECCV2018)** Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[arxiv link](https://arxiv.org/abs/1803.07835)][[Codes|TensorFlow(offical)](https://github.com/YadiraF/PRNet)]
 
