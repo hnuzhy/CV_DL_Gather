@@ -192,6 +192,7 @@
 * [(github) OpenFace 2.2.0: a facial behavior analysis toolkit](https://github.com/TadasBaltrusaitis/OpenFace)
 * [(github) Deepgaze contains useful packages including Head Pose Estimation](https://github.com/mpatacchiola/deepgaze)
 * [(github) [Suggestion] Annotate rigid objects in 2D image with standard 3D cube](https://github.com/openvinotoolkit/cvat/issues/3387)
+* [(github) head pose estimation system based on 3d facial landmarks (3DDFA_v2)](https://github.com/bubingy/HeadPoseEstimate)
 
 #### Papers(Journal)
 
