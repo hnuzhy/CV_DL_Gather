@@ -245,7 +245,7 @@
 
 * **OsGG-Net(ACMMM2021)** OsGG-Net: One-step Graph Generation Network for Unbiased Head Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3474085.3475417)][[codes|PyTorch](https://github.com/stoneMo/OsGG-Net)]
 
-* **(KSE2021)** Simultaneous face detection and 360 degree head pose estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9648838)]
+* **(KSE2021)** Simultaneous face detection and 360 degree head pose estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9648838)]【文章使用了FPN+Multi-task的方式，同时检测人头和识别人头姿态，数据集主要使用了CMU-Panoptic，300WLP和BIWI。头姿表示形式上，除了欧拉角，还使用了Rotation Matrix】
 
 * **(KSE2021)** UET-Headpose: A sensor-based top-view head pose dataset [[paper link](https://ieeexplore.ieee.org/abstract/document/9648656)] 【全文均在阐述获取数据集的硬件系统，但数据集未公布；HPE算法为FSA-Net，并根据WHENet中的思路拓展为full-range 360°单人头部姿态估计方法】
 
