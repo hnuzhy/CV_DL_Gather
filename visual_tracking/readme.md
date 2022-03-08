@@ -8,7 +8,7 @@
 
 ## 2) Pioneers and Experts
 
-[👍Martin Danelljan](https://martin-danelljan.github.io/)
+[👍Martin Danelljan](https://martin-danelljan.github.io/) [VIS Lab People](https://ivi.fnwi.uva.nl/vislab/people/)
 
 
 ## 3) Blogs and Videos
