@@ -2,6 +2,7 @@
 
 ## 1) Pubilc Datasets and Challenges
 
+* [Awesome-Video-Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)
 * [VOT Challenge](https://votchallenge.net/index.html) [[VOT git repos](https://github.com/votchallenge)]
 * [TAO: A Large-Scale Benchmark for Tracking Any Object (ECCV2020)](https://taodataset.org/)
 
