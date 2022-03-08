@@ -15,7 +15,9 @@
 * [⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
 * [⭐Sound Source Localization](#sound-source-localization)
+* [⭐Text Detection](#text-detection)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
@@ -215,7 +217,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **FCIS(CVPR2017)** Fully Convolutional Instance-aware Semantic Segmentation [[arxiv link](https://arxiv.org/abs/1611.07709)][[Codes|MXNet(offical based on RFCN)](https://github.com/msracver/FCIS)][[CSDN blog](https://blog.csdn.net/jiongnima/article/details/78961147)]
 
-* **ABCNet_v2(TPAMI2021)** ABCNet v2: Adaptive Bezier-Curve Network for Real-time End-to-end Text Spotting [[paper link](https://ieeexplore.ieee.org/abstract/document/9525302)][[codes|Detectron2 & AdelaiDet Toolbox](https://github.com/aim-uofa/AdelaiDet)]
+* **BezierSeg(arxiv2021)** BezierSeg: Parametric Shape Representation for Fast Object Segmentation in Medical Images [[paper link](https://arxiv.org/abs/2108.00760)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
@@ -244,6 +246,21 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * **SoundLocation(CVPR2018)** Learning to Localize Sound Source in Visual Scenes [[arxiv link](https://arxiv.org/pdf/1803.03849.pdf)][[Codes|offical PyTorch based on SoundNet](https://github.com/ardasnck/learning_to_localize_sound_source)][[Codes|unoffical PyTorch](https://github.com/liyidi/soundnet_localize_sound_source)]
 
 
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Text Detection
+
+### Materials
+
+
+### Materials
+
+* **ABCNet(CVPR2020)** ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ABCNet_Real-Time_Scene_Text_Spotting_With_Adaptive_Bezier-Curve_Network_CVPR_2020_paper.pdf)][[codes|Detectron2 & AdelaiDet Toolbox](https://github.com/aim-uofa/AdelaiDet)]
+
+* **ABCNet_v2(TPAMI2021)** ABCNet v2: Adaptive Bezier-Curve Network for Real-time End-to-end Text Spotting [[paper link](https://ieeexplore.ieee.org/abstract/document/9525302)][[codes|Detectron2 & AdelaiDet Toolbox](https://github.com/aim-uofa/AdelaiDet)]
+
+
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Traffic Violation Detection
@@ -258,4 +275,6 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * [(github) yolov3-vehicle-detection-paddle](https://github.com/Sharpiless/yolov3-vehicle-detection-paddle) [[CSDN link](https://blog.csdn.net/weixin_45449540/article/details/107345738)]
 
 ### Papers
+
+
 
