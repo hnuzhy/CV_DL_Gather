@@ -222,6 +222,10 @@
 
 * **KEPLER(FG2017)** KEPLER: Keypoint and Pose Estimation of Unconstrained Faces by Learning Efficient H-CNN Regressors [[paper link](https://ieeexplore.ieee.org/abstract/document/7961750)]
 
+* **FasterRCNN+regression(ACCV2018)** Simultaneous Face Detection and Head Pose Estimation: A Fast and Unified Framework [[paper link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20887-5_12.pdf)]
+
+* **WNet(ACCVW2018)** WNet: Joint Multiple Head Detection and Head Pose Estimation from a Spectator Crowd Image [[paper link](https://stevenputtemans.github.io/AMV2018/presentations/wnet_presentation.pdf)]【spectator crowd S-HOCK dataset】
+
 * **SSR-Net-MD(IJCAI2018)** SSR-Net: A Compact Soft Stagewise Regression Network for Age Estimation [[paper link](https://www.ijcai.org/proceedings/2018/0150.pdf)][[codes|Tensorflow+Dlib+MTCNN](https://github.com/shamangary/SSR-Net)]
 
 * **HeadPose(FG2019)** Improving Head Pose Estimation with a Combined Loss and Bounding Box Margin Adjustment [[paper link](https://ieeexplore.ieee.org/abstract/document/8756605)][[codes|TensorFlow](https://github.com/MingzhenShao/HeadPose)]
