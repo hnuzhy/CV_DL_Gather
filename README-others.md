@@ -215,6 +215,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **FCIS(CVPR2017)** Fully Convolutional Instance-aware Semantic Segmentation [[arxiv link](https://arxiv.org/abs/1611.07709)][[Codes|MXNet(offical based on RFCN)](https://github.com/msracver/FCIS)][[CSDN blog](https://blog.csdn.net/jiongnima/article/details/78961147)]
 
+* **ABCNet_v2(TPAMI2021)** ABCNet v2: Adaptive Bezier-Curve Network for Real-time End-to-end Text Spotting [[paper link](https://ieeexplore.ieee.org/abstract/document/9525302)][[codes|Detectron2 & AdelaiDet Toolbox](https://github.com/aim-uofa/AdelaiDet)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
