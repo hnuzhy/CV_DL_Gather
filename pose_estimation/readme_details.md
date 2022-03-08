@@ -231,4 +231,4 @@
 
 * **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[arxiv link](https://arxiv.org/abs/2108.01819)][[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
 
-
+* **ADHNN(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-1201.XuX.pdf)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose-ADHNN)]
