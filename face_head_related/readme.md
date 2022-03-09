@@ -267,4 +267,4 @@
 
 * **HHP-Net(WACV2022)** HHP-Net: A Light Heteroscedastic Neural Network for Head Pose Estimation With Uncertainty [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Cantarini_HHP-Net_A_Light_Heteroscedastic_Neural_Network_for_Head_Pose_Estimation_WACV_2022_paper.html)][[codes|TensorFlow](https://github.com/cantarinigiorgio/HHP-Net)]
 
-
+* **6DRepNet(arxiv2022)** 6D Rotation Representation For Unconstrained Head Pose Estimation [[paper link](https://arxiv.org/abs/2202.12555)][[codes|PyTorch+RepVGG](https://github.com/thohemp/6DRepNet)]
