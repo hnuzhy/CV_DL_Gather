@@ -60,4 +60,4 @@
 * **[(zhihu)CVPR2021的最新论文汇总](https://zhuanlan.zhihu.com/p/354043252?ivk_sa=1024320u)**
 * **[(zhihu)ICCV2021的最新论文汇总](https://zhuanlan.zhihu.com/p/392575669)**
 * **[(zhihu)CVPR2022的最新论文汇总](https://zhuanlan.zhihu.com/p/478286484)**
-
+* **[(github)CVPR2022-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo)**
