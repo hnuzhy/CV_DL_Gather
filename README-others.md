@@ -3,6 +3,7 @@
 **Contents Hyperlinks**
 
 * [⭐3D Camera](#3d-camera)
+* [⭐3D Object Reconstruction](#3d-object-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Eye Gaze](#eye-gaze)
@@ -30,6 +31,16 @@
 
 ### Papers
 
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐3D Object Reconstruction
+
+### Materials
+
+### Papers
+
+* **(AAAAI2019)** Deep Single-View 3D Object Reconstruction with Visual Hull Embedding [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/4922)][[codes|official TensorFlow](https://github.com/HanqingWangAI/PSVH-3d-reconstruction)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
