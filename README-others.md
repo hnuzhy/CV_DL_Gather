@@ -44,7 +44,7 @@
 
 ### Papers
 
-* **Pascal3D+(WACV2014)** Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild [[paper link](http://roozbehm.info/papers/Xiang14wacv.pdf)][[project link](https://cvgl.stanford.edu/projects/pascal3d)][datasets: [PASCAL3D+1.0.zip](ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+\_release1.0.zip), [PASCAL3D+1.1.zip](ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+\_release1.1.zip)]
+* **Pascal3D+(WACV2014)** Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild [[paper link](http://roozbehm.info/papers/Xiang14wacv.pdf)][[project link](https://cvgl.stanford.edu/projects/pascal3d)]
 
 * **DPOD(ICCV2019)** DPOD: 6D Pose Object Detector and Refiner [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.html)][[codes|PyTorch](https://github.com/zakharos/DPOD)]
 
