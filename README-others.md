@@ -40,7 +40,7 @@
 
 ### Papers
 
-* **(AAAAI2019)** Deep Single-View 3D Object Reconstruction with Visual Hull Embedding [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/4922)][[codes|official TensorFlow](https://github.com/HanqingWangAI/PSVH-3d-reconstruction)]
+* **PSVH-3d-reconstruction(AAAAI2019)** Deep Single-View 3D Object Reconstruction with Visual Hull Embedding [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/4922)][[codes|official TensorFlow](https://github.com/HanqingWangAI/PSVH-3d-reconstruction)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
