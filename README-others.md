@@ -57,7 +57,17 @@
 
 * **Pascal3D+(WACV2014)** Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild [[paper link](http://roozbehm.info/papers/Xiang14wacv.pdf)][[project link](https://cvgl.stanford.edu/projects/pascal3d)]
 
+* **(ICCVW2017)** 3D Pose Regression Using Convolutional Neural Networks [[paper link](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w31/html/Mahendran_3D_Pose_Regression_ICCV_2017_paper.html)]
+
+* **PoseCNN(RSS2018)** PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes [[paper link](https://yuxng.github.io/xiang_rss18.pdf)][[project link](https://rse-lab.cs.washington.edu/projects/posecnn/)]
+
+* **(ECCV2018)** Occlusion Resistant Object Rotation Regression from Point Cloud Segments [[paper link](https://openaccess.thecvf.com/content_eccv_2018_workshops/w6/html/Gao_Occlusion_Resistant_Object_Rotation_Regression_from_Point_Cloud_Segments_ECCVW_2018_paper.html)]
+
+* **PVNet(CVPR2019)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
+
 * **DPOD(ICCV2019)** DPOD: 6D Pose Object Detector and Refiner [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.html)][[codes|PyTorch](https://github.com/zakharos/DPOD)]
+
+* **HybridPose(CVPR2020)** HybridPose: 6D Object Pose Estimation Under Hybrid Representations [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.html)]
 
 * **single-stage-pose(CVPR2020)** Single-Stage 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.html)][[codes|official PyTorch](https://github.com/cvlab-epfl/single-stage-pose)]
 
