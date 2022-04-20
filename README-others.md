@@ -82,7 +82,7 @@
 
 * **single-stage-pose(CVPR2020)** Single-Stage 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.html)][[codes|official PyTorch](https://github.com/cvlab-epfl/single-stage-pose)]
 
-* **CosyPose(ECCV2020)** CosyPose: Consistent Multi-view Multi-object 6D Pose Estimation [[paper link](https://hal.inria.fr/hal-02950800/)][[codes|official PyTorch](https://www.di.ens.fr/willow/research/cosypose)]
+* **CosyPose(ECCV2020)** CosyPose: Consistent Multi-view Multi-object 6D Pose Estimation [[paper link](https://hal.inria.fr/hal-02950800/)][[project link](https://www.di.ens.fr/willow/research/cosypose)][[codes|official PyTorch](https://github.com/ylabbe/cosypose)]
 
 * **SGPA(ICCV2021)** SGPA: Structure-Guided Prior Adaptation for Category-Level 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_SGPA_Structure-Guided_Prior_Adaptation_for_Category-Level_6D_Object_Pose_Estimation_ICCV_2021_paper.html)][[codes|PyTorch](https://github.com/leo94-hk/SGPA)]
 
