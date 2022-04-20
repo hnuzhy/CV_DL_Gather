@@ -38,7 +38,7 @@
 
 ## 2) Pioneers and Experts
 
-[👍Jian Sun](http://www.jiansun.org/) [👍Gang YU](http://www.skicyyu.org/)
+[👍Jian Sun](http://www.jiansun.org/) [👍Gang YU](http://www.skicyyu.org/) [👍Yuliang Xiu 修宇亮](https://xiuyuliang.cn/)
 
 
 
