@@ -53,6 +53,10 @@
 * [(zhihu) VR设备常说的3DOF和6DOF到底是什么？](https://zhuanlan.zhihu.com/p/114650000)
 * [(github) Awesome work on object 6 DoF pose estimation](https://github.com/ZhongqunZHANG/awesome-6d-object)
 
+### Datasets
+
+* [**Objectron**(CVPR2021): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations](https://github.com/google-research-datasets/Objectron)
+
 ### Papers
 
 * **Pascal3D+(WACV2014)** Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild [[paper link](http://roozbehm.info/papers/Xiang14wacv.pdf)][[project link](https://cvgl.stanford.edu/projects/pascal3d)]
