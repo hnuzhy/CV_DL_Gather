@@ -56,13 +56,17 @@
 ### Datasets
 
 * [LineMOD(ACCV2012)](https://campar.in.tum.de/Main/StefanHinterstoisser): Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects in Heavily Cluttered Scenes [***The most commonly used dataset for object pose estimation***]
-* [IC-BIN dataset(CVPR2016)](https://bop.felk.cvut.cz/leaderboards/bop19_ic-bin/): Recovering 6D Object Pose and Predicting Next-Best-View in the Crowd [***Add a few more categories based on LineMOD***]
+* [Pascal3D+(WACV2014)](https://cvgl.stanford.edu/projects/pascal3d): Beyond PASCAL - A Benchmark for 3D Object Detection in the Wild [***It adds 3D pose annotations to the Pascal VOC and a few images from the ImageNet dataset***]
+* [IC-BIN dataset(CVPR2016)](https://bop.felk.cvut.cz/leaderboards/bop19_ic-bin/): Recovering 6D Object Pose and Predicting Next-Best-View in the Crowd [***It adds a few more categories based on LineMOD***]
 * [Rutgers APC(ICRA2016)](https://robotics.cs.rutgers.edu/pracsys/rutgers-apc-rgb-d-dataset/): A Dataset for Improved RGBD-based Object Detection and Pose Estimation for Warehouse Pick-and-Place
+* [ObjectNet3D(ECCV2016)](https://cvgl.stanford.edu/projects/objectnet3d/): ObjectNet3D - A Large Scale Database for 3D Object Recognition [***It contains 3D object poses from images***]
 * [T-LESS(WACV2017)](https://cmp.felk.cvut.cz/t-less/): T-LESS - An RGB-D Dataset for 6D Pose Estimation of Texture-less Objects
 * [YCB(IJRR2017)](http://www.ycbbenchmarks.org/): Yale-CMU-Berkeley dataset for robotic manipulation research [***It contains videos of objects and their poses
 in a controlled environment***]
 * [BOP Challenge(ECCV2018)](https://bop.felk.cvut.cz/home/): BOP - Benchmark for 6D Object Pose Estimation
 * [Objectron(CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
+
+
 
 ### Papers
 
