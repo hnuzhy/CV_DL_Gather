@@ -52,6 +52,7 @@
 * [(CSDN blogs) 6D姿态估计算法汇总（下）](https://blog.csdn.net/qq_29462849/article/details/103741059)
 * [(zhihu) VR设备常说的3DOF和6DOF到底是什么？](https://zhuanlan.zhihu.com/p/114650000)
 * [(github) Awesome work on object 6 DoF pose estimation](https://github.com/ZhongqunZHANG/awesome-6d-object)
+* [(blogs) List of RGBD datasets (from an expert [Michael Firman](http://www.michaelfirman.co.uk/index.html))](http://www.michaelfirman.co.uk/RGBDdatasets/)
 
 ### Datasets
 
@@ -62,8 +63,8 @@
 * [Rutgers APC (ICRA2016)](https://robotics.cs.rutgers.edu/pracsys/rutgers-apc-rgb-d-dataset/): A Dataset for Improved RGBD-based Object Detection and Pose Estimation for Warehouse Pick-and-Place [***It contains 14 textured objects from the Amazon picking challenge***]
 * [ObjectNet3D (ECCV2016)](https://cvgl.stanford.edu/projects/objectnet3d/): ObjectNet3D - A Large Scale Database for 3D Object Recognition [***It contains 3D object poses from images***]
 * [T-LESS (WACV2017)](https://cmp.felk.cvut.cz/t-less/): T-LESS - An RGB-D Dataset for 6D Pose Estimation of Texture-less Objects [***It features industrialized objects that lack texture or color***]
-* [YCB (IJRR2017)](http://www.ycbbenchmarks.org/): Yale-CMU-Berkeley dataset for robotic manipulation research [***It contains videos of objects and their poses
-in a controlled environment***]
+* [YCB (IJRR2017)](http://www.ycbbenchmarks.org/): Yale-CMU-Berkeley dataset for robotic manipulation research [***It contains videos of objects and their poses in a controlled environment***]
+* [ScanNet(CVPR2017)](http://www.scan-net.org/): ScanNet - Richly-Annotated 3D Reconstructions of Indoor Scenes [***A large scale video dataset of indoor scenes with semantic annotations***]
 * [BOP Challenge (ECCV2018)](https://bop.felk.cvut.cz/home/): BOP - Benchmark for 6D Object Pose Estimation [***It consists of a set of benchmark for 3D object detection and combines many of these smaller datasets into a larger one***]
 * [Pix3D (CVPR2018)](http://pix3d.csail.mit.edu/): Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling [***It contains pixel-level 2D-3D pose alignment***]
 * [Objectron (CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
