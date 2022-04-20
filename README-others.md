@@ -42,6 +42,7 @@
 * [(CSDN blogs) 6D姿态估计算法汇总（下）](https://blog.csdn.net/qq_29462849/article/details/103741059)
 * [(zhihu) VR设备常说的3DOF和6DOF到底是什么？](https://zhuanlan.zhihu.com/p/114650000)
 * [(github) Awesome work on object 6 DoF pose estimation](https://github.com/ZhongqunZHANG/awesome-6d-object)
+* [(github) MediaPipe: About Cross-platform, customizable ML solutions for live and streaming media](https://github.com/google/mediapipe)
 * [(tools) ARCore: The AR session captures camera poses, point-clouds, and surface planes](http://developers.google.com/ar/)
 * [(tools) ARKit: The AR session captures camera poses, point-clouds, and surface planes](https://developer.apple.com/augmented-reality/)
 * [(website) paperswithcode: 6D Pose Estimation using RGB](https://paperswithcode.com/task/6d-pose-estimation)
@@ -85,6 +86,8 @@
 * **single-stage-pose(CVPR2020)** Single-Stage 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.html)][[codes|official PyTorch](https://github.com/cvlab-epfl/single-stage-pose)]
 
 * **CosyPose(ECCV2020)** CosyPose: Consistent Multi-view Multi-object 6D Pose Estimation [[paper link](https://hal.inria.fr/hal-02950800/)][[project link](https://www.di.ens.fr/willow/research/cosypose)][[codes|official PyTorch](https://github.com/ylabbe/cosypose)]
+
+* **MobilePose(arxiv2020)** MobilePose: Real-Time Pose Estimation for Unseen Objects with Weak Shape Supervision [[paper link](https://arxiv.org/abs/2003.03522)]
 
 * **SGPA(ICCV2021)** SGPA: Structure-Guided Prior Adaptation for Category-Level 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_SGPA_Structure-Guided_Prior_Adaptation_for_Category-Level_6D_Object_Pose_Estimation_ICCV_2021_paper.html)][[codes|PyTorch](https://github.com/leo94-hk/SGPA)]
 
