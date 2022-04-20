@@ -55,7 +55,7 @@
 
 ### Datasets
 
-* [**Objectron**(CVPR2021): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations](https://github.com/google-research-datasets/Objectron)
+* [Objectron(CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
 
 ### Papers
 
