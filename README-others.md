@@ -62,7 +62,6 @@
 * [YCB(IJRR2017)](http://www.ycbbenchmarks.org/): Yale-CMU-Berkeley dataset for robotic manipulation research [*It contains videos of objects and their poses
 in a controlled environment.*]
 * [BOP Challenge(ECCV2018)](https://bop.felk.cvut.cz/home/): BOP - Benchmark for 6D Object Pose Estimation
-
 * [Objectron(CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
 
 ### Papers
