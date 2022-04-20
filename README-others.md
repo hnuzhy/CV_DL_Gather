@@ -44,6 +44,7 @@
 * [(github) Awesome work on object 6 DoF pose estimation](https://github.com/ZhongqunZHANG/awesome-6d-object)
 * [(tools) ARCore: The AR session captures camera poses, point-clouds, and surface planes](http://developers.google.com/ar/)
 * [(tools) ARKit: The AR session captures camera poses, point-clouds, and surface planes](https://developer.apple.com/augmented-reality/)
+* [(website) paperswithcode: 6D Pose Estimation using RGB](https://paperswithcode.com/task/6d-pose-estimation)
 
 ### Datasets
 
