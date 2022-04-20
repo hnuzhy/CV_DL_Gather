@@ -5,7 +5,7 @@
 * [⭐3D Object Reconstruction](#3d-object-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Deep Neural Networks](#deep-neural-networks)
-* [⭐Eye Gaze](#eye-gaze)
+* [⭐Eye Gaze Estimation and Tracking](#eye-gaze-estimation-and-tracking)
 * [⭐Generative Adversarial Network](#generative-adversarial-network)
 * [⭐Image Mosaic](#image-mosaic)
 * [⭐Image Restoration](#image-restoration)
@@ -92,7 +92,7 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐Eye Gaze
+## ⭐Eye Gaze Estimation and Tracking
 
 ### Materials
 
