@@ -70,6 +70,7 @@
 * [(github) ASM-for-human-face-feature-points-matching](https://github.com/JiangtianPan/ASM-for-human-face-feature-points-matching)
 * [(github) align_dataset_mtcnn](https://github.com/davidsandberg/facenet/blob/master/src/align/align_dataset_mtcnn.py)
 * [(Website) Face Alignment Across Large Poses: A 3D Solution (official website)](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3ddfa/main.htm)
+* [(github) 🔥🔥The pytorch implement of the head pose estimation(yaw,roll,pitch) and emotion detection with SOTA performance in real time](https://github.com/WIKI2020/FacePose_pytorch)
 
 #### Papers
 
