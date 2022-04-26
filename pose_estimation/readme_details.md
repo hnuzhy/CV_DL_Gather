@@ -152,6 +152,8 @@
 
 * **OmniPose(arxiv2021)** OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2103.10180)]
 
+* **LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)]
+
 
 ### ▶  Two-Stage [Bottom-Up] Multiple Person Pose Estimation
 
@@ -187,6 +189,7 @@
 
 * **DERK(CVPR2021)** Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression [[arxiv link](https://arxiv.org/abs/2104.02300)][[Codes | official pytorch](https://github.com/HRNet/DEKR)]
 
+
 ### ▶  Single-Stage Multiple Person Pose Estimation
 
 * **SPM(ICCV2019)** Single-Stage Multi-Person Pose Machines [[arxiv link](https://arxiv.org/abs/1908.09220)][[Codes|PyTorch(offical not released)](https://github.com/NieXC/pytorch-spm)][[Codes|Tensorflow(unoffical)](https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines)][[CSDN blog](https://blog.csdn.net/Murdock_C/article/details/100545377)]
@@ -197,6 +200,7 @@
 
 * **KAPAO(arxiv2021)** Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2111.08557)][[codes|(official pytorch using YOLOv5)](https://github.com/wmcnally/kapao)]
 
+* **YOLO-Pose(arxiv2022)** YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss [[paper link](https://arxiv.org/abs/2204.06806)][[codes|official edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox)][[codes|official edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5)]
 
 
 ### ▶  3D Multiple Person Pose Estimation
@@ -236,3 +240,5 @@
 * **UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)]
 
 * **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[arxiv link](https://arxiv.org/abs/2108.01819)][[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
+
+* **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)]
