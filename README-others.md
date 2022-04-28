@@ -77,7 +77,7 @@
 
 * **(ECCV2018)** Occlusion Resistant Object Rotation Regression from Point Cloud Segments [[paper link](https://openaccess.thecvf.com/content_eccv_2018_workshops/w6/html/Gao_Occlusion_Resistant_Object_Rotation_Regression_from_Point_Cloud_Segments_ECCVW_2018_paper.html)]
 
-* **PVNet(CVPR2019)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
+* **⭐PVNet(CVPR2019)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
 
 * **DPOD(ICCV2019)** DPOD: 6D Pose Object Detector and Refiner [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.html)][[codes|PyTorch](https://github.com/zakharos/DPOD)]
 
@@ -91,11 +91,14 @@
 
 * **SGPA(ICCV2021)** SGPA: Structure-Guided Prior Adaptation for Category-Level 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_SGPA_Structure-Guided_Prior_Adaptation_for_Category-Level_6D_Object_Pose_Estimation_ICCV_2021_paper.html)][[codes|PyTorch](https://github.com/leo94-hk/SGPA)]
 
-* **※Objectron(CVPR2021)(Training Codes ╳)(Annotation Tool ╳)]** Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmadyan_Objectron_A_Large_Scale_Dataset_of_Object-Centric_Videos_in_the_CVPR_2021_paper.html)][[codes|PyTorch+TensorFlow](https://github.com/google-research-datasets/Objectron)]
+* **⭐Objectron(CVPR2021)(Training Codes ╳)(Annotation Tool ╳)]** Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmadyan_Objectron_A_Large_Scale_Dataset_of_Object-Centric_Videos_in_the_CVPR_2021_paper.html)][[codes|PyTorch+TensorFlow](https://github.com/google-research-datasets/Objectron)]
 
 * **SAR-Net(CVPR2022)** SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation [[paper link]()][[project link](https://hetolin.github.io/SAR-Net/)][[codes|official](https://github.com/hetolin/SAR-Net)]
 
 * **OVE6D-pose(CVPR2022)** OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation [[paper link](https://arxiv.org/pdf/2203.01072.pdf)][[project link](https://dingdingcai.github.io/ove6d-pose/)][[codes|official](https://github.com/dingdingcai/OVE6D-pose)]
+
+* **Gen6D(arxiv2022)** Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [[paper link](https://arxiv.org/abs/2204.10776)][[project link](https://liuyuan-pal.github.io/Gen6D/)][[codes|on the way]()]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
