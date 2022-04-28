@@ -50,20 +50,20 @@
 ### Datasets
 
 * [3DObject (ICCV2007)](http://vision.stanford.edu/resources_links.html): 3D generic object categorization, localization and pose estimation [***It provides discretized viewpoint annotations for 10 everyday object categories***]
-* [LineMOD (ACCV2012)](https://campar.in.tum.de/Main/StefanHinterstoisser): Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects in Heavily Cluttered Scenes [***The most commonly used dataset for object pose estimation***]
+* [⭐LineMOD (ACCV2012)](https://campar.in.tum.de/Main/StefanHinterstoisser): Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects in Heavily Cluttered Scenes [***The most commonly used dataset for object pose estimation***]
 * [Pascal3D+ (WACV2014)](https://cvgl.stanford.edu/projects/pascal3d): Beyond PASCAL - A Benchmark for 3D Object Detection in the Wild [***It adds 3D pose annotations to the Pascal VOC and a few images from the ImageNet dataset***]
-* [ShapeNet (arxiv2015)](https://shapenet.org/): ShapeNet - An Information-Rich 3D Model Repository [***It includes synthetic CAD models for many objects and has been widely used***]
+* [⭐ShapeNet (arxiv2015)](https://shapenet.org/): ShapeNet - An Information-Rich 3D Model Repository [***It includes synthetic CAD models for many objects and has been widely used***]
 * [IC-BIN dataset (CVPR2016)](https://bop.felk.cvut.cz/leaderboards/bop19_ic-bin/): Recovering 6D Object Pose and Predicting Next-Best-View in the Crowd [***It adds a few more categories based on LineMOD***]
 * [Rutgers APC (ICRA2016)](https://robotics.cs.rutgers.edu/pracsys/rutgers-apc-rgb-d-dataset/): A Dataset for Improved RGBD-based Object Detection and Pose Estimation for Warehouse Pick-and-Place [***It contains 14 textured objects from the Amazon picking challenge***]
 * [ObjectNet3D (ECCV2016)](https://cvgl.stanford.edu/projects/objectnet3d/): ObjectNet3D - A Large Scale Database for 3D Object Recognition [***It contains 3D object poses from images***]
-* [T-LESS (WACV2017)](https://cmp.felk.cvut.cz/t-less/): T-LESS - An RGB-D Dataset for 6D Pose Estimation of Texture-less Objects [***It features industrialized objects that lack texture or color***]
+* [⭐T-LESS (WACV2017)](https://cmp.felk.cvut.cz/t-less/): T-LESS - An RGB-D Dataset for 6D Pose Estimation of Texture-less Objects [***It features industrialized objects that lack texture or color***]
 * [YCB (IJRR2017)](http://www.ycbbenchmarks.org/): Yale-CMU-Berkeley dataset for robotic manipulation research [***It contains videos of objects and their poses in a controlled environment***]
 * [ScanNet(CVPR2017)](http://www.scan-net.org/): ScanNet - Richly-Annotated 3D Reconstructions of Indoor Scenes [***A large scale video dataset of indoor scenes with semantic annotations***]
-* [BOP Challenge (ECCV2018)](https://bop.felk.cvut.cz/home/): BOP - Benchmark for 6D Object Pose Estimation [***It consists of a set of benchmark for 3D object detection and combines many of these smaller datasets into a larger one***]
+* [⭐BOP Challenge (ECCV2018)](https://bop.felk.cvut.cz/home/): BOP - Benchmark for 6D Object Pose Estimation [***It consists of a set of benchmark for 3D object detection and combines many of these smaller datasets into a larger one***]
 * [Pix3D (CVPR2018)](http://pix3d.csail.mit.edu/): Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling [***It contains pixel-level 2D-3D pose alignment***]
 * [Scan2CAD (CVPR2019)](scan2cad.org): Scan2CAD - Learning CAD Model Alignment in RGB-D Scans [***It annotates the original scans in ScanNet with ShapeNetCore models to label each object’s pose***]
 * [RIO (ICCV2019)](https://waldjohannau.github.io/RIO/): RIO - 3D Object Instance Re-Localization in Changing Indoor Environments [***Another dataset that contains indoor scans annotated with an object’s 3D pose***]
-* [Objectron (CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
+* [⭐Objectron (CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
 
 
 
