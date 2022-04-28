@@ -226,6 +226,10 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **UltraLane(ECCV2020)** Ultra Fast Structure-aware Deep Lane Detection [[arxiv link](https://arxiv.org/abs/2004.11757)][[Codes|offical PyTorch](https://github.com/cfzd/Ultra-Fast-Lane-Detection)]
 
+* **CurveLane(CVPR2022)** Rethinking Efficient Lane Detection via Curve Modeling [[paper link](https://arxiv.org/abs/2203.02431)][[codes|official PyTorch](https://github.com/voldmortX/prtorch-auto-drive)]
+
+
+
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐Pedestrian Localization
