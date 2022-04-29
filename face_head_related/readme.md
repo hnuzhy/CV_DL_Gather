@@ -196,6 +196,7 @@
 * [(github) head pose estimation system based on 3d facial landmarks (3DDFA_v2)](https://github.com/bubingy/HeadPoseEstimate)
 * [(paper-CVPR2019) On the Continuity of Rotation Representations in Neural Networks (6D表征头姿最合适)](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.html)
 * [(blogs) What is The Difference Between 2D and 3D Image Annotations: Use Cases](https://anolytics.home.blog/2019/07/18/difference-between-2d-and-3d-image-annotations-use-cases/)
+* [(zhihu) 如何通俗地解释欧拉角？之后为何要引入四元数？](https://www.zhihu.com/question/47736315)
 
 #### Papers(Journal)
 
