@@ -49,6 +49,7 @@
 * [(tools) ARCore: The AR session captures camera poses, point-clouds, and surface planes](http://developers.google.com/ar/)
 * [(tools) ARKit: The AR session captures camera poses, point-clouds, and surface planes](https://developer.apple.com/augmented-reality/)
 * [(website) paperswithcode: 6D Pose Estimation using RGB](https://paperswithcode.com/task/6d-pose-estimation)
+* [(toolkit) 3D Annotation Of Arbitrary Objects In The Wild (inputs are RGB-D)](https://docs.strayrobots.io/toolkit/index.html) [[paper link](https://arxiv.org/abs/2109.07165)]
 
 ### Datasets
 
