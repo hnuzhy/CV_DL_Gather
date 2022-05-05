@@ -233,6 +233,8 @@
 
 * **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
 
+* **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)]
+
 * **Pose_DomainAdaption(ACMMM2021)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose_DomainAdaption)]
 
 * **ADHNN(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-1201.XuX.pdf)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose-ADHNN)]
