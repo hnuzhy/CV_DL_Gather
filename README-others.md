@@ -39,7 +39,7 @@
 ### Materials
 
 * [(website) A Comprehensive List of 3D Sensors Commonly Leveraged in ROS Development](https://rosindustrial.org/3d-camera-survey)
-* [(CSDN) 【深度相机系列六】深度相机哪家强？附详细参数对比清单](https://blog.csdn.net/electech6/article/details/78907463)
+* [(CSDN blogs) 【深度相机系列六】深度相机哪家强？附详细参数对比清单](https://blog.csdn.net/electech6/article/details/78907463)
 * [(website) List of RGBD datasets](http://www.michaelfirman.co.uk/RGBDdatasets/) (written by a domain expert [Michael Firman](http://www.michaelfirman.co.uk/index.html))
 * [(CSDN blogs) 6D姿态估计算法汇总（上）](https://blog.csdn.net/qq_29462849/article/details/103740960)
 * [(CSDN blogs) 6D姿态估计算法汇总（下）](https://blog.csdn.net/qq_29462849/article/details/103741059)
@@ -51,6 +51,7 @@
 * [(website) paperswithcode: 6D Pose Estimation using RGB](https://paperswithcode.com/task/6d-pose-estimation)
 * [(toolkit) 3D Annotation Of Arbitrary Objects In The Wild (inputs are RGB-D)](https://docs.strayrobots.io/toolkit/index.html) [[paper link](https://arxiv.org/abs/2109.07165)]
 * [(algorithm) EPnP: Efficient Perspective-n-Point Camera Pose Estimation](https://www.epfl.ch/labs/cvlab/software/multi-view-stereo/epnp/)
+* [(blogs) 3D Object Detection和6D Pose Estimation有什么异同？](https://www.bilibili.com/read/cv5287260)
 
 ### Datasets
 
