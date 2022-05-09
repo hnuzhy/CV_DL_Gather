@@ -284,6 +284,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 ### Materials
 
 * [Commonly used four datasets in scene text detection: ICDAR2015, CTW1500, Total-Text and MSRA-TD500]
+* [(github) 🚀PaddleOCR: Awesome multilingual OCR toolkits based on PaddlePaddle](https://github.com/PaddlePaddle/PaddleOCR)
 
 ### Papers
 
