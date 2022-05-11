@@ -189,6 +189,8 @@
 
 * **DERK(CVPR2021)** Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression [[arxiv link](https://arxiv.org/abs/2104.02300)][[Codes | official pytorch](https://github.com/HRNet/DEKR)]
 
+* **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)]
+
 
 ### ▶  Single-Stage Multiple Person Pose Estimation
 
