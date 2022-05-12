@@ -359,15 +359,19 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 ### Papers
 
-* **SoundNet(NIPS2016)** SoundNet: Learning Sound Representations from Unlabeled Video [[arxiv link](https://arxiv.org/pdf/1610.09001.pdf)][[Codes|offical TensorFlow](https://github.com/cvondrick/soundnet)][[CSDN blog](https://blog.csdn.net/zzc15806/article/details/80669883)]
+* **❤ SoundNet(NIPS2016)** SoundNet: Learning Sound Representations from Unlabeled Video [[arxiv link](https://arxiv.org/pdf/1610.09001.pdf)][[Codes|offical TensorFlow](https://github.com/cvondrick/soundnet)][[CSDN blog](https://blog.csdn.net/zzc15806/article/details/80669883)]
+
+* **MSSL(ECCV2020)** Multiple Sound Sources Localization from Coarse to Fine [[paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650290.pdf)][[codes|official PyTorch](https://github.com/shvdiwnkozbw/Multi-Source-Sound-Localization)][[Author - [Weiyao Lin]](https://weiyaolin.github.io/)]
 
 * **SoundLocation(CVPR2018)** Learning to Localize Sound Source in Visual Scenes [[arxiv link](https://arxiv.org/pdf/1803.03849.pdf)][[Codes|offical PyTorch based on SoundNet](https://github.com/ardasnck/learning_to_localize_sound_source)][[Codes|unoffical PyTorch](https://github.com/liyidi/soundnet_localize_sound_source)]
+
+* **DMC(CVPR2019)** Deep Multimodal Clustering for Unsupervised Audiovisual Learning [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Deep_Multimodal_Clustering_for_Unsupervised_Audiovisual_Learning_CVPR_2019_paper.html)]
 
 * **avobjects(ECCV2020)** Self-Supervised Learning of Audio-Visual Objects from Video [[paper link](https://arxiv.org/abs/2008.04237)][[project link](https://www.robots.ox.ac.uk/~vgg/research/avobjects/)][[Oxford VGG](https://www.robots.ox.ac.uk/~vgg/)][[codes|official PyTorch](https://github.com/afourast/avobjects)]
 
 * **VGG-Sound(CVPR2021)** Localizing Visual Sounds the Hard Way [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Localizing_Visual_Sounds_the_Hard_Way_CVPR_2021_paper.html)][[codes|official PyTorch ](https://github.com/hche11/Localizing-Visual-Sounds-the-Hard-Way)]
 
-* **EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official](https://github.com/stoneMo/EZ-VSL)]
+* **❤ EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official](https://github.com/stoneMo/EZ-VSL)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
