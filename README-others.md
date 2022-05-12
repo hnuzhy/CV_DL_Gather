@@ -367,9 +367,11 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **DMC(CVPR2019)** Deep Multimodal Clustering for Unsupervised Audiovisual Learning [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Deep_Multimodal_Clustering_for_Unsupervised_Audiovisual_Learning_CVPR_2019_paper.html)]
 
-* **avobjects(ECCV2020)** Self-Supervised Learning of Audio-Visual Objects from Video [[paper link](https://arxiv.org/abs/2008.04237)][[project link](https://www.robots.ox.ac.uk/~vgg/research/avobjects/)][[Oxford VGG](https://www.robots.ox.ac.uk/~vgg/)][[codes|official PyTorch](https://github.com/afourast/avobjects)]
+* **AVObjects(ECCV2020)** Self-Supervised Learning of Audio-Visual Objects from Video [[paper link](https://arxiv.org/abs/2008.04237)][[project link](https://www.robots.ox.ac.uk/~vgg/research/avobjects/)][[Oxford VGG](https://www.robots.ox.ac.uk/~vgg/)][[codes|official PyTorch](https://github.com/afourast/avobjects)]
 
-* **VGG-Sound(CVPR2021)** Localizing Visual Sounds the Hard Way [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Localizing_Visual_Sounds_the_Hard_Way_CVPR_2021_paper.html)][[codes|official PyTorch ](https://github.com/hche11/Localizing-Visual-Sounds-the-Hard-Way)]
+* **LVS or VGG-Sound(CVPR2021)** Localizing Visual Sounds the Hard Way [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Localizing_Visual_Sounds_the_Hard_Way_CVPR_2021_paper.html)][[codes|official PyTorch ](https://github.com/hche11/Localizing-Visual-Sounds-the-Hard-Way)]
+
+* **vanilla-LVS(ICASSP2022)** Learning Sound Localization Better from Semantically Similar Samples [[paper link](https://ieeexplore.ieee.org/abstract/document/9747867)]
 
 * **❤ EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official](https://github.com/stoneMo/EZ-VSL)]
 
