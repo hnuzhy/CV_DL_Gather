@@ -351,6 +351,8 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * [(cnblogs) 【论文导读】Learning to Localize Sound Source in Visual Scenes】&soundnet的复现](https://blog.csdn.net/zzc15806/article/details/80772152)
 * [(cnblogs) 论文【Learning to Localize Sound Source in Visual Scenes】&soundnet的复现](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
+* [(CSDNblogs) 麦克风阵列声源定位 GCC-PHAT](https://blog.csdn.net/u010592995/article/details/79735198)
+* [(online PPT) 语音识别技术的前世今生(made by 王赟(Maigo))](https://zhihu-live.zhimg.com/0af15bfda98f5885ffb509acd470b0fa)
 
 ### Papers
 
