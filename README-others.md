@@ -39,6 +39,7 @@
 
 ### Materials
 
+* [(zhihu) 话题：6DOF姿态估计](https://www.zhihu.com/collection/274088096)
 * [(website) A Comprehensive List of 3D Sensors Commonly Leveraged in ROS Development](https://rosindustrial.org/3d-camera-survey)
 * [(CSDN blogs) 【深度相机系列六】深度相机哪家强？附详细参数对比清单](https://blog.csdn.net/electech6/article/details/78907463)
 * [(website) List of RGBD datasets](http://www.michaelfirman.co.uk/RGBDdatasets/) (written by a domain expert [Michael Firman](http://www.michaelfirman.co.uk/index.html))
