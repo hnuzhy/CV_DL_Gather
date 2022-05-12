@@ -363,7 +363,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **MSSL(ECCV2020)** Multiple Sound Sources Localization from Coarse to Fine [[paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650290.pdf)][[codes|official PyTorch](https://github.com/shvdiwnkozbw/Multi-Source-Sound-Localization)][[Author - [Weiyao Lin]](https://weiyaolin.github.io/)]
 
-* **SoundLocation(CVPR2018)** Learning to Localize Sound Source in Visual Scenes [[arxiv link](https://arxiv.org/pdf/1803.03849.pdf)][[Codes|offical PyTorch based on SoundNet](https://github.com/ardasnck/learning_to_localize_sound_source)][[Codes|unoffical PyTorch](https://github.com/liyidi/soundnet_localize_sound_source)](`Dataset: Flickr-SoundNet`)
+* **SoundLocation(CVPR2018)** Learning to Localize Sound Source in Visual Scenes [[arxiv link](https://arxiv.org/pdf/1803.03849.pdf)][[Codes|offical PyTorch based on SoundNet](https://github.com/ardasnck/learning_to_localize_sound_source)][[Codes|unofficial PyTorch](https://github.com/liyidi/soundnet_localize_sound_source)](`Dataset: Flickr-SoundNet`)
 
 * **DMC(CVPR2019)** Deep Multimodal Clustering for Unsupervised Audiovisual Learning [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Deep_Multimodal_Clustering_for_Unsupervised_Audiovisual_Learning_CVPR_2019_paper.html)]
 
@@ -373,7 +373,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **vanilla-LVS(ICASSP2022)** Learning Sound Localization Better from Semantically Similar Samples [[paper link](https://ieeexplore.ieee.org/abstract/document/9747867)]
 
-* **❤ EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official](https://github.com/stoneMo/EZ-VSL)]
+* **❤ EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official PyTorch](https://github.com/stoneMo/EZ-VSL)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
