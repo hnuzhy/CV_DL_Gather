@@ -35,13 +35,13 @@
 ### ▶ Datasets Papers
 
 * **KTH(ICPR2004)** Recognizing human actions: a local SVM approach [[paper link](https://www.researchgate.net/profile/Christian_Schueldt/publication/4090526_Recognizing_human_actions_A_local_SVM_approach/links/0912f5066c8adcddf0000000)]
-
 * **Weizmann(ICCV2005)** Actions as space-time shapes [[paper link](https://www.researchgate.net/profile/Lena_Gorelick/publication/4193986_Action_as_space-time_shapes/links/02e7e5231c496913a4000000)]
-
 * **UCF101(arxiv2012)** UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild [[arxiv link](http://export.arxiv.org/pdf/1212.0402)]
-
 * **Kinetics(arxiv2017)** The Kinetics Human Action Video Dataset [[arxiv link](https://arxiv.org/pdf/1705.06950.pdf)]
-
+* **EPIC-Kitchens(ECCV2018)** Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [[project link](https://epic-kitchens.github.io/2018)]
+* **HACS(arxiv2019)** HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization [[arxiv link](https://arxiv.org/abs/1712.09374)]
+* **Moments-in-Time(TPAMI2019)** Moments in Time Dataset: one million videos for event understanding [[project link](http://moments.csail.mit.edu/)]
+* **FineGym(CVPR2020)** FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding [[project link](https://sdolivia.github.io/FineGym/)]
 
 ### ▶ Technique Papers
 
