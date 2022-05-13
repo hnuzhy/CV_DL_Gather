@@ -379,7 +379,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **vanilla-LVS or HardPos(ICASSP2022)** Learning Sound Localization Better from Semantically Similar Samples [[paper link](https://ieeexplore.ieee.org/abstract/document/9747867)]
 
-* **❤ EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official PyTorch](https://github.com/stoneMo/EZ-VSL)]
+* **❤ EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official PyTorch](https://github.com/stoneMo/EZ-VSL)][[multiple-instance-learning](https://proceedings.mlr.press/v80/ilse18a/ilse18a.pdf)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
