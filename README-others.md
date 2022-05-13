@@ -4,6 +4,7 @@
 
 * [⭐3D Reconstruction](#3d-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
+* [⭐Aerial Autonomous Navigation](#aerial-autonomous-navigation)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Eye Gaze Estimation and Tracking](#eye-gaze-estimation-and-tracking)
 * [⭐Generative Adversarial Network](#generative-adversarial-network)
@@ -114,6 +115,15 @@
 
 
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Aerial Autonomous Navigation
+
+### Materials
+
+* [(github) CMU: Leveraging system development and robot deployment for aerial autonomous navigation.](https://github.com/caochao39/aerial_navigation_development_environment) [[demo video](https://www.bilibili.com/video/BV1tZ4y187HR)]
+
+### Papers
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
