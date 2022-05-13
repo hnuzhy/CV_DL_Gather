@@ -185,7 +185,9 @@
 
 * **HGG(arxiv2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/2007.11864)]
 
-* **SWAHR(CVPR2021)** Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2012.15175)][[Codes | official pytorch](https://github.com/greatlog/SWAHR-HumanPose)]
+* **CenterGroup(ICCV2021)** The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2110.05132)][[codes|official PyTorch based on mmpose and HigherHRNet](https://github.com/dvl-tum/center-group)]
+
+* **SWAHR(CVPR2021)** Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2012.15175)][[Codes | official pytorch based on HigherHRNet](https://github.com/greatlog/SWAHR-HumanPose)]
 
 * **DERK(CVPR2021)** Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression [[arxiv link](https://arxiv.org/abs/2104.02300)][[Codes | official pytorch](https://github.com/HRNet/DEKR)]
 
@@ -200,7 +202,7 @@
 
 * **DeepDarts(CVPRW2021)** DeepDarts: Modeling Keypoints as Objects for Automatic Scorekeeping in Darts using a Single Camera [[paper link](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/McNally_DeepDarts_Modeling_Keypoints_as_Objects_for_Automatic_Scorekeeping_in_Darts_CVPRW_2021_paper.pdf)]
 
-* **KAPAO(arxiv2021)** Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2111.08557)][[codes|(official pytorch using YOLOv5)](https://github.com/wmcnally/kapao)]
+* ⭐**KAPAO(arxiv2021)** Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2111.08557)][[codes|(official pytorch using YOLOv5)](https://github.com/wmcnally/kapao)]
 
 * **YOLO-Pose(arxiv2022)** YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss [[paper link](https://arxiv.org/abs/2204.06806)][[codes|official edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox)][[codes|official edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5)]
 
