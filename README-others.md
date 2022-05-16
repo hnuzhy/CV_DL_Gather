@@ -5,6 +5,7 @@
 * [⭐3D Reconstruction](#3d-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Aerial Autonomous Navigation](#aerial-autonomous-navigation)
+* [⭐Camera Pose Estimation](#camera-pose-estimation)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Eye Gaze Estimation and Tracking](#eye-gaze-estimation-and-tracking)
 * [⭐Generative Adversarial Network](#generative-adversarial-network)
@@ -19,7 +20,7 @@
 * [⭐Sound Source Localization](#sound-source-localization)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
 
-
+DiffPoseNet: Direct Differentiable Camera Pose Estimation
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐3D Reconstruction
@@ -124,6 +125,19 @@
 * [(github) CMU: Leveraging system development and robot deployment for aerial autonomous navigation.](https://github.com/caochao39/aerial_navigation_development_environment) [[demo video](https://www.bilibili.com/video/BV1tZ4y187HR)]
 
 ### Papers
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Camera Pose Estimation
+
+### Materials
+
+
+### Papers
+
+* **DiffPoseNet(CVPR2022)** DiffPoseNet: Direct Differentiable Camera Pose Estimation [[paper link](https://arxiv.org/abs/2203.11174)][[first author](https://analogicalnexus.github.io/)][[codes|official PyTorch]()]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
