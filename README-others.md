@@ -16,7 +16,6 @@
 * [⭐Person ReID](#person-reid)
 * [⭐Scene Text Detection](#scene-text-detection)
 * [⭐Semantic Segmentation](#semantic-segmentation)
-* [⭐SLAM (Simultaneous Localization and Mapping)](#slam-simultaneous-localization-and-mapping)
 * [⭐Sound Source Localization](#sound-source-localization)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
 
@@ -147,9 +146,11 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 * **DeepVO(ICRA2017)** DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks [[paper link](https://arxiv.org/pdf/1709.08429.pdf)][[project link](http://senwang.gitlab.io/DeepVO/)][[codes|unofficial PyTorch 1](https://github.com/ChiWeiHsiao/DeepVO-pytorch)][[codes|unofficial PyTorch 2](https://github.com/krrish94/DeepVO)]
 
+* **BiLevelOpt(3DV2020)** Joint Unsupervised Learning of Optical Flow and Egomotion with Bi-Level Optimization [[paper link](https://arxiv.org/abs/2002.11826)]
+
 * **TartanVO(CoRL2021)** TartanVO: A Generalizable Learning-based VO [[paper link](https://proceedings.mlr.press/v155/wang21h.html)][[codes|official PyTorch](https://github.com/castacks/tartanvo)]
 
-* **DiffPoseNet(CVPR2022)** DiffPoseNet: Direct Differentiable Camera Pose Estimation [[paper link](https://arxiv.org/abs/2203.11174)][[first author](https://analogicalnexus.github.io/)][[project link](https://nitinjsanket.github.io/research.html)][[codes|official PyTorch]()]
+* **⭐ DiffPoseNet(CVPR2022)** DiffPoseNet: Direct Differentiable Camera Pose Estimation [[paper link](https://arxiv.org/abs/2203.11174)][[first author](https://analogicalnexus.github.io/)][[project link](https://nitinjsanket.github.io/research.html)][[codes|official PyTorch]()]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
