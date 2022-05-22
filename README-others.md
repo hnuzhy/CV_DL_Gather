@@ -408,6 +408,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 
 * **❤ EZ-VSL(arxiv2022)** Localizing Visual Sounds the Easy Way [[paper link](https://arxiv.org/abs/2203.09324)][[codes|official PyTorch](https://github.com/stoneMo/EZ-VSL)][[multiple-instance-learning](https://proceedings.mlr.press/v80/ilse18a/ilse18a.pdf)]
 
+* **IEr(AAAI2022)** Visual Sound Localization in the Wild by Cross-Modal Interference Erasing [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-140.LiuX.pdf)][[codes|official](https://github.com/alvinliu0/Visual-Sound-Localization-in-the-Wild)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
