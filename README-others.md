@@ -138,7 +138,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 ### Papers
 
-* **DiffPoseNet(CVPR2022)** DiffPoseNet: Direct Differentiable Camera Pose Estimation [[paper link](https://arxiv.org/abs/2203.11174)][[first author](https://analogicalnexus.github.io/)][[codes|official PyTorch]()]
+* **DiffPoseNet(CVPR2022)** DiffPoseNet: Direct Differentiable Camera Pose Estimation [[paper link](https://arxiv.org/abs/2203.11174)][[first author](https://analogicalnexus.github.io/)][[project link](https://nitinjsanket.github.io/research.html)][[codes|official PyTorch]()]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
