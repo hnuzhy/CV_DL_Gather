@@ -5,7 +5,7 @@
 * [⭐3D Reconstruction](#3d-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Aerial Autonomous Navigation](#aerial-autonomous-navigation)
-* [⭐Camera Pose Estimation](#camera-pose-estimation)
+* [⭐Camera Pose Estimation (SLAM)](#camera-pose-estimation-slam)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Eye Gaze Estimation and Tracking](#eye-gaze-estimation-and-tracking)
 * [⭐Generative Adversarial Network](#generative-adversarial-network)
@@ -131,12 +131,23 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐Camera Pose Estimation
+## ⭐Camera Pose Estimation (SLAM)
 
 ### Materials
 
+* [(cnblogs) 视觉SLAM(Simultaneous Localization and Mapping)漫谈](https://blog.csdn.net/weixin_41537599/article/details/110819969)
 
 ### Papers
+
+* **ORB-SLAM(TRO2015)** ORB-SLAM: a Versatile and Accurate Monocular SLAM System [[paper link](https://arxiv.org/abs/1502.00956)][[project link](http://webdiis.unizar.es/~raulmur/orbslam/)][[codes|official ROS](https://github.com/raulmur/ORB_SLAM)]
+
+* **ORB-SLAM2(TRO2017)** ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras [[paper link](https://arxiv.org/abs/1610.06475)][[project link](http://webdiis.unizar.es/~raulmur/orbslam/)][[codes|official ROS](https://github.com/raulmur/ORB_SLAM2)]
+
+* **GeoNet(CVPR2018)** GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.html)][[codes|official Tensorflow](https://github.com/yzcjtr/GeoNet)]
+
+* **DeepVO(ICRA2017)** DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks [[paper link](https://arxiv.org/pdf/1709.08429.pdf)][[project link](http://senwang.gitlab.io/DeepVO/)][[codes|unofficial PyTorch 1](https://github.com/ChiWeiHsiao/DeepVO-pytorch)][[codes|unofficial PyTorch 2](https://github.com/krrish94/DeepVO)]
+
+* **TartanVO(CoRL2021)** TartanVO: A Generalizable Learning-based VO [[paper link](https://proceedings.mlr.press/v155/wang21h.html)][[codes|official PyTorch](https://github.com/castacks/tartanvo)]
 
 * **DiffPoseNet(CVPR2022)** DiffPoseNet: Direct Differentiable Camera Pose Estimation [[paper link](https://arxiv.org/abs/2203.11174)][[first author](https://analogicalnexus.github.io/)][[project link](https://nitinjsanket.github.io/research.html)][[codes|official PyTorch]()]
 
@@ -360,17 +371,6 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * **FCIS(CVPR2017)** Fully Convolutional Instance-aware Semantic Segmentation [[arxiv link](https://arxiv.org/abs/1611.07709)][[Codes|MXNet(offical based on RFCN)](https://github.com/msracver/FCIS)][[CSDN blog](https://blog.csdn.net/jiongnima/article/details/78961147)]
 
 * **BezierSeg(arxiv2021)** BezierSeg: Parametric Shape Representation for Fast Object Segmentation in Medical Images [[paper link](https://arxiv.org/abs/2108.00760)]
-
-**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
-
-
-## ⭐SLAM (Simultaneous Localization and Mapping)
-
-### Materials
-
-* [(cnblogs) 视觉SLAM漫谈](https://blog.csdn.net/weixin_41537599/article/details/110819969)
-
-### Papers
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
