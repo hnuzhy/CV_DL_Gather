@@ -383,6 +383,7 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * [(cnblogs) 论文【Learning to Localize Sound Source in Visual Scenes】&soundnet的复现](https://www.cnblogs.com/gaoxiang12/p/3695962.html)
 * [(CSDNblogs) 麦克风阵列声源定位 GCC-PHAT](https://blog.csdn.net/u010592995/article/details/79735198)
 * [(online PPT) 语音识别技术的前世今生(made by 王赟(Maigo))](https://zhihu-live.zhimg.com/0af15bfda98f5885ffb509acd470b0fa)
+* [(annotation tool) The VIA Annotation Software for Images, Audio and Video (ACMMM2019)](https://www.robots.ox.ac.uk/~vgg/software/via/)[[paper link](https://www.robots.ox.ac.uk/~adutta/data/postdoc/dutta2019vgg.pdf)]
 
 ### Papers
 
