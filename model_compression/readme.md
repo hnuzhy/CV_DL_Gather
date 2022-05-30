@@ -21,6 +21,8 @@
 
 ### Papers
 
+* **KD-Survey (IJCV2021)** Knowledge Distillation: A Survey [[paper link](https://www.dcs.bbk.ac.uk/~sjmaybank/KD_Survey-arxiv.pdf)]
+
 
 ## ⭐Knowledge Distillation
 
