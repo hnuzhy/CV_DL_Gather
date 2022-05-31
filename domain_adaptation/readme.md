@@ -34,7 +34,7 @@
 
 * **(ECCV2020)** YOLO in the Dark - Domain Adaptation Method for Merging Multiple Models [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660341.pdf)]
 
-* **(ECCV2020)** One-Shot Unsupervised Cross-Domain Detection [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610715.pdf)]
+* **DA-FCOS(ECCV2020)** One-Shot Unsupervised Cross-Domain Detection [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610715.pdf)]
 
 * **HTCN(CVPR2020)** Harmonizing Transferability and Discriminability for Adapting Object Detectors [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Harmonizing_Transferability_and_Discriminability_for_Adapting_Object_Detectors_CVPR_2020_paper.html)][[codes|official PyTorch](https://github.com/chaoqichen/HTCN)][[CSDN blog](https://blog.csdn.net/moutain9426/article/details/120587123)]
 
@@ -49,6 +49,16 @@
 * **MS-DAYOLO(ICIP2021)(YOLOV4)** Multiscale Domain Adaptive YOLO for Cross-Domain Object Detection [[arxiv link](https://arxiv.org/abs/2106.01483)][[csdn blog](https://cloud.tencent.com/developer/article/1843695)]
 
 * **DAYOLO(ACML2021)(YOLOV3)** Domain Adaptive YOLO for One-Stage Cross-Domain Detection [[paper link](https://proceedings.mlr.press/v157/zhang21c.html)]
+
+* **SIGMA(CVPR2022)** SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection [[paper link](https://arxiv.org/abs/2203.06398)][[codes|official PyTorch](https://github.com/CityU-AIM-Group/SIGMA)]
+
+* **TIA(CVPR2022)** Task-specific Inconsistency Alignment for Domain Adaptive Object Detection [[paper link](https://arxiv.org/abs/2203.15345)][[codes|official PyTorch](https://github.com/MCG-NJU/TIA)]
+
+* **TPKP(CVPR2022)** Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection [[paper link](https://arxiv.org/abs/2204.07964)][[codes|(not found)]()]
+
+* **MGADA(CVPR2022)** Multi-Granularity Alignment Domain Adaptation for Object Detection [[paper link](https://arxiv.org/abs/2203.16897)][[codes|(not found)]()]
+
+* **TDD(CVPR2022)** Cross Domain Object Detection by Target-Perceived Dual Branch Distillation [[paper link](https://arxiv.org/abs/2205.01291)][[codes|official PyTorch](https://github.com/Feobi1999/TDD)]
 
 
 ### ⭐Domain Adaptation for Semantic Segmentation
