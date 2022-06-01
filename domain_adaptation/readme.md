@@ -50,6 +50,8 @@
 
 * **DAYOLO(ACML2021)(YOLOV3)** Domain Adaptive YOLO for One-Stage Cross-Domain Detection [[paper link](https://proceedings.mlr.press/v157/zhang21c.html)]
 
+* **SCAN(AAAI2022)** SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-902.LiW.pdf)][[codes|official PyTorch](https://github.com/CityU-AIM-Group/SCAN)]
+
 * **SIGMA(CVPR2022)** SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection [[paper link](https://arxiv.org/abs/2203.06398)][[codes|official PyTorch](https://github.com/CityU-AIM-Group/SIGMA)]
 
 * **TIA(CVPR2022)** Task-specific Inconsistency Alignment for Domain Adaptive Object Detection [[paper link](https://arxiv.org/abs/2203.15345)][[codes|official PyTorch](https://github.com/MCG-NJU/TIA)]
