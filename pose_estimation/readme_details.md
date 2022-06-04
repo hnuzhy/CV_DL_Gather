@@ -160,7 +160,7 @@
 
 * ⭐**TokenPose(ICCV2021)** TokenPose: Learning Keypoint Tokens for Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_TokenPose_Learning_Keypoint_Tokens_for_Human_Pose_Estimation_ICCV_2021_paper.html)][[codes|official PyTroch](https://github.com/leeyegy/TokenPose)][`Token representation based two-stage MPPE (light-weight)`]
 
-* ⭐**LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)]
+* ⭐**LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)][`Model quantization and compression on Qualcomm Snapdragon`]
 
 
 ### ▶  Two-Stage [Bottom-Up] Multiple Person Pose Estimation
