@@ -245,6 +245,9 @@
 
 * **(multi-views)(ICCV2021)** Shape-aware Multi-Person Pose Estimation from Multi-View Images [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Dong_Shape-Aware_Multi-Person_Pose_Estimation_From_Multi-View_Images_ICCV_2021_paper.html)][[project link](https://ait.ethz.ch/projects/2021/multi-human-pose/)][[codes|official](https://github.com/zj-dong/Multi-Person-Pose-Estimation)]
 
+* **MVP(NIPS2021)** Direct Multi-view Multi-person 3D Pose Estimation [[paper link](https://proceedings.neurips.cc/paper/2021/hash/6da9003b743b65f4c0ccd295cc484e57-Abstract.html)][[codes|official PyTorch](https://github.com/sail-sg/mvp)]
+
+
 ### ▶  Special Multiple Person Pose Estimation
 
 * **PoseTrack(CVPR2017)** PoseTrack: Joint Multi-Person Pose Estimation and Tracking [[arxiv link](https://arxiv.org/abs/1611.07727)][[Codes|Matlab&Caffe](https://github.com/iqbalu/PoseTrack-CVPR2017)]
