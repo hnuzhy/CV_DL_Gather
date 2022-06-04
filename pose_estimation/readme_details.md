@@ -156,6 +156,8 @@
 
 * **OmniPose(arxiv2021)** OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2103.10180)]
 
+* **MIPNet(ICCV2021)** Multi-Instance Pose Networks: Rethinking Top-Down Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Khirodkar_Multi-Instance_Pose_Networks_Rethinking_Top-Down_Pose_Estimation_ICCV_2021_paper.html)][[project link](https://rawalkhirodkar.github.io/mipnet/)][[codes|official demo](https://github.com/rawalkhirodkar/MIPNet)]
+
 * ⭐**TransPose(ICCV2021)** TransPose: Keypoint Localization via Transformer [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)][[codes|official PyTroch](https://github.com/yangsenius/TransPose)][`Transformer based two-stage MPPE (light-weight)`]
 
 * ⭐**TokenPose(ICCV2021)** TokenPose: Learning Keypoint Tokens for Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_TokenPose_Learning_Keypoint_Tokens_for_Human_Pose_Estimation_ICCV_2021_paper.html)][[codes|official PyTroch](https://github.com/leeyegy/TokenPose)][`Token representation based two-stage MPPE (light-weight)`]
