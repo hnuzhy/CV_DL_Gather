@@ -257,7 +257,9 @@
 
 * **DoubleFusion(TPAMI2019)(3D single-view real-time depth-sensor)** DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor [[arxiv link](https://arxiv.org/pdf/1804.06023.pdf)]
 
-* **BlazePose (CVPRW2020)** BlazePose: On-device Real-time Body Pose tracking [[paper link](https://arxiv.org/abs/2006.10204)][[project link](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)]
+* **Keypoint-Communities(ICCV2019)** Keypoint Communities [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Zauss_Keypoint_Communities_ICCV_2021_paper.html)]
+
+* **BlazePose (CVPRW2020)** BlazePose: On-device Real-time Body Pose tracking [[paper link](https://arxiv.org/abs/2006.10204)][[project link](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)][`Model all keypoints belonging to a human or an object (the pose) as a graph`]
 
 ### ▶  Domain Adaptive Multiple Person Pose Estimation
 
