@@ -219,6 +219,7 @@
 
 * **EpipolarPose(CVPR2019)(monocular multi-view)** Self-Supervised Learning of 3D Human Pose using Multi-view Geometry [[arxiv link](https://arxiv.org/abs/1903.02330)][[project link](https://mkocabas.github.io/epipolarpose.html)][[Codes|PyTorch(offical)](https://github.com/mkocabas/EpipolarPose)]
 
+* **SMAP(ECCV2020)** SMAP: Single-Shot Multi-person Absolute 3D Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_33)][[project link](https://zju3dv.github.io/SMAP/)][[codes|official PyTorch](https://github.com/zju3dv/SMAP)]
 
 
 ### ▶  Special Multiple Person Pose Estimation
