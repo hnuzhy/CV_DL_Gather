@@ -228,7 +228,9 @@
 
 * **Pose2Seg(CVPR2019)** Pose2Seg: Detection Free Human Instance Segmentation [[paper link](https://arxiv.org/abs/1803.10683)][[codes|official](https://github.com/liruilong940607/OCHumanApi)]
 
-* **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)]
+* **Multitask-CenterNet(ICCVW2021)** MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning Using an Anchor Free Approach [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/ERCVAD/html/Heuer_MultiTask-CenterNet_MCN_Efficient_and_Diverse_Multitask_Learning_Using_an_Anchor_ICCVW_2021_paper.html)][`based on the CenterNet`]
+
+* **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)][`similarly with the PersonLab`]
 
 
 ### ▶  3D Multiple Person Pose Estimation
