@@ -237,6 +237,7 @@
 
 * **SMAP(ECCV2020)** SMAP: Single-Shot Multi-person Absolute 3D Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_33)][[project link](https://zju3dv.github.io/SMAP/)][[codes|official PyTorch](https://github.com/zju3dv/SMAP)]
 
+* **(multi-views)(ICCV2021)** Shape-aware Multi-Person Pose Estimation from Multi-View Images [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Dong_Shape-Aware_Multi-Person_Pose_Estimation_From_Multi-View_Images_ICCV_2021_paper.html)][[project link](https://ait.ethz.ch/projects/2021/multi-human-pose/)][[codes|official](https://github.com/zj-dong/Multi-Person-Pose-Estimation)]
 
 ### ▶  Special Multiple Person Pose Estimation
 
