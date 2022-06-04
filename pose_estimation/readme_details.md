@@ -187,6 +187,8 @@
 
 * **HGG(arxiv2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/2007.11864)]
 
+* **SimplePose(AAAI2020)** Simple pose: Rethinking and improving a bottom-up approach for multi-person pose estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6797)][[codes|official PyTorch](https://github.com/hellojialee/Improved-Body-Parts)][`An improved OpenPose based on Stacked Hourglass and proposed Body Parts`]
+
 * **CenterGroup(ICCV2021)** The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2110.05132)][[codes|official PyTorch based on mmpose and HigherHRNet](https://github.com/dvl-tum/center-group)]
 
 * **SWAHR(CVPR2021)** Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2012.15175)][[Codes | official pytorch based on HigherHRNet](https://github.com/greatlog/SWAHR-HumanPose)]
