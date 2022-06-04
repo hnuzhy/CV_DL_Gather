@@ -162,6 +162,8 @@
 
 * ⭐**TokenPose(ICCV2021)** TokenPose: Learning Keypoint Tokens for Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_TokenPose_Learning_Keypoint_Tokens_for_Human_Pose_Estimation_ICCV_2021_paper.html)][[codes|official PyTroch](https://github.com/leeyegy/TokenPose)][`Token representation based two-stage MPPE (light-weight)`]
 
+* ⭐**Lite-HRNet(CVPR2021)** Lite-HRNet: A Lightweight High-Resolution Network [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/HRNet/Lite-HRNet)][`This work is done by the original group of HRNet`]
+
 * ⭐**LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)][`Model quantization and compression on Qualcomm Snapdragon`]
 
 
@@ -194,6 +196,8 @@
 * ⭐**MDN3(CVPR2020)** Mixture Dense Regression for Object Detection and Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1912.00821)][[Codes|PyTorch(offical)](https://github.com/alivaramesh/MixtureDenseRegression)]
 
 * **HGG(arxiv2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/2007.11864)]
+
+* ⭐**EfficientHRNet(arxiv2020)** EfficientHRNet: Efficient Scaling for Lightweight High-Resolution Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2007.08090)]
 
 * **SimplePose(AAAI2020)** Simple pose: Rethinking and improving a bottom-up approach for multi-person pose estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6797)][[codes|official PyTorch](https://github.com/hellojialee/Improved-Body-Parts)][`An improved OpenPose based on Stacked Hourglass and proposed Body Parts`]
 
