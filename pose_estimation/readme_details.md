@@ -15,22 +15,22 @@
 
 ### Mixed, Synthetic and Complicated
 
-* [OCHuman(Occluded Human) Dataset (CVPR2019)](https://arxiv.org/abs/1803.10683) [[github link](https://github.com/liruilong940607/OCHumanApi)]
-* [CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark (CVPR2019)](https://github.com/Jeff-sjtu/CrowdPose) [[paper link](https://arxiv.org/abs/1812.00324)]
-* [JTA(Joint Track Auto) - A synthetical dataset from GTA-V (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)][[github link](https://github.com/fabbrimatteo/JTA-Dataset)][[JTA-Extension](https://github.com/thomasgolda/Human-Pose-Estimation-for-Real-World-Crowded-Scenarios)]
+* ⭐[OCHuman(Occluded Human) Dataset (CVPR2019)](https://arxiv.org/abs/1803.10683) [[github link](https://github.com/liruilong940607/OCHumanApi)]
+* ⭐[CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark (CVPR2019)](https://github.com/Jeff-sjtu/CrowdPose) [[paper link](https://arxiv.org/abs/1812.00324)]
+* ⭐[JTA(Joint Track Auto) - A synthetical dataset from GTA-V (ECCV2018)](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=25)[[paper link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)][[github link](https://github.com/fabbrimatteo/JTA-Dataset)][[JTA-Extension](https://github.com/thomasgolda/Human-Pose-Estimation-for-Real-World-Crowded-Scenarios)]
 * [Mannequin RGB and IRS in-bed pose estimation dataset](https://github.com/ostadabbas/in-bed-pose-estimation)
-* [CMU Panoptic Studio Dataset (3D single and multiple real person pose in the lab)](http://domedb.perception.cs.cmu.edu/) [[github link](https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox)]
+* ⭐[CMU Panoptic Studio Dataset (3D single and multiple real person pose in the lab)](http://domedb.perception.cs.cmu.edu/) [[github link](https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox)]
 * [SURREAL dataset (CVPR2017) (3D single synthetic person pose in the indoor)](https://www.di.ens.fr/willow/research/surreal/)[[paper link](https://arxiv.org/abs/1701.01370)]
 * [Drive&Act dataset (ICCV2019) (3D openpose single real person pose in the car with 5 views)](https://www.driveandact.com/)[[paper link](https://www.driveandact.com/publication/2019_iccv_drive_and_act/2019_iccv_drive_and_act.pdf)]
-* [COCO-WholeBody (ECCV2020) (re-annotated based on keypoints in COCO dataset)](https://github.com/jin-s13/COCO-WholeBody)[[paper link](https://arxiv.org/abs/2007.11858)]
+* ⭐[COCO-WholeBody (ECCV2020) (re-annotated based on keypoints in COCO dataset)](https://github.com/jin-s13/COCO-WholeBody)[[paper link](https://arxiv.org/abs/2007.11858)]
 * [Halpe-FullBody (CVPR2020) (full body human pose estimation and human-object interaction detection dataset)](https://github.com/Fang-Haoshu/Halpe-FullBody)[[paper link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.pdf)]
 * [IKEA ASSEMBLY DATASET (WACV2021) (3D single and multiple real person pose in the lab with 3 views)](https://ikeaasm.github.io/)[[paper link](https://arxiv.org/abs/2007.00394)][[google drive](https://drive.google.com/drive/folders/1xkDp--QuUVxgl4oJjhCDb2FWNZTkYANq)]
 * [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://sites.google.com/view/yoga-82/home)[[kaggle](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset)]
 * [UAV-Human Dataset (CVPR2021) (not all appeared persons are annotated)](https://github.com/SUTDCV/UAV-Human)[[paper link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_UAV-Human_A_Large_Benchmark_for_Human_Behavior_Understanding_With_Unmanned_CVPR_2021_paper.pdf)][[google drive](https://drive.google.com/drive/folders/1QeYXeM_pbWBSSmpRr_rKHurMpI2TxAKs)]
 * [Mirrored-Human Dataset: Reconstructing 3D Human Pose by Watching Humans in the Mirror (CVPR2021 Oral)](https://zju3dv.github.io/Mirrored-Human/)[[paper link](https://arxiv.org/pdf/2104.00340.pdf)]
-* [AGORA: A synthetic human pose and shape dataset (CVPR2021)](https://agora.is.tue.mpg.de/) [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)][[github link](https://github.com/pixelite1201/agora_evaluation)][[SMPL-X (CVPR2019)](https://smpl-x.is.tue.mpg.de/)][[SMPL (SIGGRAPH2015)](https://smpl.is.tue.mpg.de/)][[STAR (ECCV2020)](https://star.is.tue.mpg.de/)]
+* ⭐[AGORA: A synthetic human pose and shape dataset (CVPR2021)](https://agora.is.tue.mpg.de/) [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)][[github link](https://github.com/pixelite1201/agora_evaluation)][[SMPL-X (CVPR2019)](https://smpl-x.is.tue.mpg.de/)][[SMPL (SIGGRAPH2015)](https://smpl.is.tue.mpg.de/)][[STAR (ECCV2020)](https://star.is.tue.mpg.de/)]
 * [InfiniteForm: Open Source Dataset for Human Pose Estimation (NIPSW2021)](https://pixelate.ai/InfiniteForm) [[paper link](https://arxiv.org/abs/2110.01330)][[github link](https://github.com/toinfinityai/infiniteform)]
-* [UrbanPose: A new benchmark for VRU pose estimation in urban traffic scenes (IEEE Intelligent Vehicles Symposium (IV) 2021)](http://urbanpose-dataset.com/info/Datasets/198) [[paper link](https://ieeexplore.ieee.org/abstract/document/9575469)]
+* ⭐[UrbanPose: A new benchmark for VRU pose estimation in urban traffic scenes (IEEE Intelligent Vehicles Symposium (IV) 2021)](http://urbanpose-dataset.com/info/Datasets/198) [[paper link](https://ieeexplore.ieee.org/abstract/document/9575469)]
 
 ## 2) Pioneers and Experts
 
