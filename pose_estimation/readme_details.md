@@ -261,6 +261,8 @@
 
 * **BlazePose (CVPRW2020)** BlazePose: On-device Real-time Body Pose tracking [[paper link](https://arxiv.org/abs/2006.10204)][[project link](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)]
 
+* **ODKD(arxiv2021)** Orderly Dual-Teacher Knowledge Distillation for Lightweight Human Pose Estimation [[paper link](https://arxiv.org/abs/2104.10414)][`Knowledge Distillation of MPPE`]
+
 
 ### ▶  Domain Adaptive Multiple Person Pose Estimation
 
