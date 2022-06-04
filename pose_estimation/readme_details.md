@@ -175,7 +175,9 @@
 
 * ⭐**PersonLab(ECCV2018)(multi-task)** PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model [[arxiv link](https://arxiv.org/abs/1803.08225)][[Codes|Keras&Tensorflow(unoffical by octiapp)](https://github.com/octiapp/KerasPersonLab)][[Codes|Tensorflow(unoffical)](https://github.com/scnuhealthy/Tensorflow_PersonLab)]
 
- * **DirectPose(arxiv2019)** DirectPose: Direct End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07451v2)]
+* **DirectPose(arxiv2019)** DirectPose: Direct End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07451v2)]
+
+* **OpenPoseTrain(ICCV2019)** Single-Network Whole-Body Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Hidalgo_Single-Network_Whole-Body_Pose_Estimation_ICCV_2019_paper.html)][[codes|official](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)][`simultaneous localization of body, face, hands, and feet keypoints`]
 
 * ⭐**OpenPifPaf(CVPR2019)** PifPaf: Composite Fields for Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kreiss_PifPaf_Composite_Fields_for_Human_Pose_Estimation_CVPR_2019_paper.pdf)][[Codes|PyTorch(offical)](https://github.com/vita-epfl/openpifpaf)]
 
