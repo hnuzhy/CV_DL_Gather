@@ -154,7 +154,7 @@
 
 * **OmniPose(arxiv2021)** OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2103.10180)]
 
-* ⭐**TransPose(ICCV2021)** TransPose: Keypoint Localization via Transformer [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)][[codes|official PyTroch](https://github.com/yangsenius/TransPose)][`transformer based two-stage MPHPE`]
+* ⭐**TransPose(ICCV2021)** TransPose: Keypoint Localization via Transformer [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)][[codes|official PyTroch](https://github.com/yangsenius/TransPose)][`transformer based two-stage MPPE`]
 
 * **LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)]
 
@@ -192,6 +192,8 @@
 * **HGG(arxiv2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/2007.11864)]
 
 * **SimplePose(AAAI2020)** Simple pose: Rethinking and improving a bottom-up approach for multi-person pose estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6797)][[codes|official PyTorch](https://github.com/hellojialee/Improved-Body-Parts)][`An improved OpenPose based on Stacked Hourglass and proposed Body Parts`]
+
+* **DGCN(AAAI2020)** DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6867)][`Graph based two-stage MPPE`]
 
 * **CenterGroup(ICCV2021)** The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2110.05132)][[codes|official PyTorch based on mmpose and HigherHRNet](https://github.com/dvl-tum/center-group)]
 
