@@ -181,8 +181,6 @@
 
 * ⭐**MultiPoseNet(ECCV2018)(multi-task)** MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [[arxiv link](https://arxiv.org/abs/1807.04067)][[Codes|PyTorch(offical)](https://github.com/salihkaragoz/pose-residual-network-pytorch)]
 
-* ⭐**PersonLab(ECCV2018)(multi-task)** PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model [[arxiv link](https://arxiv.org/abs/1803.08225)][[Codes|Keras&Tensorflow(unoffical by octiapp)](https://github.com/octiapp/KerasPersonLab)][[Codes|Tensorflow(unoffical)](https://github.com/scnuhealthy/Tensorflow_PersonLab)]
-
 * **DirectPose(arxiv2019)** DirectPose: Direct End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07451v2)]
 
 * **OpenPoseTrain(ICCV2019)** Single-Network Whole-Body Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Hidalgo_Single-Network_Whole-Body_Pose_Estimation_ICCV_2019_paper.html)][[codes|official](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)][`simultaneous localization of body, face, hands, and feet keypoints`]
@@ -201,11 +199,9 @@
 
 * **CenterGroup(ICCV2021)** The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2110.05132)][[codes|official PyTorch based on mmpose and HigherHRNet](https://github.com/dvl-tum/center-group)]
 
-* **SWAHR(CVPR2021)** Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2012.15175)][[Codes | official pytorch based on HigherHRNet](https://github.com/greatlog/SWAHR-HumanPose)]
+* **SWAHR(CVPR2021)** Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2012.15175)][[Codes|official pytorch based on HigherHRNet](https://github.com/greatlog/SWAHR-HumanPose)]
 
-* **DERK(CVPR2021)** Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression [[arxiv link](https://arxiv.org/abs/2104.02300)][[Codes | official pytorch](https://github.com/HRNet/DEKR)]
-
-* **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)]
+* **DERK(CVPR2021)** Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression [[arxiv link](https://arxiv.org/abs/2104.02300)][[Codes|official pytorch](https://github.com/HRNet/DEKR)]
 
 
 ### ▶  Single-Stage Multiple Person Pose Estimation
@@ -219,6 +215,18 @@
 * ⭐**KAPAO(arxiv2021)** Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2111.08557)][[codes|(official pytorch using YOLOv5)](https://github.com/wmcnally/kapao)]
 
 * **YOLO-Pose(arxiv2022)** YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss [[paper link](https://arxiv.org/abs/2204.06806)][[codes|official edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox)][[codes|official edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5)]
+
+### ▶  Simultaneous Multiple Person Pose Estimation and Instance Segmentation
+
+* ⭐**Mask R-CNN(ICCV2017)(multi-task)** Mask R-CNN [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)]
+
+* ⭐**PersonLab(ECCV2018)(multi-task)** PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model [[arxiv link](https://arxiv.org/abs/1803.08225)][[Codes|Keras&Tensorflow(unoffical by octiapp)](https://github.com/octiapp/KerasPersonLab)][[Codes|Tensorflow(unoffical)](https://github.com/scnuhealthy/Tensorflow_PersonLab)]
+
+* **ACPNet(ICME2019)** ACPNet: Anchor-Center Based Person Network for Human Pose Estimation and Instance Segmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/8784943)][`based on Mask R-CNN`]
+
+* **Pose2Seg(CVPR2019)** Pose2Seg: Detection Free Human Instance Segmentation [[paper link](https://arxiv.org/abs/1803.10683)][[codes|official](https://github.com/liruilong940607/OCHumanApi)]
+
+* **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)]
 
 
 ### ▶  3D Multiple Person Pose Estimation
