@@ -30,7 +30,7 @@
 * [Mirrored-Human Dataset: Reconstructing 3D Human Pose by Watching Humans in the Mirror (CVPR2021 Oral)](https://zju3dv.github.io/Mirrored-Human/)[[paper link](https://arxiv.org/pdf/2104.00340.pdf)]
 * [AGORA: A synthetic human pose and shape dataset (CVPR2021)](https://agora.is.tue.mpg.de/) [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)][[github link](https://github.com/pixelite1201/agora_evaluation)][[SMPL-X (CVPR2019)](https://smpl-x.is.tue.mpg.de/)][[SMPL (SIGGRAPH2015)](https://smpl.is.tue.mpg.de/)][[STAR (ECCV2020)](https://star.is.tue.mpg.de/)]
 * [InfiniteForm: Open Source Dataset for Human Pose Estimation (NIPSW2021)](https://pixelate.ai/InfiniteForm) [[paper link](https://arxiv.org/abs/2110.01330)][[github link](https://github.com/toinfinityai/infiniteform)]
-
+* [UrbanPose: A new benchmark for VRU pose estimation in urban traffic scenes (IEEE Intelligent Vehicles Symposium (IV) 2021)](http://urbanpose-dataset.com/info/Datasets/198) [[paper link](https://ieeexplore.ieee.org/abstract/document/9575469)]
 
 ## 2) Pioneers and Experts
 
