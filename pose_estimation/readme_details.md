@@ -150,6 +150,8 @@
 
 * **(arxiv2020)(video based)** Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos [[arxiv link](https://arxiv.org/abs/2004.12652)]
 
+* ⭐**PoseNAS(ACMMM2020)** Pose-native Network Architecture Search for Multi-person Human Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3413842)][[codes|official PyTorch](https://github.com/for-code0216/PoseNAS)][`Network Architecture Search (NAS) based two-stage MPPE`]
+
 * **CCM(IJCV2021)** Towards High Performance Human Keypoint Detection [[paper link](https://link.springer.com/article/10.1007/s11263-021-01482-8)][[codes|official (not released)](https://github.com/chaimi2013/CCM)]
 
 * **OmniPose(arxiv2021)** OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2103.10180)]
