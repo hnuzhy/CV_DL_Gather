@@ -150,6 +150,8 @@
 
 * **(arxiv2020)(video based)** Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos [[arxiv link](https://arxiv.org/abs/2004.12652)]
 
+* **CCM(IJCV2021)** Towards High Performance Human Keypoint Detection [[paper link](https://link.springer.com/article/10.1007/s11263-021-01482-8)][[codes|official (not released)](https://github.com/chaimi2013/CCM)]
+
 * **OmniPose(arxiv2021)** OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2103.10180)]
 
 * **LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)]
