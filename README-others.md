@@ -89,7 +89,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 * **DeepIM(ECCV2018)** DeepIM: Deep Iterative Matching for 6D Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.html)][[project link](https://rse-lab.cs.washington.edu/projects/deepim/)]
 
-* **❤ PVNet(CVPR2019)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
+* ❤**PVNet(CVPR2019)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
 
 * **DPOD(ICCV2019)** DPOD: 6D Pose Object Detector and Refiner [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.html)][[codes|PyTorch](https://github.com/zakharos/DPOD)]
 
@@ -103,9 +103,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 * **SGPA(ICCV2021)** SGPA: Structure-Guided Prior Adaptation for Category-Level 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_SGPA_Structure-Guided_Prior_Adaptation_for_Category-Level_6D_Object_Pose_Estimation_ICCV_2021_paper.html)][[codes|PyTorch](https://github.com/leo94-hk/SGPA)]
 
-* **❤ Objectron(CVPR2021)(Training Codes ╳)(Annotation Tool ╳)]** Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmadyan_Objectron_A_Large_Scale_Dataset_of_Object-Centric_Videos_in_the_CVPR_2021_paper.html)][[codes|PyTorch+TensorFlow](https://github.com/google-research-datasets/Objectron)][[official blog 1: MediaPipe](https://mediapipe.dev/)][[official blog 2: MediaPipe Objectron](https://google.github.io/mediapipe/solutions/objectron)]
-
-* **CenterPose(arxiv2021)(Training with CenterNet and Objectron)** Single-stage Keypoint-based Category-level Object Pose Estimation from an RGB Image [[paper link](https://arxiv.org/abs/2109.06161)][[codes|official PyTorch](https://github.com/NVlabs/CenterPose)]
+* ❤**Objectron(CVPR2021)(Training Codes ╳)(Annotation Tool ╳)]** Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmadyan_Objectron_A_Large_Scale_Dataset_of_Object-Centric_Videos_in_the_CVPR_2021_paper.html)][[codes|PyTorch+TensorFlow](https://github.com/google-research-datasets/Objectron)][[official blog 1: MediaPipe](https://mediapipe.dev/)][[official blog 2: MediaPipe Objectron](https://google.github.io/mediapipe/solutions/objectron)]
 
 * **SAR-Net(CVPR2022)** SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation [[paper link]()][[project link](https://hetolin.github.io/SAR-Net/)][[codes|official](https://github.com/hetolin/SAR-Net)]
 
@@ -113,8 +111,9 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 * **Gen6D(arxiv2022)** Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [[paper link](https://arxiv.org/abs/2204.10776)][[project link](https://liuyuan-pal.github.io/Gen6D/)][[codes|on the way]()]
 
-* **❤ CenterSnap(ICRA2022)** CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[paper link](https://arxiv.org/abs/2203.01929)][[project link](https://zubair-irshad.github.io/projects/CenterSnap.html)][[codes|official PyTorch](https://github.com/zubair-irshad/CenterSnap)]
+* ❤**CenterSnap(ICRA2022)** CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[paper link](https://arxiv.org/abs/2203.01929)][[project link](https://zubair-irshad.github.io/projects/CenterSnap.html)][[codes|official PyTorch](https://github.com/zubair-irshad/CenterSnap)]
 
+* ❤**CenterPose(ICRA2022)(Training with CenterNet and Objectron)** Single-stage Keypoint-based Category-level Object Pose Estimation from an RGB Image [[paper link](https://arxiv.org/abs/2109.06161)][[codes|official PyTorch](https://github.com/NVlabs/CenterPose)][`Nvidia + Objectron`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
