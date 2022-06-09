@@ -8,6 +8,7 @@
 
 ## 2) Annotation Tools
 
+* [CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool) [Source code for the LabelMe annotation tool.]
 * [tzutalin/LabelImg](https://github.com/tzutalin/labelImg) [🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images]
 * [wkentaro/Labelme](https://github.com/wkentaro/labelme) [Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)]
 * [openvinotoolkit/CVAT](https://github.com/openvinotoolkit/cvat) [A Powerful and efficient Computer Vision Annotation Tool]
