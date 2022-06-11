@@ -166,7 +166,9 @@
 
 * ⭐**LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)][`Model quantization and compression on Qualcomm Snapdragon`]
 
-* **CID(CVPR2022)** Contextual Instance Decoupling for Robust Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official](https://github.com/kennethwdk/CID)]
+* **CID(CVPR2022)** Contextual Instance Decoupling for Robust Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official](https://github.com/kennethwdk/CID)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)]
+
+
 
 ### ▶  Two-Stage [Bottom-Up] Multiple Person Pose Estimation
 
@@ -204,7 +206,7 @@
 
 * **DGCN(AAAI2020)** DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6867)][`Graph based two-stage MPPE`]
 
-* **PINet(NIPS2021)** Robust Pose Estimation in Crowded Scenes with Direct Pose-Level Inference [[paper link](https://proceedings.neurips.cc/paper/2021/hash/31857b449c407203749ae32dd0e7d64a-Abstract.html)][[codes|official PyTorch](https://github.com/kennethwdk/PINet)]
+* **PINet(NIPS2021)** Robust Pose Estimation in Crowded Scenes with Direct Pose-Level Inference [[paper link](https://proceedings.neurips.cc/paper/2021/hash/31857b449c407203749ae32dd0e7d64a-Abstract.html)][[codes|official PyTorch](https://github.com/kennethwdk/PINet)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)]
 
 * **CenterGroup(ICCV2021)** The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2110.05132)][[codes|official PyTorch based on mmpose and HigherHRNet](https://github.com/dvl-tum/center-group)]
 
