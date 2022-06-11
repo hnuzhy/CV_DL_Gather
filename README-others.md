@@ -73,6 +73,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 * [Pix3D (CVPR2018)](http://pix3d.csail.mit.edu/): Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling [***It contains pixel-level 2D-3D pose alignment***]
 * [Scan2CAD (CVPR2019)](scan2cad.org): Scan2CAD - Learning CAD Model Alignment in RGB-D Scans [***It annotates the original scans in ScanNet with ShapeNetCore models to label each object’s pose***]
 * [RIO (ICCV2019)](https://waldjohannau.github.io/RIO/): RIO - 3D Object Instance Re-Localization in Changing Indoor Environments [***Another dataset that contains indoor scans annotated with an object’s 3D pose***]
+* [NOCS (CVPR2019 Oral)](https://geometry.stanford.edu/projects/NOCS_CVPR2019/): Normalized Object Coordinate Space (NOCS) - a shared canonical representation for all possible object instances within a category [***It is a fully annotated real-world dataset with large environment and instance variation***]
 * [❤ Objectron (CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
 
 
@@ -90,6 +91,8 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 * **DeepIM(ECCV2018)** DeepIM: Deep Iterative Matching for 6D Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.html)][[project link](https://rse-lab.cs.washington.edu/projects/deepim/)]
 
 * ❤**PVNet(CVPR2019)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
+
+* **NOCS(CVPR2019 Oral)** Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.html)][[project link](https://geometry.stanford.edu/projects/NOCS_CVPR2019/)][[codes & datasets|official keras and tensorflow](https://github.com/hughw19/NOCS_CVPR2019)]
 
 * **DPOD(ICCV2019)** DPOD: 6D Pose Object Detector and Refiner [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.html)][[codes|PyTorch](https://github.com/zakharos/DPOD)]
 
