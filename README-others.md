@@ -73,7 +73,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 * [Pix3D (CVPR2018)](http://pix3d.csail.mit.edu/): Pix3D: Dataset and Methods for Single-Image 3D Shape Modeling [***It contains pixel-level 2D-3D pose alignment***]
 * [Scan2CAD (CVPR2019)](scan2cad.org): Scan2CAD - Learning CAD Model Alignment in RGB-D Scans [***It annotates the original scans in ScanNet with ShapeNetCore models to label each object’s pose***]
 * [RIO (ICCV2019)](https://waldjohannau.github.io/RIO/): RIO - 3D Object Instance Re-Localization in Changing Indoor Environments [***Another dataset that contains indoor scans annotated with an object’s 3D pose***]
-* [NOCS (CVPR2019 Oral)](https://geometry.stanford.edu/projects/NOCS_CVPR2019/): Normalized Object Coordinate Space (NOCS) - a shared canonical representation for all possible object instances within a category [***It is a fully annotated real-world dataset with large environment and instance variation***]
+* [NOCS (CVPR2019 Oral)](https://geometry.stanford.edu/projects/NOCS_CVPR2019/): Normalized Object Coordinate Space (NOCS) - a shared canonical representation for all possible object instances within a category [***It is a fully annotated real-world RGB-D dataset with large environment and instance variation***]
 * [❤ Objectron (CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
 
 
