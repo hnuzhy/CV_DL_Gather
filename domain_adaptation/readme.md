@@ -11,7 +11,7 @@
 
 ## Datasets
 
-* [NightCity(TIP2021) Night-time Scene Parsing with a Large Real Dataset](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html)
+* [NightCity(TIP2021)](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html): Night-time Scene Parsing with a Large Real Dataset
 
 
 ## Materials
