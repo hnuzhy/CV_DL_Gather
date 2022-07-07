@@ -202,6 +202,12 @@
 * [(zhihu) 如何通俗地解释欧拉角？之后为何要引入四元数？](https://www.zhihu.com/question/47736315)
 * [(blogs) 四元数与欧拉角（Yaw、Pitch、Roll）的转换](https://blog.csdn.net/xiaoma_bk/article/details/79082629)
 
+
+#### Datasets
+* [BIWI Kinect Head Pose Database](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html)
+* [300W-LP & AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
+
+
 #### Papers(Journal)
 
 * **Survey(TPAMI2009)** Head Pose Estimation in Computer Vision: A Survey [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4497208)][[CSDN blog](https://blog.csdn.net/weixin_41703033/article/details/83215043)]
