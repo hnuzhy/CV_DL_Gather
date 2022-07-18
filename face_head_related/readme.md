@@ -218,7 +218,7 @@
 
 * **HeadFusion(TPAMI2018)** HeadFusion: 360 Head Pose Tracking Combining 3D Morphable Model and 3D Reconstruction [[paper link](https://www.idiap.ch/~odobez/publications/YuFunesOdobez-PAMI2018.pdf)]
 
-* **QuatNet(Multimedia2019)** Quatnet: Quaternion-based head pose estimation with multiregression loss [[paper link](https://ieeexplore.ieee.org/abstract/document/8444061)]
+* **QuatNet(TMM2019)** Quatnet: Quaternion-based head pose estimation with multiregression loss [[paper link](https://ieeexplore.ieee.org/abstract/document/8444061)]
 
 * **(IVC2020)** Improving head pose estimation using two-stage ensembles with top-k regression [[paper link](https://www.sciencedirect.com/sdfe/reader/pii/S0262885619304202/pdf)]
 
