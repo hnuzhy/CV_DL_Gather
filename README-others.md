@@ -112,7 +112,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 * **OVE6D-pose(CVPR2022)** OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation [[paper link](https://arxiv.org/pdf/2203.01072.pdf)][[project link](https://dingdingcai.github.io/ove6d-pose/)][[codes|official](https://github.com/dingdingcai/OVE6D-pose)]
 
-* **Gen6D(arxiv2022)** Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [[paper link](https://arxiv.org/abs/2204.10776)][[project link](https://liuyuan-pal.github.io/Gen6D/)][[codes|on the way]()]
+* **Gen6D(ECCV2022)** Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [[paper link](https://arxiv.org/abs/2204.10776)][[project link](https://liuyuan-pal.github.io/Gen6D/)][[codes|on the way]()]
 
 * ❤**CenterSnap(ICRA2022)** CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[paper link](https://arxiv.org/abs/2203.01929)][[project link](https://zubair-irshad.github.io/projects/CenterSnap.html)][[codes|official PyTorch](https://github.com/zubair-irshad/CenterSnap)]
 
