@@ -116,7 +116,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 * ❤**CenterSnap(ICRA2022)** CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [[paper link](https://arxiv.org/abs/2203.01929)][[project link](https://zubair-irshad.github.io/projects/CenterSnap.html)][[codes|official PyTorch](https://github.com/zubair-irshad/CenterSnap)]
 
-* ❤**CenterPose(ICRA2022)(Training with CenterNet and Objectron)** Single-stage Keypoint-based Category-level Object Pose Estimation from an RGB Image [[paper link](https://arxiv.org/abs/2109.06161)][[codes|official PyTorch](https://github.com/NVlabs/CenterPose)][`Nvidia + Objectron + one-stage + end2end`]
+* ❤**CenterPose(ICRA2022)(Training with CenterNet and Objectron)** Single-stage Keypoint-based Category-level Object Pose Estimation from an RGB Image [[paper link](https://arxiv.org/abs/2109.06161)][[project link](https://sites.google.com/view/centerpose)][[codes|official PyTorch](https://github.com/NVlabs/CenterPose)][`Nvidia + Objectron + one-stage + end2end`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
