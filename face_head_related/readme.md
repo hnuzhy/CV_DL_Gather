@@ -100,6 +100,7 @@
 * [(github) libfacedetection in PyTorch](https://github.com/ShiqiYu/libfacedetection/)
 * [(github) 1MB lightweight face detection model (1MB轻量级人脸检测模型)](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 * [(blog) LFFD 再升级！新增行人和人头检测模型，及优化的C++实现](https://www.zhuanzhi.ai/document/d36c78507cc5d09dcac3fb7241344f3b)
+* [(github) YOLO-FaceV2: A Scale and Occlusion Aware Face Detector](https://github.com/Krasjet-Yu/YOLO-FaceV2)[[paper link](https://arxiv.org/abs/2208.02019)]
 
 #### Papers
 
