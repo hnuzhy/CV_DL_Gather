@@ -155,6 +155,7 @@
 
 * **PRNet(ECCV2018)** Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[arxiv link](https://arxiv.org/abs/1803.07835)][[Codes|TensorFlow(offical)](https://github.com/YadiraF/PRNet)]
 
+* **RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][`NoW dataset`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
