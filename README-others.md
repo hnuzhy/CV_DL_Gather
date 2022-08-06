@@ -90,6 +90,8 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 
 * **DeepIM(ECCV2018)** DeepIM: Deep Iterative Matching for 6D Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yi_Li_DeepIM_Deep_Iterative_ECCV_2018_paper.html)][[project link](https://rse-lab.cs.washington.edu/projects/deepim/)]
 
+* ❤**YOLO-6D(CVPR2018)** Real-Time Seamless Single Shot 6D Object Pose Prediction [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Tekin_Real-Time_Seamless_Single_CVPR_2018_paper.html)][[codes|official PyTorch](https://github.com/microsoft/singleshotpose)][[codes|unofficial TensorFlow](https://github.com/Mmmofan/YOLO_6D)]
+
 * ❤**PVNet(CVPR2019 Oral)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
 
 * **NOCS(CVPR2019 Oral)** Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.html)][[project link](https://geometry.stanford.edu/projects/NOCS_CVPR2019/)][[codes & datasets|official keras and tensorflow](https://github.com/hughw19/NOCS_CVPR2019)]
