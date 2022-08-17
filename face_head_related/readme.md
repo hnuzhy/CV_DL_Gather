@@ -149,6 +149,9 @@
 * [(CSDNblogs) 3D人脸重建--学习笔记](https://blog.csdn.net/u011681952/article/details/82623328)
 * [(CSDNblogs) PRNet人脸重建学习笔记](https://blog.csdn.net/johnyu024/article/details/100511408)
 * [(github) Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.](https://github.com/YadiraF/face3d)
+* [(zhihu) 1.利用3D mesh生成2D图像](https://zhuanlan.zhihu.com/p/463003032) [2.人脸3DMM](https://zhuanlan.zhihu.com/p/463145736) [3. 2D图像的3D重建(3DMM)](https://zhuanlan.zhihu.com/p/465224205)
+
+
 #### Papers
 
 * **VRN(ICCV2017)** Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arxiv link](https://arxiv.org/abs/1703.07834)][[project link](http://aaronsplace.co.uk/papers/jackson2017recon/)][[online website](https://cvl-demos.cs.nott.ac.uk/vrn/)][[Codes|Torch7(offical)](https://github.com/AaronJackson/vrn)]
@@ -157,6 +160,7 @@
 
 * **RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][`NoW dataset`]
 
+* **REALY(ECCV2022)** REALY: Rethinking the Evaluation of 3D Face Reconstruction [[paper link](https://arxiv.org/abs/2203.09729)][[project link](https://www.realy3dface.com/)][[codes|official](https://github.com/czh-98/REALY)][[blogs|zhihu](https://zhuanlan.zhihu.com/p/549704170)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
