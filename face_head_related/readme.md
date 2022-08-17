@@ -148,7 +148,7 @@
 
 * [(CSDNblogs) 3D人脸重建--学习笔记](https://blog.csdn.net/u011681952/article/details/82623328)
 * [(CSDNblogs) PRNet人脸重建学习笔记](https://blog.csdn.net/johnyu024/article/details/100511408)
-
+* [(github) Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.](https://github.com/YadiraF/face3d)
 #### Papers
 
 * **VRN(ICCV2017)** Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arxiv link](https://arxiv.org/abs/1703.07834)][[project link](http://aaronsplace.co.uk/papers/jackson2017recon/)][[online website](https://cvl-demos.cs.nott.ac.uk/vrn/)][[Codes|Torch7(offical)](https://github.com/AaronJackson/vrn)]
