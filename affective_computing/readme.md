@@ -1,6 +1,6 @@
 # Facial Expression Recognition (FER)
 
-================================================================================================
+====================================================================================
 
 ## Materials
 
@@ -11,7 +11,7 @@
 * [(github) Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network](https://github.com/omarsayed7/Deep-Emotion)
 * [(github) FERAtt: Facial Expression Recognition with Attention Net](https://github.com/pedrodiamel/ferattention)
 
-================================================================================================
+====================================================================================
 
 ## Other Related Tasks
 
@@ -24,7 +24,7 @@
 
 ### Face Detection
 
-================================================================================================
+====================================================================================
 
 ## Datasets and Papers
 
