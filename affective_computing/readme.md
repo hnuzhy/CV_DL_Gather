@@ -26,3 +26,6 @@
 
 * [FERV39k(CVPR2022)] FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos [[paper link](https://arxiv.org/abs/2203.09463)][`datasets of videos`]
 
+* [MDAN(CVPR2022)] MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis [[paper link](https://arxiv.org/pdf/2203.13443.pdf)]
+
+* [ADA-CM(CVPR2022)] Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin [[paper link](https://arxiv.org/abs/2203.12341)][[codes|official](https://github.com/hangyu94/ada-cm)]
