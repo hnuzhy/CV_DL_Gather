@@ -75,7 +75,7 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 * [RIO (ICCV2019)](https://waldjohannau.github.io/RIO/): RIO - 3D Object Instance Re-Localization in Changing Indoor Environments [***Another dataset that contains indoor scans annotated with an object’s 3D pose***]
 * [NOCS (CVPR2019 Oral)](https://geometry.stanford.edu/projects/NOCS_CVPR2019/): Normalized Object Coordinate Space (NOCS) - a shared canonical representation for all possible object instances within a category [***It is a fully annotated real-world RGB-D dataset with large environment and instance variation***]
 * [❤ Objectron (CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
-
+* [❤ PhoCaL (CVPR2022)](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_PhoCaL_A_Multi-Modal_Dataset_for_Category-Level_Object_Pose_Estimation_With_CVPR_2022_paper.html): PhoCaL: A Multi-Modal Dataset for Category-Level Object Pose Estimation With Photometrically Challenging Objects [***A novel robot-supported multi-modal (RGB, depth, polarisation) benchmark with challenging scenes supporting RGB-D and monocular RGB methods***]
 
 
 ### Papers
@@ -175,6 +175,11 @@ DiffPoseNet: Direct Differentiable Camera Pose Estimation
 * **ETH-XGaze(ECCV2020)** ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation [[arxiv link](https://arxiv.org/abs/2007.15837)][[project link](https://ait.ethz.ch/projects/2020/ETH-XGaze/)][[Codes|PyTorch(official)](https://github.com/xucong-zhang/ETH-XGaze)]
 
 * **EVE(ECCV2020)** Towards End-to-end Video-based Eye-tracking [[arxiv link](https://arxiv.org/abs/2007.13120)][[project link](https://ait.ethz.ch/projects/2020/EVE/)][[Codes|PyTorch(official)](https://github.com/swook/EVE)]
+
+* **RUDA(CVPR2022)** Generalizing Gaze Estimation With Rotation Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.html)]
+
+* **MPSGaze(CVPR2022)** GazeOnce: Real-Time Multi-Person Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_GazeOnce_Real-Time_Multi-Person_Gaze_Estimation_CVPR_2022_paper.html)]
+
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
