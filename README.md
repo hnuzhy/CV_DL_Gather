@@ -1,5 +1,6 @@
+# Subjects
 
-# Action Recognition
+## Action Recognition
 <details>
 <summary>Click Here to Show All</summary>
 
@@ -9,7 +10,7 @@
 
 </details>
 
-# Affective Computing
+## Affective Computing
 * **[Definition]** Affective computing is to establish a harmonious human-computer environment by giving the computer the ability to recognize, understand, express and adapt to human affections, and make the computer have higher and comprehensive intelligence.
 * **[Supplement]** In computer vision field, the current affective computing mainly refers to **Facial Expression Recognition**, which includes three directions: universal expression recognition, **Facial Action Coding System (FACS)**, and continuous expression model **Valence-Arousal**. In addition, the input of accurate affective computing should be multimodal, including facial expression, voice and intonation, text information, body behavior and even electroencephalogram (EEG) signal. The definition of affection is always ambiguous for its multi-interdisciplinary character. So affective computing is rather difficult and has a long way to go.
 * *Refer to branch [affective_computing](./affective_computing) for detailed introduction.*
