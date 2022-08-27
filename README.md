@@ -94,10 +94,12 @@
 </details>
 
 ## Other Collection Depository
-* **[(github)daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)**
-* **[(github)ECCV2018-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2018.org/)][[ECCV Conference Papers 2018](https://www.ecva.net/papers.php)][[ECCV 2018 papers](https://openaccess.thecvf.com/ECCV2018)]**
-* **[(github)ECCV2020-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2020.eu/)][[ECCV Conference Papers 2020](https://www.ecva.net/papers.php)]**
-* **[(github)CVPR2021-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo/blob/main/CVPR2021.md) [[Official Website](https://cvpr2021.thecvf.com/)][[(zhihu)CVPR2021的最新论文汇总](https://zhuanlan.zhihu.com/p/354043252?ivk_sa=1024320u)][[Paper Search](https://public.tableau.com/app/profile/joshpreston/viz/CVPR2021/Dashboard1)]**
-* **[(github)ICCV2021-Papers-with-Code-Demo](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo) [[Official Website](http://iccv2021.thecvf.com/home)][[(zhihu)ICCV2021的最新论文汇总](https://zhuanlan.zhihu.com/p/392575669)]**
-* **[(github)CVPR2022-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo) [[Official Website](https://cvpr2022.thecvf.com/)][[(zhihu)CVPR2022的最新论文汇总](https://zhuanlan.zhihu.com/p/478286484)][[Paper-Interaction-Tool](https://public.tableau.com/views/CVPR2022/Dashboard1)]**
-* **[(github)ECCV2022-Papers-with-Code-Demo](https://github.com/DWCTOD/ECCV2022-Papers-with-Code-Demo) [[Official Website](https://eccv2022.ecva.net/)]**
+* **[(github) daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)**
+* **[(github) ECCV2018-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2018.org/)][[ECCV Conference Papers 2018](https://www.ecva.net/papers.php)][[ECCV 2018 papers](https://openaccess.thecvf.com/ECCV2018)]**
+* **[(github) ECCV2020-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2020.eu/)][[ECCV Conference Papers 2020](https://www.ecva.net/papers.php)]**
+* **[(github) CVPR2021-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo/blob/main/CVPR2021.md) [[Official Website](https://cvpr2021.thecvf.com/)][[(zhihu)CVPR2021的最新论文汇总](https://zhuanlan.zhihu.com/p/354043252?ivk_sa=1024320u)][[Paper Search](https://public.tableau.com/app/profile/joshpreston/viz/CVPR2021/Dashboard1)]**
+* **[(github) ICCV2021-Papers-with-Code-Demo](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo) [[Official Website](http://iccv2021.thecvf.com/home)][[(zhihu)ICCV2021的最新论文汇总](https://zhuanlan.zhihu.com/p/392575669)]**
+* **[(github) CVPR2022-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo) [[Official Website](https://cvpr2022.thecvf.com/)][[(zhihu)CVPR2022的最新论文汇总](https://zhuanlan.zhihu.com/p/478286484)][[Paper-Interaction-Tool](https://public.tableau.com/views/CVPR2022/Dashboard1)]**
+* **[(github) ECCV2022-Papers-with-Code-Demo](https://github.com/DWCTOD/ECCV2022-Papers-with-Code-Demo) [[Official Website](https://eccv2022.ecva.net/)]**
+
+
