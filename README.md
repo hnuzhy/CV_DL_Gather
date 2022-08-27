@@ -1,6 +1,6 @@
 # Subjects / Topics / Fields
 
-## Action Recognition
+## ▶ Action Recognition
 <details>
 <summary>Click Here to Show All</summary>
   
@@ -10,7 +10,7 @@
 
 </details>
 
-## Affective Computing
+## ▶ Affective Computing
 <details>
 <summary>Click Here to Show All</summary>
   
@@ -20,7 +20,7 @@
 
 </details>
 
-## Face Head Related
+## ▶ Face Head Related
 <details>
 <summary>Click Here to Show All</summary>
 
@@ -30,7 +30,7 @@
 
 </details>
 
-## Model Compression
+## ▶ Model Compression
 <details>
 <summary>Click Here to Show All</summary>
   
@@ -40,7 +40,7 @@
 
 </details>
 
-## Object Detection
+## ▶ Object Detection
 <details>
 <summary>Click Here to Show All</summary>
   
@@ -50,7 +50,7 @@
 
 </details>
 
-## Pose Estimation
+## ▶ Pose Estimation
 <details>
 <summary>Click Here to Show All</summary>
   
@@ -60,7 +60,7 @@
 
 </details>
 
-## Reinforcement Learning
+## ▶ Reinforcement Learning
 <details>
 <summary>Click Here to Show All</summary>
   
@@ -73,7 +73,7 @@
 
 </details>
 
-## Super Resolution
+## ▶ Super Resolution
 <details>
 <summary>Click Here to Show All</summary>
   
@@ -83,7 +83,7 @@
 
 </details>
 
-## Visual Tracking
+## ▶ Visual Tracking
 <details>
 <summary>Click Here to Show All</summary>
   
