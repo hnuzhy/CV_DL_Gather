@@ -7,6 +7,7 @@
 * **[2) Pioneers and Experts](#2-Pioneers-and-Experts)**
 * **[3) Related Materials (Papers, Sources Code, Blogs, Videos and Applications)](#3-Related-Materials-Papers-Sources-Code-Blogs-Videos-and-Applications)**
   * **[▶ Beautify Face](#-Beautify-Face)**
+  * **[▶ Eye Gaze Estimation](#eye-gaze-estimation)**
   * **[▶ Face Alignment](#-Face-Alignment)**
   * **[▶ Face Detection](#-Face-Detection)**
   * **[▶ Face Recognition](#-Face-Recognition)**
@@ -55,6 +56,25 @@
 
 #### Papers
 
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+### ▶ Eye Gaze Estimation and Tracking
+
+#### Materials
+
+
+#### Papers
+
+* **ETH-XGaze(ECCV2020)** ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation [[arxiv link](https://arxiv.org/abs/2007.15837)][[project link](https://ait.ethz.ch/projects/2020/ETH-XGaze/)][[Codes|PyTorch(official)](https://github.com/xucong-zhang/ETH-XGaze)]
+
+* **EVE(ECCV2020)** Towards End-to-end Video-based Eye-tracking [[arxiv link](https://arxiv.org/abs/2007.13120)][[project link](https://ait.ethz.ch/projects/2020/EVE/)][[Codes|PyTorch(official)](https://github.com/swook/EVE)]
+
+* **RUDA(CVPR2022)** Generalizing Gaze Estimation With Rotation Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.html)]
+
+* **❤ MPSGaze(CVPR2022)** GazeOnce: Real-Time Multi-Person Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_GazeOnce_Real-Time_Multi-Person_Gaze_Estimation_CVPR_2022_paper.html)]
+
+* **❤ GAFA(CVPR2022)** Dynamic 3D Gaze From Afar: Deep Gaze Estimation From Temporal Eye-Head-Body Coordination [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Nonaka_Dynamic_3D_Gaze_From_Afar_Deep_Gaze_Estimation_From_Temporal_CVPR_2022_paper.html)][[project link](https://vision.ist.i.kyoto-u.ac.jp/research/gafa/)][[codes|official](https://github.com/kyotovision-public/dynamic-3d-gaze-from-afar)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
