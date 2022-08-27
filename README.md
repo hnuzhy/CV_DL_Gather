@@ -94,6 +94,7 @@
 </details>
 
 ## Other Collection Depository
+* **[(website) Computer Vision Foundation open access](https://openaccess.thecvf.com/menu)**
 * **[(github) daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)**
 * **[(github) ECCV2018-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2018.org/)][[ECCV Conference Papers 2018](https://www.ecva.net/papers.php)][[ECCV 2018 papers](https://openaccess.thecvf.com/ECCV2018)]**
 * **[(github) ECCV2020-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2020.eu/)][[ECCV Conference Papers 2020](https://www.ecva.net/papers.php)]**
