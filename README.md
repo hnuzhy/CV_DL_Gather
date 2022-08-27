@@ -59,7 +59,7 @@
 * *Refer to branch [reinforcement_learning](./reinforcement_learning) for detailed introduction.*
 </details>
 
-# Super Resolution
+## Super Resolution
 <details>
 <summary>Click Here to Show All</summary>
 * **[Definition]** Image super resolution refers to the restoration of high-resolution image from a low-resolution image or image sequence.
@@ -67,7 +67,7 @@
 * *Refer to branch [super_resolution](./super_resolution) for detailed introduction.*
 </details>
 
-# Visual Tracking
+## Visual Tracking
 <details>
 <summary>Click Here to Show All</summary>
 * **[Definition]** Visual tracking refers to the detection, extraction, recognition and tracking of moving objects in image sequences.
@@ -75,7 +75,7 @@
 * *Refer to branch [visual_tracking](./visual_tracking) for detailed introduction.*
 </details>
 
-# Other Collection Depository
+## Other Collection Depository
 * **[(github)daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)**
 * **[(github)ECCV2020-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code)**
 * **[(github)CVPR2021-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo/blob/main/CVPR2021.md) [[(zhihu)CVPR2021的最新论文汇总](https://zhuanlan.zhihu.com/p/354043252?ivk_sa=1024320u)]**
