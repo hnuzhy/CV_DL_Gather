@@ -1,6 +1,6 @@
 # Subjects / Topics / Fields
 
-## ▶ Action Recognition
+## ▶ [Action Recognition](./action_recognition)
 <details>
 <summary>Click Here to Show All</summary>
   
