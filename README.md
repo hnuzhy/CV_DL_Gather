@@ -96,8 +96,8 @@
 ## Other Collection Depository
 * **[(website) Computer Vision Foundation open access](https://openaccess.thecvf.com/menu)**
 * **[(github) daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)**
-* **[(github) ECCV2018-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2018.org/)][[ECCV Conference Papers](https://www.ecva.net/papers.php)][[open access](https://openaccess.thecvf.com/ECCV2018)]**
-* **[(github) ECCV2020-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2020.eu/)][[ECCV Conference Papers](https://www.ecva.net/papers.php)][[ECCV 2020 SpringerLink](https://link.springer.com/conference/eccv)]**
+* **[(github) ECCV2018-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2018.org/)][[ECCV Conference Papers](https://www.ecva.net/papers.php)][[SpringerLink](https://link.springer.com/conference/eccv)][[open access](https://openaccess.thecvf.com/ECCV2018)]**
+* **[(github) ECCV2020-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) [[Official Website](https://eccv2020.eu/)][[ECCV Conference Papers](https://www.ecva.net/papers.php)][[SpringerLink](https://link.springer.com/conference/eccv)]**
 * **[(github) CVPR2021-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo/blob/main/CVPR2021.md) [[Official Website](https://cvpr2021.thecvf.com/)][[open access](https://openaccess.thecvf.com/CVPR2021)][[Paper Search](https://public.tableau.com/app/profile/joshpreston/viz/CVPR2021/Dashboard1)]**
 * **[(github) ICCV2021-Papers-with-Code-Demo](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo) [[Official Website](http://iccv2021.thecvf.com/home)][[open access](https://openaccess.thecvf.com/ICCV2021)]**
 * **[(github) CVPR2022-Papers-with-Code-Demo](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo) [[Official Website](https://cvpr2022.thecvf.com/)][[open access](https://openaccess.thecvf.com/CVPR2022)][[Paper-Interaction-Tool](https://public.tableau.com/views/CVPR2022/Dashboard1)]**
