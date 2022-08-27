@@ -7,7 +7,7 @@
 * **[2) Pioneers and Experts](#2-Pioneers-and-Experts)**
 * **[3) Related Materials (Papers, Sources Code, Blogs, Videos and Applications)](#3-Related-Materials-Papers-Sources-Code-Blogs-Videos-and-Applications)**
   * **[▶ Beautify Face](#-Beautify-Face)**
-  * **[▶ Eye Gaze Estimation](#eye-gaze-estimation)**
+  * **[▶ Eye Gaze Estimation](#-Eye-Gaze-Estimation)**
   * **[▶ Face Alignment](#-Face-Alignment)**
   * **[▶ Face Detection](#-Face-Detection)**
   * **[▶ Face Recognition](#-Face-Recognition)**
