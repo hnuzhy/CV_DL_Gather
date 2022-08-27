@@ -29,3 +29,6 @@
 * [MDAN(CVPR2022)] MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis [[paper link](https://arxiv.org/pdf/2203.13443.pdf)]
 
 * [ADA-CM(CVPR2022)] Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin [[paper link](https://arxiv.org/abs/2203.12341)][[codes|official](https://github.com/hangyu94/ada-cm)]
+
+* [Sparse2Dense(CVPR2022)] Sparse to Dense Dynamic 3D Facial Expression Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Otberdout_Sparse_to_Dense_Dynamic_3D_Facial_Expression_Generation_CVPR_2022_paper.html)][[codes|official](https://github.com/CRISTAL-3DSAM/Sparse2Dense)]
+
