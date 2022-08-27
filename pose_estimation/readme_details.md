@@ -302,3 +302,5 @@
 * **AdaptOR(arxiv2021)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR [[paper link](https://arxiv.org/abs/2108.11801)]
 
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)]
+
+* **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)]
