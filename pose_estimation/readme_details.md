@@ -281,7 +281,7 @@
 
 * **PoseTrack21(CVPR2022)** PoseTrack21: A Dataset for Person Search, Multi-Object Tracking and Multi-Person Pose Tracking [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.html)][[codes|official](https://github.com/andoer/PoseTrack21)][`jointly person search, multi-object tracking and multi-person pose tracking`]
 
-
+* **PoseTrans(ECCV2022)** PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper link](https://arxiv.org/abs/2208.07755)]
 
 ### ▶  Domain Adaptive Multiple Person Pose Estimation
 
