@@ -214,6 +214,7 @@
 
 * **DERK(CVPR2021)** Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression [[arxiv link](https://arxiv.org/abs/2104.02300)][[Codes|official pytorch](https://github.com/HRNet/DEKR)]
 
+* **DAC(arxiv2022)** Bottom-Up 2D Pose Estimation via Dual Anatomical Centers for Small-Scale Persons [[arxiv link](https://arxiv.org/abs/2208.11975)][`Dual Anatomical Centers (Head + Body)`]
 
 ### ▶  Single-Stage Multiple Person Pose Estimation
 
