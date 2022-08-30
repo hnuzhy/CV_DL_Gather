@@ -7,6 +7,7 @@
 * **[2) Pioneers and Experts](#2-Pioneers-and-Experts)**
 * **[3) Related Materials (Papers, Sources Code, Blogs, Videos and Applications)](#3-Related-Materials-Papers-Sources-Code-Blogs-Videos-and-Applications)**
   * **[▶ Beautify Face](#-Beautify-Face)**
+  * **[▶ Body Orientation Estimation](#-Body-Orientation-Estimation)**
   * **[▶ Eye Gaze Estimation](#-Eye-Gaze-Estimation)**
   * **[▶ Face Alignment](#-Face-Alignment)**
   * **[▶ Face Detection](#-Face-Detection)**
@@ -59,6 +60,19 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
+### ▶ Body Orientation Estimation
+
+#### Materials
+
+
+#### Papers
+
+* **❤ MEBOW(CVPR2020)** MEBOW: Monocular Estimation of Body Orientation in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_MEBOW_Monocular_Estimation_of_Body_Orientation_in_the_Wild_CVPR_2020_paper.html)][[project link](https://chenyanwu.github.io/MEBOW/)][[codes|official](https://github.com/ChenyanWu/MEBOW)][`COCO-MEBOW dataset, Body Orientation Estimation`]
+
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
 ### ▶ Eye Gaze Estimation
 
 #### Materials
@@ -69,8 +83,6 @@
 * **ETH-XGaze(ECCV2020)** ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation [[arxiv link](https://arxiv.org/abs/2007.15837)][[project link](https://ait.ethz.ch/projects/2020/ETH-XGaze/)][[Codes|PyTorch(official)](https://github.com/xucong-zhang/ETH-XGaze)]
 
 * **EVE(ECCV2020)** Towards End-to-end Video-based Eye-tracking [[arxiv link](https://arxiv.org/abs/2007.13120)][[project link](https://ait.ethz.ch/projects/2020/EVE/)][[Codes|PyTorch(official)](https://github.com/swook/EVE)]
-
-* **❤ MEBOW(CVPR2020)** MEBOW: Monocular Estimation of Body Orientation in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_MEBOW_Monocular_Estimation_of_Body_Orientation_in_the_Wild_CVPR_2020_paper.html)][[project link](https://chenyanwu.github.io/MEBOW/)][[codes|official](https://github.com/ChenyanWu/MEBOW)][`COCO-MEBOW, Body Orientation Estimation`]
 
 * **RUDA(CVPR2022)** Generalizing Gaze Estimation With Rotation Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.html)]
 
@@ -210,7 +222,7 @@
 
 * **JointDet(AAAI2020)** Relational Learning for Joint Head and Human Detection [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6691)][[codes|not released](https://github.com/ChiCheng123/JointDet)]
 
-* **BFJDet(ICCV2021)** Body-Face Joint Detection via Embedding and Head Hook [[paper link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)][[codes|official](https://github.com/AibeeDetect/BFJDet)][`joint detection of person head and body`]
+* **BFJDet(ICCV2021)** Body-Face Joint Detection via Embedding and Head Hook [[paper link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)][[codes|official](https://github.com/AibeeDetect/BFJDet)][`joint detection of person body, head and face`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
