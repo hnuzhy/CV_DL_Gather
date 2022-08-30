@@ -306,4 +306,4 @@
 
 * **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)]
 
-* **SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`A large-scale and densely annotated synthetic dataset for human pose estimation in classroom.`]
+* **SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
