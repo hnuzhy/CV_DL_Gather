@@ -30,9 +30,13 @@
 
 * **PSVH-3d-reconstruction(AAAI2019)** Deep Single-View 3D Object Reconstruction with Visual Hull Embedding [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/4922)][[codes|official TensorFlow](https://github.com/HanqingWangAI/PSVH-3d-reconstruction)]
 
+* **❤ ROMP(ICCV2021)** Monocular, One-stage, Regression of Multiple 3D People [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Monocular_One-Stage_Regression_of_Multiple_3D_People_ICCV_2021_paper.html)][[codes|official](https://github.com/Arthur151/ROMP)]
+
 * **(arxiv2022)** A Real World Dataset for Multi-view 3D Reconstruction [[paper link](https://arxiv.org/abs/2203.11397)]
 
 * **SDF(CVPR2022)** Neural 3D Scene Reconstruction with the Manhattan-world Assumption [[paper link](https://arxiv.org/abs/2205.02836)][[project link](https://zju3dv.github.io/manhattan_sdf/)][[codes|official PyTorch](https://github.com/zju3dv/manhattan_sdf)]
+
+* **❤ BEV(CVPR2022)** Putting People in their Place: Monocular Regression of 3D People in Depth [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Putting_People_in_Their_Place_Monocular_Regression_of_3D_People_CVPR_2022_paper.html)][[project link](https://arthur151.github.io/BEV/BEV.html)][[codes|official](https://github.com/Arthur151/ROMP)][[Relative Human dataset](https://github.com/Arthur151/Relative_Human)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
