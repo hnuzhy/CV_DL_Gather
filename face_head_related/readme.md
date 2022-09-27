@@ -254,7 +254,7 @@
 #### Datasets
 * [BIWI Kinect Head Pose Database](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html)
 * [300W-LP & AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
-
+* [LPHD: A Large-Scale Head Pose Dataset for RGB Images](https://ieeexplore.ieee.org/abstract/document/8784950)
 
 #### Papers(Journal)
 
