@@ -272,6 +272,8 @@
 
 * ⭐**MNN(TPAMI2020)** Multi-Task Head Pose Estimation in-the-Wild [[paper link](https://bobetocalo.github.io/pdf/paper_pami20.pdf)][[codes|Tensorflow / C++](https://github.com/bobetocalo/bobetocalo_pami20)]
 
+* **MLD(TPAMI2020)** Head Pose Estimation Based on Multivariate Label Distribution [[paper link](https://ieeexplore.ieee.org/abstract/document/9217984)]
+
 * **MFDNet(TMM2021)** MFDNet: Collaborative Poses Perception and Matrix Fisher Distribution for Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9435939/)][`matrix representation`]
 
 #### Papers(Conference)
