@@ -265,7 +265,7 @@
 
 * **HyperFace(TPAMI2017)** HyperFace: A Deep Multi-Task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition [[paper link](https://ieeexplore.ieee.org/abstract/document/8170321)]
 
-* **(Neurocomputing2018)** Appearance based pedestrians head pose and body orientation estimation using deep learning [[paper link](https://www.sciencedirect.com/science/article/pii/S0925231217312869)]
+* **(Neurocomputing2018)** Appearance based pedestrians head pose and body orientation estimation using deep learning [[paper link](https://www.sciencedirect.com/science/article/pii/S0925231217312869)][`eight orientation bins`]
 
 * **HeadFusion(TPAMI2018)** HeadFusion: 360 Head Pose Tracking Combining 3D Morphable Model and 3D Reconstruction [[paper link](https://www.idiap.ch/~odobez/publications/YuFunesOdobez-PAMI2018.pdf)]
 
