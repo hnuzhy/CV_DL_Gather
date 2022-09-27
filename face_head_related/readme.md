@@ -255,8 +255,8 @@
 #### Datasets
 * [BIWI Kinect Head Pose Database: (IJCV2013) Random forests for real time 3d face analysis](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html)[`pitch-yaw-roll`]
 * [300W-LP & AFLW2000: (CVPR2016) Face Alignment Across Large Poses: A 3D Solution](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)[`pitch-yaw-roll`]
-* [(ICME2019) LPHD: A Large-Scale Head Pose Dataset for RGB Images](https://ieeexplore.ieee.org/abstract/document/8784950)[`pitch-yaw-roll`][`un-released`]
-* [(CVIU2017) The S-Hock dataset: A new benchmark for spectator crowd analysis](https://www.sciencedirect.com/science/article/pii/S1077314217300024)[[paper link](https://iris.unitn.it/retrieve/handle/11572/187463/470794/Shock_r2.pdf)][`far left, left, frontal, right, far right, away, down`]
+* [LPHD: (ICME2019) LPHD: A Large-Scale Head Pose Dataset for RGB Images](https://ieeexplore.ieee.org/abstract/document/8784950)[`pitch-yaw-roll`][`un-released`]
+* [S-HOCK: (CVIU2017) The S-Hock dataset: A new benchmark for spectator crowd analysis](https://www.sciencedirect.com/science/article/pii/S1077314217300024)[[paper link](https://iris.unitn.it/retrieve/handle/11572/187463/470794/Shock_r2.pdf)][`far left, left, frontal, right, far right, away, down`]
 
 
 #### Papers(Journal)
