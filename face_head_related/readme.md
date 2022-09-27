@@ -291,7 +291,7 @@
 
 * **KEPLER(FG2017)** KEPLER: Keypoint and Pose Estimation of Unconstrained Faces by Learning Efficient H-CNN Regressors [[paper link](https://ieeexplore.ieee.org/abstract/document/7961750)]
 
-* **FasterRCNN+regression(ACCV2018)** Simultaneous Face Detection and Head Pose Estimation: A Fast and Unified Framework [[paper link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20887-5_12.pdf)][dataset|[AFW](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.3510&rep=rep1&type=pdf) and [ALFW](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2988&rep=rep1&type=pdf) dataset: coarse face pose by using Subcategory to generate 12 clusters]
+* **FasterRCNN+regression(ACCV2018)** Simultaneous Face Detection and Head Pose Estimation: A Fast and Unified Framework [[paper link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20887-5_12.pdf)][dataset|[AFW](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.661.3510&rep=rep1&type=pdf) and [ALFW](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2988&rep=rep1&type=pdf) dataset: from coarse face pose by using Subcategory to generate 12 clusters to fine Euler angles prediction][`following the HyperFace`]
 
 * **WNet(ACCVW2018)** WNet: Joint Multiple Head Detection and Head Pose Estimation from a Spectator Crowd Image [[paper link](https://stevenputtemans.github.io/AMV2018/presentations/wnet_presentation.pdf)][[dataset|spectator crowd S-HOCK dataset: rough orientation labels](https://iris.unitn.it/retrieve/handle/11572/187463/470794/Shock_r2.pdf)]
 
