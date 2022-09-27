@@ -249,6 +249,7 @@
 * [(zhihu) 如何通俗地解释欧拉角？之后为何要引入四元数？](https://www.zhihu.com/question/47736315)
 * [(blogs) 四元数与欧拉角（Yaw、Pitch、Roll）的转换](https://blog.csdn.net/xiaoma_bk/article/details/79082629)
 * [(blogs) 四元数（Quaternion）和旋转 + 欧拉角](https://www.cnblogs.com/jins-note/p/9512719.html)
+* [(blogs) Understanding Quaternions 中文翻译《理解四元数》](https://www.qiujiawei.com/understanding-quaternions/)
 
 
 #### Datasets
