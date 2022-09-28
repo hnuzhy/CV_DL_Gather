@@ -330,7 +330,7 @@
 
 * ⭐**SynergyNet(3DV2021)** Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry [[paper link](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800a453/1zWEnuGbFte)][[project link](https://choyingw.github.io/works/SynergyNet)][[codes|PyTorch](https://github.com/choyingw/SynergyNet)]
 
-* **MOS(BMVC2021)** MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation [[paper link](https://www.bmvc2021-virtualconference.com/assets/papers/0580.pdf)][[codes|PyTorch](https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect)]
+* ⭐**MOS(BMVC2021)** MOS: A Low Latency and Lightweight Framework for Face Detection, Landmark Localization, and Head Pose Estimation [[paper link](https://www.bmvc2021-virtualconference.com/assets/papers/0580.pdf)][[codes|PyTorch](https://github.com/lyp-deeplearning/MOS-Multi-Task-Face-Detect)][`re-annotate the WIDER FACE with head pose label`]
 
 * **LwPosr(WACV2022)** LwPosr: Lightweight Efficient Fine Grained Head Pose Estimation [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Dhingra_LwPosr_Lightweight_Efficient_Fine_Grained_Head_Pose_Estimation_WACV_2022_paper.html)]
 
