@@ -257,7 +257,7 @@
 * [300W-LP & AFLW2000: (CVPR2016) Face Alignment Across Large Poses: A 3D Solution](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)[`pitch-yaw-roll`]
 * [LPHD: (ICME2019) LPHD: A Large-Scale Head Pose Dataset for RGB Images](https://ieeexplore.ieee.org/abstract/document/8784950)[`pitch-yaw-roll`][`un-released`]
 * [S-HOCK: (CVIU2017) The S-Hock dataset: A new benchmark for spectator crowd analysis](https://www.sciencedirect.com/science/article/pii/S1077314217300024)[[paper link](https://iris.unitn.it/retrieve/handle/11572/187463/470794/Shock_r2.pdf)][`far left, left, frontal, right, far right, away, down`]
-
+* [SynHead: (CVPR2017) Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](https://research.nvidia.com/publication/2017-07_dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)[[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Gu_Dynamic_Facial_Analysis_CVPR_2017_paper.html)][`NVIDIA Synthetic Head Dataset (SynHead)`]
 
 #### Papers(Journal)
 
@@ -303,7 +303,7 @@
 
 * ⭐**FSA-Net(CVPR2019)** FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image [[paper link](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)][[Codes|Keras&Tensorflow(official)](https://github.com/shamangary/FSA-Net)][[Codes|PyTorch(unofficial)](https://github.com/omasaht/headpose-fsanet-pytorch)]
 
-* **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][`NVIDIA Synthetic Head Dataset (SynHead)`]
+* **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[project link](http://www.tnt.uni-hannover.de/papers/view_paper.php?id=1419)][`SynHead and BIWI --> SynHead++, SynBiwi+, Biwi+`]
 
 * ⭐**WHENet(BMVC2020)** WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose [[arxiv link](https://arxiv.org/abs/2005.10353)][[Codes|Kears&tensorflow(official)](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet)][[codes|PyTorch(unofficial)](https://github.com/PINTO0309/HeadPoseEstimation-WHENet-yolov4-onnx-openvino)]
 
