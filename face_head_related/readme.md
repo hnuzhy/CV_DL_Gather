@@ -158,7 +158,7 @@
 
 * **LFFD(arxiv2019)** LFFD: A Light and Fast Face Detector for Edge Devices [[arxiv link](https://arxiv.org/abs/1904.10633)][[Codes|PyTorch, offical V1](https://github.com/YonghaoHe/LFFD-A-Light-and-Fast-Face-Detector-for-Edge-Devices)][[Codes|PyTorch, offical V2](https://github.com/YonghaoHe/LFD-A-Light-and-Fast-Detector)]
 
-* **RetinaFace(CVPR2020)** RetinaFace: Single-shot Multi-level Face Localisation in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html)][[codes|PyTorch(not official)](https://github.com/biubug6/Pytorch_Retinaface)][[codes|MXNet(official)](https://github.com/deepinsight/insightface/tree/master/detection/retinaface)][[Project - insightface](https://github.com/deepinsight/insightface)][`RetinaFace: Single-stage Dense Face Localisation in the Wild` is the same work released in Arxiv2019]
+* **RetinaFace(CVPR2020)** RetinaFace: Single-shot Multi-level Face Localisation in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html)][[Github - insightface](https://github.com/deepinsight/insightface)][[Project - insightface](https://insightface.ai/retinaface)][[codes|PyTorch(not official)](https://github.com/biubug6/Pytorch_Retinaface)][[codes|MXNet(official)](https://github.com/deepinsight/insightface/tree/master/detection/retinaface)][`RetinaFace: Single-stage Dense Face Localisation in the Wild` is the same work released in Arxiv2019]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
