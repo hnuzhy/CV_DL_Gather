@@ -50,6 +50,7 @@
 * [InfiniteForm: Open Source Dataset for Human Pose Estimation (NIPSW2021)](https://pixelate.ai/InfiniteForm) [[paper link](https://arxiv.org/abs/2110.01330)][[github link](https://github.com/toinfinityai/infiniteform)]
 * ⭐[UrbanPose: A new benchmark for VRU pose estimation in urban traffic scenes (IEEE Intelligent Vehicles Symposium (IV) 2021)](http://urbanpose-dataset.com/info/Datasets/198) [[paper link](https://ieeexplore.ieee.org/abstract/document/9575469)]
 * [HMR-Benchmarks: Benchmarking 3D Pose and Shape Estimation Beyond Algorithms](https://github.com/smplbody/hmr-benchmarks) [[paper link](https://openreview.net/pdf?id=rjBYortWdRV)]
+* [SynPose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom (ICASSP2022)](https://yuzefang96.github.io/SynPose/) [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
 
 
 ## 2) Pioneers and Experts
