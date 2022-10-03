@@ -192,7 +192,7 @@
 
 
 
-### ▶  Two-Stage [Bottom-Up] Multiple Person Pose Estimation
+### ▶ Two-Stage [Bottom-Up] Multiple Person Pose Estimation
 
 * **DeepCut(CVPR2016)** DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1511.06645)]
 
@@ -238,7 +238,7 @@
 
 * **DAC(arxiv2022)** Bottom-Up 2D Pose Estimation via Dual Anatomical Centers for Small-Scale Persons [[arxiv link](https://arxiv.org/abs/2208.11975)][`Dual Anatomical Centers (Head + Body)`]
 
-### ▶  Single-Stage Multiple Person Pose Estimation
+### ▶ Single-Stage Multiple Person Pose Estimation
 
 * **SPM(ICCV2019)** Single-Stage Multi-Person Pose Machines [[arxiv link](https://arxiv.org/abs/1908.09220)][[Codes|PyTorch(offical not released)](https://github.com/NieXC/pytorch-spm)][[Codes|Tensorflow(unoffical)](https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines)][[CSDN blog](https://blog.csdn.net/Murdock_C/article/details/100545377)]
 
@@ -255,7 +255,7 @@
 * ⭐**AdaptivePose(AAAI2022)** AdaptivePose: Human Parts as Adaptive Points [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20185)][[codes|official PyTorch](https://github.com/buptxyb666/AdaptivePose)]
 
 
-### ▶  Simultaneous Multiple Person Pose Estimation and Instance Segmentation
+### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
 * ⭐**Mask R-CNN(ICCV2017)(multi-task)** Mask R-CNN [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)]
 
@@ -272,7 +272,7 @@
 * **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)][`similarly with the PersonLab`]
 
 
-### ▶  3D Multiple Person Pose Estimation
+### ▶ 3D Multiple Person Pose Estimation
 
 * **mvpose(CVPR2019)(monocular multi-view)** Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views [[arxiv link](https://arxiv.org/abs/1901.04111)][[project link](https://zju3dv.github.io/mvpose/)][[Codes|Torch&Tensorflow(offical)](https://github.com/zju3dv/mvpose)]
 
@@ -285,7 +285,7 @@
 * **MVP(NIPS2021)** Direct Multi-view Multi-person 3D Pose Estimation [[paper link](https://proceedings.neurips.cc/paper/2021/hash/6da9003b743b65f4c0ccd295cc484e57-Abstract.html)][[codes|official PyTorch](https://github.com/sail-sg/mvp)]
 
 
-### ▶  Special Multiple Person Pose Estimation
+### ▶ Special Multiple Person Pose Estimation
 
 * **PoseTrack(CVPR2017)** PoseTrack: Joint Multi-Person Pose Estimation and Tracking [[arxiv link](https://arxiv.org/abs/1611.07727)][[Codes|Matlab&Caffe](https://github.com/iqbalu/PoseTrack-CVPR2017)]
 
@@ -311,7 +311,7 @@
 
 * **PoseTrans(ECCV2022)** PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper link](https://arxiv.org/abs/2208.07755)]
 
-### ▶  Domain Adaptive Multiple Person Pose Estimation
+### ▶ Domain Adaptive Multiple Person Pose Estimation
 
 * **(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)]
 
