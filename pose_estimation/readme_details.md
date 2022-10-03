@@ -311,11 +311,14 @@
 
 * **ODKD(arxiv2021)** Orderly Dual-Teacher Knowledge Distillation for Lightweight Human Pose Estimation [[paper link](https://arxiv.org/abs/2104.10414)][`Knowledge Distillation of MPPE based on HRNet`]
 
+* **DDP(3DV2021)** Direct Dense Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9665828)][`Dense human pose estimation`]
+
 * **MEVADA(ICCV2021)** Single View Physical Distance Estimation using Human Pose [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Fei_Single_View_Physical_Distance_Estimation_Using_Human_Pose_ICCV_2021_paper.html)][[project link](https://feixh.github.io/projects/physical_distance/)]
 
 * **PoseTrack21(CVPR2022)** PoseTrack21: A Dataset for Person Search, Multi-Object Tracking and Multi-Person Pose Tracking [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.html)][[codes|official](https://github.com/andoer/PoseTrack21)][`jointly person search, multi-object tracking and multi-person pose tracking`]
 
 * **PoseTrans(ECCV2022)** PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper link](https://arxiv.org/abs/2208.07755)]
+
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 
