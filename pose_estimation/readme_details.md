@@ -224,6 +224,8 @@
 
 * **CenterNet(arxiv2019)** Objects as Points [[arxiv link](https://arxiv.org/abs/1904.07850)]
 
+* **DirectPose(arxiv2019)** DirectPose: Direct End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07451)][`DirectPose proposes to directly regress the instance-level keypoints by considering the keypoints as a special bounding-box with more than two corners.`]
+
 * **DeepDarts(CVPRW2021)** DeepDarts: Modeling Keypoints as Objects for Automatic Scorekeeping in Darts using a Single Camera [[paper link](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/McNally_DeepDarts_Modeling_Keypoints_as_Objects_for_Automatic_Scorekeeping_in_Darts_CVPRW_2021_paper.pdf)]
 
 * **FCPose(CVPR2021)** FCPose: Fully Convolutional Multi-Person Pose Estimation With Dynamic Instance-Aware Convolutions [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Mao_FCPose_Fully_Convolutional_Multi-Person_Pose_Estimation_With_Dynamic_Instance-Aware_Convolutions_CVPR_2021_paper.html)][[codes|official](https://github.com/aim-uofa/AdelaiDet/)]
