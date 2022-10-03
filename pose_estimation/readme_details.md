@@ -239,6 +239,7 @@
 
 * **DAC(arxiv2022)** Bottom-Up 2D Pose Estimation via Dual Anatomical Centers for Small-Scale Persons [[arxiv link](https://arxiv.org/abs/2208.11975)][`Dual Anatomical Centers (Head + Body)`]
 
+
 ### ▶ Single-Stage Multiple Person Pose Estimation
 
 * **SPM(ICCV2019)** Single-Stage Multi-Person Pose Machines [[arxiv link](https://arxiv.org/abs/1908.09220)][[Codes|PyTorch(offical not released)](https://github.com/NieXC/pytorch-spm)][[Codes|Tensorflow(unoffical)](https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines)][[CSDN blog](https://blog.csdn.net/Murdock_C/article/details/100545377)]
@@ -254,6 +255,8 @@
 * **YOLO-Pose(CVPRW2022)** YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss [[paper link](https://arxiv.org/abs/2204.06806)][[codes|official edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox)][[codes|official edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5)]
 
 * ⭐**AdaptivePose(AAAI2022)** AdaptivePose: Human Parts as Adaptive Points [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20185)][[codes|official PyTorch](https://github.com/buptxyb666/AdaptivePose)]
+
+* **LOGO-CAP(CVPR2022)** Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Learning_Local-Global_Contextual_Adaptation_for_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/cherubicXN/logocap)]
 
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
