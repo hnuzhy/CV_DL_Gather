@@ -258,6 +258,8 @@
 
 * **LOGO-CAP(CVPR2022)** Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Learning_Local-Global_Contextual_Adaptation_for_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/cherubicXN/logocap)]
 
+* **PETR(CVPR2022)** End-to-End Multi-Person Pose Estimation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/hikvision-research/opera)][`Transformer`]
+
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
