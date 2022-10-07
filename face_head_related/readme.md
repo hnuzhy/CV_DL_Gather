@@ -77,6 +77,7 @@
 
 * **❤ MEBOW(CVPR2020)** MEBOW: Monocular Estimation of Body Orientation in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_MEBOW_Monocular_Estimation_of_Body_Orientation_in_the_Wild_CVPR_2020_paper.html)][[project link](https://chenyanwu.github.io/MEBOW/)][[codes|official](https://github.com/ChenyanWu/MEBOW)][`COCO-MEBOW dataset, Body Orientation Estimation`]
 
+* **PedRecNet(IV2022)** PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation [[paper link](https://arxiv.org/abs/2204.11548)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
