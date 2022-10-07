@@ -71,6 +71,10 @@
 
 * **(ICCV2015)** Uncovering Interactions and Interactors: Joint Estimation of Head, Body Orientation and F-Formations From Surveillance Videos [[paper link](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Ricci_Uncovering_Interactions_and_ICCV_2015_paper.html)]
 
+* **AKRF-VW(IJCV2017)** Growing Regression Tree Forests by Classification for Continuous Object Pose Estimation [[paper link](https://link.springer.com/article/10.1007/s11263-016-0942-1)]
+
+* **CPOEHK(ISCAS2019)** Continuous Pedestrian Orientation Estimation using Human Keypoints [[paper link](https://ieeexplore.ieee.org/abstract/document/8702175/)]
+
 * **❤ MEBOW(CVPR2020)** MEBOW: Monocular Estimation of Body Orientation in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_MEBOW_Monocular_Estimation_of_Body_Orientation_in_the_Wild_CVPR_2020_paper.html)][[project link](https://chenyanwu.github.io/MEBOW/)][[codes|official](https://github.com/ChenyanWu/MEBOW)][`COCO-MEBOW dataset, Body Orientation Estimation`]
 
 
