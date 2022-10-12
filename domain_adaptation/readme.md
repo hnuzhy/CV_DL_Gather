@@ -26,13 +26,13 @@
 
 ## Papers
 
-### ⭐Domain Adaptation for Image Classification
+### ⭐⭐⭐Domain Adaptation for Image Classification
 
 * **❤ Model Evaluation(CVPR2021)** Are Labels Necessary for Classifier Accuracy Evaluation?(测试集没有标签，可以拿来测试模型吗？) [[arxiv link](https://arxiv.org/abs/2007.02915)][[CSDN blog](https://zhuanlan.zhihu.com/p/328686799)]
 
 * **❤ PCS-FUDA(CVPR2021)** Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [[arxiv link](https://arxiv.org/pdf/2103.16765.pdf)][[project link](http://xyue.io/pcs-fuda/)][[codes|official PyTorch](https://github.com/zhengzangw/PCS-FUDA)]
 
-### ⭐Domain Adaptation for Object Detection
+### ⭐⭐Domain Adaptation for Object Detection
 
 * **❤ DA-FasterRCNN(CVPR2018)(Baseline&Milestone)** Domain Adaptive Faster R-CNN for Object Detection in the Wild [[arxiv link](https://arxiv.org/abs/1803.03243)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.html)][[codes|official Caffe](https://github.com/yuhuayc/da-faster-rcnn)][[Zhihu blog](https://zhuanlan.zhihu.com/p/371721493)]
 
@@ -69,7 +69,17 @@
 * **TDD(CVPR2022)** Cross Domain Object Detection by Target-Perceived Dual Branch Distillation [[paper link](https://arxiv.org/abs/2205.01291)][[codes|official PyTorch](https://github.com/Feobi1999/TDD)]
 
 
-### ⭐Domain Adaptation for Semantic Segmentation
+### ⭐⭐Domain Adaptation for Semantic Segmentation
 
-### ⭐Domain Adaptation for Keypoint Detection
+
+* **ProDA(CVPR2021)** Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Prototypical_Pseudo_Label_Denoising_and_Target_Structure_Learning_for_Domain_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/microsoft/ProDA)][`Use prototypes to weight pseudo-labels`]
+
+* **DAFormer(CVPR2022)** DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.html)][[]()]
+
+* **ProCA(ECCV2022)** Prototypical Contrast Adaptation for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2207.06654)][[codes|official PyTorch](https://github.com/jiangzhengkai/ProCA)][`Prototype to feature contrastive`]
+
+* **SePiCo(arxiv2022)** SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2204.08808)][[codes|official PyTorch](https://github.com/BIT-DA/SePiCo)][`Contrastive with centroid, memory band and gaussian`]
+
+* **BiSMAP(arxiv2022)** Bidirectional Self-Training with Multiple Anisotropic Prototypes for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2204.07730)][[]()][`Use gaussian mixture model as prototypes to generate pseudo-labels`]
+
 
