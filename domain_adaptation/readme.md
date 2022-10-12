@@ -22,6 +22,8 @@
 * [(github) Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)](https://github.com/artix41/awesome-transfer-learning)
 * [(github) Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
 
+* [(github) (YOLO-Seg) YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/WongKinYiu/yolov7/tree/u7/seg)
+
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## Papers
