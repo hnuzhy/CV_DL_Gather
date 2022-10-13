@@ -29,7 +29,7 @@
 
 ### Papers
 
-* ❤ **3D-BoundingBox(CVPR2017)** 3D Bounding Box Estimation Using Deep Learning and Geometry [[paper link](https://arxiv.org/abs/1612.00496)][[codes|official ](https://github.com/skhadem/3D-BoundingBox)]
+* ❤ **3D-BoundingBox(CVPR2017)** 3D Bounding Box Estimation Using Deep Learning and Geometry [[paper link](https://arxiv.org/abs/1612.00496)][[codes|official PyTorch](https://github.com/skhadem/3D-BoundingBox)]
 
 * ❤ **SMOKE(CVPRW2020)** SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w60/Liu_SMOKE_Single-Stage_Monocular_3D_Object_Detection_via_Keypoint_Estimation_CVPRW_2020_paper.html)][[codes|official PyTorch](https://github.com/lzccccc/SMOKE)]
 
