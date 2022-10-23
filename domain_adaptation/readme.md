@@ -40,6 +40,8 @@
 
 * **DINE(CVPR2022)** DINE: Domain Adaptation From Single and Multiple Black-Box Predictors [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_DINE_Domain_Adaptation_From_Single_and_Multiple_Black-Box_Predictors_CVPR_2022_paper.html)][[codes|official](https://github.com/tim-learn/DINE/)]
 
+* ❤**SHOT++(TPAMI2022)** Source Data-Absent Unsupervised Domain Adaptation Through Hypothesis Transfer and Labeling Transfer [[paper link](https://ieeexplore.ieee.org/abstract/document/9512429)][[codes|official](https://github.com/tim-learn/SHOT-plus)]
+
 ### ② ⭐⭐Domain Adaptation for Object Detection
 
 * ❤**DA-FasterRCNN(CVPR2018)(Baseline&Milestone)** Domain Adaptive Faster R-CNN for Object Detection in the Wild [[arxiv link](https://arxiv.org/abs/1803.03243)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.html)][[codes|official Caffe](https://github.com/yuhuayc/da-faster-rcnn)][[Zhihu blog](https://zhuanlan.zhihu.com/p/371721493)]
