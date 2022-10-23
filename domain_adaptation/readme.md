@@ -36,11 +36,13 @@
 
 * ❤**PCS-FUDA(CVPR2021)** Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [[arxiv link](https://arxiv.org/pdf/2103.16765.pdf)][[project link](http://xyue.io/pcs-fuda/)][[codes|official PyTorch](https://github.com/zhengzangw/PCS-FUDA)]
 
+* ❤**SHOT++(TPAMI2021)** Source Data-Absent Unsupervised Domain Adaptation Through Hypothesis Transfer and Labeling Transfer [[paper link](https://ieeexplore.ieee.org/abstract/document/9512429)][[codes|official](https://github.com/tim-learn/SHOT-plus)]
+
 * **PTMDA(TIP2022)** Multi-Source Unsupervised Domain Adaptation via Pseudo Target Domain [[paper link](https://ieeexplore.ieee.org/abstract/document/9720154)]
 
 * **DINE(CVPR2022)** DINE: Domain Adaptation From Single and Multiple Black-Box Predictors [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_DINE_Domain_Adaptation_From_Single_and_Multiple_Black-Box_Predictors_CVPR_2022_paper.html)][[codes|official](https://github.com/tim-learn/DINE/)]
 
-* ❤**SHOT++(TPAMI2022)** Source Data-Absent Unsupervised Domain Adaptation Through Hypothesis Transfer and Labeling Transfer [[paper link](https://ieeexplore.ieee.org/abstract/document/9512429)][[codes|official](https://github.com/tim-learn/SHOT-plus)]
+
 
 ### ② ⭐⭐Domain Adaptation for Object Detection
 
