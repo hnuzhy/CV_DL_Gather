@@ -8,11 +8,14 @@
 
 [[Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/)] 
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## Datasets
 
 * [NightCity(TIP2021)](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html): Night-time Scene Parsing with a Large Real Dataset
 
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## Materials
 
@@ -21,7 +24,6 @@
 * [(github) A collection of AWESOME things about domian adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 * [(github) Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)](https://github.com/artix41/awesome-transfer-learning)
 * [(github) Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
-
 * [(github) (YOLO-Seg) YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/WongKinYiu/yolov7/tree/u7/seg)
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
@@ -33,6 +35,10 @@
 * ❤**Model Evaluation(CVPR2021)** Are Labels Necessary for Classifier Accuracy Evaluation?(测试集没有标签，可以拿来测试模型吗？) [[arxiv link](https://arxiv.org/abs/2007.02915)][[CSDN blog](https://zhuanlan.zhihu.com/p/328686799)]
 
 * ❤**PCS-FUDA(CVPR2021)** Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [[arxiv link](https://arxiv.org/pdf/2103.16765.pdf)][[project link](http://xyue.io/pcs-fuda/)][[codes|official PyTorch](https://github.com/zhengzangw/PCS-FUDA)]
+
+* **PTMDA(TIP2022)** Multi-Source Unsupervised Domain Adaptation via Pseudo Target Domain [[paper link](https://ieeexplore.ieee.org/abstract/document/9720154)]
+
+* **DINE(CVPR2022)** DINE: Domain Adaptation From Single and Multiple Black-Box Predictors [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_DINE_Domain_Adaptation_From_Single_and_Multiple_Black-Box_Predictors_CVPR_2022_paper.html)][[codes|official](https://github.com/tim-learn/DINE/)]
 
 ### ② ⭐⭐Domain Adaptation for Object Detection
 
