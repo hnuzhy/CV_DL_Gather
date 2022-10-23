@@ -241,6 +241,8 @@
 
 * **CoupledEmbedding(ECCV2022)** Regularizing Vector Embedding in Bottom-Up Human Pose Estimation [[paper link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660105.pdf)][[codes|official PyTorch](https://github.com/CR320/CoupledEmbedding)]
 
+* **DEKRv2(ICIP2022)** DEKRv2: More Fast or Accurate than DEKR [[paper link](https://ieeexplore.ieee.org/abstract/document/9897550)][[codes|official PyTorch](https://github.com/chaowentao/DEKRv2)]
+
 
 ### ▶ Single-Stage Multiple Person Pose Estimation
 
