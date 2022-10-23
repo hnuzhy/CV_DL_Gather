@@ -239,6 +239,8 @@
 
 * **DAC(arxiv2022)** Bottom-Up 2D Pose Estimation via Dual Anatomical Centers for Small-Scale Persons [[arxiv link](https://arxiv.org/abs/2208.11975)][`Dual Anatomical Centers (Head + Body)`]
 
+* **CoupledEmbedding(ECCV2022)** Regularizing Vector Embedding in Bottom-Up Human Pose Estimation [[paper link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660105.pdf)][[codes|official PyTorch](https://github.com/CR320/CoupledEmbedding)]
+
 
 ### ▶ Single-Stage Multiple Person Pose Estimation
 
