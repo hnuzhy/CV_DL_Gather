@@ -226,8 +226,8 @@
 
 ### Datasets
 
-* [**HICO-DET (WACV2018)** Learning to Detect Human-Object Interactions](https://ieeexplore.ieee.org/abstract/document/8354152)
-* [**V-COCO (arxiv2015)** Visual Semantic Role Labeling](https://arxiv.org/abs/1505.04474)
+* **HICO-DET (WACV2018)** [Learning to Detect Human-Object Interactions](https://ieeexplore.ieee.org/abstract/document/8354152)
+* **V-COCO (arxiv2015)** [Visual Semantic Role Labeling](https://arxiv.org/abs/1505.04474)
 
 ### Papers
 
