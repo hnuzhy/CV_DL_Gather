@@ -233,11 +233,9 @@
 
 * **UnionDet(ECCV2020)** UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_30)][[codes|official]()]
 
-* **MSTR(CVPR2022)** MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection [[]paper link(https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MSTR_Multi-Scale_Transformer_for_End-to-End_Human-Object_Interaction_Detection_CVPR_2022_paper.html)][[codes|official]()]
+* **MSTR(CVPR2022)** MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MSTR_Multi-Scale_Transformer_for_End-to-End_Human-Object_Interaction_Detection_CVPR_2022_paper.html)][[codes|official]()]
 
 * **DisTrans(CVPR2022)** Human-Object Interaction Detection via Disentangled Transformer [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Human-Object_Interaction_Detection_via_Disentangled_Transformer_CVPR_2022_paper.html)][[codes|official]()]
-
-
 
 
 
