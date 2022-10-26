@@ -9,6 +9,7 @@
 * [⭐Camera Pose Estimation (SLAM)](#camera-pose-estimation-slam)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Generative Adversarial Network](#generative-adversarial-network)
+* [⭐Human Object Interaction Detection](#human-object-interaction-detection)
 * [⭐Image Mosaic](#image-mosaic)
 * [⭐Image Restoration](#image-restoration)
 * [⭐Lane Detection](#lane-detection)
@@ -211,6 +212,34 @@
 * ❤ **SCAM(ECCV2022)** SCAM! Transferring humans between images with Semantic Cross Attention Modulation [[paper link](https://arxiv.org/abs/2210.04883)][[project link](https://imagine.enpc.fr/~dufourn/publications/scam.html)][[codes|official PyTorch](https://github.com/nicolas-dufour/SCAM)]
 
 * **SDEdit(ICLR2022)** SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2108.01073)][[project link](https://sde-image-editing.github.io/)][`Partial StyleGAN`]
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Human Object Interaction Detection
+
+### Materials
+
+* [(DEtection TRansformer(DETR) ECCV2020 BestPaper) End-to-End Object Detection with Transformers](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13) [[codes|official](https://github.com/facebookresearch/detr)]
+* [(DAB-DETR ICLR2022) DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) [[codes|official](https://github.com/SlongLiu/DAB-DETR)]
+* [(DN-DETR CVPR2022 OralPaper) DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.html) [[codes|official](https://github.com/IDEA-Research/DN-DETR)]
+
+### Datasets
+
+* **** [[]()][[]()]
+
+* **** [[]()][[]()]
+
+### Papers
+
+* **UnionDet(ECCV2020)** UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_30)][[codes|official]()]
+
+* **MSTR(CVPR2022)** MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection [[]paper link(https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MSTR_Multi-Scale_Transformer_for_End-to-End_Human-Object_Interaction_Detection_CVPR_2022_paper.html)][[codes|official]()]
+
+* **DisTrans(CVPR2022)** Human-Object Interaction Detection via Disentangled Transformer [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Human-Object_Interaction_Detection_via_Disentangled_Transformer_CVPR_2022_paper.html)][[codes|official]()]
+
+
+
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
