@@ -6,6 +6,7 @@
 * [⭐3D Reconstruction](#3d-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Aerial Autonomous Navigation](#aerial-autonomous-navigation)
+* [⭐Body Model Regression](#body-model-regression)
 * [⭐Camera Pose Estimation (SLAM)](#camera-pose-estimation-slam)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Generative Adversarial Network](#generative-adversarial-network)
@@ -163,6 +164,35 @@
 * [(github) CMU: Leveraging system development and robot deployment for aerial autonomous navigation.](https://github.com/caochao39/aerial_navigation_development_environment) [[demo video](https://www.bilibili.com/video/BV1tZ4y187HR)]
 
 ### Papers
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Body Model Regression
+Also named **3D Human Pose and Shape Regression** or **3D Human Pose and Shape Estimation**
+
+### Materials
+
+* [SMPL family, i.e. SMPL, SMPL+H, SMPL-X](https://github.com/vchoutas/smplx/tree/main/transfer_model)
+
+### Papers
+
+* **SMPL(SIGGRAPH2015)** SMPL: A Skinned Multi-Person Linear Model [[paper link](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)][[project link](https://smpl.is.tue.mpg.de/)][`MPII 马普所`]
+
+* **SMPL-X(CVPR2019)** Expressive Body Capture: 3D Hands, Face, and Body from a Single Image [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)][[project link](https://smpl-x.is.tue.mpg.de/)][[codes|official](https://github.com/vchoutas/smplify-x)][`MPII 马普所`]
+
+* **STAR(ECCV2020)** STAR: A Sparse Trained Articulated Human Body Regressor [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/618/star_paper.pdf)][[project link](https://star.is.tue.mpg.de/)][[codes|official](https://github.com/ahmedosman/STAR)][`MPII 马普所`]
+
+* **ExPose(ECCV2020)** Monocular Expressive Body Regression through Body-driven Attention [[paper linkl](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_2)][[project link](https://expose.is.tue.mpg.de/)][[codes|official](https://github.com/vchoutas/expose)][`MPII 马普所`]
+
+* **FrankMocap(ICCVW2021)** FrankMocap: A monocular 3D whole-body pose estimation system via regression and integration [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/ACVR/html/Rong_FrankMocap_A_Monocular_3D_Whole-Body_Pose_Estimation_System_via_Regression_ICCVW_2021_paper.html)][[codes|official](https://github.com/facebookresearch/frankmocap)][`facebookresearch`]
+
+* **PIXIE(3DV2021)** Collaborative regression of expressive bodies using moderation [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/667/PIXIE_3DV_CR.pdf)][[project link](https://pixie.is.tue.mpg.de/)][[codes|official](https://github.com/YadiraF/PIXIE)][`MPII 马普所`]
+
+* **PyMAF(ICCV2021 Oral)** PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop [[paper link](https://arxiv.org/pdf/2103.16507.pdf)][[project link](https://hongwenzhang.github.io/pymaf/)][[codes|official](https://github.com/HongwenZhang/PyMAF)]
+
+* **PyMAF-X(arxiv2022)** PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images [[paper link](https://arxiv.org/pdf/2207.06400.pdf)][[project link](https://www.liuyebin.com/pymaf-x/)][[codes|official](https://github.com/HongwenZhang/PyMAF)]
+
+* **Hand4Whole(CVPRW2022)** Accurate 3D Hand Pose Estimation for Whole-body 3D Human Mesh Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Moon_Accurate_3D_Hand_Pose_Estimation_for_Whole-Body_3D_Human_Mesh_CVPRW_2022_paper.html)][[codes|official](https://github.com/mks0601/Hand4Whole_RELEASE)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
