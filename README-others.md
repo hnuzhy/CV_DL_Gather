@@ -16,6 +16,7 @@
 * [⭐Lane Detection](#lane-detection)
 * [⭐Pedestrian Localization](#pedestrian-localization)
 * [⭐Person ReID](#person-reid)
+* [⭐Reinforcement Learning](#reinforcement-learning)
 * [⭐Scene Text Detection](#scene-text-detection)
 * [⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐Sound Source Localization](#sound-source-localization)
@@ -401,6 +402,31 @@ Image restoration includes **image in-painting**, **pixel interpolation**, **ima
 * **(TOMM2017)** A Discriminatively Learned CNN Embedding for Person Re-identification [[arxiv link](https://arxiv.org/pdf/1611.05666.pdf)][[Codes|caffe+keras(official)](https://github.com/layumi/2016_person_re-ID)][[CSDN blog](https://blog.csdn.net/weixin_41427758/article/details/80091596)]
 
 
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Reinforcement Learning
+
+```
+Lectures and Courses
+
+**2020-11-11 强化学习课程tips**
+* 好的机械臂十分昂贵，一般都是机械动力与自动化专业研发设计，不适合采用模拟环境下诞生的强化学习方法来指导生成智能化机械臂；
+* 国内技术还是被卡脖子的，智能机械臂的生产领头行业在日本，即使清华的自动化系，也需要去向日本采购昂贵的单个近百万的机械臂；
+
+**2020-11-25 Imitation Learning 模仿学习**
+* Behavior Cloning 相当于是监督学习
+* Inverse Reinforcement Learning(IRL) 逆强化学习，类似于生成对抗网络GAN
+* 实验室研究进展分享 -- 沉浸式视频（360度全景视频）：处理和传输
+  * 多目相机（8目或12目）购买成本还很高
+  * 多角度实时拼接的时延问题：接近10K带宽传输、拼接算法、编解码算法
+  * 平面卷积不适用：球面到平面的投影，使用主流的方法（如地球仪投影ERP等）
+  * 或者抛开平面卷积的思路：使用球面卷积核及其算子；旋转等变的图卷积网络（需要转换到频域）
+  * 直接逼近和多项式回归逼近，来定量估计神经网络复杂度，指导设计神经网络的层数和总节点数（构建多元高阶多项式与神经元组之间的等价关系）
+```
+
+### Materials
+
+### Papers
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
