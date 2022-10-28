@@ -64,14 +64,6 @@
 
 </details>
 
-## ▶ [Super Resolution](./super_resolution)
-<details>
-<summary>Click Here to Show All</summary>
-  
-* **[Definition]** Image super resolution refers to the restoration of high-resolution image from a low-resolution image or image sequence.
-* **[Supplement]** Image super-resolution technology is divided into super resolution restoration and super resolution reconstruction. At present, image super resolution research can be divided into three main categories: interpolation based, reconstruction based and learning based methods. Not surprisingly, the involvement of deep learning technology makes a great breakthrough and progress in this low level visual task.
-
-</details>
 
 ## ▶ [Visual Tracking](./visual_tracking)
 <details>
