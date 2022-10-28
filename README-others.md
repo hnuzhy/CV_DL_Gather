@@ -26,7 +26,7 @@
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐3D Body Model Regression
-Also named **3D Human Pose and Shape Regression** or **3D Human Pose and Shape Estimation**
+Also named **3D Human Pose and Shape Regression** or **3D Human Pose and Shape Estimation** or **Human Mesh Recovery (HMS)**
 
 ### Materials
 
@@ -53,6 +53,8 @@ Also named **3D Human Pose and Shape Regression** or **3D Human Pose and Shape E
 * **PyMAF-X(arxiv2022)** PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images [[paper link](https://arxiv.org/pdf/2207.06400.pdf)][[project link](https://www.liuyebin.com/pymaf-x/)][[codes|official](https://github.com/HongwenZhang/PyMAF)]
 
 * **Hand4Whole(CVPRW2022)** Accurate 3D Hand Pose Estimation for Whole-body 3D Human Mesh Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Moon_Accurate_3D_Hand_Pose_Estimation_for_Whole-Body_3D_Human_Mesh_CVPRW_2022_paper.html)][[codes|official](https://github.com/mks0601/Hand4Whole_RELEASE)]
+
+* ❤**hmr-benchmarks(NIPS2022)** Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms [[paper link](https://openreview.net/forum?id=rjBYortWdRV)][[codes|official](https://github.com/smplbody/hmr-benchmarks)]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
