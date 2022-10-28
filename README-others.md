@@ -30,8 +30,8 @@ Also named **3D Human Pose and Shape Regression** or **3D Human Pose and Shape E
 
 ### Materials
 
-* [(models) SMPL family, i.e. SMPL, SMPL+H, SMPL-X](https://github.com/vchoutas/smplx/tree/main/transfer_model)
-* [(survey)(arxiv2022) Recovering 3D Human Mesh from Monocular Images: A Survey](https://arxiv.org/abs/2203.01923) [[project link](https://github.com/tinatiansjz/hmr-survey)][[CVPR 2022 related works](https://github.com/tinatiansjz/hmr-survey/issues/1)]
+* **(models) SMPL family, i.e. SMPL, SMPL+H, SMPL-X** [[codes|official github](https://github.com/vchoutas/smplx/tree/main/transfer_model)]
+* **(survey)(arxiv2022) Recovering 3D Human Mesh from Monocular Images: A Survey** [[paper link](https://arxiv.org/abs/2203.01923)] [[project link](https://github.com/tinatiansjz/hmr-survey)] [[CVPR 2022 related works](https://github.com/tinatiansjz/hmr-survey/issues/1)]
  
 
 ### Papers
