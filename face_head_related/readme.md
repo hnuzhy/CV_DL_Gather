@@ -1,6 +1,7 @@
 # Contents
 
 * **[1) Pubilc Datasets and Challenges](#1-Pubilc-Datasets-and-Challenges)**
+  * **[⭐For Face Alignment or Landmark Detection](#For-Face-Alignment-or-Landmark-Detection)**
   * **[⭐For Head Pose Estimation](#For-Head-Pose-Estimation)**
   * **[⭐For Head Detection Only](#For-Head-Detection-Only)**
   * **[⭐For Head Detection or Crowd Counting](#For-Head-Detection-or-Crowd-Counting)**
@@ -21,6 +22,9 @@
 
 ## 1) Pubilc Datasets and Challenges
 
+### ⭐**For Face Alignment or Landmark Detection**
+* [Flickr-Faces-HQ (FFHQ) Dataset](https://github.com/NVlabs/ffhq-dataset): Flickr-Faces-HQ (FFHQ) is a high-quality image dataset of human faces, originally created as a benchmark for`generative adversarial networks (GAN)`. The dataset consists of `70,000` high-quality PNG images at 1024×1024 resolution and contains considerable variation in terms of age, ethnicity and image background. It also has good coverage of accessories such as eyeglasses, sunglasses, hats, etc. The images were crawled from `Flickr`, thus inheriting all the biases of that website, and automatically aligned and cropped using `dlib`. [(CVPR2019) A Style-Based Generator Architecture for Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
+
 ### ⭐**For Head Pose Estimation**
 * [BIWI RGBD-ID Dataset](http://robotics.dei.unipd.it/reid/index.php): The BIWI RGBD-ID Dataset is a RGB-D dataset of people targeted to long-term people re-identification from RGB-D cameras. It contains 50 training and 56 testing sequences of 50 different people.
 * [300W-LP & AFLW2000-3D](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3ddfa/main.htm): 300W-LP has the synthesized large-pose face images from 300W. AFLW2000-3D is the fitted 3D faces of the first 2000 AFLW samples, which can be used for 3D face alignment evaluation.
@@ -36,6 +40,7 @@
 * [UCF-QNRF - A Large Crowd Counting Data Set](https://www.crcv.ucf.edu/data/ucf-qnrf/): It contains 1535 images which are divided into train and test sets of 1201 and 334 images respectively. Paper is published in ECCV2018. 【情况介绍】：这是最新发布的最大人群数据集。它包含 1535 张来自 Flickr、网络搜索和 Hajj 片段的密集人群图像。数据集包含广泛的场景，拥有丰富的视角、照明变化和密度多样性，计数范围从 49 到 12865 不等，这使该数据库更加困难和现实。此外，图像分辨率也很大，因此导致头部尺寸出现大幅变化。
 * [UCSD Pedestrian Dataset](http://visal.cs.cityu.edu.hk/downloads/): Video of people on pedestrian walkways at UCSD, and the corresponding motion segmentations. Currently two scenes are available. 【情况介绍】：由 2000 帧监控摄像机拍摄的照片组成，尺寸为 238×158。这个数据集的密度相对较低，每幅图像 11 到 46 人不等，平均约 25 人。在所有帧中，帧 601 到 1400 为训练集，其余帧为测试集。
 * [Megvii CrowdHuman](https://www.crowdhuman.org/): CrowdHuman is a benchmark dataset to better evaluate detectors in crowd scenarios. The CrowdHuman dataset is large, rich-annotated and contains high diversity. CrowdHuman contains 15000, 4370 and 5000 images for training, validation, and testing, respectively. There are a total of 470K human instances from train and validation subsets and 23 persons per image, with various kinds of occlusions in the dataset. Each human instance is annotated with a head bounding-box, human visible-region bounding-box and human full-body bounding-box. We hope our dataset will serve as a solid baseline and help promote future research in human detection tasks.
+
 
 
 ## 2) Pioneers and Experts
