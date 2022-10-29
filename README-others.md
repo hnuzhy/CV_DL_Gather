@@ -26,7 +26,7 @@
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## ⭐3D Body Model Regression
-Also named **3D Human Pose and Shape Regression** or **3D Human Pose and Shape Estimation** or **Human Mesh Recovery (HMS)**
+Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shape Estimation*** or ***Human Mesh Recovery (HMS)***
 
 ### Materials
 
