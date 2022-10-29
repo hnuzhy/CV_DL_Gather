@@ -48,6 +48,8 @@ Also named **3D Human Pose and Shape Regression** or **3D Human Pose and Shape E
 
 * **FrankMocap(ICCVW2021)** FrankMocap: A monocular 3D whole-body pose estimation system via regression and integration [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/ACVR/html/Rong_FrankMocap_A_Monocular_3D_Whole-Body_Pose_Estimation_System_via_Regression_ICCVW_2021_paper.html)][[codes|official](https://github.com/facebookresearch/frankmocap)][`facebookresearch`]
 
+* **LightweightMHMS(ICCV2021)** Lightweight Multi-Person Total Motion Capture Using Sparse Multi-View Cameras [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Lightweight_Multi-Person_Total_Motion_Capture_Using_Sparse_Multi-View_Cameras_ICCV_2021_paper.html)][`taking multi-view RGB sequences and body estimation results as inputs`, `using full-body model SMPL-X`, `Openpose + FaceAlignment + SRHandNet + HandHMR`]
+
 * **PIXIE(3DV2021)** Collaborative regression of expressive bodies using moderation [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/667/PIXIE_3DV_CR.pdf)][[project link](https://pixie.is.tue.mpg.de/)][[codes|official](https://github.com/YadiraF/PIXIE)][`MPII 马普所`]
 
 * **PyMAF(ICCV2021 Oral)** PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop [[paper link](https://arxiv.org/pdf/2103.16507.pdf)][[project link](https://hongwenzhang.github.io/pymaf/)][[codes|official](https://github.com/HongwenZhang/PyMAF)]
