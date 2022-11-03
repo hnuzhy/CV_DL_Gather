@@ -46,7 +46,7 @@
 * [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://sites.google.com/view/yoga-82/home)[[kaggle](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset)]
 * [UAV-Human Dataset (CVPR2021) (not all appeared persons are annotated)](https://github.com/SUTDCV/UAV-Human)[[paper link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_UAV-Human_A_Large_Benchmark_for_Human_Behavior_Understanding_With_Unmanned_CVPR_2021_paper.pdf)][[google drive](https://drive.google.com/drive/folders/1QeYXeM_pbWBSSmpRr_rKHurMpI2TxAKs)]
 * [Mirrored-Human Dataset: Reconstructing 3D Human Pose by Watching Humans in the Mirror (CVPR2021 Oral)](https://zju3dv.github.io/Mirrored-Human/)[[paper link](https://arxiv.org/pdf/2104.00340.pdf)]
-* ⭐[AGORA: A synthetic human pose and shape dataset (CVPR2021)](https://agora.is.tue.mpg.de/) [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)][[github link](https://github.com/pixelite1201/agora_evaluation)][[STAR (ECCV2020)](https://star.is.tue.mpg.de/)][[SMPL-X (CVPR2019)](https://smpl-x.is.tue.mpg.de/)][[FLAME (SIGGRAPH2017)](https://flame.is.tue.mpg.de/)][[SMPL (SIGGRAPH2015)](https://smpl.is.tue.mpg.de/)]
+* ⭐[AGORA: A synthetic human pose and shape dataset (CVPR2021)](https://agora.is.tue.mpg.de/) [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)][[github link](https://github.com/pixelite1201/agora_evaluation)][[STAR (ECCV2020)](https://star.is.tue.mpg.de/)][[SMPL-X (CVPR2019)](https://smpl-x.is.tue.mpg.de/)][[FLAME (SIGGRAPH2017)](https://flame.is.tue.mpg.de/)][[SMPL (SIGGRAPH2015)](https://smpl.is.tue.mpg.de/)][[rankers webpage](https://paperswithcode.com/dataset/agora)]
 * [InfiniteForm: Open Source Dataset for Human Pose Estimation (NIPSW2021)](https://pixelate.ai/InfiniteForm) [[paper link](https://arxiv.org/abs/2110.01330)][[github link](https://github.com/toinfinityai/infiniteform)]
 * ⭐[UrbanPose: A new benchmark for VRU pose estimation in urban traffic scenes (IEEE Intelligent Vehicles Symposium (IV) 2021)](http://urbanpose-dataset.com/info/Datasets/198) [[paper link](https://ieeexplore.ieee.org/abstract/document/9575469)]
 * [HMR-Benchmarks: Benchmarking 3D Pose and Shape Estimation Beyond Algorithms](https://github.com/smplbody/hmr-benchmarks) [[paper link](https://openreview.net/pdf?id=rjBYortWdRV)]
@@ -295,6 +295,8 @@
 * **(multi-views)(ICCV2021)** Shape-aware Multi-Person Pose Estimation from Multi-View Images [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Dong_Shape-Aware_Multi-Person_Pose_Estimation_From_Multi-View_Images_ICCV_2021_paper.html)][[project link](https://ait.ethz.ch/projects/2021/multi-human-pose/)][[codes|official](https://github.com/zj-dong/Multi-Person-Pose-Estimation)]
 
 * **MVP(NIPS2021)** Direct Multi-view Multi-person 3D Pose Estimation [[paper link](https://proceedings.neurips.cc/paper/2021/hash/6da9003b743b65f4c0ccd295cc484e57-Abstract.html)][[codes|official PyTorch](https://github.com/sail-sg/mvp)]
+
+* **InverseKinematics(ECCV2022)** Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement [[paper link](https://arxiv.org/abs/2210.13529)][datasets `3DPW`, `MuCo-3DHP` and `AGORA`][`transformer`]
 
 
 ### ▶ Special Multiple Person Pose Estimation
