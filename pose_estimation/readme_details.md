@@ -51,7 +51,7 @@
 * ⭐[UrbanPose: A new benchmark for VRU pose estimation in urban traffic scenes (IEEE Intelligent Vehicles Symposium (IV) 2021)](http://urbanpose-dataset.com/info/Datasets/198) [[paper link](https://ieeexplore.ieee.org/abstract/document/9575469)]
 * [HMR-Benchmarks: Benchmarking 3D Pose and Shape Estimation Beyond Algorithms](https://github.com/smplbody/hmr-benchmarks) [[paper link](https://openreview.net/pdf?id=rjBYortWdRV)]
 * [SynPose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom (ICASSP2022)](https://yuzefang96.github.io/SynPose/) [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
-* [JRDB-Pose: A Large-scale Dataset for Multi-Person Pose Estimation and Tracking (ICCV2019 & CVPR2021 & ECCV2022)](https://jrdb.erc.monash.edu/) [[paper link](https://arxiv.org/abs/2210.11940)][[dataset details](https://jrdb.erc.monash.edu/dataset/)]
+* ⭐[JRDB-Pose: A Large-scale Dataset for Multi-Person Pose Estimation and Tracking (ICCV2019 & CVPR2021 & ECCV2022)](https://jrdb.erc.monash.edu/) [[paper link](https://arxiv.org/abs/2210.11940)][[dataset details](https://jrdb.erc.monash.edu/dataset/)]
 
 
 ## 2) Pioneers and Experts
