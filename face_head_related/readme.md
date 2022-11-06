@@ -293,9 +293,13 @@
 * [S-HOCK: (CVIU2017) The S-Hock dataset: A new benchmark for spectator crowd analysis](https://www.sciencedirect.com/science/article/pii/S1077314217300024)[[paper link](https://iris.unitn.it/retrieve/handle/11572/187463/470794/Shock_r2.pdf)][`far left, left, frontal, right, far right, away, down`]
 * [SynHead: (CVPR2017) Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network](https://research.nvidia.com/publication/2017-07_dynamic-facial-analysis-bayesian-filtering-recurrent-neural-networks)[[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Gu_Dynamic_Facial_Analysis_CVPR_2017_paper.html)][`NVIDIA Synthetic Head Dataset (SynHead)`]
 
-#### Papers(Journal)
+#### Papers(Survey)
 
 * ⭐**Survey(TPAMI2009)** Head Pose Estimation in Computer Vision: A Survey [[paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4497208)][[CSDN blog](https://blog.csdn.net/weixin_41703033/article/details/83215043)]
+
+* **Survey(SPI2021)** Head pose estimation: A survey of the last ten years [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002332)]
+
+#### Papers(Journal)
 
 * **HyperFace(TPAMI2017)** HyperFace: A Deep Multi-Task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition [[paper link](https://ieeexplore.ieee.org/abstract/document/8170321)]
 
