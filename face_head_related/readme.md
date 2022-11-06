@@ -299,6 +299,8 @@
 
 * **Survey(SPI2021)** Head pose estimation: A survey of the last ten years [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002332)]
 
+* **Survey(PR2022)** Head pose estimation: An extensive survey on recent techniques and applications [[paper link](https://www.sciencedirect.com/science/article/pii/S0031320322000723)]
+
 #### Papers(Journal)
 
 * **HyperFace(TPAMI2017)** HyperFace: A Deep Multi-Task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition [[paper link](https://ieeexplore.ieee.org/abstract/document/8170321)]
