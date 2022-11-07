@@ -80,6 +80,8 @@
 
 * **TDD(CVPR2022)** Cross Domain Object Detection by Target-Perceived Dual Branch Distillation [[paper link](https://arxiv.org/abs/2205.01291)][[codes|official PyTorch](https://github.com/Feobi1999/TDD)]
 
+* **AT(CVPR2022)** Cross-Domain Adaptive Teacher for Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.html)]
+
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
