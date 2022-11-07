@@ -30,6 +30,9 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 ### Materials
 
+
+* **(blogs) OBJ Files** [[Everything You Need to Know About Using OBJ Files](https://www.marxentlabs.com/obj-files/)]
+* **(blogs) OBJ Files** [[6 Best Free OBJ Editor Software For Windows](https://listoffreeware.com/free-obj-editor-software-windows/)]
 * **(models) SMPL family, i.e. SMPL, SMPL+H, SMPL-X** [[codes|official github](https://github.com/vchoutas/smplx/tree/main/transfer_model)]
 * **(survey)(arxiv2022) Recovering 3D Human Mesh from Monocular Images: A Survey** [[paper link](https://arxiv.org/abs/2203.01923)] [[project link](https://github.com/tinatiansjz/hmr-survey)] [[CVPR 2022 related works](https://github.com/tinatiansjz/hmr-survey/issues/1)]
  
