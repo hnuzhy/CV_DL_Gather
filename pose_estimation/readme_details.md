@@ -330,7 +330,7 @@
 
 * **PoseTrans(ECCV2022)** PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper link](https://arxiv.org/abs/2208.07755)]
 
-* ⭐**DeciWatch(ECCV2022)** DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation [[paper link](https://arxiv.org/abs/2203.08713)][[code|official](https://github.com/cure-lab/DeciWatch)][`Video based human pose estimation`]
+* ⭐**DeciWatch(ECCV2022)** DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation [[paper link](https://arxiv.org/abs/2203.08713)][[code|official](https://github.com/cure-lab/DeciWatch)][[project link](https://ailingzeng.site/deciwatch)][`Video based human pose estimation`]
  
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
