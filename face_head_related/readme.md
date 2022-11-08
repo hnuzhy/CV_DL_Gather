@@ -222,11 +222,13 @@
 
 * **LYHM(IJCV2019)** Statistical Modeling of Craniofacial Shape and Texture [[paper link](https://link.springer.com/article/10.1007/s11263-019-01260-7)][[project link](https://www-users.cs.york.ac.uk/~nep/research/LYHM/)][`3DMM of face/head (LYHM)`][By `Liverpool-York: Liverpool (UK) and the University of York (UK)`]
 
-* **RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][`NoW dataset`][`MPII 马普所`]
+* ⭐**RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][`NoW dataset`][`MPII 马普所`]
 
 * **FaceScape(CVPR2020)** FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.html)][[project link](https://facescape.nju.edu.cn/)][[codes|official](https://github.com/zhuhao-nju/facescape)][`3DMM of face/head (FaceScape)` and `3D face dataset (FaceScape)`][By `NJU`]
 
 * **HIFI3D(TOG2021)** High-Fidelity 3D Digital Human Head Creation from RGB-D Selfies [[paper link](https://dl.acm.org/doi/abs/10.1145/3472954)][[project link](https://tencent-ailab.github.io/hifi3dface_projpage/)][[codes|official](https://github.com/tencent-ailab/hifi3dface)][`3DMM of face/head (HIFI3D)`][By `Tencent`]
+
+* ⭐**DECA(TOG2021)** Learning an animatable detailed 3D face model from in-the-wild images [[paper link](https://dl.acm.org/doi/abs/10.1145/3450626.3459936)][[project link](https://deca.is.tue.mpg.de/)][[code|official](https://github.com/YadiraF/DECA)][`MPII 马普所`]
 
 * ⭐**DAD-3DNet(CVPR2022)** DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)][[project link](https://www.pinatafarm.com/research/dad-3dheads)][[codes|official PyTorch](https://github.com/PinataFarms/DAD-3DHeads)][`DAD-3DHeads dataset`][By `pinatafarm`]
 
