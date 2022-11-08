@@ -193,6 +193,7 @@
 
 * **CID(CVPR2022)** Contextual Instance Decoupling for Robust Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official](https://github.com/kennethwdk/CID)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)]
 
+* **Swin-Pose(arxiv2022)** Swin-Pose: Swin Transformer Based Human Pose Estimation [[paper link](https://arxiv.org/abs/2201.07384)][`Swin Transformer`]
 
 
 ### ▶ Two-Stage [Bottom-Up] Multiple Person Pose Estimation
