@@ -63,6 +63,13 @@
 
 </details>
 
+## Links of Frequently Covered Topics
+
+* [**Human Pose Estimation**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md)
+* [**Face and Head Related**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/face_head_related/readme.md)
+* [**3D Body Model Regression**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/README-others.md#3d-body-model-regression)
+* [**6D Object Pose Estimation**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/README-others.md#6d-object-pose-estimation)
+
 ## Other Collection Depository
 
 * **[(website) SpringerLink of European Conference on Computer Vision](https://link.springer.com/conference/eccv)**
