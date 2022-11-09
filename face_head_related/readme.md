@@ -229,7 +229,7 @@
 
 * **Deep3DFaceRecon(CVPRW2019)** Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set [[paper link](https://arxiv.org/abs/1903.08527)][[code|official](https://github.com/microsoft/Deep3DFaceReconstruction)][[code|not official, a better version using PyTorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)]
 
-* ⭐**RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][[NoW evaluation code](https://github.com/soubhiksanyal/now_evaluation)][`NoW dataset`][`FLAME based`][`MPII 马普所`]
+* ⭐**RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][[NoW evaluation code](https://github.com/soubhiksanyal/now_evaluation)][[NoW challenge page](https://now.is.tue.mpg.de/nonmetricalevaluation.html)][`NoW dataset`][`FLAME based`][`MPII 马普所`]
 
 * **FaceScape(CVPR2020)** FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.html)][[project link](https://facescape.nju.edu.cn/)][[codes|official](https://github.com/zhuhao-nju/facescape)][`3DMM of face/head (FaceScape)` and `3D face dataset (FaceScape)`][By `NJU`]
 
@@ -255,7 +255,7 @@
 
 * **DenseLandmarks(ECCV2022)** 3D Face Reconstruction with Dense Landmarks [[paper link](https://arxiv.org/abs/2204.02776)][[project link](https://microsoft.github.io/DenseLandmarks/)][`Microsoft`]
 
-* **MICA(ECCV2022)** Towards Metrical Reconstruction of Human Faces [[paper link](https://arxiv.org/abs/2204.06607)][[project link](https://zielon.github.io/mica/)][[code|official](https://github.com/Zielon/MICA)][[used multiple datasets](https://github.com/Zielon/MICA/tree/master/datasets/)][[NoW challenge page](https://now.is.tue.mpg.de/nonmetricalevaluation.html)][`SoTA results in NoW`][`MPII 马普所`]
+* **MICA(ECCV2022)** Towards Metrical Reconstruction of Human Faces [[paper link](https://arxiv.org/abs/2204.06607)][[project link](https://zielon.github.io/mica/)][[code|official](https://github.com/Zielon/MICA)][[used multiple datasets](https://github.com/Zielon/MICA/tree/master/datasets/)][`SoTA results in NoW`][`MPII 马普所`]
 
 
 
