@@ -204,6 +204,7 @@
 
 #### Datasets
 
+* [**Papers With Code Ranks**][[NoW Benchmark](https://paperswithcode.com/dataset/now-benchmark)] [[FaceScape](https://paperswithcode.com/dataset/facescape)] [[D3DFACS](https://paperswithcode.com/dataset/d3dfacs)] [[AFLW2000-3D](https://paperswithcode.com/dataset/aflw2000-3d)]
 * [**NoW ("Not quite in-the-Wild")**][RingNet(CVPR2019) Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](https://ringnet.is.tue.mpg.de/index.html)
 * [**FaceScape**][FaceScape(CVPR2020) FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://facescape.nju.edu.cn/)
 * [**DAD-3DHeads**][DAD-3DNet(CVPR2022) DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image](https://www.pinatafarm.com/research/dad-3dheads)
@@ -216,6 +217,8 @@
 
 * ⭐**FLAME(SIGGRAPH2017)** Learning a model of facial shape and expression from 4D scans [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)][[project link](https://flame.is.tue.mpg.de/)][`3DMM of face/head (FLAME)`][`MPII 马普所`]
 
+* **3DMM-CNN(CVPR2017)** Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network [[paper link](https://arxiv.org/abs/1612.04904)][[code|official](https://github.com/anhttran/3dmm_cnn)]
+
 * **VRN(ICCV2017)** Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arxiv link](https://arxiv.org/abs/1703.07834)][[project link](http://aaronsplace.co.uk/papers/jackson2017recon/)][[online website](https://cvl-demos.cs.nott.ac.uk/vrn/)][[Codes|Torch7(offical)](https://github.com/AaronJackson/vrn)]
 
 * **PRNet(ECCV2018)** Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[arxiv link](https://arxiv.org/abs/1803.07835)][[Codes|TensorFlow(offical)](https://github.com/YadiraF/PRNet)]
@@ -224,17 +227,35 @@
 
 * ⭐**Syn&Real(ICCV2019)** 3D Face Modeling From Diverse Raw Scan Data [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_3D_Face_Modeling_From_Diverse_Raw_Scan_Data_ICCV_2019_paper.html)][[codes|official](https://github.com/liuf1990/3DFC)][`A subset of Stirling/ESRC 3D face database`]
 
+* **Deep3DFaceRecon(CVPRW2019)** Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set [[paper link](https://arxiv.org/abs/1903.08527)][[code|official](https://github.com/microsoft/Deep3DFaceReconstruction)][[code|not official, a better version using PyTorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)]
+
 * ⭐**RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][[NoW evaluation code](https://github.com/soubhiksanyal/now_evaluation)][`NoW dataset`][`FLAME based`][`MPII 马普所`]
 
 * **FaceScape(CVPR2020)** FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.html)][[project link](https://facescape.nju.edu.cn/)][[codes|official](https://github.com/zhuhao-nju/facescape)][`3DMM of face/head (FaceScape)` and `3D face dataset (FaceScape)`][By `NJU`]
 
+* **UMDFA(ECCV2020)** “Look Ma, no landmarks!”–Unsupervised, model-based dense face alignment [[paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470681.pdf)][[code|official (not released)](https://github.com/kzmttr/UMDFA)]
+
+* **MGCNet(ECCV2020)** Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency [[paper link](https://arxiv.org/abs/2007.12494)][[code|official](https://github.com/jiaxiangshang/MGCNet)]
+
+* ⭐**3DDFA_V2(ECCV2020)** Towards Fast, Accurate and Stable 3D Dense Face Alignment [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640154.pdf)][[codes|PyTorch 3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)]
+
+* ⭐**SynergyNet(3DV2021)** Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry [[paper link](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800a453/1zWEnuGbFte)][[project link](https://choyingw.github.io/works/SynergyNet)][[codes|PyTorch](https://github.com/choyingw/SynergyNet)]
+
+* **(ICCV2021)** Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing [[paper link](https://arxiv.org/abs/2103.15432)][`MPII 马普所`]
+
 * **HIFI3D(TOG2021)** High-Fidelity 3D Digital Human Head Creation from RGB-D Selfies [[paper link](https://dl.acm.org/doi/abs/10.1145/3472954)][[project link](https://tencent-ailab.github.io/hifi3dface_projpage/)][[codes|official](https://github.com/tencent-ailab/hifi3dface)][`3DMM of face/head (HIFI3D)`][By `Tencent`]
 
-* ⭐**DECA(TOG2021)** Learning an animatable detailed 3D face model from in-the-wild images [[paper link](https://dl.acm.org/doi/abs/10.1145/3450626.3459936)][[project link](https://deca.is.tue.mpg.de/)][[code|official](https://github.com/YadiraF/DECA)][`MPII 马普所`]
+* ⭐**DECA(TOG2021)(SIGGRAPH2021)** Learning an animatable detailed 3D face model from in-the-wild images [[paper link](https://dl.acm.org/doi/abs/10.1145/3450626.3459936)][[project link](https://deca.is.tue.mpg.de/)][[code|official](https://github.com/YadiraF/DECA)][`MPII 马普所`]
+
+* **FOCUS(arxiv2021)** To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision [[paper link](https://arxiv.org/abs/2106.09614)][[code|official](https://github.com/unibas-gravis/Occlusion-Robust-MoFA)]
 
 * ⭐**DAD-3DNet(CVPR2022)** DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)][[project link👍](https://www.pinatafarm.com/research/dad-3dheads)][[codes|official PyTorch](https://github.com/PinataFarms/DAD-3DHeads)][[benchmark challenge👍](https://github.com/PinataFarms/DAD-3DHeads/tree/main/dad_3dheads_benchmark)][`DAD-3DHeads dataset`][By `pinatafarm`]
 
 * **REALY(ECCV2022)** REALY: Rethinking the Evaluation of 3D Face Reconstruction [[paper link](https://arxiv.org/abs/2203.09729)][[project link](https://www.realy3dface.com/)][[codes|official](https://github.com/czh-98/REALY)][[blogs|zhihu](https://zhuanlan.zhihu.com/p/549704170)][`3DMM of face/head (HIFI3D++)` and `3D face dataset (REALY)`][By `Tsinghua`]
+
+* **DenseLandmarks(ECCV2022)** 3D Face Reconstruction with Dense Landmarks [[paper link](https://arxiv.org/abs/2204.02776)][[project link](https://microsoft.github.io/DenseLandmarks/)][`Microsoft`]
+
+* **MICA(ECCV2022)** Towards Metrical Reconstruction of Human Faces [[paper link](https://arxiv.org/abs/2204.06607)][[project link](https://zielon.github.io/mica/)][[code|official](https://github.com/Zielon/MICA)][[used multiple datasets](https://github.com/Zielon/MICA/tree/master/datasets/)][[NoW challenge page](https://now.is.tue.mpg.de/nonmetricalevaluation.html)][`SoTA results in NoW`][`MPII 马普所`]
 
 
 
