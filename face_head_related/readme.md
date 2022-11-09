@@ -232,7 +232,7 @@
 
 * ⭐**DECA(TOG2021)** Learning an animatable detailed 3D face model from in-the-wild images [[paper link](https://dl.acm.org/doi/abs/10.1145/3450626.3459936)][[project link](https://deca.is.tue.mpg.de/)][[code|official](https://github.com/YadiraF/DECA)][`MPII 马普所`]
 
-* ⭐**DAD-3DNet(CVPR2022)** DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)][[project link](https://www.pinatafarm.com/research/dad-3dheads)][[codes|official PyTorch](https://github.com/PinataFarms/DAD-3DHeads)][`DAD-3DHeads dataset`][By `pinatafarm`]
+* ⭐**DAD-3DNet(CVPR2022)** DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)][[project link](https://www.pinatafarm.com/research/dad-3dheads)][[codes|official PyTorch](https://github.com/PinataFarms/DAD-3DHeads)][[benchmark challenge👍](https://github.com/PinataFarms/DAD-3DHeads/tree/main/dad_3dheads_benchmark)][`DAD-3DHeads dataset`][By `pinatafarm`]
 
 * **REALY(ECCV2022)** REALY: Rethinking the Evaluation of 3D Face Reconstruction [[paper link](https://arxiv.org/abs/2203.09729)][[project link](https://www.realy3dface.com/)][[codes|official](https://github.com/czh-98/REALY)][[blogs|zhihu](https://zhuanlan.zhihu.com/p/549704170)][`3DMM of face/head (HIFI3D++)` and `3D face dataset (REALY)`][By `Tsinghua`]
 
