@@ -224,7 +224,7 @@
 
 * ⭐**Syn&Real(ICCV2019)** 3D Face Modeling From Diverse Raw Scan Data [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_3D_Face_Modeling_From_Diverse_Raw_Scan_Data_ICCV_2019_paper.html)][[codes|official](https://github.com/liuf1990/3DFC)][`A subset of Stirling/ESRC 3D face database`]
 
-* ⭐**RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][`NoW dataset`][`FLAME based`][`MPII 马普所`]
+* ⭐**RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][[NoW evaluation code](https://github.com/soubhiksanyal/now_evaluation)][`NoW dataset`][`FLAME based`][`MPII 马普所`]
 
 * **FaceScape(CVPR2020)** FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.html)][[project link](https://facescape.nju.edu.cn/)][[codes|official](https://github.com/zhuhao-nju/facescape)][`3DMM of face/head (FaceScape)` and `3D face dataset (FaceScape)`][By `NJU`]
 
