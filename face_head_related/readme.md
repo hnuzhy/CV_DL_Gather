@@ -220,6 +220,8 @@
 
 #### Papers (Conference and Journey)
 
+* **Blanz et al.(SIGGRAPH1999)** A morphable model for the synthesis of 3D faces [[paper link](https://dl.acm.org/doi/pdf/10.1145/311535.311556)][`3DMM of face/head`][`The seminal work of 3DMM`]
+
 * ⭐**BFM(AVSS2009)** A 3D Face Model for Pose and Illumination Invariant Face Recognition [[paper link](https://web.archive.org/web/20170813045339id_/http://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf)][[project link](https://faces.dmi.unibas.ch/bfm/)][`3DMM of face/head (BFM)`][Well-known 3DMM by `University of Basel, Switzerland`]
 
 * **LSFM(CVPR2016)** A 3D Morphable Model learnt from 10,000 faces [[paper link](https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf)][[project link](https://ibug.doc.ic.ac.uk/resources/lsfm/)][[code|official](https://github.com/menpo/lsfm)][[(IJCV2017) Large Scale 3D Morphable Models](https://link.springer.com/article/10.1007/s11263-017-1009-7)][`3DMM of face/head (LSFM)`][By `the iBUG group at Imperial, UK`]
