@@ -266,7 +266,7 @@
 
 * **MICA(ECCV2022)** Towards Metrical Reconstruction of Human Faces [[paper link](https://arxiv.org/abs/2204.06607)][[project link](https://zielon.github.io/mica/)][[code|official](https://github.com/Zielon/MICA)][[used multiple datasets](https://github.com/Zielon/MICA/tree/master/datasets/)][`SoTA results in NoW`][`MPII 马普所`]
 
-
+* **JMLR(ECCVW2022)** Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression [[paper link](https://arxiv.org/abs/2208.07142)][[code|official](https://github.com/deepinsight/insightface/tree/master/reconstruction/jmlr)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
