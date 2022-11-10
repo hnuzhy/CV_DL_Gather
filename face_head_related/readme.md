@@ -210,12 +210,13 @@
 * [**DAD-3DHeads**][DAD-3DNet(CVPR2022) DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image](https://www.pinatafarm.com/research/dad-3dheads)
 
 
-
 #### Papers
 
 ##### Survey
 
-* **Survey(CGFroum2018)** State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper link](http://zollhoefer.com/papers/EG18_FaceSTAR/paper.pdf)]
+* **Survey of face methods(CGFroum2018)** State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper link](http://zollhoefer.com/papers/EG18_FaceSTAR/paper.pdf)]
+
+* **Survey of face models(TOG2020)** 3D Morphable Face Models—Past, Present, and Future [[paper link](https://dl.acm.org/doi/abs/10.1145/3395208)][pdf page](https://www.researchgate.net/profile/Adam-Kortylewski/publication/342056152_3D_Morphable_Face_Models-Past_Present_and_Future/links/5f73174492851c14bc9d26c9/3D-Morphable-Face-Models-Past-Present-and-Future.pdf)]
 
 ##### Conference and Journey
 
