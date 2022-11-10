@@ -213,11 +213,11 @@
 
 #### Papers
 
-#### Survey
+##### Survey
 
 * **Survey(CGFroum2018)** State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper link](http://zollhoefer.com/papers/EG18_FaceSTAR/paper.pdf)]
 
-#### Conference and Journey
+##### Conference and Journey
 
 * ⭐**BFM(AVSS2009)** A 3D Face Model for Pose and Illumination Invariant Face Recognition [[paper link](https://web.archive.org/web/20170813045339id_/http://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf)][[project link](https://faces.dmi.unibas.ch/bfm/)][`3DMM of face/head (BFM)`][Well-known 3DMM by `University of Basel, Switzerland`]
 
