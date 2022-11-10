@@ -209,16 +209,15 @@
 * [**FaceScape**][FaceScape(CVPR2020) FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://facescape.nju.edu.cn/)
 * [**DAD-3DHeads**][DAD-3DNet(CVPR2022) DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image](https://www.pinatafarm.com/research/dad-3dheads)
 
+#### Survey
 
-#### Papers
-
-##### Survey
-
-* **Survey of face methods(CGFroum2018)** State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper link](http://zollhoefer.com/papers/EG18_FaceSTAR/paper.pdf)]
+* **Survey of optimization-based methods(CGFroum2018)** State of the Art on Monocular 3D Face Reconstruction, Tracking, and Applications [[paper link](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13382)][[pdf page](http://zollhoefer.com/papers/EG18_FaceSTAR/paper.pdf)]
 
 * **Survey of face models(TOG2020)** 3D Morphable Face Models—Past, Present, and Future [[paper link](https://dl.acm.org/doi/abs/10.1145/3395208)][pdf page](https://www.researchgate.net/profile/Adam-Kortylewski/publication/342056152_3D_Morphable_Face_Models-Past_Present_and_Future/links/5f73174492851c14bc9d26c9/3D-Morphable-Face-Models-Past-Present-and-Future.pdf)]
 
-##### Conference and Journey
+* **Survey of regression-based methods(CSReview2021)** Survey on 3D face reconstruction from uncalibrated images [[paper link](https://www.sciencedirect.com/science/article/pii/S157401372100040X)][[pdf page](https://arxiv.org/pdf/2011.05740.pdf)]
+
+#### Papers (Conference and Journey)
 
 * ⭐**BFM(AVSS2009)** A 3D Face Model for Pose and Illumination Invariant Face Recognition [[paper link](https://web.archive.org/web/20170813045339id_/http://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf)][[project link](https://faces.dmi.unibas.ch/bfm/)][`3DMM of face/head (BFM)`][Well-known 3DMM by `University of Basel, Switzerland`]
 
