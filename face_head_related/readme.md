@@ -122,6 +122,10 @@
 * [(Website) Face Alignment Across Large Poses: A 3D Solution (official website)](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3ddfa/main.htm)
 * [(github) 🔥🔥The pytorch implement of the head pose estimation(yaw,roll,pitch) and emotion detection](https://github.com/WIKI2020/FacePose_pytorch)
 
+#### Datasets
+
+* **FaceSynthetics(ICCV2021)** Fake It Till You Make It: Face analysis in the wild using synthetic data alone [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Wood_Fake_It_Till_You_Make_It_Face_Analysis_in_the_ICCV_2021_paper.html)][[project link](https://microsoft.github.io/FaceSynthetics/)][[code|official](https://github.com/microsoft/FaceSynthetics)]
+
 #### Papers
 
 * **Dlib(CVPR2014)** One Millisecond Face Alignment with an Ensemble of Regression Trees [[paper link](https://openaccess.thecvf.com/content_cvpr_2014/html/Kazemi_One_Millisecond_Face_2014_CVPR_paper.html)][[codes|official C++](https://github.com/davisking/dlib)][`pip install dlib`]
@@ -210,6 +214,8 @@
 * [**NoW ("Not quite in-the-Wild")**] [RingNet(CVPR2019) Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](https://ringnet.is.tue.mpg.de/index.html)
 * [**FaceScape**] [FaceScape(CVPR2020) FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://facescape.nju.edu.cn/)
 * [**DAD-3DHeads**] [DAD-3DNet(CVPR2022) DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image](https://www.pinatafarm.com/research/dad-3dheads)
+* [**FaceSynthetics**] [FaceSynthetics(ICCV2021) Fake It Till You Make It: Face analysis in the wild using synthetic data alone](https://microsoft.github.io/FaceSynthetics/) [`synthetic face image with 70 landmarks`]
+
 
 #### Survey
 
