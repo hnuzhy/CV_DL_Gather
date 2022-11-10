@@ -205,7 +205,7 @@
 #### Datasets
 
 * [**Papers With Code Ranks**][[NoW Benchmark](https://paperswithcode.com/dataset/now-benchmark)] [[FaceScape](https://paperswithcode.com/dataset/facescape)] [[D3DFACS](https://paperswithcode.com/dataset/d3dfacs)] [[AFLW2000-3D](https://paperswithcode.com/dataset/aflw2000-3d)]
-* [**Feng et al.**] [(FG2018) Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild](https://ieeexplore.ieee.org/abstract/document/8373916) [[pdf page](https://arxiv.org/pdf/2204.06607.pdf)]
+* [**Feng et al. usng Stirling meshes**] [(FG2018) Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild](https://ieeexplore.ieee.org/abstract/document/8373916) [[pdf page](https://arxiv.org/pdf/2204.06607.pdf)]
 * [**NoW ("Not quite in-the-Wild")**] [RingNet(CVPR2019) Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](https://ringnet.is.tue.mpg.de/index.html)
 * [**FaceScape**] [FaceScape(CVPR2020) FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://facescape.nju.edu.cn/)
 * [**DAD-3DHeads**] [DAD-3DNet(CVPR2022) DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image](https://www.pinatafarm.com/research/dad-3dheads)
