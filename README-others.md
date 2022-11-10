@@ -196,6 +196,8 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * ❤**CenterPose(ICRA2022)(Training with CenterNet and Objectron)** Single-stage Keypoint-based Category-level Object Pose Estimation from an RGB Image [[paper link](https://arxiv.org/abs/2109.06161)][[project link](https://sites.google.com/view/centerpose)][[author homepage](https://yunzhi.netlify.app/)][[codes|official PyTorch](https://github.com/NVlabs/CenterPose)][`Nvidia + Objectron + one-stage + end2end`][based on `FADNet` (https://github.com/gtzly/FADNet) and `CenterNet` (https://github.com/xingyizhou/CenterNet)]
 
+* 👍**EPro-PnP(CVPR2022 Oral, Best Student Paper)** EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf)][[code|official](https://github.com/tjiiv-cprg/EPro-PnP)]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
