@@ -48,15 +48,26 @@
 
 * ❤**DA-FasterRCNN(CVPR2018)(Baseline&Milestone)** Domain Adaptive Faster R-CNN for Object Detection in the Wild [[arxiv link](https://arxiv.org/abs/1803.03243)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.html)][[codes|official Caffe](https://github.com/yuhuayc/da-faster-rcnn)][[Zhihu blog](https://zhuanlan.zhihu.com/p/371721493)]
 
+* **SCL(arxiv2019)** SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[paper link](https://arxiv.org/abs/1911.02559)]
+[[code|official](https://github.com/harsh-99/SCL)]
+
+* **MAF(ICCV2019)** Multi-adversarial Faster-RCNN for Unrestricted Object Detection [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Multi-Adversarial_Faster-RCNN_for_Unrestricted_Object_Detection_ICCV_2019_paper.pdf)][`No code`]
+
 * **Strong-Weak DA(CVPR2019)** Strong-Weak Distribution Alignment for Adaptive Object Detection [[arxiv link](https://arxiv.org/pdf/1812.04798.pdf)][[project link](http://cs-people.bu.edu/keisaito/research/CVPR2019.html)][[codes|official PyTorch](https://github.com/VisionLearningGroup/DA_Detection)]
+ 
+* **MEAA(ACMMM2020)** Domain-Adaptive Object Detection via Uncertainty-Aware Distribution Alignment [[paper link](https://basiclab.lab.nycu.edu.tw/assets/MEAA_MM2020.pdf)][`No code`]
 
 * **(ECCV2020)** YOLO in the Dark - Domain Adaptation Method for Merging Multiple Models [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660341.pdf)]
+
+* **ATF(ECCV2020)** Domain Adaptive Object Detection via Asymmetric Tri-Way Faster-RCNN [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_19)][`No code`]
 
 * **DA-FCOS(ECCV2020)** One-Shot Unsupervised Cross-Domain Detection [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610715.pdf)]
 
 * **HTCN(CVPR2020)** Harmonizing Transferability and Discriminability for Adapting Object Detectors [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Harmonizing_Transferability_and_Discriminability_for_Adapting_Object_Detectors_CVPR_2020_paper.html)][[codes|official PyTorch](https://github.com/chaoqichen/HTCN)][[CSDN blog](https://blog.csdn.net/moutain9426/article/details/120587123)]
 
 * **CR-DA-DET(CVPR2020)** Exploring Categorical Regularization for Domain Adaptive Object Detection [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Exploring_Categorical_Regularization_for_Domain_Adaptive_Object_Detection_CVPR_2020_paper.pdf)][[codes|official PyTorch](https://github.com/Megvii-Nanjing/CR-DA-DET)]
+
+* **PA-ATF(TCSVT2021)** Partial Alignment for Object Detection in the Wild [[paper link](https://ieeexplore.ieee.org/abstract/document/9663266/)][`No code`]
 
 * ❤**Divide-and-Merge Spindle Network(DMSN)(ICCV2021)** Multi-Source Domain Adaptation for Object Detection [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Multi-Source_Domain_Adaptation_for_Object_Detection_ICCV_2021_paper.html)]
 
@@ -67,6 +78,8 @@
 * **MS-DAYOLO(ICIP2021)(YOLOV4)** Multiscale Domain Adaptive YOLO for Cross-Domain Object Detection [[arxiv link](https://arxiv.org/abs/2106.01483)][[csdn blog](https://cloud.tencent.com/developer/article/1843695)]
 
 * **DAYOLO(ACML2021)(YOLOV3)** Domain Adaptive YOLO for One-Stage Cross-Domain Detection [[paper link](https://proceedings.mlr.press/v157/zhang21c.html)]
+
+* **US-DAF(ACMMM2022)** Universal Domain Adaptive Object Detector [[paper link](https://arxiv.org/abs/2207.01756)][`No code`]
 
 * **SCAN(AAAI2022)** SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-902.LiW.pdf)][[codes|official PyTorch](https://github.com/CityU-AIM-Group/SCAN)]
 
@@ -80,7 +93,9 @@
 
 * **TDD(CVPR2022)** Cross Domain Object Detection by Target-Perceived Dual Branch Distillation [[paper link](https://arxiv.org/abs/2205.01291)][[codes|official PyTorch](https://github.com/Feobi1999/TDD)]
 
-* **AT(CVPR2022)** Cross-Domain Adaptive Teacher for Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.html)]
+* **AT(CVPR2022)** Cross-Domain Adaptive Teacher for Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.html)][`No code`]
+
+* ❤**PT(ICML2022)** Learning Domain Adaptive Object Detection with Probabilistic Teacher [[paper link](https://arxiv.org/abs/2206.06293)][[code|official](https://github.com/hikvision-research/ProbabilisticTeacher)][`Probabilistic Teacher`, `Knowledge Distillation Framework`]
 
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
