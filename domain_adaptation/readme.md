@@ -99,6 +99,7 @@
 
 * ❤**PT(ICML2022)** Learning Domain Adaptive Object Detection with Probabilistic Teacher [[paper link](https://arxiv.org/abs/2206.06293)][[code|official](https://github.com/hikvision-research/ProbabilisticTeacher)][`Probabilistic Teacher`, `Knowledge Distillation Framework`]
 
+* **DICN(TPAMI2022)** Dual Instance-Consistent Network for Cross-Domain Object Detection [[paper link](https://ieeexplore.ieee.org/abstract/document/9935311)]
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
@@ -111,6 +112,6 @@
 
 * **SePiCo(arxiv2022)** SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2204.08808)][[codes|official PyTorch](https://github.com/BIT-DA/SePiCo)][`Contrastive with centroid, memory band and gaussian`]
 
-* **BiSMAP(arxiv2022)** Bidirectional Self-Training with Multiple Anisotropic Prototypes for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2204.07730)][[]()][`Use gaussian mixture model as prototypes to generate pseudo-labels`]
+* **BiSMAP(arxiv2022)** Bidirectional Self-Training with Multiple Anisotropic Prototypes for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2204.07730)][`Use gaussian mixture model as prototypes to generate pseudo-labels`]
 
-
+* **CMOM(WACV2023)** Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing [[paper link](https://arxiv.org/abs/2211.02307)][[]()]
