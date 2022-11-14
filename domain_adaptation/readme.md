@@ -103,6 +103,7 @@
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
+* **FDA(CVPR2020)** FDA: Fourier Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.html)][[code|official](https://github.com/YanchaoYang/FDA)]
 
 * **ProDA(CVPR2021)** Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Prototypical_Pseudo_Label_Denoising_and_Target_Structure_Learning_for_Domain_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/microsoft/ProDA)][`Use prototypes to weight pseudo-labels`]
 
