@@ -235,7 +235,7 @@
 
 * **LSFM(CVPR2016)** A 3D Morphable Model learnt from 10,000 faces [[paper link](https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf)][[project link](https://ibug.doc.ic.ac.uk/resources/lsfm/)][[code|official](https://github.com/menpo/lsfm)][[(IJCV2017) Large Scale 3D Morphable Models](https://link.springer.com/article/10.1007/s11263-017-1009-7)][`3DMM of face/head (LSFM)`][By `the iBUG group at Imperial, UK`]
 
-* ⭐**FLAME(SIGGRAPH2017)** Learning a model of facial shape and expression from 4D scans [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)][[project link](https://flame.is.tue.mpg.de/)][`3DMM of face/head (FLAME)`][`MPII 马普所`]
+* ⭐**FLAME(SIGGRAPH2017)** Learning a model of facial shape and expression from 4D scans [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)][[project link](https://flame.is.tue.mpg.de/)][[code|official Chumpy FLAME fitting](https://github.com/Rubikplayer/flame-fitting)][[code|official FLAME_PyTorch](https://github.com/soubhiksanyal/FLAME_PyTorch)][[code|official FLAME texture fitting](https://github.com/HavenFeng/photometric_optimization)][`3DMM of face/head (FLAME)`][`MPII 马普所`]
 
 * **3DMM-CNN(CVPR2017)** Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network [[paper link](https://arxiv.org/abs/1612.04904)][[code|official](https://github.com/anhttran/3dmm_cnn)]
 
