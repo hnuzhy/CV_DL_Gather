@@ -49,6 +49,8 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * **ExPose(ECCV2020)** Monocular Expressive Body Regression through Body-driven Attention [[paper linkl](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_2)][[project link](https://expose.is.tue.mpg.de/)][[codes|official](https://github.com/vchoutas/expose)][`MPII 马普所`][`the pioneering work (regression-based method) for the full-body mesh recovery task`]
 
+* **GTRS(ACMMM2021)** A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose [[paper link](https://arxiv.org/pdf/2111.12696.pdf)][[code|official](https://github.com/zczcwh/GTRS)]
+
 * **DetNet(CVPR2021)** Monocular Real-Time Full Body Capture With Inter-Part Correlations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.html)][`no official code`]
 
 * **PIXIE(3DV2021)** Collaborative regression of expressive bodies using moderation [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/667/PIXIE_3DV_CR.pdf)][[project link](https://pixie.is.tue.mpg.de/)][[codes|official](https://github.com/YadiraF/PIXIE)][`MPII 马普所`]
