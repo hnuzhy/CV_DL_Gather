@@ -241,6 +241,8 @@
 
 * **VRN(ICCV2017)** Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arxiv link](https://arxiv.org/abs/1703.07834)][[project link](http://aaronsplace.co.uk/papers/jackson2017recon/)][[online website](https://cvl-demos.cs.nott.ac.uk/vrn/)][[Codes|Torch7(offical)](https://github.com/AaronJackson/vrn)]
 
+* **BIP(IJCV2018)** Occlusion-Aware 3D Morphable Models and an Illumination Prior for Face Image Analysis [[paper link](https://link.springer.com/article/10.1007/s11263-018-1064-8)][[code|official](https://github.com/unibas-gravis/parametric-face-image-generator)][`Basel Illumination Prior 2017`]
+
 * **PRNet(ECCV2018)** Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[arxiv link](https://arxiv.org/abs/1803.07835)][[Codes|TensorFlow(offical)](https://github.com/YadiraF/PRNet)]
 
 * **LYHM(IJCV2019)** Statistical Modeling of Craniofacial Shape and Texture [[paper link](https://link.springer.com/article/10.1007/s11263-019-01260-7)][[project link](https://www-users.cs.york.ac.uk/~nep/research/LYHM/)][`3DMM of face/head (LYHM)`][By `Liverpool-York: Liverpool (UK) and the University of York (UK)`]
