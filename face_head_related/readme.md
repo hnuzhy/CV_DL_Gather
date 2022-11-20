@@ -240,6 +240,8 @@
 
 * **3DMM-CNN(CVPR2017)** Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network [[paper link](https://arxiv.org/abs/1612.04904)][[code|official](https://github.com/anhttran/3dmm_cnn)]
 
+* **MoFA(ICCV2017)** MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction [[paper link](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w19/html/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.html)]
+
 * **VRN(ICCV2017)** Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression [[arxiv link](https://arxiv.org/abs/1703.07834)][[project link](http://aaronsplace.co.uk/papers/jackson2017recon/)][[online website](https://cvl-demos.cs.nott.ac.uk/vrn/)][[Codes|Torch7(offical)](https://github.com/AaronJackson/vrn)]
 
 * **BIP(IJCV2018)** Occlusion-Aware 3D Morphable Models and an Illumination Prior for Face Image Analysis [[paper link](https://link.springer.com/article/10.1007/s11263-018-1064-8)][[project link](https://shapemodelling.cs.unibas.ch/web/)][[code|official](https://github.com/unibas-gravis/parametric-face-image-generator)][`Basel Illumination Prior 2017`]
@@ -281,6 +283,10 @@
 * **MICA(ECCV2022)** Towards Metrical Reconstruction of Human Faces [[paper link](https://arxiv.org/abs/2204.06607)][[project link](https://zielon.github.io/mica/)][[code|official](https://github.com/Zielon/MICA)][[used multiple datasets](https://github.com/Zielon/MICA/tree/master/datasets/)][`SoTA results in NoW`][`MPII 马普所`]
 
 * **JMLR(ECCVW2022)** Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression [[paper link](https://arxiv.org/abs/2208.07142)][[code|official](https://github.com/deepinsight/insightface/tree/master/reconstruction/jmlr)]
+
+* **MoFaNeRF(ECCV2022)** MoFaNeRF:Morphable Facial Neural Radiance Field [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20062-5_16)][[code|official](https://github.com/zhuhao-nju/mofanerf)]
+
+* **headshot(arxiv2022)** Novel View Synthesis for High-fidelity Headshot Scenes [[paper link](https://arxiv.org/abs/2205.15595)][[code|official](https://github.com/showlab/headshot)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
