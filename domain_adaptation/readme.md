@@ -101,6 +101,8 @@
 
 * **DICN(TPAMI2022)** Dual Instance-Consistent Network for Cross-Domain Object Detection [[paper link](https://ieeexplore.ieee.org/abstract/document/9935311)]
 
+* **DenseTeacher(ECCV2022)** DenseTeacher: Dense Pseudo-Label for Semi-supervised Object Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_3)][[code|official](https://github.com/Megvii-BaseDetection/DenseTeacher)]
+
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
 * **FDA(CVPR2020)** FDA: Fourier Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.html)][[code|official](https://github.com/YanchaoYang/FDA)]
