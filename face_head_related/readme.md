@@ -312,6 +312,8 @@
 
 * **JointDet(AAAI2020)** Relational Learning for Joint Head and Human Detection [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6691)][[codes|not released](https://github.com/ChiCheng123/JointDet)]
 
+* **FastNFusion(PRCV2021)** Fast and Fusion: Real-Time Pedestrian Detector Boosted by Body-Head Fusion [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-88004-0_6)][`Pedestrian Detector using Body-Head Association`]
+
 * **BFJDet(ICCV2021)** Body-Face Joint Detection via Embedding and Head Hook [[paper link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)][[codes|official](https://github.com/AibeeDetect/BFJDet)][`joint detection of person body, head and face`]
 
 * **BodyHands(CVPR2022)** Whose Hands Are These? Hand Detection and Hand-Body Association in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Narasimhaswamy_Whose_Hands_Are_These_Hand_Detection_and_Hand-Body_Association_in_CVPR_2022_paper.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/BodyHands/)][[code|official](https://github.com/cvlab-stonybrook/BodyHands)][`joint detection of person body and hands`]
