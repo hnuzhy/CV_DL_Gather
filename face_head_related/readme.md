@@ -252,7 +252,7 @@
 
 * ⭐**Syn&Real(ICCV2019)** 3D Face Modeling From Diverse Raw Scan Data [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Liu_3D_Face_Modeling_From_Diverse_Raw_Scan_Data_ICCV_2019_paper.html)][[codes|official](https://github.com/liuf1990/3DFC)][`A subset of Stirling/ESRC 3D face database`]
 
-* **Deep3DFaceRecon(CVPRW2019)** Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set [[paper link](https://arxiv.org/abs/1903.08527)][[code|official](https://github.com/microsoft/Deep3DFaceReconstruction)][[code|not official, a better version using PyTorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)]
+* 👍**Deep3DFaceRecon(CVPRW2019)** Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set [[paper link](https://arxiv.org/abs/1903.08527)][[code|official](https://github.com/microsoft/Deep3DFaceReconstruction)][[code|not official, a better version using PyTorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)]
 
 * ⭐**RingNet(CVPR2019)** Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision [[paper link](https://arxiv.org/abs/1905.06817)][[project link](https://ringnet.is.tue.mpg.de/index.html)][[codes|official Tensorflow ](https://github.com/soubhiksanyal/RingNet)][[NoW evaluation code](https://github.com/soubhiksanyal/now_evaluation)][[NoW challenge page](https://now.is.tue.mpg.de/nonmetricalevaluation.html)][`NoW dataset`][`FLAME based`][`MPII 马普所`]
 
@@ -272,7 +272,7 @@
 
 * ⭐**DECA(TOG2021)(SIGGRAPH2021)** Learning an animatable detailed 3D face model from in-the-wild images [[paper link](https://dl.acm.org/doi/abs/10.1145/3450626.3459936)][[project link](https://deca.is.tue.mpg.de/)][[code|official](https://github.com/YadiraF/DECA)][`MPII 马普所`]
 
-* **FOCUS(arxiv2021)** To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision [[paper link](https://arxiv.org/abs/2106.09614)][[code|official](https://github.com/unibas-gravis/Occlusion-Robust-MoFA)]
+* 👍**FOCUS(arxiv2021)** To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision [[paper link](https://arxiv.org/abs/2106.09614)][[code|official](https://github.com/unibas-gravis/Occlusion-Robust-MoFA)]
 
 * ⭐**DAD-3DNet(CVPR2022)** DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)][[project link👍](https://www.pinatafarm.com/research/dad-3dheads)][[codes|official PyTorch](https://github.com/PinataFarms/DAD-3DHeads)][[benchmark challenge👍](https://github.com/PinataFarms/DAD-3DHeads/tree/main/dad_3dheads_benchmark)][`DAD-3DHeads dataset`][By `pinatafarm`]
 
