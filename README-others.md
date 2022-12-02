@@ -239,6 +239,27 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
+## ⭐Deep Neural Networks
+
+### Frameworks
+
+* **PyTorch** [Home Page](https://pytorch.org/), [Offical Documentation](https://pytorch.org/docs/stable/index.html)
+* **TensorFlow** [Home Page](https://tensorflow.google.cn/), [Offical Documentation](https://tensorflow.google.cn/versions/r1.15/api_docs/python/tf)
+
+### Materials
+
+* [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
+* [(CSDN blog) 五大经典卷积神经网络介绍：LeNet / AlexNet / GoogLeNet / VGGNet/ ResNet](https://blog.csdn.net/fendouaini/article/details/79807830)
+* [(cnblogs) Deep Learning回顾#之LeNet、AlexNet、GoogLeNet、VGG、ResNet](https://www.cnblogs.com/52machinelearning/p/5821591.html)
+* [(github) HRNet: HRNet-Applications-Collection](https://github.com/HRNet/HRNet-Applications-Collection)
+
+### Papers
+
+* **FFA(Hinton 2022)** The Forward-Forward Algorithm: Some Preliminary Investigations [[paper link](https://www.cs.toronto.edu/~hinton/FFA13.pdf)]
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
 ## ⭐Generative Adversarial Network
 
 ### Materials
@@ -301,26 +322,6 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 * **MSTR(CVPR2022)** MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MSTR_Multi-Scale_Transformer_for_End-to-End_Human-Object_Interaction_Detection_CVPR_2022_paper.html)][[codes|official]()]
 
 * **DisTrans(CVPR2022)** Human-Object Interaction Detection via Disentangled Transformer [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Human-Object_Interaction_Detection_via_Disentangled_Transformer_CVPR_2022_paper.html)][[codes|official]()]
-
-
-**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
-
-## ⭐Deep Neural Networks
-
-### Frameworks
-
-* **PyTorch** [Home Page](https://pytorch.org/), [Offical Documentation](https://pytorch.org/docs/stable/index.html)
-* **TensorFlow** [Home Page](https://tensorflow.google.cn/), [Offical Documentation](https://tensorflow.google.cn/versions/r1.15/api_docs/python/tf)
-
-### Materials
-
-* [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
-* [(CSDN blog) 五大经典卷积神经网络介绍：LeNet / AlexNet / GoogLeNet / VGGNet/ ResNet](https://blog.csdn.net/fendouaini/article/details/79807830)
-* [(cnblogs) Deep Learning回顾#之LeNet、AlexNet、GoogLeNet、VGG、ResNet](https://www.cnblogs.com/52machinelearning/p/5821591.html)
-* [(github) HRNet: HRNet-Applications-Collection](https://github.com/HRNet/HRNet-Applications-Collection)
-
-### Papers
-
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
