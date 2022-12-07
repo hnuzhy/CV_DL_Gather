@@ -308,6 +308,8 @@
 
 * **LSC-CNN(TPAMI2020)** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection [[arxiv link](https://arxiv.org/abs/1906.07538)][[Codes|Pytorch(official)](https://github.com/val-iisc/lsc-cnn)]
  
+* **PedHunter(AAAI2020)** PedHunter: Occlusion Robust Pedestrian Detector in Crowded Scenes [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6690)][`joint body-head detection`]
+ 
 * **YOLOv5(2020)** YOLOv5 is from the family of object detection architectures YOLO and has no paper [[YOLOv5 Docs](https://docs.ultralytics.com/)][[Code|PyTorch(official)](https://github.com/ultralytics/yolov5)]
 
 * **JointDet(AAAI2020)** Relational Learning for Joint Head and Human Detection [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6691)][[codes|not released](https://github.com/ChiCheng123/JointDet)]
