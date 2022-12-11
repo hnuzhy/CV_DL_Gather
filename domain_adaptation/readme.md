@@ -118,3 +118,9 @@
 * **BiSMAP(arxiv2022)** Bidirectional Self-Training with Multiple Anisotropic Prototypes for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2204.07730)][`Use gaussian mixture model as prototypes to generate pseudo-labels`]
 
 * **CMOM(WACV2023)** Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing [[paper link](https://arxiv.org/abs/2211.02307)][[]()]
+
+### ④ ⭐⭐Domain Adaptation for Fields
+
+* **SSDA3D(AAAI2023)** SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud [[paper link](https://arxiv.org/abs/2212.02845)][[codes|official (not released)](https://github.com/yinjunbo/SSDA3D)][`Domain Adaptation for 3D Object Detection`]
+
+
