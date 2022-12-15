@@ -189,7 +189,6 @@
 * [(CSDN blogs) 人脸比对（1:N）](https://blog.csdn.net/intflojx/article/details/81278330)
 * [(github) Face Recognition (dlib with deep learning reaching 99.38% acc in LFW)](https://github.com/ageitgey/face_recognition)
 * [(website) face_recognition package](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)
-* [(github) Awesome-Talking-Face](https://github.com/JosephPai/Awesome-Talking-Face)
 
 ###3 Papers
 
@@ -209,6 +208,8 @@
 * [(github) Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.](https://github.com/YadiraF/face3d)
 * [(zhihu) 1.利用3D mesh生成2D图像](https://zhuanlan.zhihu.com/p/463003032) [2.人脸3DMM](https://zhuanlan.zhihu.com/p/463145736) [3. 2D图像的3D重建(3DMM)](https://zhuanlan.zhihu.com/p/465224205)
 * [(website) searching '3D Face Reconstruction' in the website catalyzex](https://www.catalyzex.com/s/3D%20Face%20Reconstruction)
+* [(github) Awesome-Talking-Face (papers, code and projects)](https://github.com/JosephPai/Awesome-Talking-Face)
+
 
 #### Datasets
 
