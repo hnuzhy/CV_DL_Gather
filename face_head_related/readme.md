@@ -189,6 +189,7 @@
 * [(CSDN blogs) 人脸比对（1:N）](https://blog.csdn.net/intflojx/article/details/81278330)
 * [(github) Face Recognition (dlib with deep learning reaching 99.38% acc in LFW)](https://github.com/ageitgey/face_recognition)
 * [(website) face_recognition package](https://face-recognition.readthedocs.io/en/latest/face_recognition.html)
+* [(github) Awesome-Talking-Face](https://github.com/JosephPai/Awesome-Talking-Face)
 
 ###3 Papers
 
