@@ -3,7 +3,6 @@
 **Contents Hyperlinks**
 
 * [⭐3D Body Model Regression](#3d-body-model-regression)
-* [⭐3D Object Detection](#3d-object-detection)
 * [⭐3D Reconstruction](#3d-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Aerial Autonomous Navigation](#aerial-autonomous-navigation)
@@ -75,25 +74,6 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐3D Object Detection
-
-### Materials
-
-
-### Papers
-
-* ❤ **3D-BoundingBox(CVPR2017)** 3D Bounding Box Estimation Using Deep Learning and Geometry [[paper link](https://arxiv.org/abs/1612.00496)][[codes|official PyTorch](https://github.com/skhadem/3D-BoundingBox)]
-
-* ❤ **SMOKE(CVPRW2020)** SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w60/Liu_SMOKE_Single-Stage_Monocular_3D_Object_Detection_via_Keypoint_Estimation_CVPRW_2020_paper.html)][[codes|official PyTorch](https://github.com/lzccccc/SMOKE)]
-
-* **MonoPair(CVPR2020)** MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_MonoPair_Monocular_3D_Object_Detection_Using_Pairwise_Spatial_Relationships_CVPR_2020_paper.html)][[codes|]()]
-
-* **RTM3D(ECCV2020)** RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480647.pdf)][[codes|]()]
-
-* ❤ **FADNet(TIV2022)** Monocular 3D Object Detection with Sequential Feature Association and Depth Hint Augmentation [[paper link](https://arxiv.org/abs/2011.14589)][[codes|official](https://github.com/gtzly/FADNet)]
-
-**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
-
 ## ⭐3D Reconstruction
 
 ### Materials
@@ -110,7 +90,9 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐6D Object Pose Estimation
+## ⭐6D Object Pose Estimation 
+
+(or 3D Object Detection)
 
 ### Materials
 
@@ -149,9 +131,24 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 * [NOCS (CVPR2019 Oral)](https://geometry.stanford.edu/projects/NOCS_CVPR2019/): Normalized Object Coordinate Space (NOCS) - a shared canonical representation for all possible object instances within a category [***It is a fully annotated real-world RGB-D dataset with large environment and instance variation***]
 * [❤ Objectron (CVPR2021)](https://github.com/google-research-datasets/Objectron): A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations
 * [❤ PhoCaL (CVPR2022)](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_PhoCaL_A_Multi-Modal_Dataset_for_Category-Level_Object_Pose_Estimation_With_CVPR_2022_paper.html): PhoCaL: A Multi-Modal Dataset for Category-Level Object Pose Estimation With Photometrically Challenging Objects [***A novel robot-supported multi-modal (RGB, depth, polarisation) benchmark with challenging scenes supporting RGB-D and monocular RGB methods***]
+* [❤ Objaverse (arxiv2022)](https://arxiv.org/abs/2212.08051): Objaverse: A Universe of Annotated 3D Objects [[project link](https://objaverse.allenai.org/)][[paperswithcode homepage](https://paperswithcode.com/dataset/objaverse)][***A large dataset of objects with 800K+ (and growing) 3D models with descriptive captions, tags, and animations.***]
 
 
 ### Papers
+
+#### ⭐3D Object Detection
+
+* ❤ **3D-BoundingBox(CVPR2017)** 3D Bounding Box Estimation Using Deep Learning and Geometry [[paper link](https://arxiv.org/abs/1612.00496)][[codes|official PyTorch](https://github.com/skhadem/3D-BoundingBox)]
+
+* ❤ **SMOKE(CVPRW2020)** SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w60/Liu_SMOKE_Single-Stage_Monocular_3D_Object_Detection_via_Keypoint_Estimation_CVPRW_2020_paper.html)][[codes|official PyTorch](https://github.com/lzccccc/SMOKE)]
+
+* **MonoPair(CVPR2020)** MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_MonoPair_Monocular_3D_Object_Detection_Using_Pairwise_Spatial_Relationships_CVPR_2020_paper.html)][[codes|]()]
+
+* **RTM3D(ECCV2020)** RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[paper link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480647.pdf)][[codes|]()]
+
+* ❤ **FADNet(TIV2022)** Monocular 3D Object Detection with Sequential Feature Association and Depth Hint Augmentation [[paper link](https://arxiv.org/abs/2011.14589)][[codes|official](https://github.com/gtzly/FADNet)]
+
+#### ⭐6D Object Pose Estimation
 
 * **Pascal3D+(WACV2014)** Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild [[paper link](http://roozbehm.info/papers/Xiang14wacv.pdf)][[project link](https://cvgl.stanford.edu/projects/pascal3d)]
 
