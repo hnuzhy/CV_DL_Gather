@@ -7,6 +7,7 @@
 * [⭐3D Reconstruction](#3d-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Aerial Autonomous Navigation](#aerial-autonomous-navigation)
+* [⭐Automatic Speech Recognition](#automatic-speech-recognition)
 * [⭐Camera Pose Estimation (SLAM)](#camera-pose-estimation-slam)
 * [⭐Deep Neural Networks](#deep-neural-networks)
 * [⭐Generative Adversarial Network](#generative-adversarial-network)
@@ -208,6 +209,17 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 ### Materials
 
 * [(github) CMU: Leveraging system development and robot deployment for aerial autonomous navigation.](https://github.com/caochao39/aerial_navigation_development_environment) [[demo video](https://www.bilibili.com/video/BV1tZ4y187HR)]
+
+### Papers
+
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐Automatic Speech Recognition
+
+### Materials
+
+* [(github) **Whisper by OpenAI** Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper) [[paper link](https://arxiv.org/abs/2212.04356)][[blogs](https://openai.com/blog/whisper/)]
 
 ### Papers
 
