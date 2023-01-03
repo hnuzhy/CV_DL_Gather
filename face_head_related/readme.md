@@ -158,6 +158,11 @@
 * [(blog) LFFD 再升级！新增行人和人头检测模型，及优化的C++实现](https://www.zhuanzhi.ai/document/d36c78507cc5d09dcac3fb7241344f3b)
 * [(github) YOLO-FaceV2: A Scale and Occlusion Aware Face Detector](https://github.com/Krasjet-Yu/YOLO-FaceV2)[[paper link](https://arxiv.org/abs/2208.02019)]
 
+#### Datasets
+
+* **WIDER FACE(CVPR2016)** WIDER FACE: A Face Detection Benchmark [[paper link](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/support/paper.pdf)][[project link origin](http://shuoyang1213.me/WIDERFACE/)][[project link new](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/WiderFace_Results.html)]
+
+
 #### Papers
 
 * ❤**MTCNN(SPL2016)** Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks [[paper link](https://kpzhang93.github.io/MTCNN_face_detection_alignment/paper/spl.pdf)][[project link](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)][[Codes|Caffe&Matlab(offical)](https://github.com/kpzhang93/MTCNN_face_detection_alignment)][[Codes|MXNet(unoffical)](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection)][[Codes|Tensorflow(unoffical)](https://github.com/AITTSMD/MTCNN-Tensorflow)][[CSDN blog](https://blog.csdn.net/qq_36782182/article/details/83624357)]
