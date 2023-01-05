@@ -384,7 +384,7 @@
 
 * ⭐**MFDNet(TMM2021)** MFDNet: Collaborative Poses Perception and Matrix Fisher Distribution for Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9435939/)][`matrix representation`]
 
-* ⭐**2DHeadPose(NN2022)** 2DHeadPose: A simple and effective annotation method for the head pose in RGB images and its dataset [[paper link](https://www.sciencedirect.com/science/article/pii/S0893608022005214)][[codes|official](https://github.com/youngnuaa/2DHeadPose)][`annotation tool, dataset, and source code`]
+* ⭐**2DHeadPose(NN2023)** 2DHeadPose: A simple and effective annotation method for the head pose in RGB images and its dataset [[paper link](https://www.sciencedirect.com/science/article/pii/S0893608022005214)][[codes|official](https://github.com/youngnuaa/2DHeadPose)][`annotation tool, dataset, and source code`]
 
 
 #### Papers(Conference)
