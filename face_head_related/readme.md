@@ -365,6 +365,7 @@
 
 * **Survey(PR2022)** Head pose estimation: An extensive survey on recent techniques and applications [[paper link](https://www.sciencedirect.com/science/article/pii/S0031320322000723)]
 
+
 #### Papers(Journal)
 
 * **HyperFace(TPAMI2017)** HyperFace: A Deep Multi-Task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition [[paper link](https://ieeexplore.ieee.org/abstract/document/8170321)]
@@ -382,6 +383,9 @@
 * **MLD(TPAMI2020)** Head Pose Estimation Based on Multivariate Label Distribution [[paper link](https://ieeexplore.ieee.org/abstract/document/9217984)]
 
 * ⭐**MFDNet(TMM2021)** MFDNet: Collaborative Poses Perception and Matrix Fisher Distribution for Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9435939/)][`matrix representation`]
+
+* ⭐**2DHeadPose(NN2022)** 2DHeadPose: A simple and effective annotation method for the head pose in RGB images and its dataset [[paper link](https://www.sciencedirect.com/science/article/pii/S0893608022005214)][[codes|official](https://github.com/youngnuaa/2DHeadPose)][`annotation tool, dataset, and source code`]
+
 
 #### Papers(Conference)
 
