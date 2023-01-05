@@ -259,6 +259,8 @@
 
 * ⭐**FCPose(CVPR2021)** FCPose: Fully Convolutional Multi-Person Pose Estimation With Dynamic Instance-Aware Convolutions [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Mao_FCPose_Fully_Convolutional_Multi-Person_Pose_Estimation_With_Dynamic_Instance-Aware_Convolutions_CVPR_2021_paper.html)][[codes|official](https://github.com/aim-uofa/AdelaiDet/)]
 
+* **PRTR(CVPR2021)** Pose Recognition With Cascade Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Pose_Recognition_With_Cascade_Transformers_CVPR_2021_paper.html)][[codes|official](https://github.com/mlpc-ucsd/PRTR)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`]
+
 * ⭐**KAPAO(ECCV2022)** Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2111.08557)][[codes|(official pytorch using YOLOv5)](https://github.com/wmcnally/kapao)]
 
 * **YOLO-Pose(CVPRW2022)** YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss [[paper link](https://arxiv.org/abs/2204.06806)][[codes|official edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox)][[codes|official edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5)]
@@ -269,7 +271,7 @@
 
 * **LOGO-CAP(CVPR2022)** Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Learning_Local-Global_Contextual_Adaptation_for_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/cherubicXN/logocap)]
 
-* **PETR(CVPR2022)** End-to-End Multi-Person Pose Estimation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/hikvision-research/opera)][`Transformer`]
+* **PETR(CVPR2022)** End-to-End Multi-Person Pose Estimation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/hikvision-research/opera)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`]
 
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
