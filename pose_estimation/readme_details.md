@@ -336,25 +336,31 @@
  
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
+**Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
 
 * **(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)]
 
 * **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
 
+* **(ICLR2021)** Semi-supervised keypoint localization [[paper link](https://arxiv.org/pdf/2101.07988.pdf)]
+
 * **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)]
 
 * **Pose_DomainAdaption(ACMMM2021)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose_DomainAdaption)]
 
-* **ADHNN(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-1201.XuX.pdf)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose-ADHNN)]
-
 * **UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)]
 
-* **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[arxiv link](https://arxiv.org/abs/2108.01819)][[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
-
 * **AdaptOR(arxiv2021)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR [[paper link](https://arxiv.org/abs/2108.11801)]
+
+* **PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[paper link](https://arxiv.org/pdf/2201.08613.pdf)]
+
+* **ADHNN(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-1201.XuX.pdf)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose-ADHNN)]
+
+* **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[arxiv link](https://arxiv.org/abs/2108.01819)][[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
 
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)]
 
 * **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)]
 
 * **SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
+
