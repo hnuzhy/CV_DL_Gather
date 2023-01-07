@@ -71,7 +71,7 @@
 
 ### ▶ Detection Transformer (DETR, fully end-to-end)
 
-* **DEtection TRansformer(DETR) (ECCV2020 BestPaper)** End-to-End Object Detection with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)][[codes|official](https://github.com/facebookresearch/detr)]
+* ❤ **DEtection TRansformer(DETR) (ECCV2020 BestPaper)** End-to-End Object Detection with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)][[codes|official](https://github.com/facebookresearch/detr)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)]
 
 * ❤ **DeformableDETR (ICLR2021 OralPaper)** Deformable DETR: Deformable Transformers for End-to-End Object Detection [[paper link](https://arxiv.org/abs/2010.04159)] [[codes|official](https://github.com/fundamentalvision/Deformable-DETR)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)]
 
