@@ -106,6 +106,9 @@
 
 * **❤ GAFA(CVPR2022)** Dynamic 3D Gaze From Afar: Deep Gaze Estimation From Temporal Eye-Head-Body Coordination [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Nonaka_Dynamic_3D_Gaze_From_Afar_Deep_Gaze_Estimation_From_Temporal_CVPR_2022_paper.html)][[project link](https://vision.ist.i.kyoto-u.ac.jp/research/gafa/)][[codes|official](https://github.com/kyotovision-public/dynamic-3d-gaze-from-afar)][`The GAze From Afar (GAFA) dataset consists of surveillance videos of freely moving people with automatically annotated 3D gaze, head, and body orientations.`]
 
+* **NeRF-Gaze(arxiv2022)** NeRF-Gaze: A Head-Eye Redirection Parametric Model for Gaze Estimation [[paper link](https://arxiv.org/abs/2212.14710)][`HKVision`]
+
+* **GazeNeRF(arxiv2022)** GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields [[paper link](https://arxiv.org/abs/2212.04823)][`ETH`]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
