@@ -119,7 +119,7 @@
 
 * **CMOM(WACV2023)** Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing [[paper link](https://arxiv.org/abs/2211.02307)][[]()]
 
-### ④ ⭐⭐Domain Adaptation for Fields
+### ④ ⭐⭐Domain Adaptation for Other Fields
 
 * **SSDA3D(AAAI2023)** SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud [[paper link](https://arxiv.org/abs/2212.02845)][[codes|official (not released)](https://github.com/yinjunbo/SSDA3D)][`Domain Adaptation for 3D Object Detection`]
 
