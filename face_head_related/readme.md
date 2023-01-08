@@ -381,9 +381,9 @@
 
 * **(IVC2020)** Improving head pose estimation using two-stage ensembles with top-k regression [[paper link](https://www.sciencedirect.com/sdfe/reader/pii/S0262885619304202/pdf)]
 
-* ⭐**MNN(TPAMI2020)** Multi-Task Head Pose Estimation in-the-Wild [[paper link](https://bobetocalo.github.io/pdf/paper_pami20.pdf)][[codes|Tensorflow / C++](https://github.com/bobetocalo/bobetocalo_pami20)]
-
 * **MLD(TPAMI2020)** Head Pose Estimation Based on Multivariate Label Distribution [[paper link](https://ieeexplore.ieee.org/abstract/document/9217984)]
+
+* ⭐**MNN(TPAMI2021)** Multi-Task Head Pose Estimation in-the-Wild [[paper link](https://bobetocalo.github.io/pdf/paper_pami20.pdf)][[codes|Tensorflow / C++](https://github.com/bobetocalo/bobetocalo_pami20)]
 
 * ⭐**MFDNet(TMM2021)** MFDNet: Collaborative Poses Perception and Matrix Fisher Distribution for Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9435939/)][`matrix representation`]
 
