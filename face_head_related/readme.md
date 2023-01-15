@@ -416,7 +416,7 @@
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[project link](http://www.tnt.uni-hannover.de/papers/view_paper.php?id=1419)][`SynHead and BIWI --> SynHead++, SynBiwi+, Biwi+`]
 
-* ⭐**WHENet(BMVC2020)** WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose [[arxiv link](https://arxiv.org/abs/2005.10353)][[Codes|Kears&tensorflow(official)](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet)][[codes|PyTorch(unofficial)](https://github.com/PINTO0309/HeadPoseEstimation-WHENet-yolov4-onnx-openvino)]
+* ⭐**WHENet(BMVC2020)** WHENet: Real-time Fine-Grained Estimation for Wide Range Head Pose [[arxiv link](https://arxiv.org/abs/2005.10353)][[Codes|Kears&tensorflow(official)](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet)][[codes|PyTorch(unofficial)](https://github.com/PINTO0309/HeadPoseEstimation-WHENet-yolov4-onnx-openvino)][[codes|DMHead(unofficial)](https://github.com/PINTO0309/DMHead)]
 
 * **RAFA-Net(ACCV2020)** Rotation Axis Focused Attention Network (RAFA-Net) for Estimating Head Pose [[paper link](https://openaccess.thecvf.com/content/ACCV2020/html/Behera_Rotation_Axis_Focused_Attention_Network_RAFA-Net_for_Estimating_Head_Pose_ACCV_2020_paper.html)][[codes|keras+tensorflow](https://github.com/ArdhenduBehera/RAFA-Net)]
 
