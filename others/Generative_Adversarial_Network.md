@@ -15,6 +15,8 @@
 
 * ❤ **CUT(ECCV2020)** Contrastive Learning for Unpaired Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2007.15651)][[project link](http://taesung.me/ContrastiveUnpairedTranslation/)][[Codes|PyTorch(official)](https://github.com/taesungp/contrastive-unpaired-translation)]
 
+* **DepthGAN(ECCV2022 Oral)** 3D-Aware Indoor Scene Synthesis with Depth Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_23)][[project link](https://vivianszf.github.io/depthgan/)]
+
 
 ### ▲ Diffusion-based
 
