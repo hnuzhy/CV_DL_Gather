@@ -28,6 +28,8 @@
 
 * **HumanDiffusion(arxiv2022)** HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation [[paper link](https://arxiv.org/abs/2211.06235)][`Human related image generation`]
 
+* 👍**DreamFusion(arxiv2022)** DreamFusion: Text-to-3D using 2D Diffusion [[paper link](https://arxiv.org/abs/2209.14988)][[project link](https://dreamfusion3d.github.io/)]
+
 * **Dream3D(arxiv2022)** Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models [[paper link](https://arxiv.org/abs/2212.14704)][[project link](https://bluestyle97.github.io/dream3d/)]
 
 
