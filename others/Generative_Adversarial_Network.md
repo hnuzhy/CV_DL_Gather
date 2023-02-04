@@ -17,6 +17,8 @@
 
 * **DepthGAN(ECCV2022 Oral)** 3D-Aware Indoor Scene Synthesis with Depth Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_23)][[project link](https://vivianszf.github.io/depthgan/)]
 
+* **Long-RangeGAN(arxiv2022)** Lightweight Long-Range Generative Adversarial Networks [[paper link](https://arxiv.org/abs/2209.03793)]
+
 
 ### ▲ Diffusion-based
 
