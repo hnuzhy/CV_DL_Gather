@@ -1,4 +1,5 @@
 # ⭐Generative Adversarial Network
+also named ***Deep Generative Framework***
 
 ## Materials
 
@@ -9,7 +10,7 @@
 * [(blog) What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
 
-## Closely Related Paper
+## Other Closely Related Paper
 
 * **VAE(ICLR2014)** Auto-Encoding Variational Bayes [[paper link](https://arxiv.org/abs/1312.6114)][`Auto-Encoders`, `Gaussian Prior`]
 * **AAE(ICLR2016)** Adversarial Autoencoders [[paper link](https://arxiv.org/abs/1511.05644)][`Auto-Encoders`, `Gaussian Prior`]
