@@ -60,6 +60,9 @@ also named ***Deep Generative Framework***
 
 
 ### ▲ Diffusion-based
+[Diffusion model: collections in paperswithcode wedsite](https://paperswithcode.com/method/diffusion)
+
+* **DDPM(NIPS2020)** Denoising Diffusion Probabilistic Models [[paper link](https://arxiv.org/abs/2006.11239v2)][[project link](https://hojonathanho.github.io/diffusion/)][[code|official TensorFlow](https://github.com/hojonathanho/diffusion)][[[code|unofficial PyTorch](https://github.com/huggingface/diffusers)][[tutorial unofficial](https://nn.labml.ai/diffusion/ddpm/index.html)][`pioneering work`]
 
 * ❤ **GET3D(NIPS2022)** GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images [[paper link](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)][[project link](https://nv-tlabs.github.io/GET3D/)][[codes|official PyTorch](https://github.com/nv-tlabs/GET3D)][`NVIDIA`]
 
@@ -75,7 +78,7 @@ also named ***Deep Generative Framework***
 
 
 ### ▲ NeRF-based
-[Neural Radiance Field (NeRF): collection in paperswithcode wedsite](https://paperswithcode.com/method/nerf)
+[Neural Radiance Field (NeRF): collections in paperswithcode wedsite](https://paperswithcode.com/method/nerf)
 
 * 👍**NeRF(ECCV2020)** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[paper link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58452-8_24)]
 
