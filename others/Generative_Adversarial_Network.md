@@ -83,6 +83,10 @@ also named ***Deep Generative Framework***
 
 * 👍**NeRF(ECCV2020)** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[paper link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58452-8_24)][`pioneering work`]
 
+* **HyperNeRF(SIGGRAPH2021)** HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields [[paper link](https://arxiv.org/abs/2106.13228)][[project link](https://hypernerf.github.io/)][[code|official](https://github.com/google/hypernerf)][`human face`]
+
+* **Nerfies(ICCV2021)** Nerfies: Deformable Neural Radiance Fields [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Park_Nerfies_Deformable_Neural_Radiance_Fields_ICCV_2021_paper.html)][[project link](https://nerfies.github.io/)][[code|official](https://github.com/google/nerfies)][`human face`]
+
 * **NerfCap(TVCG2022)** NerfCap: Human Performance Capture With Dynamic Neural Radiance Fields [[paper link](https://ieeexplore.ieee.org/abstract/document/9870173)]
 
 * **HumanNeRF(CVPR2022)** HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_HumanNeRF_Efficiently_Generated_Human_Radiance_Field_From_Sparse_Inputs_CVPR_2022_paper.html)][`Human related image generation`]
@@ -90,6 +94,8 @@ also named ***Deep Generative Framework***
 * 👍**Humannerf(CVPR2022 Oral)** HumanNeRF: Free-Viewpoint Rendering of Moving People From Monocular Video [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Weng_HumanNeRF_Free-Viewpoint_Rendering_of_Moving_People_From_Monocular_Video_CVPR_2022_paper.html)][[project link](https://grail.cs.washington.edu/projects/humannerf/)][[code|official](https://github.com/chungyiweng/humannerf)][`Human related image generation`]
 
 * **Block-NeRF(CVPR2022)** Block-NeRF: Scalable Large Scene Neural View Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.html)][[project link](waymo.com/research/block-nerf)]
+
+* **HeadNeRF(CVPR2022)** HeadNeRF: A Real-time NeRF-based Parametric Head Model [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_HeadNeRF_A_Real-Time_NeRF-Based_Parametric_Head_Model_CVPR_2022_paper.html)][[code|official](https://github.com/CrisHY1995/headnerf)][`human face`]
 
 * 👍**NeuMan(ECCV2022)** NeuMan: Neural Human Radiance Field from a Single Video [[paper link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920400.pdf)][[code|official](https://github.com/apple/ml-neuman)][`Human related image generation`]
 
