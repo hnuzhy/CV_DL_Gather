@@ -94,6 +94,8 @@
 
 #### Papers
 
+* **HGM(CVPR2018)** A Hierarchical Generative Model for Eye Image Synthesis and Eye Gaze Estimation [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_A_Hierarchical_Generative_CVPR_2018_paper.pdf)]
+
 * **ETH-XGaze(ECCV2020)** ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation [[arxiv link](https://arxiv.org/abs/2007.15837)][[project link](https://ait.ethz.ch/projects/2020/ETH-XGaze/)][[Codes|PyTorch(official)](https://github.com/xucong-zhang/ETH-XGaze)]
 
 * **EVE(ECCV2020)** Towards End-to-end Video-based Eye-tracking [[arxiv link](https://arxiv.org/abs/2007.13120)][[project link](https://ait.ethz.ch/projects/2020/EVE/)][[Codes|PyTorch(official)](https://github.com/swook/EVE)]
