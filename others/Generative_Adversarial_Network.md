@@ -28,17 +28,25 @@ also named ***Deep Generative Framework***
 
 * 👍**GAN(NIPS2014)** Generative Adversarial Networks [[paper link](https://arxiv.org/abs/1406.2661)][`seminal work`, `pioneering work`, `generator and discriminator`]
 
-* ❤ **CycleGAN(ICCV2017)** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arxiv link](https://arxiv.org/pdf/1703.10593.pdf)][[project link](https://junyanz.github.io/CycleGAN/)][[Codes|PyTorch(official)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
+* **DC-GAN(ICLR2016)** Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[paper link](https://arxiv.org/abs/1511.06434)][`noise-to-image`]
 
-* **StyleGAN(CVPR2019)** A Style-Based Generator Architecture for Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)][[codes|official TensorFlow](https://github.com/NVlabs/stylegan)][`NVIDIA`]
+* **WGAN(ICML2017)** Wasserstein Generative Adversarial Networks [[paper link](https://proceedings.mlr.press/v70/arjovsky17a.html)][`noise-to-image`]
 
-* ❤ **CUT(ECCV2020)** Contrastive Learning for Unpaired Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2007.15651)][[project link](http://taesung.me/ContrastiveUnpairedTranslation/)][[Codes|PyTorch(official)](https://github.com/taesungp/contrastive-unpaired-translation)]
+* **pix2pix(CVPR2017)** Image-To-Image Translation With Conditional Adversarial Networks [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)][[project link](https://phillipi.github.io/pix2pix/)][[code|official PyTorch](https://github.com/phillipi/pix2pix)][`image-to-image`]
 
-* **StyleGAN2(CVPR2020)** Analyzing and Improving the Image Quality of StyleGAN [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)][[codes|official TensorFlow](https://github.com/NVlabs/stylegan2)][[codes|unofficial PyTorch 1](https://github.com/rosinality/stylegan2-pytorch)][[codes|unofficial PyTorch 2](https://github.com/lucidrains/stylegan2-pytorch)][`NVIDIA`]
+* ❤ **CycleGAN(ICCV2017)** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arxiv link](https://arxiv.org/pdf/1703.10593.pdf)][[project link](https://junyanz.github.io/CycleGAN/)][[Codes|PyTorch(official)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)][`image-to-image`]
 
-* **StyleGAN2-ADA(NIPS2020)** Training Generative Adversarial Networks with Limited Data [[paper link](https://arxiv.org/abs/2006.06676)][[code|official PyTorch](https://github.com/NVlabs/stylegan2-ada-pytorch)][[code|official TensorFlow](https://github.com/NVlabs/stylegan2-ada/)][`NVIDIA`]
+* **pix2pixHD(CVPR2018)** High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[paper link](https://arxiv.org/pdf/1711.11585.pdf)][[project link](https://tcwang0509.github.io/pix2pixHD/)][[Codes|PyTorch(official)](https://github.com/NVIDIA/pix2pixHD)][`image-to-image`, `NVIDIA`]
 
-* **StyleGAN3(NIPS2021)** Alias-Free Generative Adversarial Networks [[paper link](https://proceedings.neurips.cc/paper/2021/hash/076ccd93ad68be51f23707988e934906-Abstract.html)][[code|official PyTorch](https://github.com/NVlabs/stylegan3)][`NVIDIA`]
+* **StyleGAN(CVPR2019)** A Style-Based Generator Architecture for Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)][[codes|official TensorFlow](https://github.com/NVlabs/stylegan)][`image-to-image`, `NVIDIA`]
+
+* ❤ **CUT(ECCV2020)** Contrastive Learning for Unpaired Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2007.15651)][[project link](http://taesung.me/ContrastiveUnpairedTranslation/)][[Codes|PyTorch(official)](https://github.com/taesungp/contrastive-unpaired-translation)][`image-to-image`]
+
+* **StyleGAN2(CVPR2020)** Analyzing and Improving the Image Quality of StyleGAN [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)][[codes|official TensorFlow](https://github.com/NVlabs/stylegan2)][[codes|unofficial PyTorch 1](https://github.com/rosinality/stylegan2-pytorch)][[codes|unofficial PyTorch 2](https://github.com/lucidrains/stylegan2-pytorch)][`image-to-image`, `NVIDIA`]
+
+* **StyleGAN2-ADA(NIPS2020)** Training Generative Adversarial Networks with Limited Data [[paper link](https://arxiv.org/abs/2006.06676)][[code|official PyTorch](https://github.com/NVlabs/stylegan2-ada-pytorch)][[code|official TensorFlow](https://github.com/NVlabs/stylegan2-ada/)][`NVIDIA`, `image-to-image`]
+
+* **StyleGAN3(NIPS2021)** Alias-Free Generative Adversarial Networks [[paper link](https://proceedings.neurips.cc/paper/2021/hash/076ccd93ad68be51f23707988e934906-Abstract.html)][[code|official PyTorch](https://github.com/NVlabs/stylegan3)][`NVIDIA`, `image-to-image`]
 
 * **DepthGAN(ECCV2022 Oral)** 3D-Aware Indoor Scene Synthesis with Depth Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_23)][[project link](https://vivianszf.github.io/depthgan/)]
 
