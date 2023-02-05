@@ -26,7 +26,7 @@ also named ***Deep Generative Framework***
 
 ### ▲ GAN-based
 
-* 👍**GAN(NIPS2014)** Generative Adversarial Networks [[paper link](https://arxiv.org/abs/1406.2661)][`seminal work`, `pioneering work`]
+* 👍**GAN(NIPS2014)** Generative Adversarial Networks [[paper link](https://arxiv.org/abs/1406.2661)][`seminal work`, `pioneering work`, `generator and discriminator`]
 
 * ❤ **CycleGAN(ICCV2017)** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arxiv link](https://arxiv.org/pdf/1703.10593.pdf)][[project link](https://junyanz.github.io/CycleGAN/)][[Codes|PyTorch(official)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
