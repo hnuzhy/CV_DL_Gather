@@ -20,7 +20,7 @@ also named ***Deep Generative Framework***
 ## Surveys
 
 * **(arxiv2022)** Synthetic Data in Human Analysis: A Survey [[paper link](https://arxiv.org/abs/2208.09191)][`Synthetic Data usually needs GAN`]
-
+* **(arxiv2022)** NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [[paper link](https://arxiv.org/abs/2210.00379)][`Neural Radiance Field`]
 
 ## Papers
 
@@ -81,7 +81,7 @@ also named ***Deep Generative Framework***
 ### ▲ NeRF-based
 [Neural Radiance Field (NeRF): collections in paperswithcode wedsite](https://paperswithcode.com/method/nerf)
 
-* 👍**NeRF(ECCV2020)** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[paper link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58452-8_24)]
+* 👍**NeRF(ECCV2020)** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[paper link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58452-8_24)][`pioneering work`]
 
 * **NerfCap(TVCG2022)** NerfCap: Human Performance Capture With Dynamic Neural Radiance Fields [[paper link](https://ieeexplore.ieee.org/abstract/document/9870173)]
 
