@@ -21,15 +21,21 @@
 
 * ❤ **CycleGAN(ICCV2017)** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arxiv link](https://arxiv.org/pdf/1703.10593.pdf)][[project link](https://junyanz.github.io/CycleGAN/)][[Codes|PyTorch(official)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
+* **StyleGAN(CVPR2019)** A Style-Based Generator Architecture for Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)][[codes|official TensorFlow](https://github.com/NVlabs/stylegan)][`NVIDIA`]
+
 * ❤ **CUT(ECCV2020)** Contrastive Learning for Unpaired Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2007.15651)][[project link](http://taesung.me/ContrastiveUnpairedTranslation/)][[Codes|PyTorch(official)](https://github.com/taesungp/contrastive-unpaired-translation)]
 
 * **StyleGAN2(CVPR2020)** Analyzing and Improving the Image Quality of StyleGAN [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)][[codes|official TensorFlow](https://github.com/NVlabs/stylegan2)][[codes|unofficial PyTorch 1](https://github.com/rosinality/stylegan2-pytorch)][[codes|unofficial PyTorch 2](https://github.com/lucidrains/stylegan2-pytorch)][`NVIDIA`]
 
 * **StyleGAN2-ADA(NIPS2020)** Training Generative Adversarial Networks with Limited Data [[paper link](https://arxiv.org/abs/2006.06676)][[code|official PyTorch](https://github.com/NVlabs/stylegan2-ada-pytorch)][[code|official TensorFlow](https://github.com/NVlabs/stylegan2-ada/)][`NVIDIA`]
 
+* **StyleGAN3(NIPS2021)** Alias-Free Generative Adversarial Networks [[paper link](https://proceedings.neurips.cc/paper/2021/hash/076ccd93ad68be51f23707988e934906-Abstract.html)][[code|official PyTorch](https://github.com/NVlabs/stylegan3)][`NVIDIA`]
+
 * **DepthGAN(ECCV2022 Oral)** 3D-Aware Indoor Scene Synthesis with Depth Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_23)][[project link](https://vivianszf.github.io/depthgan/)]
 
 * **Long-RangeGAN(arxiv2022)** Lightweight Long-Range Generative Adversarial Networks [[paper link](https://arxiv.org/abs/2209.03793)]
+
+* **StyleGAN-Human(arxiv2022)** StyleGAN-Human: A Data-Centric Odyssey of Human Generation [[paper link](https://arxiv.org/abs/2204.11823)][[project link](https://stylegan-human.github.io/)][[code|official PyTorch](https://github.com/stylegan-human/StyleGAN-Human)]
 
 
 ### ▲ Diffusion-based
