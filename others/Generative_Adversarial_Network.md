@@ -8,7 +8,15 @@
 * [(CSDNblog) 生成对抗网络(四)CycleGAN讲解](https://blog.csdn.net/qq_40520596/article/details/104714762)
 * [(blog) What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
-* [(closely related paper) VAE(ICLR2014) Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) [`synthetic data generation`]
+
+## Closely Related Paper
+
+* **VAE(ICLR2014)** Auto-Encoding Variational Bayes [[paper link](https://arxiv.org/abs/1312.6114)][`Auto-Encoders`, `Gaussian Prior`]
+
+* **AAE(ICLR2016)** Adversarial Autoencoders [[paper link](https://arxiv.org/abs/1511.05644)][`Auto-Encoders`, `Gaussian Prior`]
+
+* **WAE(ICLR2018)** Wasserstein Auto-Encoders [[paper link](https://arxiv.org/abs/1711.01558)][`Auto-Encoders`, `Gaussian Prior`]
+
 
 ## Surveys
 
