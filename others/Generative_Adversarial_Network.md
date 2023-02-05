@@ -87,13 +87,21 @@ also named ***Deep Generative Framework***
 
 * **Nerfies(ICCV2021)** Nerfies: Deformable Neural Radiance Fields [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Park_Nerfies_Deformable_Neural_Radiance_Fields_ICCV_2021_paper.html)][[project link](https://nerfies.github.io/)][[code|official](https://github.com/google/nerfies)][`human face`]
 
+* **AnimatableNeRF(ICCV2021)** Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.html?ref=https://githubhelp.com)][[project link](https://zju3dv.github.io/animatable_nerf/)][[code|official](https://github.com/zju3dv/animatable_nerf)][`human body`]
+
+* **NeuralBody(CVPR2021 Best Paper Candidate)** Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Peng_Neural_Body_Implicit_Neural_Representations_With_Structured_Latent_Codes_for_CVPR_2021_paper.html)][[project link](https://zju3dv.github.io/neuralbody/)][[code|official](https://github.com/zju3dv/neuralbody)][`human body`]
+
 * **NerfCap(TVCG2022)** NerfCap: Human Performance Capture With Dynamic Neural Radiance Fields [[paper link](https://ieeexplore.ieee.org/abstract/document/9870173)]
+
+* **SL-NeRF(CVPR2022)** Structured Local Radiance Fields for Human Avatar Modeling [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Structured_Local_Radiance_Fields_for_Human_Avatar_Modeling_CVPR_2022_paper.html)][`human body`]
+
+* **DoubleField(CVPR2022)** DoubleField: Bridging the Neural Surface and Radiance Fields for High-Fidelity Human Reconstruction and Rendering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shao_DoubleField_Bridging_the_Neural_Surface_and_Radiance_Fields_for_High-Fidelity_CVPR_2022_paper.html)][`human body`]
+
+* **Block-NeRF(CVPR2022)** Block-NeRF: Scalable Large Scene Neural View Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.html)][[project link](waymo.com/research/block-nerf)]
 
 * **HumanNeRF(CVPR2022)** HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_HumanNeRF_Efficiently_Generated_Human_Radiance_Field_From_Sparse_Inputs_CVPR_2022_paper.html)][`Human related image generation`]
 
-* 👍**Humannerf(CVPR2022 Oral)** HumanNeRF: Free-Viewpoint Rendering of Moving People From Monocular Video [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Weng_HumanNeRF_Free-Viewpoint_Rendering_of_Moving_People_From_Monocular_Video_CVPR_2022_paper.html)][[project link](https://grail.cs.washington.edu/projects/humannerf/)][[code|official](https://github.com/chungyiweng/humannerf)][`Human related image generation`]
-
-* **Block-NeRF(CVPR2022)** Block-NeRF: Scalable Large Scene Neural View Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.html)][[project link](waymo.com/research/block-nerf)]
+* 👍**HumanNeRF(CVPR2022 Oral)** HumanNeRF: Free-Viewpoint Rendering of Moving People From Monocular Video [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Weng_HumanNeRF_Free-Viewpoint_Rendering_of_Moving_People_From_Monocular_Video_CVPR_2022_paper.html)][[project link](https://grail.cs.washington.edu/projects/humannerf/)][[code|official](https://github.com/chungyiweng/humannerf)][`Human related image generation`]
 
 * **HeadNeRF(CVPR2022)** HeadNeRF: A Real-time NeRF-based Parametric Head Model [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_HeadNeRF_A_Real-Time_NeRF-Based_Parametric_Head_Model_CVPR_2022_paper.html)][[code|official](https://github.com/CrisHY1995/headnerf)][`human face`]
 
