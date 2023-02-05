@@ -25,6 +25,7 @@ also named ***Deep Generative Framework***
 ## Papers
 
 ### ▲ GAN-based
+[Generative Adversarial Network (GAN): collections in paperswithcode wedsite](https://paperswithcode.com/method/gan)
 
 * 👍**GAN(NIPS2014)** Generative Adversarial Networks [[paper link](https://arxiv.org/abs/1406.2661)][`seminal work`, `pioneering work`, `generator and discriminator`]
 
