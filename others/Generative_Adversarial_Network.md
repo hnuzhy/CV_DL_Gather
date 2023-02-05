@@ -8,6 +8,8 @@
 * [(CSDNblog) 生成对抗网络(四)CycleGAN讲解](https://blog.csdn.net/qq_40520596/article/details/104714762)
 * [(blog) What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
+* [(closely related paper) VAE(ICLR2014) Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) [`synthetic data generation`]
+
 ## Surveys
 
 * **(arxiv2022)** Synthetic Data in Human Analysis: A Survey [[paper link](https://arxiv.org/abs/2208.09191)][`Synthetic Data usually needs GAN`]
