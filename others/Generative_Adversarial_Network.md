@@ -96,6 +96,10 @@ also named ***Deep Generative Framework***
 
 * **AnimatableNeRF(ICCV2021)** Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.html?ref=https://githubhelp.com)][[project link](https://zju3dv.github.io/animatable_nerf/)][[code|official](https://github.com/zju3dv/animatable_nerf)][`human body`]
 
+* **4D-Facial-Avatars(CVPR2021 Oral)** Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Gafni_Dynamic_Neural_Radiance_Fields_for_Monocular_4D_Facial_Avatar_Reconstruction_CVPR_2021_paper.html)][[](https://gafniguy.github.io/4D-Facial-Avatars/)][[code|official](https://github.com/gafniguy/4D-Facial-Avatars)][`human face`]
+
+* **HybridNeRF(CVPR2021 Oral)** Learning Compositional Radiance Fields of Dynamic Human Heads [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Learning_Compositional_Radiance_Fields_of_Dynamic_Human_Heads_CVPR_2021_paper.html)][[project link](https://ziyanw1.github.io/hybrid_nerf/)][`human face`]
+
 * **NeuralBody(CVPR2021 Best Paper Candidate)** Neural Body: Implicit Neural Representations With Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Peng_Neural_Body_Implicit_Neural_Representations_With_Structured_Latent_Codes_for_CVPR_2021_paper.html)][[project link](https://zju3dv.github.io/neuralbody/)][[code|official](https://github.com/zju3dv/neuralbody)][`human body`]
 
 * **NerfCap(TVCG2022)** NerfCap: Human Performance Capture With Dynamic Neural Radiance Fields [[paper link](https://ieeexplore.ieee.org/abstract/document/9870173)]
