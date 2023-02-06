@@ -49,15 +49,20 @@ also named ***Deep Generative Framework***
 
 * **StyleGAN2-ADA(NIPS2020)** Training Generative Adversarial Networks with Limited Data [[paper link](https://arxiv.org/abs/2006.06676)][[code|official PyTorch](https://github.com/NVlabs/stylegan2-ada-pytorch)][[code|official TensorFlow](https://github.com/NVlabs/stylegan2-ada/)][`NVIDIA`, `image-to-image`]
 
+* **CIPS-3D(arxiv2021)** CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis [[paper link](https://arxiv.org/abs/2110.09788)][[code|official PyTorch](https://github.com/PeterouZh/CIPS-3D)][`3D Face Image Generation`, `3D-aware GANs based on NeRF`]
+
 * **StyleGAN3(NIPS2021)** Alias-Free Generative Adversarial Networks [[paper link](https://proceedings.neurips.cc/paper/2021/hash/076ccd93ad68be51f23707988e934906-Abstract.html)][[code|official PyTorch](https://github.com/NVlabs/stylegan3)][`NVIDIA`, `image-to-image`, `Face Generation`]
 
 * **DepthGAN(ECCV2022 Oral)** 3D-Aware Indoor Scene Synthesis with Depth Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_23)][[project link](https://vivianszf.github.io/depthgan/)]
 
 * ❤ **EG3D(CVPR2022)** Efficient Geometry-Aware 3D Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Efficient_Geometry-Aware_3D_Generative_Adversarial_Networks_CVPR_2022_paper.html)][[code|official PyTorch](https://github.com/NVlabs/eg3d)][`NVIDIA`, `3D Face Image Generation`]
 
+* ❤ **StyleNeRF(ICLR2022)** StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis [[paper link](https://arxiv.org/abs/2110.08985)][[project link](https://jiataogu.me/style_nerf/)][[code|official PyTorch](https://github.com/facebookresearch/StyleNeRF)][`3D Face Image Generation`, `3D-aware GANs based on NeRF`]
+
 * **Long-RangeGAN(arxiv2022)** Lightweight Long-Range Generative Adversarial Networks [[paper link](https://arxiv.org/abs/2209.03793)]
 
 * **StyleGAN-Human(arxiv2022)** StyleGAN-Human: A Data-Centric Odyssey of Human Generation [[paper link](https://arxiv.org/abs/2204.11823)][[project link](https://stylegan-human.github.io/)][[code|official PyTorch](https://github.com/stylegan-human/StyleGAN-Human)]
+
 
 
 ### ▲ Diffusion-based
