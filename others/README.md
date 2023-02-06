@@ -2,7 +2,7 @@
 
 **Contents Hyperlinks**
 
-* [⭐2D Talking Heads][#2d-talking-heads]
+* [⭐2D Talking Heads](#2d-talking-heads)
 * [⭐3D Body Model Regression](#3d-body-model-regression)
 * [⭐3D Reconstruction](#3d-reconstruction)
 * [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
