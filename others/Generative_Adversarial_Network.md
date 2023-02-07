@@ -88,7 +88,9 @@ also named ***Deep Generative Framework***
 ### ▲ NeRF-based
 [Neural Radiance Field (NeRF): collections in paperswithcode wedsite](https://paperswithcode.com/method/nerf)
 
-* 👍**NeRF(ECCV2020)** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[paper link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58452-8_24)][`pioneering work`]
+* 👍**NeRF(ECCV2020)** NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[paper link](https://dl.acm.org/doi/abs/10.1007/978-3-030-58452-8_24)][[code|official Tensorflow](https://github.com/bmild/nerf)][`pioneering work`]
+
+* **NeRF-W(CVPR2021)** NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Martin-Brualla_NeRF_in_the_Wild_Neural_Radiance_Fields_for_Unconstrained_Photo_CVPR_2021_paper.html)]
 
 * **HyperNeRF(SIGGRAPH2021)** HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields [[paper link](https://arxiv.org/abs/2106.13228)][[project link](https://hypernerf.github.io/)][[code|official](https://github.com/google/hypernerf)][`human face`]
 
