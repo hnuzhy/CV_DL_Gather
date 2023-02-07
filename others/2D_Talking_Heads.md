@@ -17,4 +17,6 @@ also named ***Speech-driven 3D Facial Animation*** or ***Audio2Face***
 
 * **FaceFormer(CVPR2022)** FaceFormer: Speech-Driven 3D Facial Animation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Fan_FaceFormer_Speech-Driven_3D_Facial_Animation_With_Transformers_CVPR_2022_paper.html)][[project link](https://evelynfan.github.io/audio2face/)][[code|official PyTorch](https://github.com/EvelynFan/FaceFormer)]
 
+* **GeneFace(ICLR2023)** GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[paper link](https://arxiv.org/abs/2301.13430)][[project link](https://geneface.github.io/)][[code|official PyTorch](https://github.com/yerfor/GeneFace)][]
+
 * **CodeTalker(arxiv2023)** CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior [[paper link](https://arxiv.org/abs/2301.02379)][[project link](https://doubiiu.github.io/projects/codetalker/)][`Tencent`]
