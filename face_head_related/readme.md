@@ -240,7 +240,7 @@
 
 * **Survey of regression-based methods(CSReview2021)** Survey on 3D face reconstruction from uncalibrated images [[paper link](https://www.sciencedirect.com/science/article/pii/S157401372100040X)][[pdf page](https://arxiv.org/pdf/2011.05740.pdf)]
 
-* **State of the Art in Dense Monocular Non-Rigid 3D Reconstruction (arxiv2022)** Survey on SOTA 3D reconstruction with single RGB image [[paper link](https://arxiv.org/abs/2210.15664)]
+* **Survey on SOTA 3D reconstruction with single RGB image (arxiv2022)** State of the Art in Dense Monocular Non-Rigid 3D Reconstruction [[paper link](https://arxiv.org/abs/2210.15664)]
 
 
 #### Papers (Conference and Journey)
