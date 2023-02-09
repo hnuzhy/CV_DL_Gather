@@ -240,6 +240,9 @@
 
 * **Survey of regression-based methods(CSReview2021)** Survey on 3D face reconstruction from uncalibrated images [[paper link](https://www.sciencedirect.com/science/article/pii/S157401372100040X)][[pdf page](https://arxiv.org/pdf/2011.05740.pdf)]
 
+* **State of the Art in Dense Monocular Non-Rigid 3D Reconstruction (arxiv2022)** Survey on SOTA 3D reconstruction with single RGB image [[paper link](https://arxiv.org/abs/2210.15664)]
+
+
 #### Papers (Conference and Journey)
 
 * **Blanz et al.(SIGGRAPH1999)** A morphable model for the synthesis of 3D faces [[paper link](https://dl.acm.org/doi/pdf/10.1145/311535.311556)][`3DMM of face/head`][`The seminal work of 3DMM`]
