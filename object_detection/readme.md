@@ -80,15 +80,16 @@
 * **DN-DETR (CVPR2022 OralPaper)** DN-DETR: Accelerate DETR Training by Introducing Query DeNoising [[paper link]((https://openaccess.thecvf.com/content/CVPR2022/html/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.html))] [[codes|official](https://github.com/IDEA-Research/DN-DETR)]
 
 
-### ▶ YOLO Series
+### ▶ YOLO Series Algorithms
+> Anchor-base: `YOLOv1`, `YOLOv2`, `YOLOv3`, `YOLOv4`, `Scaled-YOLOv4`,`YOLOv5`, `YOLOR`, `TPH-YOLOv5`, `YOLOv5-Lite`, `YOLOv7`, YOLOv8`; Anchor-Free: `YOLOX`, `PP-YOLOE`, `YOLOv6`
 
 * ❤ **YOLOv1 (CVPR2016)** You Only Look Once: Unified, Real-Time Object Detection [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|official by darknet](https://github.com/pjreddie/darknet)][`Joseph Redmon`, `Santosh Divvala`, `Ross Girshick`, `Ali Farhadi`]
 
-* ❤ **YOLOv2 (CVPR2017)** YOLO9000: Better, Faster, Stronger [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolov2/)][`Joseph Redmon`, `Ali Farhadi`]
+* ❤ **YOLOv2 (CVPR2017)** YOLO9000: Better, Faster, Stronger [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolov2/)][[code|unofficial PyTorch](https://github.com/longcw/yolo2-pytorch)][`Joseph Redmon`, `Ali Farhadi`]
   
-* **YOLOv3 (arxiv2018.04)** YOLOv3: An Incremental Improvement [[paper link](https://arxiv.org/abs/1804.02767)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|not official PyTorch (github 2018.12)](https://github.com/ultralytics/yolov3)][paper: `Joseph Redmon`, `Ali Farhadi`][code: `ultralytics`, `Glenn Jocher`]
+* **YOLOv3 (arxiv2018.04)** YOLOv3: An Incremental Improvement [[paper link](https://arxiv.org/abs/1804.02767)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|unofficial PyTorch (github 2018.12)](https://github.com/ultralytics/yolov3)][code|unofficial PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)][paper: `Joseph Redmon`, `Ali Farhadi`][code: `ultralytics`, `Glenn Jocher`]
 
-* **YOLOv4 (arxiv2020.04)** YOLOv4: Optimal Speed and Accuracy of Object Detection [[paper link](https://arxiv.org/abs/2004.10934)][[code|official DarkNet](https://github.com/AlexeyAB/darknet)][[code|official PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)][`Alexey Bochkovskiy`, `Chien-Yao Wang`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`, `DarkNet`]
+* **YOLOv4 (arxiv2020.04)** YOLOv4: Optimal Speed and Accuracy of Object Detection [[paper link](https://arxiv.org/abs/2004.10934)][[code|official DarkNet](https://github.com/AlexeyAB/darknet)][[code|official PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)][[code|unofficial PyTorch](https://github.com/Tianxiaomo/pytorch-YOLOv4)][`Alexey Bochkovskiy`, `Chien-Yao Wang`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`, `DarkNet`]
 
 * **Scaled-YOLOv4 (CVPR2021)** Scaled-YOLOv4: Scaling Cross Stage Partial Network [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)][[code|official](https://github.com/WongKinYiu/ScaledYOLOv4)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
 
@@ -98,7 +99,11 @@
 
 * ❤ **YOLOX (arxiv2021.07)** YOLOX: Exceeding YOLO Series in 2021 [[paper link](https://arxiv.org/abs/2107.08430)][[code|official by MegEngine-BaseDetection](https://github.com/Megvii-BaseDetection/YOLOX)][[code|official by MegEngine](https://github.com/MegEngine/YOLOX)][[Docs|official](https://yolox.readthedocs.io/en/latest/)][`Megvii`, `Jian Sun`]
 
+* **TPH-YOLOv5 (ICCVW2021)** TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.11539)][[code|official PyTorch](https://github.com/cv516Buaa/tph-yolov5)][`Transformer`, `SwinTransformer`]
+
 * **YOLOv5-Lite (github 2021.08)** YOLOv5-Lite：Lighter, faster and easier to deploy [[No published paper]()][[code|official](https://github.com/ppogg/YOLOv5-Lite)]
+  
+* **PP-YOLOE (arxiv2022.03)** PP-YOLOE: An evolved version of YOLO [[paper link](https://arxiv.org/abs/2203.16250)][[code|official](https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.4/configs/ppyoloe)][`PaddlePaddle`, `PaddleDetection`, `Baidu`]
   
 * **YOLOv6 (arxiv2022.09)** YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications [[paper link](https://arxiv.org/abs/2209.02976)][[code|official by meituan](https://github.com/meituan/YOLOv6)][[YOLOv6 v3.0: A Full-Scale Reloading (arxiv2023.01)](https://arxiv.org/abs/2301.05586)][`meituan`] 
 
