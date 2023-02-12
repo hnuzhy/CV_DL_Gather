@@ -80,27 +80,30 @@
 * **DN-DETR (CVPR2022 OralPaper)** DN-DETR: Accelerate DETR Training by Introducing Query DeNoising [[paper link]((https://openaccess.thecvf.com/content/CVPR2022/html/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.html))] [[codes|official](https://github.com/IDEA-Research/DN-DETR)]
 
 
-### YOLO Series (e.g., YOLOv<id>, YOLOX)
+### YOLO Series
 
+* **YOLOv1 (CVPR2016)** You Only Look Once: Unified, Real-Time Object Detection [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][`Joseph Redmon`, `Santosh Divvala`, `Ross Girshick`, `Ali Farhadi`]
 
-* **** [[]()][[]()][]
+* **YOLOv2 (CVPR2017)** YOLO9000: Better, Faster, Stronger [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolov2/)][`Joseph Redmon`, `Ali Farhadi`]
+  
+* **YOLOv3 (arxiv2018.04)** YOLOv3: An Incremental Improvement [[paper link](https://arxiv.org/abs/1804.02767)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|not official PyTorch (github 2018.12)](https://github.com/ultralytics/yolov3)][paper: `Joseph Redmon`, `Ali Farhadi`][code: `ultralytics`, `Glenn Jocher`]
 
 * **YOLOv4 (arxiv2020.04)** YOLOv4: Optimal Speed and Accuracy of Object Detection [[paper link](https://arxiv.org/abs/2004.10934)][[code|official DarkNet](https://github.com/AlexeyAB/darknet)][[code|official PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)][`Alexey Bochkovskiy`, `Chien-Yao Wang`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`, `DarkNet`]
 
 * **Scaled-YOLOv4 (CVPR2021)** Scaled-YOLOv4: Scaling Cross Stage Partial Network [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)][[code|official](https://github.com/WongKinYiu/ScaledYOLOv4)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
 
-* **YOLOv5 (github 2020.06)** YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/yolov5)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][`ultralytics`, `Glenn Jocher`]
+* **YOLOv5 (github 2020.06)** YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/yolov5)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][[author: Glenn Jocher](https://github.com/glenn-jocher)][`ultralytics`, `Glenn Jocher`]
 
 * **YOLOR (arxiv2021.05)** You Only Learn One Representation: Unified Network for Multiple Tasks [[paper link](https://arxiv.org/abs/2105.04206)][[code|official](https://github.com/WongKinYiu/yolor)][`Chien-Yao Wang`, `I-Hau Yeh`, `Hong-Yuan Mark Liao`, `Taiwan`]
 
 * **YOLOX (arxiv2021.07)** YOLOX: Exceeding YOLO Series in 2021 [[paper link](https://arxiv.org/abs/2107.08430)][[code|official by MegEngine-BaseDetection](https://github.com/Megvii-BaseDetection/YOLOX)][[code|official by MegEngine](https://github.com/MegEngine/YOLOX)][[Docs|official](https://yolox.readthedocs.io/en/latest/)][`Megvii`, `Jian Sun`]
 
+* **YOLOv5-Lite (github 2021.08)** YOLOv5-Lite：Lighter, faster and easier to deploy [[No published paper]()][[code|official](https://github.com/ppogg/YOLOv5-Lite)]
+  
 * **YOLOv6 (arxiv2022.09)** YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications [[paper link](https://arxiv.org/abs/2209.02976)][[code|official by meituan](https://github.com/meituan/YOLOv6)][[YOLOv6 v3.0: A Full-Scale Reloading (arxiv2023.01)](https://arxiv.org/abs/2301.05586)][`meituan`] 
 
 * **YOLOv7 (arxiv2022.07)** YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [[paper link](https://arxiv.org/abs/2207.02696)][[code|official](https://github.com/WongKinYiu/yolov7)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
 
-https://github.com/ultralytics/yolov3
-
-
+* **YOLOv8 (github 2023.01)** YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/ultralytics)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][`ultralytics`, `Glenn Jocher`]
 
 
