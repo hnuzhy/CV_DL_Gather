@@ -82,7 +82,7 @@
 
 ### ▶ YOLO Series
 
-* ❤ **YOLOv1 (CVPR2016)** You Only Look Once: Unified, Real-Time Object Detection [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][`Joseph Redmon`, `Santosh Divvala`, `Ross Girshick`, `Ali Farhadi`]
+* ❤ **YOLOv1 (CVPR2016)** You Only Look Once: Unified, Real-Time Object Detection [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|official by darknet](https://github.com/pjreddie/darknet)][`Joseph Redmon`, `Santosh Divvala`, `Ross Girshick`, `Ali Farhadi`]
 
 * ❤ **YOLOv2 (CVPR2017)** YOLO9000: Better, Faster, Stronger [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolov2/)][`Joseph Redmon`, `Ali Farhadi`]
   
@@ -102,7 +102,7 @@
   
 * **YOLOv6 (arxiv2022.09)** YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications [[paper link](https://arxiv.org/abs/2209.02976)][[code|official by meituan](https://github.com/meituan/YOLOv6)][[YOLOv6 v3.0: A Full-Scale Reloading (arxiv2023.01)](https://arxiv.org/abs/2301.05586)][`meituan`] 
 
-* **YOLOv7 (arxiv2022.07)** YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [[paper link](https://arxiv.org/abs/2207.02696)][[code|official](https://github.com/WongKinYiu/yolov7)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
+* ❤ **YOLOv7 (arxiv2022.07)** YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [[paper link](https://arxiv.org/abs/2207.02696)][[code|official](https://github.com/WongKinYiu/yolov7)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
 
 * **YOLOv8 (github 2023.01)** YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/ultralytics)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][`ultralytics`, `Glenn Jocher`]
 
