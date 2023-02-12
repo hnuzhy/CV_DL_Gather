@@ -81,7 +81,7 @@
 
 
 ### ▶ YOLO Series Algorithms
-> Anchor-base: `YOLOv1`, `YOLOv2`, `YOLOv3`, `YOLOv4`, `Scaled-YOLOv4`,`YOLOv5`, `YOLOR`, `TPH-YOLOv5`, `YOLOv5-Lite`, `YOLOv7`, YOLOv8`; Anchor-Free: `YOLOX`, `PP-YOLOE`, `YOLOv6`
+> *Anchor-base*: `YOLOv1`, `YOLOv2`, `YOLOv3`, `YOLOv4`, `Scaled-YOLOv4`,`YOLOv5`, `YOLOR`, `TPH-YOLOv5`, `YOLOv5-Lite`, `YOLOv7`, `YOLOv8`; *Anchor-Free*: `YOLOX`, `PP-YOLOE`, `YOLOv6`
 
 * ❤ **YOLOv1 (CVPR2016)** You Only Look Once: Unified, Real-Time Object Detection [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|official by darknet](https://github.com/pjreddie/darknet)][`Joseph Redmon`, `Santosh Divvala`, `Ross Girshick`, `Ali Farhadi`]
 
