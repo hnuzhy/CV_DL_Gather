@@ -116,6 +116,8 @@ also named ***Deep Generative Framework***
 
 * 👍**HumanNeRF(CVPR2022 Oral)** HumanNeRF: Free-Viewpoint Rendering of Moving People From Monocular Video [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Weng_HumanNeRF_Free-Viewpoint_Rendering_of_Moving_People_From_Monocular_Video_CVPR_2022_paper.html)][[project link](https://grail.cs.washington.edu/projects/humannerf/)][[code|official](https://github.com/chungyiweng/humannerf)][`Human related image generation`]
 
+* **DVGO(CVPR2022 Oral)** Direct Voxel Grid Optimization: Super-Fast Convergence for Radiance Fields Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Sun_Direct_Voxel_Grid_Optimization_Super-Fast_Convergence_for_Radiance_Fields_Reconstruction_CVPR_2022_paper.html)][[code|official](https://github.com/sunset1995/DirectVoxGO)][[project link](https://sunset1995.github.io/dvgo/)][`Super-Fast`, `Coarse-to-Fine`]
+
 * **HeadNeRF(CVPR2022)** HeadNeRF: A Real-time NeRF-based Parametric Head Model [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_HeadNeRF_A_Real-Time_NeRF-Based_Parametric_Head_Model_CVPR_2022_paper.html)][[code|official](https://github.com/CrisHY1995/headnerf)][`human face`]
 
 * 👍**NeuMan(ECCV2022)** NeuMan: Neural Human Radiance Field from a Single Video [[paper link](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920400.pdf)][[code|official](https://github.com/apple/ml-neuman)][`Human related image generation`]
