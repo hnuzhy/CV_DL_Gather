@@ -88,31 +88,44 @@ also named ***Deep Generative Framework***
 
 * **DDPM(NIPS2020)** Denoising Diffusion Probabilistic Models [[paper link](https://arxiv.org/abs/2006.11239v2)][[project link](https://hojonathanho.github.io/diffusion/)][[code|official TensorFlow](https://github.com/hojonathanho/diffusion)][[[code|unofficial PyTorch](https://github.com/huggingface/diffusers)][[tutorial unofficial](https://nn.labml.ai/diffusion/ddpm/index.html)][`improved DPM`]
 
-* **DDIM(ICLR2021)** Denoising Diffusion Implicit Models [[paper link](https://arxiv.org/abs/2010.02502)][`improved DPM`]
+* **DDIM(ICLR2021)** Denoising Diffusion Implicit Models [[paper link](https://arxiv.org/abs/2010.02502)][`improved DPM`][`considering strategies to save computation powers when handling high-resolution images`]
 
 * **Score-based Diffusion(ICLR2021 oral)** Score-Based Generative Modeling through Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2011.13456)][`improved DPM`]
 
 
 #### ▶ Direct Image Diffusion
+`Image diffusion methods can directly use pixel colors as training data`.
 
 * **(NIPS2021)** Variational Diffusion Models [[paper link](https://proceedings.neurips.cc/paper/2021/hash/b578f2a52a0229873fefc2a4b06377fa-Abstract.html)][`small-scale image generation using original DPM`]
 
-* **(NIPS2021)** Diffusion Models Beat GANs on Image Synthesis [[paper link](https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html)][`large-scale image generation using original DPM`]
+* **(NIPS2021)** Diffusion Models Beat GANs on Image Synthesis [[paper link](https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html)][`large-scale image generation using original DPM`][[Disco Diffusion](https://github.com/alembics/disco-diffusion) is `a clip-guided implementation of [Diffusion Models Beat GANs on Image Synthesis] to process text prompts`]]
+
+* **FastDPM(ICMLW2021)** On Fast Sampling of Diffusion Probabilistic Models [[paper link](https://openreview.net/forum?id=agj4cdOfrAP)][[arxiv link](https://arxiv.org/abs/2106.00132)][[project link](https://fastdpm.github.io/)][[code|official](https://github.com/FengNiMa/FastDPM_pytorch)][`considering strategies to save computation powers when handling high-resolution images`]
 
 * ❤ **GET3D(NIPS2022)** GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images [[paper link](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)][[project link](https://nv-tlabs.github.io/GET3D/)][[codes|official PyTorch](https://github.com/nv-tlabs/GET3D)][`NVIDIA`]
 
-* 👍**LatentDiffusion(CVPR2022 oral)** High-Resolution Image Synthesis With Latent Diffusion Models [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)][[project homepage](https://ommer-lab.com/research/latent-diffusion-models/)][[code|official (latent-diffusion)](https://github.com/CompVis/latent-diffusion)][[code|official (stable-diffusion)](https://github.com/CompVis/stable-diffusion)][from `Latent Diffusion Model (LDM)` further extended to `Stable Diffusion Model (SDM)`][`SDM` is a large scale implementation of `LDM`]
+* 👍**LatentDiffusion(CVPR2022 oral)** High-Resolution Image Synthesis With Latent Diffusion Models [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)][[project homepage](https://ommer-lab.com/research/latent-diffusion-models/)][[code|official (latent-diffusion)](https://github.com/CompVis/latent-diffusion)][[code|official (stable-diffusion)](https://github.com/CompVis/stable-diffusion)][from `Latent Diffusion Model (LDM)` further extended to `Stable Diffusion Model (SDM)`][`SDM` is a large scale implementation of `LDM` to achieve text-to-image generation]
 
 * ❤ **SCAM(ECCV2022)** SCAM! Transferring humans between images with Semantic Cross Attention Modulation [[paper link](https://arxiv.org/abs/2210.04883)][[project link](https://imagine.enpc.fr/~dufourn/publications/scam.html)][[codes|official PyTorch](https://github.com/nicolas-dufour/SCAM)]
 
+* **CascadedDiffusion(JMLR2022)** Cascaded Diffusion Models for High Fidelity Image Generation [[paper link](https://www.jmlr.org/papers/v23/21-0635.html)][`directly use pyramid-based  methods`]
+
+* **unCLIP(arxiv2022)** Hierarchical Text-Conditional Image Generation with CLIP Latents [[arxiv link](https://arxiv.org/abs/2204.06125)][`directly use multiple-stage methods`]
+
 
 #### ▶ Text-to-Image Diffusion
+`Text-to-image generation is often achieved by encoding text inputs into latent vectors using pretrained language models like [CLIP](http://proceedings.mlr.press/v139/radford21a) (ICML2021 Learning Transferable Visual Models From Natural Language Supervision)`.
+
+* **GLIDE(arxiv2021)(ICML2022)** GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[paper link](https://proceedings.mlr.press/v162/nichol22a.html)][[arxiv link](https://arxiv.org/abs/2112.10741)][[codes|official](https://github.com/openai/glide-text2im)][`a text-guided diffusion models supporting both image generating and editing`]
+
+* **Imagen(NIPS2022)** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[paper link](https://openreview.net/forum?id=08Yk-n5l2Al)][[arxiv link](https://arxiv.org/abs/2205.11487)][[project link](https://imagen.research.google/)][`a text-to-image structure that does not use latent images and directly diffuse pixels using a pyramid structure`][`google`]
 
 * **SDEdit(ICLR2022)** SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2108.01073)][[project link](https://sde-image-editing.github.io/)][`Partial StyleGAN`]
 
 * **HumanDiffusion(arxiv2022)** HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation [[paper link](https://arxiv.org/abs/2211.06235)][`Human related image generation`]
 
 * **ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
+
 
 #### ▶ Text-to-3D Diffusion
 
