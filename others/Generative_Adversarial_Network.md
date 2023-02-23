@@ -110,8 +110,6 @@ also named ***Deep Generative Framework***
 
 * **CascadedDiffusion(JMLR2022)** Cascaded Diffusion Models for High Fidelity Image Generation [[paper link](https://www.jmlr.org/papers/v23/21-0635.html)][`directly use pyramid-based  methods`]
 
-* **unCLIP(arxiv2022)** Hierarchical Text-Conditional Image Generation with CLIP Latents [[arxiv link](https://arxiv.org/abs/2204.06125)][`directly use multiple-stage methods`]
-
 
 #### ▶ Text-to-Image Diffusion
 `Text-to-image generation is often achieved by encoding text inputs into latent vectors using pretrained language models like [CLIP](http://proceedings.mlr.press/v139/radford21a) (ICML2021 Learning Transferable Visual Models From Natural Language Supervision)`.
@@ -120,7 +118,23 @@ also named ***Deep Generative Framework***
 
 * **Imagen(NIPS2022)** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[paper link](https://openreview.net/forum?id=08Yk-n5l2Al)][[arxiv link](https://arxiv.org/abs/2205.11487)][[project link](https://imagen.research.google/)][`a text-to-image structure that does not use latent images and directly diffuse pixels using a pyramid structure`][`google`]
 
-* **SDEdit(ICLR2022)** SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2108.01073)][[project link](https://sde-image-editing.github.io/)][`Partial StyleGAN`]
+* 👍**SDEdit(ICLR2022)** SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2108.01073)][[project link](https://sde-image-editing.github.io/)][`Partial StyleGAN`][`The community of Stable Diffusion call this method img2img`]
+
+* **DiffusionCLIP(CVPR2022)** DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)][[code|official](https://github.com/gwang-kim/DiffusionCLIP)]
+
+* **BlendedDiffusion(CVPR2022)** Blended Diffusion for Text-Driven Editing of Natural Images [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.html)][[project link](https://omriavrahami.com/blended-diffusion-page/)]
+
+* **InstructPix2Pix(arxiv2022)** InstructPix2Pix: Learning to Follow Image Editing Instructions [[arxiv link](https://arxiv.org/abs/2211.09800)][[project link](https://www.timothybrooks.com/instruct-pix2pix)]
+
+* **Imagic(arxiv2022)** Imagic: Text-Based Real Image Editing with Diffusion Models [[paper link](https://arxiv.org/abs/2210.09276)][[project link](https://imagic-editing.github.io/)]
+
+* **P2P(arxiv2022)** Prompt-to-Prompt Image Editing with Cross Attention Control [[arxiv link](https://arxiv.org/abs/2208.01626)]
+
+* **unCLIP(arxiv2022)** Hierarchical Text-Conditional Image Generation with CLIP Latents [[arxiv link](https://arxiv.org/abs/2204.06125)][`directly use multiple-stage methods`]
+
+* **Textual Inversion(arxiv2022)** An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [[arxiv link](https://arxiv.org/abs/2208.01618)][[project link](https://textual-inversion.github.io/)][`NVIDIA`, `customize (or personalize) the contents in the generated results`]
+
+* **DreamBooth(arxiv2022)** DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[arxiv link](https://arxiv.org/abs/2208.12242)][[project link](https://dreambooth.github.io/)][`google`, `customize (or personalize) the contents in the generated results`]
 
 * **HumanDiffusion(arxiv2022)** HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation [[paper link](https://arxiv.org/abs/2211.06235)][`Human related image generation`]
 
