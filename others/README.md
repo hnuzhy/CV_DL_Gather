@@ -2,16 +2,16 @@
 
 **Contents Hyperlinks**
 
-* [⭐2D Talking Heads](#2d-talking-heads)
-* [⭐3D Body Model Regression](#3d-body-model-regression)
+* [⭐⭐2D Talking Heads](#2d-talking-heads)
+* [⭐⭐3D Body Model Regression](#3d-body-model-regression)
 * [⭐3D Reconstruction](#3d-reconstruction)
-* [⭐6D Object Pose Estimation](#6d-object-pose-estimation)
+* [⭐⭐6D Object Pose Estimation](#6d-object-pose-estimation)
 * [⭐Aerial Autonomous Navigation](#aerial-autonomous-navigation)
 * [⭐Automatic Speech Recognition](#automatic-speech-recognition)
-* [⭐Camera Pose Estimation (SLAM)](#camera-pose-estimation-slam)
-* [⭐Deep Neural Networks](#deep-neural-networks)
-* [⭐Generative Adversarial Network](#generative-adversarial-network)
-* [⭐Human Object Interaction Detection](#human-object-interaction-detection)
+* [⭐⭐Camera Pose Estimation (SLAM)](#camera-pose-estimation-slam)
+* [⭐⭐Deep Neural Networks](#deep-neural-networks)
+* [⭐⭐Generative Adversarial Network](#generative-adversarial-network)
+* [⭐⭐Human Object Interaction Detection](#human-object-interaction-detection)
 * [⭐Image Mosaic](#image-mosaic)
 * [⭐Image Restoration](#image-restoration)
 * [⭐Lane Detection](#lane-detection)
@@ -19,19 +19,19 @@
 * [⭐Person ReID](#person-reid)
 * [⭐Reinforcement Learning](#reinforcement-learning)
 * [⭐Scene Text Detection](#scene-text-detection)
-* [⭐Semantic Segmentation](#semantic-segmentation)
+* [⭐⭐Semantic Segmentation](#semantic-segmentation)
 * [⭐Sound Source Localization](#sound-source-localization)
 * [⭐Traffic Violation Detection](#traffic-violation-detection)
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐2D Talking Heads
+## ⭐⭐2D Talking Heads
 
 * Please refer [2D_Talking_Heads.md](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/2D_Talking_Heads.md)
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐3D Body Model Regression
+## ⭐⭐3D Body Model Regression
 
 * Please refer [3D_Body_Model_Regression.md](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/3D_Body_Model_Regression.md)
 
@@ -53,7 +53,7 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐6D Object Pose Estimation 
+## ⭐⭐6D Object Pose Estimation 
 
 * Please refer [6D_Object_Pose_Estimation.md](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/6D_Object_Pose_Estimation.md)
 
@@ -81,7 +81,7 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐Camera Pose Estimation (SLAM)
+## ⭐⭐Camera Pose Estimation (SLAM)
 
 ### Materials
 
@@ -106,7 +106,7 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐Deep Neural Networks
+## ⭐⭐Deep Neural Networks
 
 ### Frameworks
 
@@ -127,13 +127,13 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐Generative Adversarial Network
+## ⭐⭐Generative Adversarial Network
 
 * Please refer [Generative_Adversarial_Network.md](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/Generative_Adversarial_Network.md)
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-## ⭐Human Object Interaction Detection
+## ⭐⭐Human Object Interaction Detection
 
 ### Materials
 
@@ -306,7 +306,7 @@ Lectures and Courses
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 
-## ⭐Semantic Segmentation
+## ⭐⭐Semantic Segmentation
 
 ### Materials
 
