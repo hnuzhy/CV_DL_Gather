@@ -14,7 +14,7 @@ also named ***Deep Generative Framework***
     * **[▶ Text-to-Image Diffusion](#-Text-to-Image-Diffusion)** 
     * **[▶ Text-to-3D Diffusion](#-Text-to-3D-Diffusion)** 
   * **[▲ NeRF-based](#-NeRF-based)**
-
+  * **[▲ Others-based](#-Others-based)**
 
 ## 1) Materials
 
@@ -110,6 +110,10 @@ also named ***Deep Generative Framework***
 
 * **CascadedDiffusion(JMLR2022)** Cascaded Diffusion Models for High Fidelity Image Generation [[paper link](https://www.jmlr.org/papers/v23/21-0635.html)][`directly use pyramid-based  methods`]
 
+* **Palette(SIGGRAPH2022)** Palette: Image-to-Image Diffusion Models [[paper link](https://dl.acm.org/doi/abs/10.1145/3528233.3530757)][[arxiv link](https://arxiv.org/abs/2111.05826)][[project link](https://diffusion-palette.github.io/)][`an unified diffusion-based image-to-image translation framework`]
+
+* **PITI(arxiv2022)** Pretraining is All You Need for Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2205.12952)][[project link](https://tengfei-wang.github.io/PITI/index.html)][[code|official](https://github.com/PITI-Synthesis/PITI)][`a diffusion-based image-to-image translation method that utilizes large-scale pretraining as a way to improve the quality of generated results`]
+
 
 #### ▶ Text-to-Image Diffusion
 `Text-to-image generation is often achieved by encoding text inputs into latent vectors using pretrained language models like [CLIP](http://proceedings.mlr.press/v139/radford21a) (ICML2021 Learning Transferable Visual Models From Natural Language Supervision)`.
@@ -138,7 +142,7 @@ also named ***Deep Generative Framework***
 
 * **HumanDiffusion(arxiv2022)** HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation [[paper link](https://arxiv.org/abs/2211.06235)][`Human related image generation`]
 
-* **ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
+* 👍**ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
 
 
 #### ▶ Text-to-3D Diffusion
@@ -203,4 +207,11 @@ also named ***Deep Generative Framework***
 * **K-Planes(arxiv2023)** K-Planes: Explicit Radiance Fields in Space, Time, and Appearance  [[paper link](https://arxiv.org/abs/2301.10241)][[project link](https://sarafridov.github.io/K-Planes/)]
 
 * **MAV3D(Make-A-Video3D)(arxiv2023)** Text-To-4D Dynamic Scene Generation [[paper link](https://arxiv.org/abs/2301.11280)][[project link](https://make-a-video3d.github.io/)][`Meta AI`, `4D dynamic Neural Radiance Field (NeRF)`, `Diffusion`]
+
+
+### ▲ Others-based
+
+* **Taming Transformer(CVPR2021 oral)** Taming Transformers for High-Resolution Image Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.html?ref=https://githubhelp.com)][[project link](https://compvis.github.io/taming-transformers/)][`image-to-image translation`, `Vision Transformers (ViTs) based`, `with the capability to both generate images and perform image-to-image translations`]
+
+
 
