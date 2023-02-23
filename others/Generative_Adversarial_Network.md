@@ -9,6 +9,10 @@ also named ***Deep Generative Framework***
 * **[4) Papers](#4-Papers)**
   * **[▲ GAN-based](#-GAN-based)**
   * **[▲ Diffusion-based](#-Diffusion-based)**
+    * **[▶ Basic Theories](#-Basic-Theories)**
+    * **[▶ Direct Image Diffusion](#-Direct-Image-Diffusion)** 
+    * **[▶ Text-to-Image Diffusion](#-Text-to-Image-Diffusion)** 
+    * **[▶ Text-to-3D Diffusion](#-Text-to-3D-Diffusions)** 
   * **[▲ NeRF-based](#-NeRF-based)**
 
 
@@ -75,21 +79,42 @@ also named ***Deep Generative Framework***
 * **StyleGAN-Human(arxiv2022)** StyleGAN-Human: A Data-Centric Odyssey of Human Generation [[paper link](https://arxiv.org/abs/2204.11823)][[project link](https://stylegan-human.github.io/)][[code|official PyTorch](https://github.com/stylegan-human/StyleGAN-Human)]
 
 
-
 ### ▲ Diffusion-based
 [Diffusion model: collections in paperswithcode wedsite](https://paperswithcode.com/method/diffusion)
 
-* **DDPM(NIPS2020)** Denoising Diffusion Probabilistic Models [[paper link](https://arxiv.org/abs/2006.11239v2)][[project link](https://hojonathanho.github.io/diffusion/)][[code|official TensorFlow](https://github.com/hojonathanho/diffusion)][[[code|unofficial PyTorch](https://github.com/huggingface/diffusers)][[tutorial unofficial](https://nn.labml.ai/diffusion/ddpm/index.html)][`pioneering work`]
+#### ▶ Basic Theories
+
+* **DPM(ICML2015)** Deep Unsupervised Learning using Nonequilibrium Thermodynamics [[paper link](http://proceedings.mlr.press/v37/sohl-dickstein15.html)][[code|official](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)][`pioneering work`][The initial `diffusion probabilistic model`]
+
+* **DDPM(NIPS2020)** Denoising Diffusion Probabilistic Models [[paper link](https://arxiv.org/abs/2006.11239v2)][[project link](https://hojonathanho.github.io/diffusion/)][[code|official TensorFlow](https://github.com/hojonathanho/diffusion)][[[code|unofficial PyTorch](https://github.com/huggingface/diffusers)][[tutorial unofficial](https://nn.labml.ai/diffusion/ddpm/index.html)][`improved DPM`]
+
+* **DDIM(ICLR2021)** Denoising Diffusion Implicit Models [[paper link](https://arxiv.org/abs/2010.02502)][`improved DPM`]
+
+* **Score-based Diffusion(ICLR2021 oral)** Score-Based Generative Modeling through Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2011.13456)][`improved DPM`]
+
+
+#### ▶ Direct Image Diffusion
+
+* **(NIPS2021)** Variational Diffusion Models [[paper link](https://proceedings.neurips.cc/paper/2021/hash/b578f2a52a0229873fefc2a4b06377fa-Abstract.html)][`small-scale image generation using original DPM`]
+
+* **(NIPS2021)** Diffusion Models Beat GANs on Image Synthesis [[paper link](https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html)][`large-scale image generation using original DPM`]
 
 * ❤ **GET3D(NIPS2022)** GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images [[paper link](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)][[project link](https://nv-tlabs.github.io/GET3D/)][[codes|official PyTorch](https://github.com/nv-tlabs/GET3D)][`NVIDIA`]
 
-* 👍**StableDiffusion(CVPR2022 oral)** High-Resolution Image Synthesis With Latent Diffusion Models [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)][[project homepage](https://ommer-lab.com/research/latent-diffusion-models/)][[code|official (latent-diffusion)](https://github.com/CompVis/latent-diffusion)][[code|official (stable-diffusion)](https://github.com/CompVis/stable-diffusion)]
+* 👍**LatentDiffusion(CVPR2022 oral)** High-Resolution Image Synthesis With Latent Diffusion Models [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)][[project homepage](https://ommer-lab.com/research/latent-diffusion-models/)][[code|official (latent-diffusion)](https://github.com/CompVis/latent-diffusion)][[code|official (stable-diffusion)](https://github.com/CompVis/stable-diffusion)][from `Latent Diffusion Model (LDM)` further extended to `Stable Diffusion Model (SDM)`][`SDM` is a large scale implementation of `LDM`]
 
 * ❤ **SCAM(ECCV2022)** SCAM! Transferring humans between images with Semantic Cross Attention Modulation [[paper link](https://arxiv.org/abs/2210.04883)][[project link](https://imagine.enpc.fr/~dufourn/publications/scam.html)][[codes|official PyTorch](https://github.com/nicolas-dufour/SCAM)]
+
+
+#### ▶ Text-to-Image Diffusion
 
 * **SDEdit(ICLR2022)** SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2108.01073)][[project link](https://sde-image-editing.github.io/)][`Partial StyleGAN`]
 
 * **HumanDiffusion(arxiv2022)** HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation [[paper link](https://arxiv.org/abs/2211.06235)][`Human related image generation`]
+
+* **ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
+
+#### ▶ Text-to-3D Diffusion
 
 * 👍**DreamFusion(arxiv2022)** DreamFusion: Text-to-3D using 2D Diffusion [[paper link](https://arxiv.org/abs/2209.14988)][[project link](https://dreamfusion3d.github.io/)]
 
@@ -97,9 +122,8 @@ also named ***Deep Generative Framework***
 
 * **MAV3D(Make-A-Video3D)(arxiv2023)** Text-To-4D Dynamic Scene Generation [[paper link](https://arxiv.org/abs/2301.11280)][[project link](https://make-a-video3d.github.io/)][`Meta AI`, `4D dynamic Neural Radiance Field (NeRF)`, `Diffusion`]
 
-* **ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
+* **RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)][inspired by `DreamFields` and `DreamFusion`]
 
-* **RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)]
 
 
 ### ▲ NeRF-based
