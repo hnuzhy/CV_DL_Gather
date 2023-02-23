@@ -91,6 +91,7 @@
 
 #### Materials
 
+* [Gaze CVPR Workshop: International Workshop on Gaze Estimation and Prediction in the Wild](https://gazeworkshop.github.io/2023/)
 
 #### Papers
 
