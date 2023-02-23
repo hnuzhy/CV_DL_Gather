@@ -1,7 +1,18 @@
 # ⭐Generative Adversarial Network
 also named ***Deep Generative Framework***
 
-## Materials
+# Contents
+
+* **[1) Materials](#1-Materials)**
+* **[2) Other Closely Related Paper](#2-Other-Closely-Related-Paper)**
+* **[3) Surveys](#3-Surveys)**
+* **[4) Papers](#4-Papers)**
+  * **[▲ GAN-based](#-GAN-based)**
+  * **[▲ Diffusion-based](#-Diffusion-based)**
+  * **[▲ NeRF-based](#-NeRF-based)**
+
+
+## 1) Materials
 
 * [(blog) 生成对抗网络 – Generative Adversarial Networks | GAN](https://easyai.tech/ai-definition/gan/)
 * [(blog) Test and Train CycleGAN](https://colab.research.google.com/github/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/CycleGAN.ipynb#scrollTo=OzSKIPUByfiN)
@@ -10,19 +21,19 @@ also named ***Deep Generative Framework***
 * [(blog) What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
 
-## Other Closely Related Paper
+## 2) Other Closely Related Paper
 
 * **VAE(ICLR2014)** Auto-Encoding Variational Bayes [[paper link](https://arxiv.org/abs/1312.6114)][`Auto-Encoders`, `Gaussian Prior`]
 * **AAE(ICLR2016)** Adversarial Autoencoders [[paper link](https://arxiv.org/abs/1511.05644)][`Auto-Encoders`, `Gaussian Prior`]
 * **WAE(ICLR2018)** Wasserstein Auto-Encoders [[paper link](https://arxiv.org/abs/1711.01558)][`Auto-Encoders`, `Gaussian Prior`]
 
 
-## Surveys
+## 3) Surveys
 
 * **(arxiv2022)** Synthetic Data in Human Analysis: A Survey [[paper link](https://arxiv.org/abs/2208.09191)][`Synthetic Data usually needs GAN`]
 * **(arxiv2022)** NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [[paper link](https://arxiv.org/abs/2210.00379)][`Neural Radiance Field`]
 
-## Papers
+## 4) Papers
 
 ### ▲ GAN-based
 [Generative Adversarial Network (GAN): collections in paperswithcode wedsite](https://paperswithcode.com/method/gan)
@@ -85,6 +96,8 @@ also named ***Deep Generative Framework***
 * **MAV3D(Make-A-Video3D)(arxiv2023)** Text-To-4D Dynamic Scene Generation [[paper link](https://arxiv.org/abs/2301.11280)][[project link](https://make-a-video3d.github.io/)][`Meta AI`, `4D dynamic Neural Radiance Field (NeRF)`, `Diffusion`]
 
 * **ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
+
+* **RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)]
 
 
 ### ▲ NeRF-based
