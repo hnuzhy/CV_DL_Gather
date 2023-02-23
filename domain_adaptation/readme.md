@@ -25,10 +25,14 @@
 
 * [(zhihu) 【目标检测与域适应】论文及代码整理](https://zhuanlan.zhihu.com/p/371721493)
 * [(github) Unsupervised Domain Adaptation Papers and Code](https://github.com/barebell/DA)
-* [(github) A collection of AWESOME things about domian adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 * [(github) Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)](https://github.com/artix41/awesome-transfer-learning)
 * [(github) Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
 * [(github) (YOLO-Seg) YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/WongKinYiu/yolov7/tree/u7/seg)
+
+* [(github) A collection of AWESOME things about domian adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
+* [(github) A collection of AWESOME things about domian adaptation object detection](https://github.com/zhaoxin94/awesome-domain-adaptation#object-detection)
+* [(github) A collection of AWESOME things about domian adaptation semantic segmentation](https://github.com/zhaoxin94/awesome-domain-adaptation#semantic-segmentation)
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
