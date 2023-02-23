@@ -142,6 +142,8 @@ also named ***Deep Generative Framework***
 
 * **HumanDiffusion(arxiv2022)** HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation [[paper link](https://arxiv.org/abs/2211.06235)][`Human related image generation`]
 
+* **SketchGuidedDiffusion(arxiv2022)** Sketch-Guided Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2211.13752)][[project link](https://sketch-guided-diffusion.github.io/)]
+
 * 👍**ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
 
 
