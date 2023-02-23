@@ -182,7 +182,7 @@
 
 * **DRPC(ICCV2019)** Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization Without Accessing Target Domain Data [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Yue_Domain_Randomization_and_Pyramid_Consistency_Simulation-to-Real_Generalization_Without_Accessing_Target_ICCV_2019_paper.html)][[codes|official PyTorch](https://github.com/xyyue/DRPC)] 
 
-* ❤**GTR-LTR(Global Texture Randomization, Local Texture Randomization)(TIP2021)** Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/9489280)][[arxiv link](https://arxiv.org/abs/2108.02376)][[codes|official PyTorch](https://github.com/leolyj/GTR-LTR)][auther `leolyj`]
+* ❤**GTR-LTR(Global Texture Randomization, Local Texture Randomization)(TIP2021)** Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/9489280)][[arxiv link](https://arxiv.org/abs/2108.02376)][[codes|official PyTorch](https://github.com/leolyj/GTR-LTR)][author `leolyj`]
 
 * **FSDR(CVPR2021)** FSDR: Frequency Space Domain Randomization for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_FSDR_Frequency_Space_Domain_Randomization_for_Domain_Generalization_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/jxhuang0508/FSDR)]
 
@@ -190,7 +190,7 @@
 
 * **WildNet(CVPR2022)** WildNet: Learning Domain Generalized Semantic Segmentation From the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/suhyeonlee/WildNet)]
 
-* **SAN-SAW(CVPR2022 Oral)** Semantic-Aware Domain Generalized Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Peng_Semantic-Aware_Domain_Generalized_Segmentation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/leolyj/SAN-SAW)][auther `leolyj`]
+* **SAN-SAW(CVPR2022 Oral)** Semantic-Aware Domain Generalized Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Peng_Semantic-Aware_Domain_Generalized_Segmentation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/leolyj/SAN-SAW)][author `leolyj`]
 
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
 
