@@ -12,6 +12,10 @@
 
 ## Datasets
 
+* [GTA5 Dataset(ECCV2016)](https://download.visinf.tu-darmstadt.de/data/from_games/): Playing for Data: Ground Truth from Computer Games [[paper link](https://download.visinf.tu-darmstadt.de/data/from_games/data/eccv-2016-richter-playing_for_data.pdf)]
+* [CityScapes(CVPR2016)](https://www.cityscapes-dataset.com/login/): The Cityscapes Dataset for Semantic Urban Scene Understanding [[paper link](http://openaccess.thecvf.com/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html)]
+* [SYNTHIA-RAND-CITYSCAPES(CVPR2016)](https://synthia-dataset.net/downloads/): The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.html)]
+* [Foggy Cityscapes(ECCV2018)](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/): Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding [[paper link (ECCV2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Christos_Sakaridis_Semantic_Scene_Understanding_ECCV_2018_paper.html)][[paper link (IJCV2020)](https://link.springer.com/article/10.1007/s11263-019-01182-4)]
 * [NightCity(TIP2021)](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html): Night-time Scene Parsing with a Large Real Dataset
 * [Roboflow-100(Arxiv2022)](https://arxiv.org/abs/2211.13523): Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark [[blogs: Roboflow 100](https://blog.roboflow.com/roboflow-100/)]
 
@@ -107,6 +111,22 @@
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
+* **FCNs in the Wild(arxiv2016)** FCNs in the Wild: Pixel-level Adversarial and Constraint-based Adaptation [[paper link](https://arxiv.org/abs/1612.02649)][`both global and category specific adaptation techniques`, `pioneering`]
+
+* **CDA(ICCV2017)** Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Curriculum_Domain_Adaptation_ICCV_2017_paper.html)][[code|official](https://github.com/YangZhang4065/AdaptationSeg)][`curriculum domain adaptation`] 
+
+* **CyCADA(ICML2018)** CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[paper link](https://proceedings.mlr.press/v80/hoffman18a)][`adversarial training`]
+
+* **AdaptSegNet(CVPR2018)** Learning to Adapt Structured Output Space for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Tsai_Learning_to_Adapt_CVPR_2018_paper.html)][[code|official](https://github.com/wasidennis/AdaptSegNet)][`adversarial learning`]
+
+* **ADVENT(CVPR2019 oral)** ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html)][[code|official](https://github.com/valeoai/ADVENT)][`adversarial training`]
+
+* **BDL(CVPR2019)** Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Bidirectional_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2019_paper.html)][[code|official](https://github.com/liyunsheng13/BDL)][`adversarial training`]
+
+* **TGCF-DA(ICCV2019)** Self-Ensembling With GAN-Based Data Augmentation for Domain Adaptation in Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Choi_Self-Ensembling_With_GAN-Based_Data_Augmentation_for_Domain_Adaptation_in_Semantic_ICCV_2019_paper.html)][`GAN-Based Data Augmentation`]
+
+* **Adapt-Seg(ICCV2019 Oral)** Domain Adaptation for Structured Output via Discriminative Patch Representations [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tsai_Domain_Adaptation_for_Structured_Output_via_Discriminative_Patch_Representations_ICCV_2019_paper.pdf)][[project link](https://www.nec-labs.com/~mas/adapt-seg/adapt-seg.html)][`adversarial learning scheme`]
+
 * **FDA(CVPR2020)** FDA: Fourier Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.html)][[code|official](https://github.com/YanchaoYang/FDA)]
 
 * **FADA(ECCV2020)** Classes Matter: A Fine-Grained Adversarial Approach to Cross-Domain Semantic Segmentation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_38)][[codes|official PyTorch](https://github.com/JDAI-CV/FADA)][`self-training`]
@@ -137,9 +157,6 @@
 
 * **SePiCo(TPAMI2023)** SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation [[paper link](https://arxiv.org/abs/2204.08808)][[codes|official PyTorch](https://github.com/BIT-DA/SePiCo)][`Contrastive with centroid, memory band and gaussian`]
 
-* **CMOM(WACV2023)** Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing [[paper link](https://arxiv.org/abs/2211.02307)][[]()]
-SimT: Handling Open-Set Noise for Domain Adaptive Semantic Segmentation
-
 
 
 ### ④ ⭐ Domain Generalized Semantic Segmentation
@@ -151,4 +168,5 @@ SimT: Handling Open-Set Noise for Domain Adaptive Semantic Segmentation
 
 * **SSDA3D(AAAI2023)** SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud [[paper link](https://arxiv.org/abs/2212.02845)][[codes|official (not released)](https://github.com/yinjunbo/SSDA3D)][`Domain Adaptation for 3D Object Detection`]
 
+* **CMOM(WACV2023)** Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing [[paper link](https://arxiv.org/abs/2211.02307)][`Domain Adaptation for Video Semantic Segmentation`]
 
