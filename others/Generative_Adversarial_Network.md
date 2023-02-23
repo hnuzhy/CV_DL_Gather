@@ -12,7 +12,7 @@ also named ***Deep Generative Framework***
     * **[▶ Basic Theories](#-Basic-Theories)**
     * **[▶ Direct Image Diffusion](#-Direct-Image-Diffusion)** 
     * **[▶ Text-to-Image Diffusion](#-Text-to-Image-Diffusion)** 
-    * **[▶ Text-to-3D Diffusion](#-Text-to-3D-Diffusions)** 
+    * **[▶ Text-to-3D Diffusion](#-Text-to-3D-Diffusion)** 
   * **[▲ NeRF-based](#-NeRF-based)**
 
 
