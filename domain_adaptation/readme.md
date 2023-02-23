@@ -164,7 +164,12 @@
 
 ### ④ ⭐ Domain Generalized Semantic Segmentation
 
+* **WildNet(CVPR2022)** WildNet: Learning Domain Generalized Semantic Segmentation From the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/suhyeonlee/WildNet)]
+
+* **SAN-SAW(CVPR2022)** Semantic-Aware Domain Generalized Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Peng_Semantic-Aware_Domain_Generalized_Segmentation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/leolyj/SAN-SAW)]
+
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
+
 
 
 ### ⑤ ⭐ Domain Adaptation for Other Fields
