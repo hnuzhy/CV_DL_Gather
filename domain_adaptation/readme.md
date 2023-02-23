@@ -16,7 +16,7 @@
 * [CityScapes(CVPR2016)](https://www.cityscapes-dataset.com/login/): The Cityscapes Dataset for Semantic Urban Scene Understanding [[paper link](http://openaccess.thecvf.com/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html)]
 * [SYNTHIA-RAND-CITYSCAPES(CVPR2016)](https://synthia-dataset.net/downloads/): The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.html)]
 * [Foggy Cityscapes(ECCV2018)](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/): Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding [[paper link (ECCV2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Christos_Sakaridis_Semantic_Scene_Understanding_ECCV_2018_paper.html)][[paper link (IJCV2020)](https://link.springer.com/article/10.1007/s11263-019-01182-4)]
-* [NightCity(TIP2021)](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html): Night-time Scene Parsing with a Large Real Dataset
+* [NightCity(TIP2021)](https://dmcv.sjtu.edu.cn/people/phd/tanxin/NightCity/index.html): Night-time Scene Parsing with a Large Real Dataset [[paper link (journal)](https://ieeexplore.ieee.org/abstract/document/9591338)][[paper link (arxiv)](https://arxiv.org/abs/2003.06883)]
 * [Roboflow-100(Arxiv2022)](https://arxiv.org/abs/2211.13523): Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark [[blogs: Roboflow 100](https://blog.roboflow.com/roboflow-100/)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
