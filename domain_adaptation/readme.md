@@ -122,6 +122,7 @@
 
 * **DenseTeacher(ECCV2022)** DenseTeacher: Dense Pseudo-Label for Semi-supervised Object Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_3)][[code|official](https://github.com/Megvii-BaseDetection/DenseTeacher)]
 
+* **SSDA-YOLO(CVIU2023)** SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000292)][[arxiv link](https://arxiv.org/abs/2211.02213v2)][[code|official](https://github.com/hnuzhy/SSDA-YOLO)]
 
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
