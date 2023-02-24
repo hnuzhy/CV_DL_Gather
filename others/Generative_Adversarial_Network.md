@@ -132,7 +132,7 @@ also named ***Deep Generative Framework***
 
 * **Imagic(arxiv2022)** Imagic: Text-Based Real Image Editing with Diffusion Models [[paper link](https://arxiv.org/abs/2210.09276)][[project link](https://imagic-editing.github.io/)]
 
-* **P2P(arxiv2022)** Prompt-to-Prompt Image Editing with Cross Attention Control [[arxiv link](https://arxiv.org/abs/2208.01626)]
+* **Prompt-to-Prompt(arxiv2022)** Prompt-to-Prompt Image Editing with Cross Attention Control [[arxiv link](https://arxiv.org/abs/2208.01626)][[project link](https://prompt-to-prompt.github.io/)][[codes|official](https://github.com/google/prompt-to-prompt)][`google`]
 
 * **unCLIP(arxiv2022)** Hierarchical Text-Conditional Image Generation with CLIP Latents [[arxiv link](https://arxiv.org/abs/2204.06125)][`directly use multiple-stage methods`]
 
