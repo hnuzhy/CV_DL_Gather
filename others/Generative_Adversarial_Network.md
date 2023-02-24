@@ -144,7 +144,7 @@ also named ***Deep Generative Framework***
 
 * **SketchGuidedDiffusion(arxiv2022)** Sketch-Guided Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2211.13752)][[project link](https://sketch-guided-diffusion.github.io/)]
 
-* ❤**styleganfusion** Diffusion Guided Image Generator Domain Adaptation [[arxiv link](https://arxiv.org/abs/2212.04473)][[project link](https://styleganfusion.github.io/)][`StyleGAN` + `Diffusion`, `Domain Adaptation`]
+* ❤**styleganfusio(arxiv2022)** Diffusion Guided Image Generator Domain Adaptation [[arxiv link](https://arxiv.org/abs/2212.04473)][[project link](https://styleganfusion.github.io/)][`StyleGAN` + `Diffusion`, `Domain Adaptation`]
 
 * 👍**T2I-Adapter(arxiv2023)** T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.08453)][[codes|official](https://github.com/TencentARC/T2I-Adapter)][`Tencent`]
 
