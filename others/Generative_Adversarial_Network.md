@@ -144,6 +144,8 @@ also named ***Deep Generative Framework***
 
 * **SketchGuidedDiffusion(arxiv2022)** Sketch-Guided Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2211.13752)][[project link](https://sketch-guided-diffusion.github.io/)]
 
+* 👍**T2I-Adapter(arxiv2023)** T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.08453)][[codes|official](https://github.com/TencentARC/T2I-Adapter)][`Tencent`]
+
 * 👍**ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)]
 
 
