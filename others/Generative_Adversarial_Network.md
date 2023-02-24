@@ -217,7 +217,7 @@ also named ***Deep Generative Framework***
 
 ### ▲ Others-based
 
-* **Taming Transformer(CVPR2021 oral)** Taming Transformers for High-Resolution Image Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.html?ref=https://githubhelp.com)][[project link](https://compvis.github.io/taming-transformers/)][`image-to-image translation`, `Vision Transformers (ViTs) based`, `with the capability to both generate images and perform image-to-image translations`]
+* **Taming Transformer (a.k.a VQ-GAN)(CVPR2021 oral)** Taming Transformers for High-Resolution Image Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.html?ref=https://githubhelp.com)][[project link](https://compvis.github.io/taming-transformers/)][`image-to-image translation`, `Vision Transformers (ViTs) based`, `with the capability to both generate images and perform image-to-image translations`]
 
 
 
