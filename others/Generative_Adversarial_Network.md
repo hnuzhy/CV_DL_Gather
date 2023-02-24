@@ -148,7 +148,7 @@ also named ***Deep Generative Framework***
 
 * 👍**T2I-Adapter(arxiv2023)** T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.08453)][[codes|official](https://github.com/TencentARC/T2I-Adapter)][`Tencent`]
 
-* 👍**ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)][`an excellent work`] [`[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): An extension for AUTOMATIC1111's [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)`] [[ControlNet-for-Diffusers by haofanwang](https://github.com/haofanwang/ControlNet-for-Diffusers)]
+* 👍**ControlNet(arxiv2023)** Adding Conditional Control to Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.05543)][[codes|official](https://github.com/lllyasviel/ControlNet)][`an excellent work`] [[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): An extension for AUTOMATIC1111's [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)] [[ControlNet-for-Diffusers by haofanwang](https://github.com/haofanwang/ControlNet-for-Diffusers)]
 
 
 #### ▶ Text-to-3D Diffusion
