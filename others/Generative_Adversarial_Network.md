@@ -50,13 +50,13 @@ also named ***Deep Generative Framework***
 
 * **pix2pix(CVPR2017)** Image-To-Image Translation With Conditional Adversarial Networks [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)][[project link](https://phillipi.github.io/pix2pix/)][[code|official PyTorch](https://github.com/phillipi/pix2pix)][`image-to-image`]
 
-* ❤ **CycleGAN(ICCV2017)** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arxiv link](https://arxiv.org/pdf/1703.10593.pdf)][[project link](https://junyanz.github.io/CycleGAN/)][[Codes|PyTorch(official)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)][`image-to-image`]
+* ❤**CycleGAN(ICCV2017)** Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[arxiv link](https://arxiv.org/pdf/1703.10593.pdf)][[project link](https://junyanz.github.io/CycleGAN/)][[Codes|PyTorch(official)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)][`image-to-image`]
 
 * **pix2pixHD(CVPR2018)** High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs [[paper link](https://arxiv.org/pdf/1711.11585.pdf)][[project link](https://tcwang0509.github.io/pix2pixHD/)][[Codes|PyTorch(official)](https://github.com/NVIDIA/pix2pixHD)][`image-to-image`, `NVIDIA`]
 
 * **StyleGAN(CVPR2019)** A Style-Based Generator Architecture for Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)][[codes|official TensorFlow](https://github.com/NVlabs/stylegan)][`image-to-image`, `NVIDIA`]
 
-* ❤ **CUT(ECCV2020)** Contrastive Learning for Unpaired Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2007.15651)][[project link](http://taesung.me/ContrastiveUnpairedTranslation/)][[Codes|PyTorch(official)](https://github.com/taesungp/contrastive-unpaired-translation)][`image-to-image`]
+* ❤**CUT(ECCV2020)** Contrastive Learning for Unpaired Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2007.15651)][[project link](http://taesung.me/ContrastiveUnpairedTranslation/)][[Codes|PyTorch(official)](https://github.com/taesungp/contrastive-unpaired-translation)][`image-to-image`]
 
 * **Rotate-and-Render(CVPR2020)** Rotate-and-Render: Unsupervised Photorealistic Face Rotation From Single-View Images [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Rotate-and-Render_Unsupervised_Photorealistic_Face_Rotation_From_Single-View_Images_CVPR_2020_paper.html)][[code|official PyTorch](https://github.com/Hangz-nju-cuhk/Rotate-and-Render)][`self-supervision`, `consistency regularization`, `profile face frontalization`]
 
@@ -70,9 +70,9 @@ also named ***Deep Generative Framework***
 
 * **DepthGAN(ECCV2022 Oral)** 3D-Aware Indoor Scene Synthesis with Depth Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_23)][[project link](https://vivianszf.github.io/depthgan/)]
 
-* ❤ **EG3D(CVPR2022)** Efficient Geometry-Aware 3D Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Efficient_Geometry-Aware_3D_Generative_Adversarial_Networks_CVPR_2022_paper.html)][[code|official PyTorch](https://github.com/NVlabs/eg3d)][`NVIDIA`, `3D Face Image Generation`]
+* ❤**EG3D(CVPR2022)** Efficient Geometry-Aware 3D Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Efficient_Geometry-Aware_3D_Generative_Adversarial_Networks_CVPR_2022_paper.html)][[code|official PyTorch](https://github.com/NVlabs/eg3d)][`NVIDIA`, `3D Face Image Generation`]
 
-* ❤ **StyleNeRF(ICLR2022)** StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis [[paper link](https://arxiv.org/abs/2110.08985)][[project link](https://jiataogu.me/style_nerf/)][[code|official PyTorch](https://github.com/facebookresearch/StyleNeRF)][`3D Face Image Generation`, `3D-aware GANs based on NeRF`]
+* ❤**StyleNeRF(ICLR2022)** StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis [[paper link](https://arxiv.org/abs/2110.08985)][[project link](https://jiataogu.me/style_nerf/)][[code|official PyTorch](https://github.com/facebookresearch/StyleNeRF)][`3D Face Image Generation`, `3D-aware GANs based on NeRF`]
 
 * **Long-RangeGAN(arxiv2022)** Lightweight Long-Range Generative Adversarial Networks [[paper link](https://arxiv.org/abs/2209.03793)]
 
@@ -102,11 +102,11 @@ also named ***Deep Generative Framework***
 
 * **FastDPM(ICMLW2021)** On Fast Sampling of Diffusion Probabilistic Models [[paper link](https://openreview.net/forum?id=agj4cdOfrAP)][[arxiv link](https://arxiv.org/abs/2106.00132)][[project link](https://fastdpm.github.io/)][[code|official](https://github.com/FengNiMa/FastDPM_pytorch)][`considering strategies to save computation powers when handling high-resolution images`]
 
-* ❤ **GET3D(NIPS2022)** GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images [[paper link](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)][[project link](https://nv-tlabs.github.io/GET3D/)][[codes|official PyTorch](https://github.com/nv-tlabs/GET3D)][`NVIDIA`]
+* ❤**GET3D(NIPS2022)** GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images [[paper link](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)][[project link](https://nv-tlabs.github.io/GET3D/)][[codes|official PyTorch](https://github.com/nv-tlabs/GET3D)][`NVIDIA`]
 
 * 👍**LatentDiffusion(CVPR2022 oral)** High-Resolution Image Synthesis With Latent Diffusion Models [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)][[project homepage](https://ommer-lab.com/research/latent-diffusion-models/)][[code|official (latent-diffusion)](https://github.com/CompVis/latent-diffusion)][[code|official (stable-diffusion)](https://github.com/CompVis/stable-diffusion)][from `Latent Diffusion Model (LDM)` further extended to `Stable Diffusion Model (SDM)`][`SDM` is a large scale implementation of `LDM` to achieve text-to-image generation]
 
-* ❤ **SCAM(ECCV2022)** SCAM! Transferring humans between images with Semantic Cross Attention Modulation [[paper link](https://arxiv.org/abs/2210.04883)][[project link](https://imagine.enpc.fr/~dufourn/publications/scam.html)][[codes|official PyTorch](https://github.com/nicolas-dufour/SCAM)]
+* ❤**SCAM(ECCV2022)** SCAM! Transferring humans between images with Semantic Cross Attention Modulation [[paper link](https://arxiv.org/abs/2210.04883)][[project link](https://imagine.enpc.fr/~dufourn/publications/scam.html)][[codes|official PyTorch](https://github.com/nicolas-dufour/SCAM)]
 
 * **CascadedDiffusion(JMLR2022)** Cascaded Diffusion Models for High Fidelity Image Generation [[paper link](https://www.jmlr.org/papers/v23/21-0635.html)][`directly use pyramid-based  methods`]
 
@@ -143,6 +143,8 @@ also named ***Deep Generative Framework***
 * **HumanDiffusion(arxiv2022)** HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation [[paper link](https://arxiv.org/abs/2211.06235)][`Human related image generation`]
 
 * **SketchGuidedDiffusion(arxiv2022)** Sketch-Guided Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2211.13752)][[project link](https://sketch-guided-diffusion.github.io/)]
+
+* ❤**styleganfusion** Diffusion Guided Image Generator Domain Adaptation [[arxiv link](https://arxiv.org/abs/2212.04473)][[project link](https://styleganfusion.github.io/)][`StyleGAN` + `Diffusion`, `Domain Adaptation`]
 
 * 👍**T2I-Adapter(arxiv2023)** T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.08453)][[codes|official](https://github.com/TencentARC/T2I-Adapter)][`Tencent`]
 
@@ -216,6 +218,7 @@ also named ***Deep Generative Framework***
 ### ▲ Others-based
 
 * **Taming Transformer(CVPR2021 oral)** Taming Transformers for High-Resolution Image Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.html?ref=https://githubhelp.com)][[project link](https://compvis.github.io/taming-transformers/)][`image-to-image translation`, `Vision Transformers (ViTs) based`, `with the capability to both generate images and perform image-to-image translations`]
+
 
 
 
