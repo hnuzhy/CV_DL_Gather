@@ -23,7 +23,6 @@ also named ***Deep Generative Framework***
 * [(CSDNblog) CycleGAN论文的阅读与翻译，无监督风格迁移](https://zhuanlan.zhihu.com/p/45394148)
 * [(CSDNblog) 生成对抗网络(四)CycleGAN讲解](https://blog.csdn.net/qq_40520596/article/details/104714762)
 * [(blog) What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-
 * [(github) [ColossalAI] Making large AI models cheaper, faster and more accessible](https://github.com/hpcaitech/ColossalAI) [[official website](https://colossalai.org/)]
 * [(github) [youtube-dl] Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
 * [(github) [picoGPT] An unnecessarily tiny implementation of GPT-2 in NumPy](https://github.com/jaymody/picoGPT)
