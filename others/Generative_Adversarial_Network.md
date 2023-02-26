@@ -150,7 +150,7 @@ also named ***Deep Generative Framework***
 
 * **SketchGuidedDiffusion(arxiv2022)** Sketch-Guided Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2211.13752)][[project link](https://sketch-guided-diffusion.github.io/)]
 
-* ❤**styleganfusio(arxiv2022)** Diffusion Guided Image Generator Domain Adaptation [[arxiv link](https://arxiv.org/abs/2212.04473)][[project link](https://styleganfusion.github.io/)][`StyleGAN` + `Diffusion`, `Domain Adaptation`]
+* ❤**styleganfusion(arxiv2022)** Diffusion Guided Image Generator Domain Adaptation [[arxiv link](https://arxiv.org/abs/2212.04473)][[project link](https://styleganfusion.github.io/)][`StyleGAN` + `Diffusion`, `Domain Adaptation`]
 
 * 👍**T2I-Adapter(arxiv2023)** T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[arxiv link](https://arxiv.org/abs/2302.08453)][[codes|official](https://github.com/TencentARC/T2I-Adapter)][`Tencent`]
 
@@ -165,7 +165,7 @@ also named ***Deep Generative Framework***
 
 * **MAV3D(Make-A-Video3D)(arxiv2023)** Text-To-4D Dynamic Scene Generation [[paper link](https://arxiv.org/abs/2301.11280)][[project link](https://make-a-video3d.github.io/)][`Meta AI`, `4D dynamic Neural Radiance Field (NeRF)`, `Diffusion`]
 
-* **RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)][inspired by `DreamFields` and `DreamFusion`][`NeRF (InstantNGP)` + `Stable Diffusion (DreamFusion)`]
+* 👍**RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)][inspired by `DreamFields` and `DreamFusion`][`NeRF (InstantNGP)` + `Stable Diffusion (DreamFusion)`]
 
 
 
