@@ -188,6 +188,8 @@
 
 * **OmniPose(arxiv2021)** OmniPose: A Multi-Scale Framework for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2103.10180)]
 
+* **RLE(ICCV2021)** Human Pose Regression With Residual Log-Likelihood Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Human_Pose_Regression_With_Residual_Log-Likelihood_Estimation_ICCV_2021_paper.html)][[code|official](https://github.com/Jeff-sjtu/res-loglikelihood-regression)]
+
 * **MIPNet(ICCV2021)** Multi-Instance Pose Networks: Rethinking Top-Down Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Khirodkar_Multi-Instance_Pose_Networks_Rethinking_Top-Down_Pose_Estimation_ICCV_2021_paper.html)][[project link](https://rawalkhirodkar.github.io/mipnet/)][[codes|official demo](https://github.com/rawalkhirodkar/MIPNet)]
 
 * ⭐**TransPose(ICCV2021)** TransPose: Keypoint Localization via Transformer [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)][[codes|official PyTroch](https://github.com/yangsenius/TransPose)][`Transformer based two-stage MPPE (light-weight)`]
