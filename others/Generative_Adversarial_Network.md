@@ -159,7 +159,11 @@ also named ***Deep Generative Framework***
 
 #### ▶ Text-to-3D Diffusion
 
-* 👍**DreamFusion(arxiv2022)** DreamFusion: Text-to-3D using 2D Diffusion [[paper link](https://arxiv.org/abs/2209.14988)][[project link](https://dreamfusion3d.github.io/)]
+* **CLIP-Mesh(SIGGRAPH2022)** CLIP-Mesh: Generating textured meshes from text using pretrained image-text models [[paper link](https://dl.acm.org/doi/abs/10.1145/3550469.3555392)][[arxiv link](https://arxiv.org/abs/2203.13333)][[project link](https://www.nasir.lol/clipmesh)][[codes|official](https://github.com/NasirKhalid24/CLIP-Mesh)][`CLIP-based`, `class identity or text as prompts`]
+
+* **DreamFields(CVPR2022)** Zero-Shot Text-Guided Object Generation With Dream Fields [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Jain_Zero-Shot_Text-Guided_Object_Generation_With_Dream_Fields_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2112.01455)][[project link](https://ajayj.com/dreamfields)][`CLIP-based`, `class identity or text as prompts`]
+
+* 👍**DreamFusion(arxiv2022)** DreamFusion: Text-to-3D using 2D Diffusion [[paper link](https://arxiv.org/abs/2209.14988)][[project link](https://dreamfusion3d.github.io/)][`Stable Diffusion based`, `class identity or text as prompts`]
 
 * **Dream3D(arxiv2022)** Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models [[paper link](https://arxiv.org/abs/2212.14704)][[project link](https://bluestyle97.github.io/dream3d/)]
 
