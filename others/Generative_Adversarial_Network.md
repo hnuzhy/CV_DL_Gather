@@ -165,7 +165,7 @@ also named ***Deep Generative Framework***
 
 * **MAV3D(Make-A-Video3D)(arxiv2023)** Text-To-4D Dynamic Scene Generation [[paper link](https://arxiv.org/abs/2301.11280)][[project link](https://make-a-video3d.github.io/)][`Meta AI`, `4D dynamic Neural Radiance Field (NeRF)`, `Diffusion`]
 
-* **RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)][inspired by `DreamFields` and `DreamFusion`]
+* **RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)][inspired by `DreamFields` and `DreamFusion`][`NeRF (InstantNGP)` + `Stable Diffusion (DreamFusion)`]
 
 
 
@@ -209,6 +209,8 @@ also named ***Deep Generative Framework***
 * **Neural-Sim(ECCV2022)** Neural-Sim: Learning to Generate Training Data with NeRF [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_28)][[code|official](https://github.com/gyhandy/Neural-Sim-NeRF)]
 
 * ⭐**MoFaNeRF(ECCV2022)** MoFaNeRF:Morphable Facial Neural Radiance Field [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20062-5_16)][[code|official](https://github.com/zhuhao-nju/mofanerf)][`Face or head related NeRF`, `3DMM + NeRF`]
+
+* 👍👍**InstantNGP(SIGGRAPH2022 BestPaper)** Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [[paper link](https://dl.acm.org/doi/pdf/10.1145/3528223.3530127)][[arxiv link](https://arxiv.org/abs/2201.05989)][[project link](https://nvlabs.github.io/instant-ngp/)][[code|official](https://github.com/NVlabs/instant-ngp)][`NeRF-related`, `high efficiency`]
 
 * **headshot(arxiv2022)** Novel View Synthesis for High-fidelity Headshot Scenes [[paper link](https://arxiv.org/abs/2205.15595)][[code|official](https://github.com/showlab/headshot)][`Face or head related NeRF`]
 
