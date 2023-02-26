@@ -339,6 +339,8 @@
 
 * ⭐**DeciWatch(ECCV2022)** DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation [[paper link](https://arxiv.org/abs/2203.08713)][[code|official](https://github.com/cure-lab/DeciWatch)][[project link](https://ailingzeng.site/deciwatch)][`Video based human pose estimation`]
  
+* **QuickPose(SIGGRAPH2022)** QuickPose: Real-time Multi-view Multi-person Pose Estimation in Crowded Scenes [[paper link](https://dl.acm.org/doi/abs/10.1145/3528233.3530746)][`ZJU`]
+ 
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
