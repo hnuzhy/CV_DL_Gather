@@ -295,7 +295,9 @@
 
 * **Multitask-CenterNet(ICCVW2021)** MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning Using an Anchor Free Approach [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/ERCVAD/html/Heuer_MultiTask-CenterNet_MCN_Efficient_and_Diverse_Multitask_Learning_Using_an_Anchor_ICCVW_2021_paper.html)][`based on the CenterNet`]
 
-* **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)][`similarly with the PersonLab`]
+* **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)][`similarly with the PersonLab`, `Niaz Ahmad`, `suspected of plagiarism`]
+
+* **MultiPoseSeg(ICPR2022)** MultiPoseSeg: Feedback Knowledge Transfer for Multi-Person Pose Estimation and Instance Segmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/9956648)][[code|official](https://github.com/RaiseLab/MultiPoseSeg)][`similarly with the PersonLab`, `Niaz Ahmad`, `suspected of plagiarism`]
 
 
 ### ▶ 3D Multiple Person Pose Estimation
