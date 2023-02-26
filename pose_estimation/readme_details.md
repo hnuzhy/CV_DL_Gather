@@ -291,6 +291,8 @@
 
 * **PointSetNet(ECCV2020)** Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_31)][`Not a multi-task end-to-end network`]
 
+* **MG-HumanParsing(CVPR2021)** Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Differentiable_Multi-Granularity_Human_Representation_Learning_for_Instance-Aware_Human_Semantic_Parsing_CVPR_2021_paper.html)][[code|official](https://github.com/tfzhou/MG-HumanParsing)]
+
 * **Multitask-CenterNet(ICCVW2021)** MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning Using an Anchor Free Approach [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/ERCVAD/html/Heuer_MultiTask-CenterNet_MCN_Efficient_and_Diverse_Multitask_Learning_Using_an_Anchor_ICCVW_2021_paper.html)][`based on the CenterNet`]
 
 * **PosePlusSeg(AAAI2022)** Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-6681.AhmadN.pdf)][[codes|official tensorflow](https://github.com/RaiseLab/PosePlusSeg)][`similarly with the PersonLab`]
@@ -332,8 +334,6 @@
 * **ODKD(arxiv2021)** Orderly Dual-Teacher Knowledge Distillation for Lightweight Human Pose Estimation [[paper link](https://arxiv.org/abs/2104.10414)][`Knowledge Distillation of MPPE based on HRNet`]
 
 * **DDP(3DV2021)** Direct Dense Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9665828)][`Dense human pose estimation`]
-
-* **MG-HumanParsing(CVPR2021)** Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Differentiable_Multi-Granularity_Human_Representation_Learning_for_Instance-Aware_Human_Semantic_Parsing_CVPR_2021_paper.html)][[code|official](https://github.com/tfzhou/MG-HumanParsing)]
 
 * **MEVADA(ICCV2021)** Single View Physical Distance Estimation using Human Pose [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Fei_Single_View_Physical_Distance_Estimation_Using_Human_Pose_ICCV_2021_paper.html)][[project link](https://feixh.github.io/projects/physical_distance/)]
 
