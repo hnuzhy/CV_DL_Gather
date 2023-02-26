@@ -6,6 +6,7 @@
 * **[2) Pioneers and Experts](#2-Pioneers-and-Experts)**
 * **[3) Blogs, Videos and Applications](#3-Blogs-Videos-and-Applications)**
 * **[4) Papers and Sources Codes](#4-Papers-and-Sources-Codes)**
+  * **[▶ Related Survey](#-Related-Survey)**
   * **[▶ Single Person Pose Estimation](#-Single-Person-Pose-Estimation)**
   * **[▶ Two-Stage [Top-Down] Multiple Person Pose Estimation](#-Two-Stage-Top-Down-Multiple-Person-Pose-Estimation)**
   * **[▶ Two-Stage [Bottom-Up] Multiple Person Pose Estimation](#-Two-Stage-Bottom-Up-Multiple-Person-Pose-Estimation)**
@@ -88,6 +89,10 @@
 
 
 ## 4) Papers and Sources Codes
+
+### ▶ Related Survey
+
+* **ComputingSurveys 2022** Recent Advances of Monocular 2D and 3D Human Pose Estimation: A Deep Learning Perspective [[paper link](https://dl.acm.org/doi/full/10.1145/3524497)][[arxiv link](https://arxiv.org/abs/2104.11536)][`JD` + `HIT`]
 
 ### ▶ Single Person Pose Estimation
 
