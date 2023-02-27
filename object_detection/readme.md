@@ -4,12 +4,14 @@
 * **[2) Annotation Tools](#2-Annotation-Tools)**
 * **[3) Pioneers and Experts](#3-Pioneers-and-Experts)**
 * **[4) Blogs and Videos](#4-Blogs-and-Videos)**
+  * **[▶ GitHub](#-GitHub)**
+  * **[▶ CSDN or zhihu](#-CSDN-or-zhihu)**
 * **[5) Papers and Sources Codes](#5-Papers-and-Sources-Codes)**
   * **[▶ Related Survey](#-Related-Survey)**
   * **[▶ Two-stage Anchor based](#-Two-stage-Anchor-based)**
   * **[▶ One-stage Anchor based](#-One-stage-Anchor-based)**
   * **[▶ One-stage Anchor free](#-One-stage-Anchor-free)**
-  * **[▶ Detection Transformer (DETR, fully end-to-end)](#-Detection-Transformer-DETR-fully-end-to-end)**
+  * **[▶ Detection Transformer (DETR)](#-Detection-Transformer-DETR-fully-end-to-end)**
   * **[▶ YOLO Series Algorithms](#-YOLO-Series-Algorithms)**
 
 
@@ -34,22 +36,23 @@
 
 ## 4) Blogs and Videos
 
-* [(CSDNblog) 理解COCO的评价指标：AP，AP50，AP70，mAP，AP[.50:.05:.95]](https://blog.csdn.net/qq_27095227/article/details/105450470)
+### ▶ GitHub
 * [(github) High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection)
 * [(github) MMDetection: an open source object detection toolbox based on PyTorch by CUHK](https://github.com/open-mmlab/mmdetection)
 * [(github) TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+* [(github) Yolov5 Yolov4 Yolov3 TensorRT Implementation](https://github.com/enazoe/yolo-tensorrt)
+* [(github) A Faster Pytorch Implementation of Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch)
+* [(github) FAIR's research platform for object detection research, implementing popular algorithms](https://github.com/facebookresearch/Detectron)
+* [(github) Awesome Detection Transformer for Computer Vision (CV) (by `IDEA-Research`)](https://github.com/IDEA-Research/awesome-detection-transformer)
+
+### ▶ CSDN or zhihu
+* [(CSDN blog) 理解COCO的评价指标：AP，AP50，AP70，mAP，AP[.50:.05:.95]](https://blog.csdn.net/qq_27095227/article/details/105450470)
 * [(CSDN blog) 目标检测——One-stage和Two-stage的详解](https://blog.csdn.net/gaoyu1253401563/article/details/86485851)
 * [(CSDN blog) Anchor-free的目标检测文章](https://blog.csdn.net/qq_33547191/article/details/90548564)
 * [(CSDN blog) 目标检测Anchor-free分支：基于关键点的目标检测（最新网络全面超越YOLOv3）](https://blog.csdn.net/qiu931110/article/details/89430747)
 * [(CSDN blog) YOLO V4 Tiny改进版来啦！速度294FPS精度不减YOLO V4 Tiny](https://blog.csdn.net/Yong_Qi2015/article/details/109685373)
-* [(blog) YOLO V5 is Here! Custom Object Detection Tutorial with YOLO V5](https://pub.towardsai.net/yolo-v5-is-here-custom-object-detection-tutorial-with-yolo-v5-12666ee1774e)
-* [(github) Yolo v4, v3 and v2 for Windows and Linux](https://github.com/AlexeyAB/darknet)
-* [(github) Darknet & Scaled-YOLOv4 & YOLOv4](https://github.com/pjreddie/darknet)
-* [(github) Yolov5 Yolov4 Yolov3 TensorRT Implementation](https://github.com/enazoe/yolo-tensorrt)
-* [(github) YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite](https://github.com/ultralytics/yolov5)
-* [(github) A Faster Pytorch Implementation of Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch)
+* [(blog) Custom Object Detection Tutorial with YOLO V5](https://pub.towardsai.net/yolo-v5-is-here-custom-object-detection-tutorial-with-yolo-v5-12666ee1774e)
 * [(zhihu) 如何评价YOLOv5？](https://www.zhihu.com/question/399884529)
-* [(github) FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.](https://github.com/facebookresearch/Detectron)
 
 
 ## 5) Papers and Sources Codes
@@ -95,7 +98,7 @@
 
 ### ▶ Detection Transformer (DETR, fully end-to-end)
 
-* ❤ **DEtection TRansformer(DETR) (ECCV2020 BestPaper)** End-to-End Object Detection with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)][[codes|official](https://github.com/facebookresearch/detr)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)][[bilibili paper reading video 2](https://www.bilibili.com/video/BV1sx4y1G76p/)]
+* ❤ **DEtection TRansformer(DETR) (ECCV2020 BestPaper)** End-to-End Object Detection with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)][[codes|official](https://github.com/facebookresearch/detr)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)][[bilibili paper reading video 2](https://www.bilibili.com/video/BV1sx4y1G76p/)][`facebookresearch`]
 
 * ❤ **DeformableDETR (ICLR2021 OralPaper)** Deformable DETR: Deformable Transformers for End-to-End Object Detection [[paper link](https://arxiv.org/abs/2010.04159)] [[codes|official](https://github.com/fundamentalvision/Deformable-DETR)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)]
 
