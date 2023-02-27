@@ -258,11 +258,16 @@
 
 * **Point-Set Anchors(ECCV2020)** Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_31)]
 
+* **TFPose(arxiv2021)** TFPose: Direct Human Pose Estimation with Transformers [[arxiv link](https://arxiv.org/abs/2103.15320)][[project link](https://github.com/aim-uofa/AdelaiDet/)][`It adopts Detection Transformers to estimate the cropped single-person images as a query-based regression task`]
+
+* **InsPose(ACMMM2021)** InsPose: Instance-Aware Networks for Single-Stage Multi-Person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3474085.3475447)][[code|official](https://github.com/hikvision-research/opera/tree/main/configs/inspose)][`It designs
+instance-aware dynamic networks to adaptively adjust part of the network parameters for each instance`]
+
 * **DeepDarts(CVPRW2021)** DeepDarts: Modeling Keypoints as Objects for Automatic Scorekeeping in Darts using a Single Camera [[paper link](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/McNally_DeepDarts_Modeling_Keypoints_as_Objects_for_Automatic_Scorekeeping_in_Darts_CVPRW_2021_paper.pdf)]
 
 * ⭐**FCPose(CVPR2021)** FCPose: Fully Convolutional Multi-Person Pose Estimation With Dynamic Instance-Aware Convolutions [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Mao_FCPose_Fully_Convolutional_Multi-Person_Pose_Estimation_With_Dynamic_Instance-Aware_Convolutions_CVPR_2021_paper.html)][[codes|official](https://github.com/aim-uofa/AdelaiDet/)]
 
-* **PRTR(CVPR2021)** Pose Recognition With Cascade Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Pose_Recognition_With_Cascade_Transformers_CVPR_2021_paper.html)][[codes|official](https://github.com/mlpc-ucsd/PRTR)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`]
+* **PRTR(CVPR2021)** Pose Recognition With Cascade Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Pose_Recognition_With_Cascade_Transformers_CVPR_2021_paper.html)][[codes|official](https://github.com/mlpc-ucsd/PRTR)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`][`end2end top-down`]
 
 * ⭐**KAPAO(ECCV2022)** Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2111.08557)][[codes|(official pytorch using YOLOv5)](https://github.com/wmcnally/kapao)]
 
@@ -274,9 +279,9 @@
 
 * **LOGO-CAP(CVPR2022)** Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Learning_Local-Global_Contextual_Adaptation_for_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/cherubicXN/logocap)]
 
-* **PETR(CVPR2022)** End-to-End Multi-Person Pose Estimation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/hikvision-research/opera)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`]
+* **PETR(CVPR2022)** End-to-End Multi-Person Pose Estimation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/hikvision-research/opera)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`][`fully end2end`]
 
-* ⭐**ED-Pose(ICLR2023)** Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2302.01593)][[code|official](https://github.com/IDEA-Research/ED-Pose)][`IDEA-Research`]
+* ⭐**ED-Pose(ICLR2023)** Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2302.01593)][[code|official](https://github.com/IDEA-Research/ED-Pose)][`IDEA-Research`][`fully end2end`]
 
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
