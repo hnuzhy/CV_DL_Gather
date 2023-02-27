@@ -44,6 +44,7 @@
 * [(github) A Faster Pytorch Implementation of Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch)
 * [(github) FAIR's research platform for object detection research, implementing popular algorithms](https://github.com/facebookresearch/Detectron)
 * [(github) Awesome Detection Transformer for Computer Vision (CV) (by `IDEA-Research`)](https://github.com/IDEA-Research/awesome-detection-transformer)
+* [(github) detrex is a research platform for Transformer-based Instance Recognition algorithms (by `IDEA-Research`)](https://github.com/IDEA-Research/detrex)
 
 ### ▶ CSDN or zhihu
 * [(CSDN blog) 理解COCO的评价指标：AP，AP50，AP70，mAP，AP[.50:.05:.95]](https://blog.csdn.net/qq_27095227/article/details/105450470)
