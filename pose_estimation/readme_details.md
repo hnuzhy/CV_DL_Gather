@@ -278,6 +278,8 @@
 
 * **PETR(CVPR2022)** End-to-End Multi-Person Pose Estimation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/hikvision-research/opera)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`]
 
+* ⭐**ED-Pose(ICLR2023)** Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2302.01593)][[code|official](https://github.com/IDEA-Research/ED-Pose)][`IDEA-Research`]
+
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
