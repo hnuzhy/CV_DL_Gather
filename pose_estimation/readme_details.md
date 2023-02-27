@@ -258,7 +258,7 @@
 
 * **Point-Set Anchors(ECCV2020)** Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_31)]
 
-* **TFPose(arxiv2021)** TFPose: Direct Human Pose Estimation with Transformers [[arxiv link](https://arxiv.org/abs/2103.15320)][[project link](https://github.com/aim-uofa/AdelaiDet/)][`It adopts Detection Transformers to estimate the cropped single-person images as a query-based regression task`]
+* **TFPose(arxiv2021)** TFPose: Direct Human Pose Estimation with Transformers [[arxiv link](https://arxiv.org/abs/2103.15320)][[project link](https://github.com/aim-uofa/AdelaiDet/)][`It adopts Detection Transformers to estimate the cropped single-person images as a query-based regression task`][`end2end top-down`]
 
 * **InsPose(ACMMM2021)** InsPose: Instance-Aware Networks for Single-Stage Multi-Person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3474085.3475447)][[code|official](https://github.com/hikvision-research/opera/tree/main/configs/inspose)][`It designs
 instance-aware dynamic networks to adaptively adjust part of the network parameters for each instance`]
