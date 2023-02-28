@@ -29,7 +29,8 @@ also named ***Deep Generative Framework***
 * [(github) [civitai] A repository of models, textual inversions, and more](https://github.com/civitai/civitai) [[official website](https://civitai.com/)]
 * [(github) [whatsapp-chatgpt] ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖](https://github.com/askrella/whatsapp-chatgpt)
 * [(github) [mm-cot] Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" ](https://github.com/amazon-science/mm-cot) [[arxiv link](https://arxiv.org/abs/2302.00923)]
-
+* [(LLM) (CLIP ICML2021) Learning Transferable Visual Models From Natural Language Supervision](http://proceedings.mlr.press/v139/radford21a)
+* [(LLM) (BEiT arxiv2022) Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/abs/2208.10442) [[project link](https://github.com/microsoft/unilm/tree/master/beit)]
 
 ## 2) Other Closely Related Paper
 
@@ -122,7 +123,7 @@ also named ***Deep Generative Framework***
 
 
 #### ▶ Text-to-Image Diffusion
-`Text-to-image generation is often achieved by encoding text inputs into latent vectors using pretrained language models like [CLIP](http://proceedings.mlr.press/v139/radford21a) (ICML2021 Learning Transferable Visual Models From Natural Language Supervision)`.
+`Text-to-image generation is often achieved by encoding text inputs into latent vectors using pretrained language models like CLIP`.
 
 * **GLIDE(arxiv2021)(ICML2022)** GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[paper link](https://proceedings.mlr.press/v162/nichol22a.html)][[arxiv link](https://arxiv.org/abs/2112.10741)][[codes|official](https://github.com/openai/glide-text2im)][`a text-guided diffusion models supporting both image generating and editing`]
 
