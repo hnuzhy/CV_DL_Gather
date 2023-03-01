@@ -107,6 +107,8 @@
 
 * **DN-DETR (CVPR2022 OralPaper)** DN-DETR: Accelerate DETR Training by Introducing Query DeNoising [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.html)] [[codes|official](https://github.com/IDEA-Research/DN-DETR)]
 
+* **HDETR (CVPR2023)** DETRs with Hybrid Matching [[arxiv link](https://arxiv.org/abs/2207.13080)][[code|official](https://github.com/HDETR)][[code|official (`H-Deformable-DETR`)](https://github.com/HDETR/H-Deformable-DETR)][[code|official (`H-PETR-3D`)](https://github.com/HDETR/H-PETR-3D)][[code|official (`H-PETR-Pose`)](https://github.com/HDETR/H-PETR-Pose)]
+
 
 ### ▶ YOLO Series Algorithms
 > *Anchor-base*: `YOLOv1`, `YOLOv2`, `YOLOv3`, `YOLOv4`, `Scaled-YOLOv4`,`YOLOv5`, `YOLOR`, `TPH-YOLOv5`, `YOLOv5-Lite`, `YOLOv7`, `YOLOv8`; *Anchor-Free*: `YOLOX`, `PP-YOLOE`, `YOLOv6`
@@ -135,7 +137,7 @@
   
 * **YOLOv6 (arxiv2022.09)** YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications [[paper link](https://arxiv.org/abs/2209.02976)][[code|official by meituan](https://github.com/meituan/YOLOv6)][[YOLOv6 v3.0: A Full-Scale Reloading (arxiv2023.01)](https://arxiv.org/abs/2301.05586)][`meituan`] 
 
-* ❤ **YOLOv7 (arxiv2022.07)** YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [[paper link](https://arxiv.org/abs/2207.02696)][[code|official](https://github.com/WongKinYiu/yolov7)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
+* ❤ **YOLOv7 (arxiv2022.07) (CVPR2023)** YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [[paper link](https://arxiv.org/abs/2207.02696)][[code|official](https://github.com/WongKinYiu/yolov7)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
 
 * **YOLOv8 (github 2023.01)** YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/ultralytics)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][`ultralytics`, `Glenn Jocher`]
 
