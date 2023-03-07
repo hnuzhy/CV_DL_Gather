@@ -148,6 +148,9 @@
 
 * ❤**3DDFA_V2(ECCV2020)** Towards Fast, Accurate and Stable 3D Dense Face Alignment [[paper link](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640154.pdf)][[codes|PyTorch 3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)]
 
+* ❤**SPIGA(BMVC2022)** Shape Preserving Facial Landmarks with Graph Attention Networks [[paper link](https://arxiv.org/abs/2210.07233)][[project link](https://bmvc2022.mpi-inf.mpg.de/155/)][[codes|official PyTorch](https://github.com/andresprados/SPIGA)]
+
+
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 
