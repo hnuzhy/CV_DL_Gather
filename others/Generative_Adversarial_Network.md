@@ -77,6 +77,8 @@ also named ***Deep Generative Framework***
 
 * **DepthGAN(ECCV2022 Oral)** 3D-Aware Indoor Scene Synthesis with Depth Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_23)][[project link](https://vivianszf.github.io/depthgan/)]
 
+* **InsetGAN(CVPR2022)** InsetGAN for Full-Body Image Generation [[paper link](https://arxiv.org/abs/2203.07293)][[project link](http://afruehstueck.github.io/insetgan/)][[code|official](https://github.com/afruehstueck/insetGAN)]
+
 * ❤**EG3D(CVPR2022)** Efficient Geometry-Aware 3D Generative Adversarial Networks [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Efficient_Geometry-Aware_3D_Generative_Adversarial_Networks_CVPR_2022_paper.html)][[code|official PyTorch](https://github.com/NVlabs/eg3d)][`NVIDIA`, `3D Face Image Generation`]
 
 * ❤**StyleNeRF(ICLR2022)** StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis [[paper link](https://arxiv.org/abs/2110.08985)][[project link](https://jiataogu.me/style_nerf/)][[code|official PyTorch](https://github.com/facebookresearch/StyleNeRF)][`3D Face Image Generation`, `3D-aware GANs based on NeRF`]
