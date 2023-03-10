@@ -229,6 +229,8 @@ also named ***Deep Generative Framework***
 
 * **MAV3D(Make-A-Video3D)(arxiv2023)** Text-To-4D Dynamic Scene Generation [[paper link](https://arxiv.org/abs/2301.11280)][[project link](https://make-a-video3d.github.io/)][`Meta AI`, `4D dynamic Neural Radiance Field (NeRF)`, `Diffusion`]
 
+* **INSTA(CVPR2023)** Instant Volumetric Head Avatars [[paper link](https://arxiv.org/abs/2211.12499)][[project link](https://zielon.github.io/insta/)][[code|official]()][`MPII`]
+
 
 ### ▲ Others-based
 
