@@ -388,3 +388,4 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
 
+* **SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)]
