@@ -54,6 +54,7 @@
 * [HMR-Benchmarks: Benchmarking 3D Pose and Shape Estimation Beyond Algorithms (NIPS2022)](https://github.com/smplbody/hmr-benchmarks) [[paper link](https://openreview.net/pdf?id=rjBYortWdRV)]
 * [SynPose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom (ICASSP2022)](https://yuzefang96.github.io/SynPose/) [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
 * ⭐[JRDB-Pose: A Large-scale Dataset for Multi-Person Pose Estimation and Tracking (ICCV2019 & CVPR2021 & ECCV2022)](https://jrdb.erc.monash.edu/) [[paper link](https://arxiv.org/abs/2210.11940)][[dataset details](https://jrdb.erc.monash.edu/dataset/)]
+* ⭐[Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes (CVPR2023)](https://arxiv.org/abs/2303.02760) [[paper link](https://arxiv.org/abs/2303.02760)][[By IDEA-Research](https://github.com/IDEA-Research)]
 
 
 ## 2) Pioneers and Experts
