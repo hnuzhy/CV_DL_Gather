@@ -14,7 +14,7 @@
   * **[▶ Face Detection](#-Face-Detection)**
   * **[▶ Face Recognition](#-Face-Recognition)**
   * **[▶ Face Reconstruction (3D)](#-Face-Reconstruction-3D)**
-  * **[▶ Head Detector](#-Head-Detector)**
+  * **[▶ Head Detection](#-Head-Detection)**
   * **[▶ Head Pose Estimation](#-Head-Pose-Estimation)**
 
 
@@ -307,7 +307,7 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-### ▶ Head Detector
+### ▶ Head Detection
 
 ### Materials
 
@@ -338,6 +338,10 @@
 * **FastNFusion(PRCV2021)** Fast and Fusion: Real-Time Pedestrian Detector Boosted by Body-Head Fusion [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-88004-0_6)][`Pedestrian Detector using Body-Head Association`]
 
 * **BFJDet(ICCV2021)** Body-Face Joint Detection via Embedding and Head Hook [[paper link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)][[codes|official](https://github.com/AibeeDetect/BFJDet)][`joint detection of person body, head and face`]
+
+* **(CVPR2021)*** Generalizable Pedestrian Detection: The Elephant In The Room [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.html)][[code|official](https://github.com/hasanirtiza/Pedestron)][`Pedestrian Detection`]
+
+* **HeadHunter(CVPR2021)** Tracking Pedestrian Heads in Dense Crowd [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.html)][[project link](https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/)][[code|official](https://github.com/Sentient07/HeadHunter)][`Pedestrian Tracking`]
 
 * **BodyHands(CVPR2022)** Whose Hands Are These? Hand Detection and Hand-Body Association in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Narasimhaswamy_Whose_Hands_Are_These_Hand_Detection_and_Hand-Body_Association_in_CVPR_2022_paper.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/BodyHands/)][[code|official](https://github.com/cvlab-stonybrook/BodyHands)][`joint detection of person body and hands`]
 
