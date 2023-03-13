@@ -319,6 +319,8 @@
 
 ### Papers
 
+* **HollywoodHeads(ICCV2015)** Context-Aware CNNs for Person Head Detection [[paper link](https://openaccess.thecvf.com/content_iccv_2015/html/Vu_Context-Aware_CNNs_for_ICCV_2015_paper.html)][`It introduces a large dataset with 369,846 human heads annotated in 224,740 movie frames.`]
+
 * **ReInspect, Lhungarian(CVPR2016)** End-To-End People Detection in Crowded Scenes [[arxiv link](https://arxiv.org/abs/1506.04878)]
 
 * **DA-RCNN(arxiv2018)** Double Anchor R-CNN for Human Detection in a Crowd [[arxiv link](https://arxiv.org/abs/1909.09998)][[CSDN blog1](https://blog.csdn.net/Suan2014/article/details/103987896)][[CSDN blog2](https://blog.csdn.net/Megvii_tech/article/details/103485685)]
