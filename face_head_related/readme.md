@@ -329,7 +329,7 @@
 
 * **FCHD(arxiv2018,ICIP2019)** FCHD: Fast and accurate head detection in crowded scenes [[arxiv link](https://arxiv.org/abs/1809.08766)][[Codes|PyTorch(official)](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)][[CSDN blog](https://blog.csdn.net/javastart/article/details/82865858)]
 
-* **Hier-R-CNN(TIP2020)** Hier R-CNN: Instance-Level Human Parts Detection and A New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/9229236)][[code|official](https://github.com/soeaver/Hier-R-CNN)][`Mask R-CNN` as Backbone, `FCOS` as Hier Branch][`COCOHumanParts` dataset]
+* **Hier-R-CNN(TIP2020)** Hier R-CNN: Instance-Level Human Parts Detection and A New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/9229236)][[code|official](https://github.com/soeaver/Hier-R-CNN)][`Mask R-CNN` as Backbone][`FCOS` as Hier Branch which needs many hand-crafted tricks][`COCOHumanParts` dataset]
 
 * **LSC-CNN(TPAMI2020)** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection [[arxiv link](https://arxiv.org/abs/1906.07538)][[Codes|Pytorch(official)](https://github.com/val-iisc/lsc-cnn)]
  
