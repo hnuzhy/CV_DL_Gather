@@ -195,6 +195,7 @@
 
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
 
+* **WSDA_semantic(MTA2023)** On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data [[paper link](https://link.springer.com/article/10.1007/s11042-023-14662-0)][[code|official](http://www-vpu.eps.uam.es/publications/WSDA_semantic/)]
 
 
 ### ⑤ ⭐Domain Adaptation for Other Fields
