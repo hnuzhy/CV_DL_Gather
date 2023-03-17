@@ -358,6 +358,8 @@
 
 * ⭐**Hier-R-CNN(TIP2020)** Hier R-CNN: Instance-Level Human Parts Detection and A New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/9229236)][[code|official](https://github.com/soeaver/Hier-R-CNN)][`Mask R-CNN` as Backbone][`FCOS` as Hier Branch which needs many hand-crafted tricks][`COCOHumanParts` dataset]
 
+* **PaStaNet(CVPR2020)** PaStaNet: Toward Human Activity Knowledge Engine [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.html)][[project link](http://hake-mvig.cn/)][`SJTU`, `body-part state annotations in the context of HOI`][`HAKE` (Human Activity Knowledge Engine) dataset]
+
 * **HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][`马普所`][`HOT` dataset]
 
 
