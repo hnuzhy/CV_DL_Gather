@@ -316,8 +316,19 @@
 * [(csdn blog) YOLO/V1、V2、V3目标检测系列介绍](https://blog.csdn.net/qq26983255/article/details/82119232)
 * [(csdn blog) 睿智的目标检测26——Pytorch搭建yolo3目标检测平台](https://blog.csdn.net/weixin_44791964/article/details/105310627)
 * [(csdn blog) 睿智的目标检测30——Pytorch搭建YoloV4目标检测平台](https://blog.csdn.net/weixin_44791964/article/details/106214657/)
+* [**YOLOv5(2020)** YOLOv5 is from the family of object detection architectures YOLO and has no paper](https://github.com/ultralytics/yolov5) [[YOLOv5 Docs](https://docs.ultralytics.com/)]
 
 ### Papers
+
+#### Hand Part
+
+* **100DOH(CVPR2020)** Understanding Human Hands in Contact at Internet Scale [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.html)][[project link](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)][`100DOH` dataset]
+
+* **ContactHands(NIPS2020)** Detecting Hands and Recognizing Physical Contact in the Wild [[paper link](https://proceedings.neurips.cc/paper/2020/hash/595373f017b659cb7743291e920a8857-Abstract.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/ContactHands_data_website/)][[code|official](https://github.com/cvlab-stonybrook/ContactHands)][`ContactHands` dataset]
+
+* ⭐**BodyHands(CVPR2022)** Whose Hands Are These? Hand Detection and Hand-Body Association in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Narasimhaswamy_Whose_Hands_Are_These_Hand_Detection_and_Hand-Body_Association_in_CVPR_2022_paper.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/BodyHands/)][[code|official](https://github.com/cvlab-stonybrook/BodyHands)][`joint detection of person body and hands`][`BodyHands` dataset]
+
+#### Head Part
 
 * **HollywoodHeads(ICCV2015)** Context-Aware CNNs for Person Head Detection [[paper link](https://openaccess.thecvf.com/content_iccv_2015/html/Vu_Context-Aware_CNNs_for_ICCV_2015_paper.html)][[project link](https://www.di.ens.fr/willow/research/headdetection/)][`It introduces a large dataset with 369,846 human heads annotated in 224,740 movie frames.`]
 
@@ -325,31 +336,27 @@
 
 * **DA-RCNN(arxiv2018)** Double Anchor R-CNN for Human Detection in a Crowd [[arxiv link](https://arxiv.org/abs/1909.09998)][[CSDN blog1](https://blog.csdn.net/Suan2014/article/details/103987896)][[CSDN blog2](https://blog.csdn.net/Megvii_tech/article/details/103485685)]
 
-* **DID-Net(ACCV2018)** Detector-in-Detector: Multi-level Analysis for Human-Parts [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_15)][[code | official](https://github.com/xiaojie1017/Human-Parts)][`HumanParts` dataset]
-
 * **FCHD(arxiv2018,ICIP2019)** FCHD: Fast and accurate head detection in crowded scenes [[arxiv link](https://arxiv.org/abs/1809.08766)][[Codes|PyTorch(official)](https://github.com/aditya-vora/FCHD-Fully-Convolutional-Head-Detector)][[CSDN blog](https://blog.csdn.net/javastart/article/details/82865858)]
 
-* **YOLOv5(2020)** YOLOv5 is from the family of object detection architectures YOLO and has no paper [[YOLOv5 Docs](https://docs.ultralytics.com/)][[Code|PyTorch(official)](https://github.com/ultralytics/yolov5)]
-
-* **ContactHands(NIPS2020)** Detecting Hands and Recognizing Physical Contact in the Wild [[paper link](https://proceedings.neurips.cc/paper/2020/hash/595373f017b659cb7743291e920a8857-Abstract.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/ContactHands_data_website/)][[code|official](https://github.com/cvlab-stonybrook/ContactHands)][`ContactHands` dataset]
-
-* **Hier-R-CNN(TIP2020)** Hier R-CNN: Instance-Level Human Parts Detection and A New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/9229236)][[code|official](https://github.com/soeaver/Hier-R-CNN)][`Mask R-CNN` as Backbone][`FCOS` as Hier Branch which needs many hand-crafted tricks][`COCOHumanParts` dataset]
-
 * **LSC-CNN(TPAMI2020)** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection [[arxiv link](https://arxiv.org/abs/1906.07538)][[Codes|Pytorch(official)](https://github.com/val-iisc/lsc-cnn)]
- 
+
 * **PedHunter(AAAI2020)** PedHunter: Occlusion Robust Pedestrian Detector in Crowded Scenes [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6690)][`joint body-head detection`]
 
-* **JointDet(AAAI2020)** Relational Learning for Joint Head and Human Detection [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6691)][[codes|not released](https://github.com/ChiCheng123/JointDet)]
+* ⭐**JointDet(AAAI2020)** Relational Learning for Joint Head and Human Detection [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6691)][[codes|not released](https://github.com/ChiCheng123/JointDet)]
 
 * **FastNFusion(PRCV2021)** Fast and Fusion: Real-Time Pedestrian Detector Boosted by Body-Head Fusion [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-88004-0_6)][`Pedestrian Detector using Body-Head Association`]
 
-* **BFJDet(ICCV2021)** Body-Face Joint Detection via Embedding and Head Hook [[paper link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)][[codes|official](https://github.com/AibeeDetect/BFJDet)][`joint detection of person body, head and face`]
+* ⭐**BFJDet(ICCV2021)** Body-Face Joint Detection via Embedding and Head Hook [[paper link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)][[codes|official](https://github.com/AibeeDetect/BFJDet)][`joint detection of person body, head and face`]
 
 * **Pedestron(CVPR2021)** Generalizable Pedestrian Detection: The Elephant In The Room [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.html)][[code|official](https://github.com/hasanirtiza/Pedestron)][`Pedestrian Detection`]
 
 * **HeadHunter(CVPR2021)** Tracking Pedestrian Heads in Dense Crowd [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.html)][[project link](https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/)][[code|official](https://github.com/Sentient07/HeadHunter)][`Pedestrian Tracking`]
 
-* **BodyHands(CVPR2022)** Whose Hands Are These? Hand Detection and Hand-Body Association in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Narasimhaswamy_Whose_Hands_Are_These_Hand_Detection_and_Hand-Body_Association_in_CVPR_2022_paper.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/BodyHands/)][[code|official](https://github.com/cvlab-stonybrook/BodyHands)][`joint detection of person body and hands`][`BodyHands` dataset]
+#### Human Parts
+
+* **DID-Net(ACCV2018)** Detector-in-Detector: Multi-level Analysis for Human-Parts [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_15)][[code | official](https://github.com/xiaojie1017/Human-Parts)][`HumanParts` dataset]
+
+* ⭐**Hier-R-CNN(TIP2020)** Hier R-CNN: Instance-Level Human Parts Detection and A New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/9229236)][[code|official](https://github.com/soeaver/Hier-R-CNN)][`Mask R-CNN` as Backbone][`FCOS` as Hier Branch which needs many hand-crafted tricks][`COCOHumanParts` dataset]
 
 * **HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][`马普所`][`HOT` dataset]
 
