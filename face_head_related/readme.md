@@ -113,6 +113,8 @@
 
 * **GazeNeRF(arxiv2022)** GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields [[paper link](https://arxiv.org/abs/2212.04823)][`ETH`]
 
+* **PARKS-Gaze(arxiv2023)** Towards Precision in Appearance-based Gaze Estimation in the Wild [[paper link](https://arxiv.org/abs/2302.02353)][[code|official](https://github.com/lrdmurthy/PARKS-Gaze)][`PARKS-Gaze` dataset]
+
 * **CUDA-GHR(WACV2023)** CUDA-GHR: Controllable Unsupervised Domain Adaptation for Gaze and Head Redirection [[paper link](https://arxiv.org/abs/2106.10852)][[code|official](https://github.com/jswati31/cuda-ghr)]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
