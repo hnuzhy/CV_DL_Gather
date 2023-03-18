@@ -474,7 +474,9 @@
 
 * **(KSE2021)** UET-Headpose: A sensor-based top-view head pose dataset [[paper link](https://ieeexplore.ieee.org/abstract/document/9648656)] 【全文均在阐述获取数据集的硬件系统，但数据集未公布；HPE算法为FSA-Net，并根据WHENet中的思路拓展为full-range 360°单人头部姿态估计方法】
 
-* **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)]
+* **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)][[pdf link](https://www.tnt.uni-hannover.de/papers/data/1544/RCRwFG2021.pdf)][`Semi-Supervised`]
+
+* **HeadPosr(FG2021)** HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders [[paper link](https://ieeexplore.ieee.org/document/9667080)][[arxiv link](https://arxiv.org/abs/2202.03548)]
 
 * ⭐**SynergyNet(3DV2021)** Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry [[paper link](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800a453/1zWEnuGbFte)][[project link](https://choyingw.github.io/works/SynergyNet)][[codes|PyTorch](https://github.com/choyingw/SynergyNet)]
 
