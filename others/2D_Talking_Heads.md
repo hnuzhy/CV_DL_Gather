@@ -20,3 +20,5 @@ also named ***Speech-driven 3D Facial Animation*** or ***Audio2Face***
 * **GeneFace(ICLR2023)** GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[paper link](https://arxiv.org/abs/2301.13430)][[project link](https://geneface.github.io/)][[code|official PyTorch](https://github.com/yerfor/GeneFace)][`ZJU`]
 
 * **CodeTalker(arxiv2023)** CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior [[paper link](https://arxiv.org/abs/2301.02379)][[project link](https://doubiiu.github.io/projects/codetalker/)][`Tencent`]
+
+* **SadTalker(CVPR2023)** SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation [[paper link](https://arxiv.org/abs/2211.12194)][[project link](https://sadtalker.github.io/)][[code|official](https://github.com/Winfredy/SadTalker)][`Xi'an Jiaotong University`, `Tencent AI Lab`, `Ant Group`]
