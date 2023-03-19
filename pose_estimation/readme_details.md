@@ -203,7 +203,7 @@
 
 * **Poseur(ECCV2022)** Poseur: Direct Human Pose Regression with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_5)][[code|official](https://github.com/aim-uofa/Poseur)][`RLE-based`, `DETR-based top-down framework`]
 
-* **Swin-Pose(arxiv2022)** Swin-Pose: Swin Transformer Based Human Pose Estimation [[paper link](https://arxiv.org/abs/2201.07384)][`Swin Transformer`]
+* **Swin-Pose(arxiv2022)(MIPR2022)** Swin-Pose: Swin Transformer Based Human Pose Estimation [[paper link](https://arxiv.org/abs/2201.07384)][`Swin Transformer`]
 
 * **ViTPose(NIPS2022)** ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation [[paper link](https://openreview.net/forum?id=6H2pBoPtm0s)][[arxiv link](https://arxiv.org/abs/2204.12484)][[code|official](https://github.com/ViTAE-Transformer/ViTPose)][[ViTPose+(arxiv2022.12)](https://arxiv.org/abs/2212.04246)][`Tao Dacheng`]
 
