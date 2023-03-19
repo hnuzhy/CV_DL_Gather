@@ -205,7 +205,7 @@
 
 * **Swin-Pose(arxiv2022)(MIPR2022)** Swin-Pose: Swin Transformer Based Human Pose Estimation [[paper link](https://arxiv.org/abs/2201.07384)][`Swin Transformer`]
 
-* **ViTPose(NIPS2022)** ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation [[paper link](https://openreview.net/forum?id=6H2pBoPtm0s)][[arxiv link](https://arxiv.org/abs/2204.12484)][[code|official](https://github.com/ViTAE-Transformer/ViTPose)][[ViTPose+(arxiv2022.12)](https://arxiv.org/abs/2212.04246)][`Tao Dacheng`]
+* **ViTPose(NIPS2022)** ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation [[paper link](https://openreview.net/forum?id=6H2pBoPtm0s)][[arxiv link](https://arxiv.org/abs/2204.12484)][[code|official](https://github.com/ViTAE-Transformer/ViTPose)][[ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation (arxiv2022.12)](https://arxiv.org/abs/2212.04246)][`Tao Dacheng`]
 
 
 ### ▶ Two-Stage [Bottom-Up] Multiple Person Pose Estimation
