@@ -361,6 +361,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
  
 * **QuickPose(SIGGRAPH2022)** QuickPose: Real-time Multi-view Multi-person Pose Estimation in Crowded Scenes [[paper link](https://dl.acm.org/doi/abs/10.1145/3528233.3530746)][`ZJU`]
  
+* **TDMI-ST(CVPR2023)** Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video [[paper link](https://arxiv.org/abs/2303.08475)][`PoseTrack2017, PoseTrack2018, and PoseTrack21`, `video-based HPE`]
+
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
