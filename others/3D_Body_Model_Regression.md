@@ -47,3 +47,5 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * ❤**hmr-benchmarks(NIPS2022)** Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms [[paper link](https://openreview.net/forum?id=rjBYortWdRV)][[codes|official](https://github.com/smplbody/hmr-benchmarks)]
 
+* **PSVT(CVPR2023)** PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers [[paper link](https://arxiv.org/abs/2303.09187)][Datasets: `RH`, `AGORA`, `CMU Panoptic`, `3DPW`]
+
