@@ -336,6 +336,8 @@
 
 * ⭐**BodyHands(CVPR2022)** Whose Hands Are These? Hand Detection and Hand-Body Association in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Narasimhaswamy_Whose_Hands_Are_These_Hand_Detection_and_Hand-Body_Association_in_CVPR_2022_paper.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/BodyHands/)][[code|official](https://github.com/cvlab-stonybrook/BodyHands)][`joint detection of person body and hands`][`BodyHands` dataset]
 
+* ⭐**HandLer(CVPR2022)** Forward Propagation, Backward Regression, and Pose Association for Hand Tracking in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.html)][[project link](https://vision.cs.stonybrook.edu/~mingzhen/handler/)][[code|official](https://github.com/cvlab-stonybrook/HandLer)][`YoutubeHands` dataset, Hand-tracking]
+
 #### Head Part
 
 * **HollywoodHeads(ICCV2015)** Context-Aware CNNs for Person Head Detection [[paper link](https://openaccess.thecvf.com/content_iccv_2015/html/Vu_Context-Aware_CNNs_for_ICCV_2015_paper.html)][[project link](https://www.di.ens.fr/willow/research/headdetection/)][`It introduces a large dataset with 369,846 human heads annotated in 224,740 movie frames.`]
