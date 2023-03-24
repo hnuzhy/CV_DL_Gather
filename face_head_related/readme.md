@@ -326,6 +326,10 @@
 
 #### Hand Part
 
+* **Hand_detection_rotation_estimation(TIP2017)** Joint Hand Detection and Rotation Estimation Using CNN [[paper link](https://ieeexplore.ieee.org/abstract/document/8128503)][[arxiv link](https://arxiv.org/abs/1612.02742)]
+
+* **Hand-CNN(hand_det_attention)(ICCV2019)** Contextual Attention for Hand Detection in the Wild [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Narasimhaswamy_Contextual_Attention_for_Hand_Detection_in_the_Wild_ICCV_2019_paper.html)][[project](https://www3.cs.stonybrook.edu/cvl/projects/hand_det_attention/)][[code|official](https://github.com/SupreethN/Hand-CNN)]
+
 * **100DOH(CVPR2020)** Understanding Human Hands in Contact at Internet Scale [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.html)][[project link](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)][`hand-contact understanding`][`100DOH` dataset]
 
 * **ContactHands(NIPS2020)** Detecting Hands and Recognizing Physical Contact in the Wild [[paper link](https://proceedings.neurips.cc/paper/2020/hash/595373f017b659cb7743291e920a8857-Abstract.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/ContactHands_data_website/)][[code|official](https://github.com/cvlab-stonybrook/ContactHands)][`ContactHands` dataset][`hand contact estimation`]
