@@ -110,6 +110,8 @@
 
 * **HDETR (CVPR2023)** DETRs with Hybrid Matching [[arxiv link](https://arxiv.org/abs/2207.13080)][[code|official](https://github.com/HDETR)][[code|official (`H-Deformable-DETR`)](https://github.com/HDETR/H-Deformable-DETR)][[code|official (`H-PETR-3D`)](https://github.com/HDETR/H-PETR-3D)][[code|official (`H-PETR-Pose`)](https://github.com/HDETR/H-PETR-Pose)]
 
+* **DDQ-DETR (CVPR2023)** Dense Distinct Query for End-to-End Object Detection [[arxiv link](https://arxiv.org/abs/2303.12776)][[code|official](https://github.com/jshilong/DDQ)]
+
 
 ### ▶ YOLO Series Algorithms
 > *Anchor-base*: `YOLOv2`, `YOLOv3`, `YOLOv4`, `Scaled-YOLOv4`,`YOLOv5`, `YOLOR`, `TPH-YOLOv5`, `YOLOv5-Lite`, `YOLOv7`, `YOLOv8`; *Anchor-Free*: `YOLOv1`, `YOLOX`, `PP-YOLOE`, `YOLOv6`
