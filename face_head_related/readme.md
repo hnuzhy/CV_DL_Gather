@@ -99,6 +99,8 @@
 
 * **LearningToCountEverything(CVPR2021)** Learning To Count Everything [[arxiv link](https://arxiv.org/pdf/2104.08391.pdf)][[code|official](https://github.com/cvlab-stonybrook/LearningToCountEverything)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)]
 
+* **CrowdCounting-P2PNet(ICCV2021 Oral)** Rethinking Counting and Localization in Crowds: A Purely Point-Based Framework [[paper link](https://arxiv.org/abs/2107.12746)][[code|official](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet)][`Tencent Youtu Research`]
+
 * **ZeroShotCounting(CVPR2023)** Zero-shot Object Counting [[arxiv link](https://arxiv.org/abs/2303.02001)] [[code|official](https://github.com/cvlab-stonybrook/zero-shot-counting)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)]
 
 
