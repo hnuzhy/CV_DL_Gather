@@ -193,6 +193,8 @@
 
 * ⭐**Lite-HRNet(CVPR2021)** Lite-HRNet: A Lightweight High-Resolution Network [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Yu_Lite-HRNet_A_Lightweight_High-Resolution_Network_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/HRNet/Lite-HRNet)][`This work is done by the original group of HRNet`]
 
+* **HRFormer(NIPS2021)** HRFormer: High-Resolution Transformer for Dense Prediction [[paper link](https://arxiv.org/abs/2110.09408)][[code|official](https://github.com/HRNet/HRFormer)][`multi-task`, `2D Human Pose Estimation`, `Semantic Segmentation`]
+
 * ⭐**LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)][`Model quantization and compression on Qualcomm Snapdragon`]
 
 * **CID(CVPR2022)** Contextual Instance Decoupling for Robust Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official](https://github.com/kennethwdk/CID)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)]
