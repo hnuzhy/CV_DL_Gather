@@ -143,7 +143,7 @@
 
 ### ▶ Two-Stage [Top-Down] Multiple Person Pose Estimation
 
-* **(ECCV2016)** Multi-Person Pose Estimation with Local Joint-to-Person Associations [[arxiv link](https://arxiv.org/abs/1608.08526)]
+* **(ECCVW2016)** Multi-Person Pose Estimation with Local Joint-to-Person Associations [[arxiv link](https://arxiv.org/abs/1608.08526)]
 
 * **(CVPR2017)** Towards Accurate Multi-person Pose Estimation in the Wild [[arxiv link](https://arxiv.org/abs/1701.01779)]
 
