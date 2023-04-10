@@ -220,6 +220,8 @@
 
 * **(ICCVW2017)** Multi-Person Pose Estimation for PoseTrack with Enhanced Part Affinity Fields [[paper link](https://posetrack.net/workshops/iccv2017/pdfs/ML_Lab.pdf)][[CSDN blog](https://blog.csdn.net/m0_37644085/article/details/82928933)]
 
+* **PPN(ECCV2018)** Pose Partition Networks for Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Xuecheng_Nie_Pose_Partition_Networks_ECCV_2018_paper.html)][`To partition all keypoint detections using dense regressions from keypoint candidates to centroids of persons`, `similar to SPM`]
+
 * **(CVPRW2018)** Learning to Refine Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1804.07909)]
 
 * ⭐**MultiPoseNet(ECCV2018)(multi-task)** MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [[arxiv link](https://arxiv.org/abs/1807.04067)][[Codes|PyTorch(offical)](https://github.com/salihkaragoz/pose-residual-network-pytorch)]
