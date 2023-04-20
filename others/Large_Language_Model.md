@@ -27,7 +27,7 @@
 
 * **BEiT(arxiv2021.06)(ICLR2022 Oral)** BEiT: BERT Pre-Training of Image Transformers [[paper link](https://arxiv.org/abs/2106.08254)][[code|official](https://github.com/microsoft/unilm/tree/master/beit)][`MicroSoft`, `It proposes to predict discrete tokens`]
 
-* **MAE(CVPR2022)** Masked Autoencoders Are Scalable Vision Learners [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.html)][`FAIR`, `He Kaiming`]
+* **MAE(CVPR2022)** Masked Autoencoders Are Scalable Vision Learners [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.html)][`FAIR`, `He Kaiming`， `It reconstructs the original signal given its partial observation`]
 
 
 ## ▶ Super Stars
