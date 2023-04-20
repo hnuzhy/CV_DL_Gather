@@ -1,4 +1,4 @@
-# Large Language Model (LLM)
+# Large Language Model (LLM) or Large Model
 
 ## Materials
 
@@ -13,6 +13,10 @@
 
 ### CV (Computer Vision)
 
+#### Segment Anything
+
 * **SAM(arxiv2023.04)** Segment Anything [[arxiv link](https://arxiv.org/abs/2304.02643)][[project homepage](https://segment-anything.com/)][[publication link](https://ai.facebook.com/research/publications/segment-anything/)][[blogs](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)][[code|official](https://github.com/facebookresearch/segment-anything)][`Meta AI`, `Facebook`]
 
 * **SSA(2023.04)** Semantic Segment Anything [[demo link](https://replicate.com/cjwbw/semantic-segment-anything)][[code|official](https://github.com/fudan-zvg/Semantic-Segment-Anything)][`Fudan`]
+
+* **Grounded-SAM(2023.04)** Grounded Segment Anything [[code|official](https://github.com/IDEA-Research/Grounded-Segment-Anything)][`IDEA-Research`]
