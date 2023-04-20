@@ -8,7 +8,7 @@
 
 ## Papers
 
-### NLP (Neural Language Processing)
+### ▶ NLP (Neural Language Processing)
 
 * **GPT(generative pre-training)(2018)** Improving Language Understanding by Generative Pre-Training [[paper link](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)][`An autoregressive language model`, `pre-training model in NLP`, `OpenAI`]
 
@@ -19,7 +19,7 @@
 * **GPT-3(NIPS2020)** Language Models are Few-Shot Learners [[paper link](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)][`An autoregressive language model`, `pre-training model in NLP`]
 
 
-### CV (Computer Vision)
+### ▶ CV (Computer Vision)
 
 * **iGPT(ICML2020)** Generative Pretraining From Pixels [[paper link](http://proceedings.mlr.press/v119/chen20s.html)][`It operates on sequences of pixels and predicts unknown pixels`]
 
@@ -30,7 +30,7 @@
 * **MAE(CVPR2022)** Masked Autoencoders Are Scalable Vision Learners [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.html)][`FAIR`, `He Kaiming`]
 
 
-## Super Stars
+## ▶ Super Stars
 
 ### ⭐Segment Anything
 
