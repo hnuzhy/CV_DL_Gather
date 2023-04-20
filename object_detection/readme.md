@@ -72,11 +72,11 @@
 
 ### ▶ Two-stage Anchor based
 
-* **R-FCN(NIPS2016)** R-FCN: Object Detection via Region-based Fully Convolutional Networks [[arxiv link](https://arxiv.org/abs/1605.06409)][[Codes|Caffe&MATLAB(offical)](https://github.com/daijifeng001/R-FCN)][[Codes|Caffe(unoffical)](https://github.com/YuwenXiong/py-R-FCN)]
+* ❤**R-FCN(NIPS2016)** R-FCN: Object Detection via Region-based Fully Convolutional Networks [[arxiv link](https://arxiv.org/abs/1605.06409)][[Codes|Caffe&MATLAB(offical)](https://github.com/daijifeng001/R-FCN)][[Codes|Caffe(unoffical)](https://github.com/YuwenXiong/py-R-FCN)]
 
 * **DCN(ICCV2017)** Deformable Convolutional Networks [[arxiv link](https://arxiv.org/abs/1703.06211)][[Codes|MXNet(offical based on R-FCN)](https://github.com/msracver/Deformable-ConvNets)][[Codes|MXNet(unoffical based on R-FCN)](https://github.com/bharatsingh430/Deformable-ConvNets)]
 
-* **MaskRCNN(ICCV2017)** Mask R-CNN [[paper link](https://arxiv.org/abs/1703.06870)][[codes|official](https://github.com/matterport/Mask_RCNN)]
+* ❤**MaskRCNN(ICCV2017)** Mask R-CNN [[paper link](https://arxiv.org/abs/1703.06870)][[codes|official](https://github.com/matterport/Mask_RCNN)]
 
 ### ▶ One-stage Anchor based
 
@@ -89,11 +89,11 @@
 
 * **CornerNet(ECCV2018)** CornerNet: Detecting Objects as Paired Keypoints [[arxiv link](https://arxiv.org/abs/1808.01244)][[Codes|PyTorch(offical)](https://github.com/princeton-vl/CornerNet)][[Codes|PyTorch(offical CornerNet-Lite)](https://github.com/princeton-vl/CornerNet-Lite)]
 
-* ❤ **CenterNet(arxiv2019)** Objects as Points [[arxiv link](https://arxiv.org/abs/1904.07850)][[Codes|PyTorch(offical)](https://github.com/xingyizhou/CenterNet)]
+* ❤**CenterNet(arxiv2019)** Objects as Points [[arxiv link](https://arxiv.org/abs/1904.07850)][[Codes|PyTorch(offical)](https://github.com/xingyizhou/CenterNet)]
 
 * **CenterNet(arxiv2019)** CenterNet: Keypoint Triplets for Object Detection [[arxiv link](https://arxiv.org/abs/1904.07850)][[Codes|PyTorch(offical)](https://github.com/Duankaiwen/CenterNet)]
 
-* **FCOS(ICCV2019)** FCOS: Fully Convolutional One-Stage Object Detection [[arxiv link](https://arxiv.org/abs/1904.01355)][[Codes|PyTorch_MASK_RCNN(offical)](https://github.com/tianzhi0549/FCOS)][[Codes|PyTorch(unoffical improved)](https://github.com/yqyao/FCOS_PLUS)][[Codes|PyTorch(unoffical using HRNet as backbone)](https://github.com/HRNet/HRNet-FCOS)][[blog_zhihu](https://zhuanlan.zhihu.com/p/63868458)]
+* ❤**FCOS(ICCV2019)** FCOS: Fully Convolutional One-Stage Object Detection [[arxiv link](https://arxiv.org/abs/1904.01355)][[Codes|PyTorch_MASK_RCNN(offical)](https://github.com/tianzhi0549/FCOS)][[Codes|PyTorch(unoffical improved)](https://github.com/yqyao/FCOS_PLUS)][[Codes|PyTorch(unoffical using HRNet as backbone)](https://github.com/HRNet/HRNet-FCOS)][[blog_zhihu](https://zhuanlan.zhihu.com/p/63868458)]
 
 * **VFNet(arxiv2020)** VarifocalNet: An IoU-aware Dense Object Detector [[arxiv link](https://arxiv.org/abs/2008.13367)][[Codes|offical with MMDetection & PyTorch](https://github.com/hyz-xmaster/VarifocalNet)]
 
@@ -101,10 +101,9 @@
 ### ▶ Detection Transformer (DETR, fully end-to-end)
 `DETRs --> Pros: eliminates the hand-designed anchor and NMS components; Cons: slow training convergence and hard-to-optimize queries. Thus, researchers should put their efforts of optimizing transformer-based detectors in accelerating training convergence and reducing optimization difficulty`
 
+* ❤**DEtection TRansformer(DETR) (ECCV2020 BestPaper)** End-to-End Object Detection with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)][[codes|official](https://github.com/facebookresearch/detr)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)][[bilibili paper reading video 2](https://www.bilibili.com/video/BV1sx4y1G76p/)][`facebookresearch`]
 
-* ❤ **DEtection TRansformer(DETR) (ECCV2020 BestPaper)** End-to-End Object Detection with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)][[codes|official](https://github.com/facebookresearch/detr)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)][[bilibili paper reading video 2](https://www.bilibili.com/video/BV1sx4y1G76p/)][`facebookresearch`]
-
-* ❤ **DeformableDETR (ICLR2021 OralPaper)** Deformable DETR: Deformable Transformers for End-to-End Object Detection [[paper link](https://arxiv.org/abs/2010.04159)] [[codes|official](https://github.com/fundamentalvision/Deformable-DETR)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)]
+* ❤**DeformableDETR (ICLR2021 OralPaper)** Deformable DETR: Deformable Transformers for End-to-End Object Detection [[paper link](https://arxiv.org/abs/2010.04159)] [[codes|official](https://github.com/fundamentalvision/Deformable-DETR)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)]
 
 * **DAB-DETR (ICLR2022)** DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [[paper link](https://arxiv.org/abs/2201.12329)][[codes|official](https://github.com/SlongLiu/DAB-DETR)]
 
@@ -114,15 +113,15 @@
 
 * **DDQ-DETR (CVPR2023)** Dense Distinct Query for End-to-End Object Detection [[arxiv link](https://arxiv.org/abs/2303.12776)][[code|official](https://github.com/jshilong/DDQ)]
 
-* **RT-DETR(arxiv2023)** DETRs Beat YOLOs on Real-time Object Detection [[arxiv link](https://arxiv.org/abs/2304.08069)][[code|official whole-repo](https://github.com/PaddlePaddle/PaddleDetection)][[code|official branch-repo](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr)][`Baidu`, `PaddlePaddle`, `PaddleDetection`]
+* ❤**RT-DETR(arxiv2023)** DETRs Beat YOLOs on Real-time Object Detection [[arxiv link](https://arxiv.org/abs/2304.08069)][[code|official whole-repo](https://github.com/PaddlePaddle/PaddleDetection)][[code|official branch-repo](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr)][`Baidu`, `PaddlePaddle`, `PaddleDetection`]
 
 
 ### ▶ YOLO Series Algorithms
 > *Anchor-base*: `YOLOv2`, `YOLOv3`, `YOLOv4`, `Scaled-YOLOv4`,`YOLOv5`, `YOLOR`, `TPH-YOLOv5`, `YOLOv5-Lite`, `YOLOv7`, `YOLOv8`; *Anchor-Free*: `YOLOv1`, `YOLOX`, `PP-YOLOE`, `YOLOv6`
 
-* ❤ **YOLOv1 (CVPR2016)** You Only Look Once: Unified, Real-Time Object Detection [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|official by darknet](https://github.com/pjreddie/darknet)][`Joseph Redmon`, `Santosh Divvala`, `Ross Girshick`, `Ali Farhadi`]
+* ❤**YOLOv1 (CVPR2016)** You Only Look Once: Unified, Real-Time Object Detection [[paper link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|official by darknet](https://github.com/pjreddie/darknet)][`Joseph Redmon`, `Santosh Divvala`, `Ross Girshick`, `Ali Farhadi`]
 
-* ❤ **YOLOv2 (CVPR2017)** YOLO9000: Better, Faster, Stronger [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolov2/)][[code|unofficial PyTorch](https://github.com/longcw/yolo2-pytorch)][`Joseph Redmon`, `Ali Farhadi`]
+* ❤**YOLOv2 (CVPR2017)** YOLO9000: Better, Faster, Stronger [[paper link](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)][[project link (darknet)](https://pjreddie.com/darknet/yolov2/)][[code|unofficial PyTorch](https://github.com/longcw/yolo2-pytorch)][`Joseph Redmon`, `Ali Farhadi`]
   
 * **YOLOv3 (arxiv2018.04)** YOLOv3: An Incremental Improvement [[paper link](https://arxiv.org/abs/1804.02767)][[project link (darknet)](https://pjreddie.com/darknet/yolo/)][[code|unofficial PyTorch (github 2018.12)](https://github.com/ultralytics/yolov3)][code|unofficial PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)][paper: `Joseph Redmon`, `Ali Farhadi`][code: `ultralytics`, `Glenn Jocher`]
 
@@ -130,11 +129,11 @@
 
 * **Scaled-YOLOv4 (CVPR2021)** Scaled-YOLOv4: Scaling Cross Stage Partial Network [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)][[code|official](https://github.com/WongKinYiu/ScaledYOLOv4)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`]
 
-* ❤ **YOLOv5 (github 2020.06)** YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/yolov5)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][[author: Glenn Jocher](https://github.com/glenn-jocher)][`ultralytics`, `Glenn Jocher`]
+* ❤**YOLOv5 (github 2020.06)** YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/yolov5)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][[author: Glenn Jocher](https://github.com/glenn-jocher)][`ultralytics`, `Glenn Jocher`]
 
 * **YOLOR (arxiv2021.05)** You Only Learn One Representation: Unified Network for Multiple Tasks [[paper link](https://arxiv.org/abs/2105.04206)][[code|official](https://github.com/WongKinYiu/yolor)][`Chien-Yao Wang`, `I-Hau Yeh`, `Hong-Yuan Mark Liao`, `Taiwan`]
 
-* ❤ **YOLOX (arxiv2021.07)** YOLOX: Exceeding YOLO Series in 2021 [[paper link](https://arxiv.org/abs/2107.08430)][[code|official by MegEngine-BaseDetection](https://github.com/Megvii-BaseDetection/YOLOX)][[code|official by MegEngine](https://github.com/MegEngine/YOLOX)][[Docs|official](https://yolox.readthedocs.io/en/latest/)][`Megvii`, `Jian Sun`]
+* ❤**YOLOX (arxiv2021.07)** YOLOX: Exceeding YOLO Series in 2021 [[paper link](https://arxiv.org/abs/2107.08430)][[code|official by MegEngine-BaseDetection](https://github.com/Megvii-BaseDetection/YOLOX)][[code|official by MegEngine](https://github.com/MegEngine/YOLOX)][[Docs|official](https://yolox.readthedocs.io/en/latest/)][`Megvii`, `Jian Sun`]
 
 * **TPH-YOLOv5 (ICCVW2021)** TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.11539)][[code|official PyTorch](https://github.com/cv516Buaa/tph-yolov5)][`Transformer`, `SwinTransformer`]
 
@@ -144,8 +143,8 @@
   
 * **YOLOv6 (arxiv2022.09)** YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications [[paper link](https://arxiv.org/abs/2209.02976)][[code|official by meituan](https://github.com/meituan/YOLOv6)][[YOLOv6 v3.0: A Full-Scale Reloading (arxiv2023.01)](https://arxiv.org/abs/2301.05586)][`meituan`] 
 
-* ❤ **YOLOv7 (arxiv2022.07) (CVPR2023)** YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [[paper link](https://arxiv.org/abs/2207.02696)][[code|official](https://github.com/WongKinYiu/yolov7)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`][`re-parameterized module` + `dynamic label assignment` + `trainable bag-of-freebies`][`Following the YOLOv5 project arch`]
+* ❤**YOLOv7 (arxiv2022.07) (CVPR2023)** YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors [[paper link](https://arxiv.org/abs/2207.02696)][[code|official](https://github.com/WongKinYiu/yolov7)][`Chien-Yao Wang`, `Alexey Bochkovskiy`, `Hong-Yuan Mark Liao`, `Taiwan + Intel`][`re-parameterized module` + `dynamic label assignment` + `trainable bag-of-freebies`][`Following the YOLOv5 project arch`]
 
-* **YOLOv8 (github 2023.01)** YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/ultralytics)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][`ultralytics`, `Glenn Jocher`]
+* ❤**YOLOv8 (github 2023.01)** YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite [[No published paper]()][[code|official by ultralytics](https://github.com/ultralytics/ultralytics)][[Docs|official by ultralytics](https://docs.ultralytics.com/)][`ultralytics`, `Glenn Jocher`]
 
 
