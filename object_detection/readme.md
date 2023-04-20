@@ -114,7 +114,7 @@
 
 * **DDQ-DETR (CVPR2023)** Dense Distinct Query for End-to-End Object Detection [[arxiv link](https://arxiv.org/abs/2303.12776)][[code|official](https://github.com/jshilong/DDQ)]
 
-* **RT-DETR(arxiv2023)** DETRs Beat YOLOs on Real-time Object Detection [[arxiv link](https://arxiv.org/abs/2304.08069)][[code|official](https://github.com/PaddlePaddle/PaddleDetection)][`Baidu`, `PaddlePaddle`, `PaddleDetection`]
+* **RT-DETR(arxiv2023)** DETRs Beat YOLOs on Real-time Object Detection [[arxiv link](https://arxiv.org/abs/2304.08069)][[code|official whole-repo](https://github.com/PaddlePaddle/PaddleDetection)][[code|official branch-repo](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr)][`Baidu`, `PaddlePaddle`, `PaddleDetection`]
 
 
 ### ▶ YOLO Series Algorithms
