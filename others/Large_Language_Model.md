@@ -23,7 +23,9 @@
 
 * **iGPT(ICML2020)** Generative Pretraining From Pixels [[paper link](http://proceedings.mlr.press/v119/chen20s.html)][`It operates on sequences of pixels and predicts unknown pixels`]
 
-* **ViT(Vision Transformer)(ICLR2021)** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper link](https://arxiv.org/abs/2010.11929)][[code|official](https://github.com/google-research/vision_transformer)][`Google`, `It studies masked patch prediction for self-supervised learning`]
+* **ViT(Vision Transformer)(ICLR2021)** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper link](https://arxiv.org/abs/2010.11929)][[code|official](https://github.com/google-research/vision_transformer)][`Google`, `It studies masked patch prediction for self-supervised learning`][`ViT-Base / Large / Huge`]
+
+* **DINO(ICCV2021)** Emerging Properties in Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`self-supervised pre-training`]
 
 * **BEiT(arxiv2021.06)(ICLR2022 Oral)** BEiT: BERT Pre-Training of Image Transformers [[paper link](https://arxiv.org/abs/2106.08254)][[code|official](https://github.com/microsoft/unilm/tree/master/beit)][`MicroSoft`, `It proposes to predict discrete tokens`]
 
