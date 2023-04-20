@@ -99,6 +99,8 @@
 
 
 ### ▶ Detection Transformer (DETR, fully end-to-end)
+`DETRs --> Pros: eliminates the hand-designed anchor and NMS components; Cons: slow training convergence and hard-to-optimize queries. Thus, researchers should put their efforts of optimizing transformer-based detectors in accelerating training convergence and reducing optimization difficulty`
+
 
 * ❤ **DEtection TRansformer(DETR) (ECCV2020 BestPaper)** End-to-End Object Detection with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13)][[codes|official](https://github.com/facebookresearch/detr)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)][[bilibili paper reading video 2](https://www.bilibili.com/video/BV1sx4y1G76p/)][`facebookresearch`]
 
