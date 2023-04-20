@@ -21,7 +21,18 @@
 
 ### CV (Computer Vision)
 
-#### Segment Anything
+* **iGPT(ICML2020)** Generative Pretraining From Pixels [[paper link](http://proceedings.mlr.press/v119/chen20s.html)][`It operates on sequences of pixels and predicts unknown pixels`]
+
+* **ViT(Vision Transformer)(ICLR2021)** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper link](https://arxiv.org/abs/2010.11929)][[code|official](https://github.com/google-research/vision_transformer)][`Google`, `It studies masked patch prediction for self-supervised learning`]
+
+* **BEiT(arxiv2021.06)(ICLR2022 Oral)** BEiT: BERT Pre-Training of Image Transformers [[paper link](https://arxiv.org/abs/2106.08254)][[code|official](https://github.com/microsoft/unilm/tree/master/beit)][`MicroSoft`, `It proposes to predict discrete tokens`]
+
+* **MAE(CVPR2022)** Masked Autoencoders Are Scalable Vision Learners [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.html)][`FAIR`, `He Kaiming`]
+
+
+## Super Stars
+
+### ⭐Segment Anything
 
 * **SAM(arxiv2023.04)** Segment Anything [[arxiv link](https://arxiv.org/abs/2304.02643)][[project homepage](https://segment-anything.com/)][[publication link](https://ai.facebook.com/research/publications/segment-anything/)][[blogs](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)][[code|official](https://github.com/facebookresearch/segment-anything)][`Meta AI`, `Facebook`]
 
