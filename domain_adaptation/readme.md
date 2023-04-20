@@ -124,6 +124,8 @@
 
 * **SSDA-YOLO(CVIU2023)** SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000292)][[arxiv link](https://arxiv.org/abs/2211.02213v2)][[code|official](https://github.com/hnuzhy/SSDA-YOLO)]
 
+* **DETR-GA(CVPR2023)** DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection [[paper link](https://arxiv.org/abs/2304.07082)][`cross-domain weakly supervised object detection (CDWSOD)`]
+
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
