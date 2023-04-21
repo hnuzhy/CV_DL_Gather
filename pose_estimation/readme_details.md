@@ -341,6 +341,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **InverseKinematics(ECCV2022)** Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement [[paper link](https://arxiv.org/abs/2210.13529)][datasets `3DPW`, `MuCo-3DHP` and `AGORA`][`transformer`]
 
+* **HUPOR(ECCV2022)** Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2208.00090)][[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_29)][[code|official](https://github.com/qihao067/HUPOR)] 
+
 
 ### ▶ Special Multiple Person Pose Estimation
 
@@ -396,11 +398,13 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)]
 
-* **Pose_DomainAdaption(ACMMM2021)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose_DomainAdaption)]
+* 👍**Pose_DomainAdaption(ACMMM2021)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose_DomainAdaption)]
 
 * **UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)]
 
 * **AdaptOR(arxiv2021)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR [[paper link](https://arxiv.org/abs/2108.11801)]
+
+* 👍**iart-semi-pose(ACMMM2022)** Semi-supervised Human Pose Estimation in Art-historical Images [[arxiv link](https://arxiv.org/abs/2207.02976)][[code|official](https://github.com/TIBHannover/iart-semi-pose)][`Germany`]
 
 * **PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[paper link](https://arxiv.org/pdf/2201.08613.pdf)]
 
@@ -412,6 +416,6 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)]
 
-* **SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
+* 👍**SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
 
-* **SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)]
+* 👍**SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)]
