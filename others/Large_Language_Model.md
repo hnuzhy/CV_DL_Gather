@@ -23,7 +23,7 @@
 
 * **iGPT(ICML2020)** Generative Pretraining From Pixels [[paper link](http://proceedings.mlr.press/v119/chen20s.html)][`It operates on sequences of pixels and predicts unknown pixels`]
 
-* 👍**ViT(Vision Transformer)(ICLR2021)** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper link](https://arxiv.org/abs/2010.11929)][[code|official](https://github.com/google-research/vision_transformer)][`Google`, `It studies masked patch prediction for self-supervised learning`][`ViT-Base / Large / Huge`]
+* 👍**ViT(Vision Transformer)(ICLR2021)** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper link](https://arxiv.org/abs/2010.11929)][[code|official](https://github.com/google-research/vision_transformer)][`Google`, `It studies masked patch prediction for self-supervised learning`][`ViT-Tiny / Small / Base / Large / Huge`]
 
 * **DeiT(Data-efficient image Transformer)(ICML2021)** Training data-efficient image transformers & distillation through attention [[paper link](https://proceedings.mlr.press/v139/touvron21a)][[arxiv link](https://arxiv.org/abs/2012.12877)]
 
