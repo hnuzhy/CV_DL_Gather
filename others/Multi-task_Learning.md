@@ -8,7 +8,7 @@
 
 ## Papers
 
-* 👍**MoE(Mixture-of-Experts)(ICLR2017)** Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[](https://arxiv.org/abs/1701.06538)][[openreview link](https://openreview.net/forum?id=B1ckMDqlg)][`It allows the network to ensemble the outputs from different sub-networks without introducing too much extra computational costs`]
+* 👍**MoE(Mixture-of-Experts)(ICLR2017)** Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[paper link](https://arxiv.org/abs/1701.06538)][[openreview link](https://openreview.net/forum?id=B1ckMDqlg)][`It allows the network to ensemble the outputs from different sub-networks without introducing too much extra computational costs`]
 
 * **(ICLR2017)** Deep Multi-task Representation Learning: A Tensor Factorisation Approach [[paper link](https://arxiv.org/abs/1605.06391)][[openreview link](https://openreview.net/forum?id=SkhU2fcll)]
 
