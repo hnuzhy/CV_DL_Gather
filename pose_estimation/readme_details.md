@@ -167,7 +167,7 @@
 
 * ⭐**DarkPose(CVPR2020)** Distribution-Aware Coordinate Representation for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1910.06278)][[project link](https://ilovepose.github.io/coco/)][[Codes|PyTorch(offical)](https://github.com/ilovepose/DarkPose)]
 
-* ⭐**UDP-Pose(CVPR2020)** The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07524)][[Codes|](https://github.com/HuangJunJie2017/UDP-Pose)]
+* ⭐**UDP-Pose(CVPR2020)** The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07524)][[Codes|](https://github.com/HuangJunJie2017/UDP-Pose)][`A model-agnostic approach`, `Plug-and-Play`]
 
 * **Graph-PCNN(arxiv 2020)** Graph-PCNN: Two Stage Human Pose Estimation with Graph Pose Refinement [[arxiv link](http://arxiv.org/abs/2007.10599)]
 
@@ -206,6 +206,8 @@
 * ⭐**ViTPose(NIPS2022)** ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation [[paper link](https://openreview.net/forum?id=6H2pBoPtm0s)][[arxiv link](https://arxiv.org/abs/2204.12484)][[code|official](https://github.com/ViTAE-Transformer/ViTPose)][[ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation (arxiv2022.12)](https://arxiv.org/abs/2212.04246)][`Tao Dacheng`, `plain vision transformer`]
 
 * **PCT(CVPR2023)** Human Pose as Compositional Tokens [[arxiv link](https://arxiv.org/abs/2303.11638)][[code|official](https://github.com/Gengzigang/PCT)][`Transformer-based`]
+
+* **BCIR(Bias Compensated Integral Regression)(TPAMI2023)** Bias-Compensated Integral Regression for Human Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10093110)][[arxiv link](https://arxiv.org/abs/2301.10431)][`A model-agnostic approach`, `Plug-and-Play`]
 
 
 ### ▶ Two-Stage [Bottom-Up] Multiple Person Pose Estimation
