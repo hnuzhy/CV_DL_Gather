@@ -371,6 +371,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 * **PoseTrans(ECCV2022)** PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation [[paper link](https://arxiv.org/abs/2208.07755)]
 
 * ⭐**DeciWatch(ECCV2022)** DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation [[paper link](https://arxiv.org/abs/2203.08713)][[code|official](https://github.com/cure-lab/DeciWatch)][[project link](https://ailingzeng.site/deciwatch)][`Video based human pose estimation`]
+
+* **PPT(ECCV2022)** PPT: Token-Pruned Pose Transformer for Monocular and Multi-view Human Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_25)][[code|official](https://github.com/HowieMa/PPT)]
  
 * **QuickPose(SIGGRAPH2022)** QuickPose: Real-time Multi-view Multi-person Pose Estimation in Crowded Scenes [[paper link](https://dl.acm.org/doi/abs/10.1145/3528233.3530746)][`ZJU`]
  
