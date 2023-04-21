@@ -307,7 +307,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **Pose2Seg(CVPR2019)** Pose2Seg: Detection Free Human Instance Segmentation [[paper link](https://arxiv.org/abs/1803.10683)][[codes|official](https://github.com/liruilong940607/OCHumanApi)]
 
-* **PointSetNet(ECCV2020)** Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_31)][`Not a multi-task end-to-end network`]
+* **PointSetNet(ECCV2020)** Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_31)][`Not a multi-task end-to-end network`, `The proposed Point-Set Anchors can be applied to object detection, instance segmentation and human pose estimation tasks separately`]
 
 * **MG-HumanParsing(CVPR2021)** Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Differentiable_Multi-Granularity_Human_Representation_Learning_for_Instance-Aware_Human_Semantic_Parsing_CVPR_2021_paper.html)][[code|official](https://github.com/tfzhou/MG-HumanParsing)]
 
