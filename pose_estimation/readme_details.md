@@ -386,6 +386,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **Obj2Seq(NIPS2022)** Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks [[openreview link](https://openreview.net/forum?id=cRNl08YWRKq)][[arxiv link](https://arxiv.org/abs/2209.13948)][[code|official](https://github.com/CASIA-IVA-Lab/Obj2Seq)][`ViT-based`, `Multi-task model`]
 
+* 👍**AutoLink(NIPS2022)** AutoLink: Self-supervised Learning of Human Skeletons and Object Outlines by Linking Keypoints [[arxiv link](https://arxiv.org/abs/2205.10636)][[openreview link](https://openreview.net/forum?id=mXP-qQcYCBN)][[project link](https://xingzhehe.github.io/autolink/)]
+
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
