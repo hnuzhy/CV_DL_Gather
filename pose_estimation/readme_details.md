@@ -380,6 +380,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **MG-HumanParsing(TPAMI2023)** Differentiable Multi-Granularity Human Parsing [[paper link](https://ieeexplore.ieee.org/abstract/document/10032235)][[code|official](https://github.com/tfzhou/MG-HumanParsing)][`Human Parsing`]
 
+* **Obj2Seq(NIPS2022)** Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks [[openreview link](https://openreview.net/forum?id=cRNl08YWRKq)][[arxiv link](https://arxiv.org/abs/2209.13948)][[code|official](https://github.com/CASIA-IVA-Lab/Obj2Seq)][`ViT-based`, `Multi-task model`]
+
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
