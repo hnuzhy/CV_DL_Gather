@@ -319,6 +319,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **MultiPoseSeg(ICPR2022)** MultiPoseSeg: Feedback Knowledge Transfer for Multi-Person Pose Estimation and Instance Segmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/9956648)][[code|official](https://github.com/RaiseLab/MultiPoseSeg)][`similarly with the PersonLab`, `Niaz Ahmad`, `suspected of plagiarism`]
 
+* **HCQNet(Human-Centric Query)(arxiv2023.03)** Object-Centric Multi-Task Learning for Human Instances [[paper link](https://arxiv.org/abs/2303.06800)]
+
 
 ### ▶ 3D Multiple Person Pose Estimation
 
