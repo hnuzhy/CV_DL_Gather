@@ -197,7 +197,7 @@
 
 * ⭐**LitePose(CVPR2022)** Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation [[paper link](https://tinyml.mit.edu/wp-content/uploads/2022/04/CVPR2022__Lite_Pose.pdf)][[project link](https://tinyml.mit.edu/publications/)][[codes|official PyTorch](https://github.com/mit-han-lab/litepose)][`Model quantization and compression on Qualcomm Snapdragon`]
 
-* **CID(CVPR2022)** Contextual Instance Decoupling for Robust Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official](https://github.com/kennethwdk/CID)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)]
+* **CID(CVPR2022)** Contextual Instance Decoupling for Robust Multi-Person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.html)][[codes|official](https://github.com/kennethwdk/CID)][[(TPAMI2023) Contextual Instance Decoupling for Instance-Level Human Analysis](https://ieeexplore.ieee.org/abstract/document/10040902)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)]
 
 * **Poseur(ECCV2022)** Poseur: Direct Human Pose Regression with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_5)][[code|official](https://github.com/aim-uofa/Poseur)][`RLE-based`, `DETR-based top-down framework`]
 
