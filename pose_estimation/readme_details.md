@@ -374,6 +374,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
  
 * **TDMI-ST(CVPR2023)** Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video [[paper link](https://arxiv.org/abs/2303.08475)][`PoseTrack2017, PoseTrack2018, and PoseTrack21`, `video-based HPE`]
 
+* **MG-HumanParsing(TPAMI2023)** Differentiable Multi-Granularity Human Parsing [[paper link](https://ieeexplore.ieee.org/abstract/document/10032235)][[code|official](https://github.com/tfzhou/MG-HumanParsing)][`Human Parsing`]
+
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
