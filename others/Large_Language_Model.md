@@ -25,6 +25,8 @@
 
 * 👍**ViT(Vision Transformer)(ICLR2021)** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper link](https://arxiv.org/abs/2010.11929)][[code|official](https://github.com/google-research/vision_transformer)][`Google`, `It studies masked patch prediction for self-supervised learning`][`ViT-Base / Large / Huge`]
 
+* **DeiT(Data-efficient image Transformer)(ICML2021)** Training data-efficient image transformers & distillation through attention [[paper link](https://proceedings.mlr.press/v139/touvron21a)][[arxiv link](https://arxiv.org/abs/2012.12877)]
+
 * **ViTAE(NIPS2021)** ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias [[paper link](https://proceedings.neurips.cc/paper/2021/hash/efb76cff97aaf057654ef2f38cd77d73-Abstract.html)][[code|official](https://github.com/Annbless/ViTAE)][`ViT-based`, `self-supervised pre-training`, `Tao Dacheng`]
 
 * **DINO(ICCV2021)** Emerging Properties in Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`ViT-based`, `a form of self-distillation with no labels`, `self-supervised pre-training`]
