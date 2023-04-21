@@ -296,6 +296,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **PETR(CVPR2022)** End-to-End Multi-Person Pose Estimation With Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/hikvision-research/opera)][`transformer-based`, `high input resolution and stacked attention modules`, `high complexity and require huge memory during the training phase`][`fully end2end`]
 
+* **QueryPose(NIPS2022)** QueryPose: Sparse Multi-Person Pose Regression via Spatial-Aware Part-Level Query [[openreview link](https://openreview.net/forum?id=tbId-oAOZo)][[arxiv link](https://arxiv.org/abs/2212.07855)][[code|official](https://github.com/buptxyb666/QueryPose)][`fully end2end`]
+
 * ⭐**ED-Pose(ICLR2023)** Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2302.01593)][[openreview link](https://openreview.net/forum?id=s4WVupnJjmX)][[code|official](https://github.com/IDEA-Research/ED-Pose)][`IDEA-Research`][`fully end2end`]
 
 * **PolarPose(TIP2023)** PolarPose: Single-Stage Multi-Person Pose Estimation in Polar Coordinates [[paper link](https://ieeexplore.ieee.org/abstract/document/10034548)]
