@@ -296,6 +296,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * ⭐**ED-Pose(ICLR2023)** Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2302.01593)][[openreview link](https://openreview.net/forum?id=s4WVupnJjmX)][[code|official](https://github.com/IDEA-Research/ED-Pose)][`IDEA-Research`][`fully end2end`]
 
+* **PolarPose(TIP2023)** PolarPose: Single-Stage Multi-Person Pose Estimation in Polar Coordinates [[paper link](https://ieeexplore.ieee.org/abstract/document/10034548)]
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
