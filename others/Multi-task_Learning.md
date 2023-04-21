@@ -1,10 +1,14 @@
 # Multi-task Learning
-`Multi-loss function, multi-task optimization`
+> `Multi-loss Function`, or `Multi-task Optimization`, or `Mixture-of-Experts`, or `Multi-modal Task`
 
 
 ## Materials
 
+* [**(github)** A collection of AWESOME things about mixture-of-experts (MoE)](https://github.com/XueFuzhao/awesome-mixture-of-experts)
+
 ## Papers
+
+* 👍**MoE(Mixture-of-Experts)(ICLR2017)** Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [[](https://arxiv.org/abs/1701.06538)][[openreview link](https://openreview.net/forum?id=B1ckMDqlg)][`It allows the network to ensemble the outputs from different sub-networks without introducing too much extra computational costs`]
 
 * **(ICLR2017)** Deep Multi-task Representation Learning: A Tensor Factorisation Approach [[paper link](https://arxiv.org/abs/1605.06391)][[openreview link](https://openreview.net/forum?id=SkhU2fcll)]
 
@@ -18,6 +22,8 @@
 
 * **TAPS(Task Adaptive Parameter Sharing)(CVPR2022)** Task Adaptive Parameter Sharing for Multi-Task Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wallingford_Task_Adaptive_Parameter_Sharing_for_Multi-Task_Learning_CVPR_2022_paper.html)]
 
+* **Uni-Perceiver(CVPR2022)** Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks [[paper link](http://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2112.01522)][[code|official](https://github.com/fundamentalvision/Uni-Perceiver)][`It processes a variety of modalities and tasks with unified modeling and shared parameters`]
 
+* **Uni-Perceiver-MoE(NIPS2022)** Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs [[paper link](https://arxiv.org/abs/2206.04674)][[openreview link](https://openreview.net/forum?id=agJEk7FhvKL)][[code|official](https://github.com/fundamentalvision/Uni-Perceiver)]
 
 
