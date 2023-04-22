@@ -126,6 +126,8 @@
 
 * **DETR-GA(CVPR2023)** DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection [[paper link](https://arxiv.org/abs/2304.07082)][`cross-domain weakly supervised object detection (CDWSOD)`]
 
+* **2PCNet(CVPR2023)** 2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection [[arxiv link](https://arxiv.org/abs/2303.13853)][[code|official](https://github.com/mecarill/2pcnet)]
+
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
