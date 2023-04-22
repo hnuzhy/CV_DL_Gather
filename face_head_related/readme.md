@@ -15,7 +15,7 @@
   * **[▶ Face Detection](#-Face-Detection)**
   * **[▶ Face Recognition](#-Face-Recognition)**
   * **[▶ Face Reconstruction (3D)](#-Face-Reconstruction-3D)**
-  * **[▶ Hand/Head Detection](#-HandHead-Detection)**
+  * **[▶ Hand/Head/Person Detection](#-HandHeadPerson-Detection)**
   * **[▶ Head Pose Estimation](#-Head-Pose-Estimation)**
 
 
@@ -330,7 +330,7 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-### ▶ Hand/Head Detection
+### ▶ Hand/Head/Person Detection
 
 ### Materials
 
@@ -342,6 +342,10 @@
 * [**YOLOv5(2020)** YOLOv5 is from the family of object detection architectures YOLO and has no paper](https://github.com/ultralytics/yolov5) [[YOLOv5 Docs](https://docs.ultralytics.com/)]
 
 ### Papers
+
+#### Body/Person
+
+* **VLPD(Vision-Language semantic self-supervision for context-aware Pedestrian Detection)(CVPR2023)** VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision [[arxiv link](https://arxiv.org/abs/2304.03135)][[project link](https://github.com/lmy98129/VLPD)]
 
 #### Hand Part
 
