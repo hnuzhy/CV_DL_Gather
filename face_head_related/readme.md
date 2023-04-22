@@ -385,6 +385,8 @@
 
 * **HeadHunter(CVPR2021)** Tracking Pedestrian Heads in Dense Crowd [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.html)][[project link](https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/)][[code|official](https://github.com/Sentient07/HeadHunter)][[Head_Tracking_21 challenge](https://motchallenge.net/data/Head_Tracking_21/)][`Pedestrian Tracking`]
 
+* **Head-body-Tracking(arxiv2023.04)** Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads [[arxiv link](https://arxiv.org/abs/2304.07705)]
+
 #### Human Parts
 
 * **DID-Net(ACCV2018)** Detector-in-Detector: Multi-level Analysis for Human-Parts [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_15)][[code | official](https://github.com/xiaojie1017/Human-Parts)][`HumanParts` dataset]
