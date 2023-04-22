@@ -343,11 +343,11 @@
 
 ### Papers
 
-#### Body/Person
+#### ▶Body/Person
 
 * **VLPD(Vision-Language semantic self-supervision for context-aware Pedestrian Detection)(CVPR2023)** VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision [[arxiv link](https://arxiv.org/abs/2304.03135)][[project link](https://github.com/lmy98129/VLPD)]
 
-#### Hand Part
+#### ▶Hand Part
 
 * **Hand_detection_rotation_estimation(TIP2017)** Joint Hand Detection and Rotation Estimation Using CNN [[paper link](https://ieeexplore.ieee.org/abstract/document/8128503)][[arxiv link](https://arxiv.org/abs/1612.02742)]
 
@@ -365,7 +365,7 @@
 
 * ⭐**HandLer(CVPR2022)** Forward Propagation, Backward Regression, and Pose Association for Hand Tracking in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.html)][[project link](https://vision.cs.stonybrook.edu/~mingzhen/handler/)][[code|official](https://github.com/cvlab-stonybrook/HandLer)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`YoutubeHands` dataset, Hand-tracking]
 
-#### Head Part
+#### ▶Head Part
 
 * **HollywoodHeads(ICCV2015)** Context-Aware CNNs for Person Head Detection [[paper link](https://openaccess.thecvf.com/content_iccv_2015/html/Vu_Context-Aware_CNNs_for_ICCV_2015_paper.html)][[project link](https://www.di.ens.fr/willow/research/headdetection/)][`It introduces a large dataset with 369,846 human heads annotated in 224,740 movie frames.`]
 
@@ -391,7 +391,7 @@
 
 * **Head-body-Tracking(arxiv2023.04)** Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads [[arxiv link](https://arxiv.org/abs/2304.07705)]
 
-#### Human Parts
+#### ▶Human Parts
 
 * **DID-Net(ACCV2018)** Detector-in-Detector: Multi-level Analysis for Human-Parts [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_15)][[code | official](https://github.com/xiaojie1017/Human-Parts)][`HumanParts` dataset]
 
