@@ -345,7 +345,7 @@
 
 #### ▶Body/Person
 
-* **VLPD(Vision-Language semantic self-supervision for context-aware Pedestrian Detection)(CVPR2023)** VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision [[arxiv link](https://arxiv.org/abs/2304.03135)][[project link](https://github.com/lmy98129/VLPD)]
+* **VLPD(Vision-Language semantic self-supervision for context-aware Pedestrian Detection)(CVPR2023)** VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision [[arxiv link](https://arxiv.org/abs/2304.03135)][[code|official](https://github.com/lmy98129/VLPD)]
 
 #### ▶Hand Part
 
