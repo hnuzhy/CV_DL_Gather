@@ -345,6 +345,8 @@
 
 #### ▶Body/Person
 
+* **PRNet(ECCV2020)** Progressive Refinement Network for Occluded Pedestrian Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_3)][[code|official](https://github.com/sxlpris/PRNet)][for `Crowded Human Detection`]
+
 * **VLPD(Vision-Language semantic self-supervision for context-aware Pedestrian Detection)(CVPR2023)** VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision [[arxiv link](https://arxiv.org/abs/2304.03135)][[code|official](https://github.com/lmy98129/VLPD)]
 
 #### ▶Hand Part
