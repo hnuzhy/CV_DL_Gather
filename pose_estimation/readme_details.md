@@ -246,13 +246,13 @@
 
 * **DGCN(AAAI2020)** DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/6867)][`Graph based two-stage MPPE`]
 
-* **PINet(NIPS2021)** Robust Pose Estimation in Crowded Scenes with Direct Pose-Level Inference [[paper link](https://proceedings.neurips.cc/paper/2021/hash/31857b449c407203749ae32dd0e7d64a-Abstract.html)][[codes|official PyTorch](https://github.com/kennethwdk/PINet)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)]
-
 * ⭐**CenterGroup(ICCV2021)** The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2110.05132)][[codes|official PyTorch based on mmpose and HigherHRNet](https://github.com/dvl-tum/center-group)]
 
 * ⭐**SWAHR(CVPR2021)** Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2012.15175)][[Codes|official pytorch based on HigherHRNet](https://github.com/greatlog/SWAHR-HumanPose)]
 
 * ⭐**DEKR(CVPR2021)** Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression [[arxiv link](https://arxiv.org/abs/2104.02300)][[Codes|official pytorch](https://github.com/HRNet/DEKR)]
+
+* **PINet(NIPS2021)** Robust Pose Estimation in Crowded Scenes with Direct Pose-Level Inference [[paper link](https://proceedings.neurips.cc/paper/2021/hash/31857b449c407203749ae32dd0e7d64a-Abstract.html)][[codes|official PyTorch](https://github.com/kennethwdk/PINet)][[First Author: Dongkai Wang](https://kennethwdk.github.io/)][For `Crowded Scenes`, Following `HigherHRNet` and `DEKR`]
 
 * **DAC(arxiv2022)** Bottom-Up 2D Pose Estimation via Dual Anatomical Centers for Small-Scale Persons [[arxiv link](https://arxiv.org/abs/2208.11975)][`Dual Anatomical Centers (Head + Body)`]
 
