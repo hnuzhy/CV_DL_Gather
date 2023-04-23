@@ -238,7 +238,7 @@
 
 * ⭐**MDN3(CVPR2020)** Mixture Dense Regression for Object Detection and Human Pose Estimation [[arxiv link](https://arxiv.org/abs/1912.00821)][[Codes|PyTorch(offical)](https://github.com/alivaramesh/MixtureDenseRegression)]
 
-* **HGG(arxiv2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[arxiv link](https://arxiv.org/abs/2007.11864)]
+* **HGG(arxiv2020)(ECCV2020)** Differentiable Hierarchical Graph Grouping for Multi-person Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_42)][[arxiv link](https://arxiv.org/abs/2007.11864)]
 
 * ⭐**EfficientHRNet(arxiv2020)** EfficientHRNet: Efficient Scaling for Lightweight High-Resolution Multi-Person Pose Estimation [[paper link](https://arxiv.org/abs/2007.08090)]
 
