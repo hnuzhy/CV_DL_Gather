@@ -173,7 +173,7 @@
 
 * **RSN-PRM(arxiv2020)** Learning Delicate Local Representations for Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2003.04030v3)]
 
-* **OPEC-Net(arxiv2020)** Peeking into occluded joints: A novel framework for crowd pose estimation [[arxiv link](https://arxiv.org/abs/2003.10506)]
+* **OPEC-Net(arxiv2020)(ECCV2020)** Peeking into occluded joints: A novel framework for crowd pose estimation [[arxiv link](https://arxiv.org/abs/2003.10506)]
 
 * **(arxiv2020)(video based)** Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos [[arxiv link](https://arxiv.org/abs/2004.12652)]
 
