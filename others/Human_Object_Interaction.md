@@ -3,14 +3,6 @@
 
 ## Materials
 
-### DETRs
-* [(DEtection TRansformer(DETR) ECCV2020 BestPaper) End-to-End Object Detection with Transformers](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_13) [[codes|official](https://github.com/facebookresearch/detr)]
-* [(DeformableDETR ICLR2021 OralPaper) Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159) [[codes|official](https://github.com/fundamentalvision/Deformable-DETR)][[bilibili paper reading video](https://www.bilibili.com/video/BV133411m7VP/)]
-* [(DAB-DETR ICLR2022) DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) [[codes|official](https://github.com/SlongLiu/DAB-DETR)]
-* [(DN-DETR CVPR2022 OralPaper) DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.html) [[codes|official](https://github.com/IDEA-Research/DN-DETR)]
-
-
-
 ## Datasets
 
 * **V-COCO (arxiv2015)** [Visual Semantic Role Labeling](https://arxiv.org/abs/1505.04474) [[github link](https://github.com/s-gupta/v-coco)][[VCL(ECCV2020)](https://arxiv.org/abs/2007.12407)][[paperswithcode page](https://paperswithcode.com/dataset/v-coco)]
