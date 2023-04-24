@@ -21,7 +21,22 @@
 
 * **DisTrans(CVPR2022)** Human-Object Interaction Detection via Disentangled Transformer [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Human-Object_Interaction_Detection_via_Disentangled_Transformer_CVPR_2022_paper.html)][[codes|official]()]
 
-* **HAKE(TPAMI2023)** HAKE: A Knowledge Engine Foundation for Human Activity Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10002711)][[arxiv link](https://arxiv.org/abs/2202.06851)][[project link](http://hake-mvig.cn/)][`HAKE 2.0` (Human Activity Knowledge Engine) dataset]
+* 👍**HAKE(TPAMI2023)** HAKE: A Knowledge Engine Foundation for Human Activity Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10002711)][[arxiv link](https://arxiv.org/abs/2202.06851)][[project link](http://hake-mvig.cn/)][`HAKE 2.0` (Human Activity Knowledge Engine) dataset]
 
-* **HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][[paperswithcode](https://paperswithcode.com/paper/detecting-human-object-contact-in-images)][`马普所`][`HOT` dataset]
+* **ERNet(TIP2023)** ERNet: Efficient and Reliable Human-Object Interaction Detection [[paper link](https://ieeexplore.ieee.org/abstract/document/10026602)][[code|official](https://github.com/Monash-CyPhi-AI-Research-Lab/ernet)][[paperswithcode](https://paperswithcode.com/paper/ernet-efficient-and-reliable-human-object)]
+
+* **FGAHOI(arxiv2023.01)** FGAHOI: Fine-Grained Anchors for Human-Object Interaction Detection [[paper link](https://arxiv.org/abs/2301.04019v1)][[code|official](https://github.com/xiaomabufei/fgahoi)][[paperswithcode](https://paperswithcode.com/paper/fgahoi-fine-grained-anchors-for-human-object)][[proposed dataset `HOI-SDC`](https://paperswithcode.com/dataset/hoi-sdc)]
+
+* **UniVRD(arxiv2023.03)** Unified Visual Relationship Detection with Vision and Language Models [[paper link](https://arxiv.org/abs/2303.08998v1)][[paperswithcode](https://paperswithcode.com/paper/unified-visual-relationship-detection-with)]
+
+* 👍**HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][[paperswithcode](https://paperswithcode.com/paper/detecting-human-object-contact-in-images)][`马普所`][`HOT` dataset]
+
+* **ViPLO(CVPR2023)** ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection [[paper link](https://arxiv.org/abs/2304.08114v1)][[code|official](https://github.com/Jeeseung-Park/ViPLO)][[paperswithcode](https://paperswithcode.com/paper/viplo-vision-transformer-based-pose)]
+
+* **MUREN(CVPR2023)** Relational Context Learning for Human-Object Interaction Detection [[paper link](https://arxiv.org/abs/2304.04997v1)][[code|official](https://github.com/OreoChocolate/MUREN)][[paperswithcode](https://paperswithcode.com/paper/relational-context-learning-for-human-object)]
+
+* **HOICLIP(CVPR2023)** HOICLIP: Efficient Knowledge Transfer for HOI Detection with Vision-Language Models [[paper link](https://arxiv.org/abs/2303.15786v2)][[code|official](https://github.com/Artanic30/HOICLIP)][[paperswithcode](https://paperswithcode.com/paper/hoiclip-efficient-knowledge-transfer-for-hoi)]
+
+* **CQL(CVPR2023)** Category Query Learning for Human-Object Interaction Classification [[paper link](https://arxiv.org/abs/2303.14005v1)][[code|official](https://github.com/charles-xie/CQL)][[paperswithcode](https://paperswithcode.com/paper/category-query-learning-for-human-object)]
+
 
