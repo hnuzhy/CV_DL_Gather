@@ -46,6 +46,7 @@
 * [(github) Awesome Detection Transformer for Computer Vision (CV) (by `IDEA-Research`)](https://github.com/IDEA-Research/awesome-detection-transformer)
 * [(github) detrex is a research platform for Transformer-based Instance Recognition algorithms (by `IDEA-Research`)](https://github.com/IDEA-Research/detrex)
 * [(github) (yolo-gradcam) yolo model with gradcam visual. 即插即用,不需要对源码进行任何修改!](https://github.com/z1069614715/objectdetection_script/tree/master/yolo-gradcam)
+* 👍[(github) A collection of some awesome public YOLO object detection series projects](https://github.com/sjinzh/awesome-yolo-object-detection)
 
 ### ▶ CSDN or zhihu
 * [(CSDN blog) 理解COCO的评价指标：AP，AP50，AP70，mAP，AP[.50:.05:.95]](https://blog.csdn.net/qq_27095227/article/details/105450470)
