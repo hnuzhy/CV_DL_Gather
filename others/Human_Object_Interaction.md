@@ -17,6 +17,8 @@
 
 * **RHOI(ICCV2021)** Reconstructing Hand-Object Interactions in the Wild [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Cao_Reconstructing_Hand-Object_Interactions_in_the_Wild_ICCV_2021_paper.html)][[project link](https://people.eecs.berkeley.edu/~zhecao/rhoi)][[code(MOW)|official](https://github.com/ZheC/MOW)][`Reconstructing Hands and Objects`, `manipulation`, `Manipulating Objects in-the-Wild (MOW) dataset`]
 
+* **Body-Part-Map-for-Interactiveness(ECCV2022)** Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_8)][[arxiv link](https://arxiv.org/abs/2207.14192v2)][[code|official](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)][`Lu Cewu`]
+
 * **MSTR(CVPR2022)** MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MSTR_Multi-Scale_Transformer_for_End-to-End_Human-Object_Interaction_Detection_CVPR_2022_paper.html)][[codes|official]()]
 
 * **DisTrans(CVPR2022)** Human-Object Interaction Detection via Disentangled Transformer [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Human-Object_Interaction_Detection_via_Disentangled_Transformer_CVPR_2022_paper.html)][[codes|official]()]
