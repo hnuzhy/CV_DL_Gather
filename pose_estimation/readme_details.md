@@ -356,6 +356,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **RF-Pose(CVPR2018)(radio frequency)** Through-Wall Human Pose Estimation Using Radio Signals [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)][[project link](http://rfpose.csail.mit.edu/)]
 
+* **LIP_JPPNet(TPAMI2019)** Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/8327922)][[Lab Homepage](http://www.sysu-hcp.net/)][[code|official](https://github.com/Engineering-Course/LIP_JPPNet)][`Joint Body Parsing & Pose Estimation`]
+
 * **DoubleFusion(TPAMI2019)(3D single-view real-time depth-sensor)** DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor [[arxiv link](https://arxiv.org/pdf/1804.06023.pdf)]
 
 * **Keypoint-Communities(ICCV2019)** Keypoint Communities [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Zauss_Keypoint_Communities_ICCV_2021_paper.html)][`Model all keypoints belonging to a human or an object (the pose) as a graph`]
