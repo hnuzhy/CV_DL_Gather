@@ -8,6 +8,7 @@
 * **V-COCO (arxiv2015)** [Visual Semantic Role Labeling](https://arxiv.org/abs/1505.04474) [[github link](https://github.com/s-gupta/v-coco)][[VCL(ECCV2020)](https://arxiv.org/abs/2007.12407)][[paperswithcode page](https://paperswithcode.com/dataset/v-coco)]
 * **HICO-DET (WACV2018)** [Learning to Detect Human-Object Interactions](https://ieeexplore.ieee.org/abstract/document/8354152) [[project link](http://www-personal.umich.edu/~ywchao/hico/)][[csdn blogs](https://blog.csdn.net/irving512/article/details/115122416)][[paperswithcode page](https://paperswithcode.com/dataset/hico-det)]
 * **HAKE (2018~2022)** [HAKE: Human Activity Knowledge Engine](http://hake-mvig.cn/home/) [[github link](https://github.com/DirtyHarryLYL/HAKE)][[paperswithcode page](https://paperswithcode.com/dataset/hake-large)]
+* **HAKE-HOI (CVPR2019)** [Transferable Interactiveness Knowledge for Human-Object Interaction Detection](https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network) [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Transferable_Interactiveness_Knowledge_for_Human-Object_Interaction_Detection_CVPR_2019_paper.html)]
 
 ## Papers
 
