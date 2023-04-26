@@ -356,7 +356,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **RF-Pose(CVPR2018)(radio frequency)** Through-Wall Human Pose Estimation Using Radio Signals [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)][[project link](http://rfpose.csail.mit.edu/)]
 
-* **LIP_JPPNet(TPAMI2019)** Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/8327922)][[Lab Homepage](http://www.sysu-hcp.net/)][[code|official](https://github.com/Engineering-Course/LIP_JPPNet)][`Joint Body Parsing & Pose Estimation`]
+* 👍**LIP_JPPNet(TPAMI2019)** Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/8327922)][[Lab Homepage](http://www.sysu-hcp.net/)][[code|official](https://github.com/Engineering-Course/LIP_JPPNet)][`Joint Body Parsing & Pose Estimation`]
 
 * **DoubleFusion(TPAMI2019)(3D single-view real-time depth-sensor)** DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor [[arxiv link](https://arxiv.org/pdf/1804.06023.pdf)]
 
@@ -371,6 +371,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 * **MEVADA(ICCV2021)** Single View Physical Distance Estimation using Human Pose [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Fei_Single_View_Physical_Distance_Estimation_Using_Human_Pose_ICCV_2021_paper.html)][[project link](https://feixh.github.io/projects/physical_distance/)]
 
 * **Unipose+(TPAMI2022)** UniPose+: A Unified Framework for 2D and 3D Human Pose Estimation in Images and Videos [[paper link](https://ieeexplore.ieee.org/abstract/document/9599531)][[author given link](https://par.nsf.gov/biblio/10322977)]
+
+* 👍**HTCorrM(Human Task Correlation Machine)(TPAMI2022)** On the Correlation among Edge, Pose and Parsing [[paper link](https://ieeexplore.ieee.org/abstract/document/9527074/)][[pdf link](http://www.jdl.link/doc/2011/20220112_On%20the%20Correlation%20among%20Edge,%20Pose%20and%20Parsing.pdf)][`Multi-tasks Learning`]
 
 * **PoseTrack21(CVPR2022)** PoseTrack21: A Dataset for Person Search, Multi-Object Tracking and Multi-Person Pose Tracking [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Doring_PoseTrack21_A_Dataset_for_Person_Search_Multi-Object_Tracking_and_Multi-Person_CVPR_2022_paper.html)][[codes|official](https://github.com/andoer/PoseTrack21)][`jointly person search, multi-object tracking and multi-person pose tracking`]
 
