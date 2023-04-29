@@ -10,6 +10,7 @@
 * **HAKE (2018~2022)** [HAKE: Human Activity Knowledge Engine](http://hake-mvig.cn/home/) [[github link](https://github.com/DirtyHarryLYL/HAKE)][[paperswithcode page](https://paperswithcode.com/dataset/hake-large)]
 * **HAKE-HOI (CVPR2019)** [Transferable Interactiveness Knowledge for Human-Object Interaction Detection](https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network) [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Transferable_Interactiveness_Knowledge_for_Human-Object_Interaction_Detection_CVPR_2019_paper.html)]
 
+
 ## Papers
 
 * **UnionDet(ECCV2020)** UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_30)][[paperswithcode](https://paperswithcode.com/paper/uniondet-union-level-detector-towards-real)]
@@ -23,6 +24,8 @@
 * **MSTR(CVPR2022)** MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MSTR_Multi-Scale_Transformer_for_End-to-End_Human-Object_Interaction_Detection_CVPR_2022_paper.html)][[codes|official]()]
 
 * **DisTrans(CVPR2022)** Human-Object Interaction Detection via Disentangled Transformer [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Human-Object_Interaction_Detection_via_Disentangled_Transformer_CVPR_2022_paper.html)][[codes|official]()]
+
+* **HOGAN(Spotlight)(NIPS2022)** Hand-Object Interaction Image Generation [[paper link](https://arxiv.org/abs/2211.15663)][[project link](https://play-with-hoi-generation.github.io/)]
 
 * 👍**HAKE(TPAMI2023)** HAKE: A Knowledge Engine Foundation for Human Activity Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10002711)][[arxiv link](https://arxiv.org/abs/2202.06851)][[project link](http://hake-mvig.cn/)][`HAKE 2.0` (Human Activity Knowledge Engine) dataset]
 
