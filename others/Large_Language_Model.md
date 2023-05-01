@@ -49,3 +49,6 @@
 * **SSA(2023.04)** Semantic Segment Anything [[demo link](https://replicate.com/cjwbw/semantic-segment-anything)][[code|official](https://github.com/fudan-zvg/Semantic-Segment-Anything)][`Fudan`]
 
 * **Grounded-SAM(2023.04)** Grounded Segment Anything [[code|official](https://github.com/IDEA-Research/Grounded-Segment-Anything)][`IDEA-Research`]
+
+* 👍**Inpaint-Anything(arxiv2023.04)** Inpaint Anything: Segment Anything Meets Image Inpainting [[arxiv link](https://arxiv.org/abs/2304.06790)][[code|official](https://github.com/geekyutao/Inpaint-Anything)][[HuggingFace link](https://huggingface.co/spaces/InpaintAI/Inpaint-Anything)]
+
