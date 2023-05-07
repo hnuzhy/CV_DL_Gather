@@ -410,11 +410,15 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * ❤**RegDA(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project library](https://github.com/thuml/Transfer-Learning-Library)][[code|official](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`]
 
-* 👍**UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`]
+* 👍**MDAM, UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`]
 
 * **AdaptOR(arxiv2021)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR [[paper link](https://arxiv.org/abs/2108.11801)]
 
-* ❤**UDA_PoseEstimation(ECCV2022)** A Unified Framework for Domain Adaptive Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_35)][[arxiv link](https://arxiv.org/abs/2204.00172)][[code|official](https://github.com/VisionLearningGroup/UDA_PoseEstimation)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`, based on `RegDA`]
+* **TransPar(TIP2022)** [[paper link](https://ieeexplore.ieee.org/abstract/document/9807644)][[arxiv link](https://arxiv.org/abs/2108.06129)][evaluation on tasks `image classification` and `regression tasks (keypoint detection)`]
+
+* **MarsDA(TCSVT2022)** [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`]
+
+* ❤**UniFrame, UDA_PoseEstimation(ECCV2022)** A Unified Framework for Domain Adaptive Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_35)][[arxiv link](https://arxiv.org/abs/2204.00172)][[code|official](https://github.com/VisionLearningGroup/UDA_PoseEstimation)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`, based on `RegDA`]
 
 * 👍**iart-semi-pose(ACMMM2022)** Semi-supervised Human Pose Estimation in Art-historical Images [[arxiv link](https://arxiv.org/abs/2207.02976)][[code|official](https://github.com/TIBHannover/iart-semi-pose)][`Germany`]
 
