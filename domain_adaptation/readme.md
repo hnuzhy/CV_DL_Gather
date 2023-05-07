@@ -151,6 +151,8 @@
 
 * **FADA(ECCV2020)** Classes Matter: A Fine-Grained Adversarial Approach to Cross-Domain Semantic Segmentation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_38)][[codes|official PyTorch](https://github.com/JDAI-CV/FADA)][`self-training`]
 
+* **SFDA-Seg(CVPR2021)** Source-Free Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.html?ref=https://githubhelp.com)][[arxiv link](https://arxiv.org/abs/2103.16372)][`Source-Free DA`]
+
 * ❤**ProDA(CVPR2021)** Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Prototypical_Pseudo_Label_Denoising_and_Target_Structure_Learning_for_Domain_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/microsoft/ProDA)][`Use prototypes to weight pseudo-labels`]
 
 * **(CVPR2021)** Coarse-To-Fine Domain Adaptive Semantic Segmentation With Photometric Alignment and Category-Center Regularization [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Ma_Coarse-To-Fine_Domain_Adaptive_Semantic_Segmentation_With_Photometric_Alignment_and_Category-Center_CVPR_2021_paper.html)][`self-training`]
@@ -189,8 +191,6 @@
 * **DRPC(ICCV2019)** Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization Without Accessing Target Domain Data [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Yue_Domain_Randomization_and_Pyramid_Consistency_Simulation-to-Real_Generalization_Without_Accessing_Target_ICCV_2019_paper.html)][[codes|official PyTorch](https://github.com/xyyue/DRPC)] 
 
 * ❤**GTR-LTR(Global Texture Randomization, Local Texture Randomization)(TIP2021)** Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/9489280)][[arxiv link](https://arxiv.org/abs/2108.02376)][[codes|official PyTorch](https://github.com/leolyj/GTR-LTR)][author `leolyj`]
-
-* **SFDA-Seg(CVPR2021)** Source-Free Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.html?ref=https://githubhelp.com)][[arxiv link](https://arxiv.org/abs/2103.16372)]
 
 * **FSDR(CVPR2021)** FSDR: Frequency Space Domain Randomization for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_FSDR_Frequency_Space_Domain_Randomization_for_Domain_Generalization_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/jxhuang0508/FSDR)]
 
