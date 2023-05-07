@@ -190,6 +190,8 @@
 
 * ❤**GTR-LTR(Global Texture Randomization, Local Texture Randomization)(TIP2021)** Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/9489280)][[arxiv link](https://arxiv.org/abs/2108.02376)][[codes|official PyTorch](https://github.com/leolyj/GTR-LTR)][author `leolyj`]
 
+* **SFDA-Seg(CVPR2021)** Source-Free Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.html?ref=https://githubhelp.com)][[arxiv link](https://arxiv.org/abs/2103.16372)]
+
 * **FSDR(CVPR2021)** FSDR: Frequency Space Domain Randomization for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_FSDR_Frequency_Space_Domain_Randomization_for_Domain_Generalization_CVPR_2021_paper.html)][[codes|official PyTorch](https://github.com/jxhuang0508/FSDR)]
 
 * ❤**RobustNet(CVPR2021 Oral)** RobustNet: Improving Domain Generalization in Urban-Scene Segmentationvia Instance Selective Whitening [[paper link](https://arxiv.org/abs/2103.15597)][[codes|official PyTorch](https://github.com/shachoi/RobustNet)]
