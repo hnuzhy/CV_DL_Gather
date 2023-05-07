@@ -414,9 +414,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **AdaptOR(arxiv2021)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR [[paper link](https://arxiv.org/abs/2108.11801)]
 
-* **TransPar(TIP2022)** [[paper link](https://ieeexplore.ieee.org/abstract/document/9807644)][[arxiv link](https://arxiv.org/abs/2108.06129)][evaluation on tasks `image classification` and `regression tasks (keypoint detection)`]
+* **TransPar(TIP2022)** Learning Transferable Parameters for Unsupervised Domain Adaptation [[paper link](https://ieeexplore.ieee.org/abstract/document/9807644)][[arxiv link](https://arxiv.org/abs/2108.06129)][evaluation on tasks `image classification` and `regression tasks (keypoint detection)`]
 
-* **MarsDA(TCSVT2022)** [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`]
+* **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`]
 
 * ❤**UniFrame, UDA_PoseEstimation(ECCV2022)** A Unified Framework for Domain Adaptive Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_35)][[arxiv link](https://arxiv.org/abs/2204.00172)][[code|official](https://github.com/VisionLearningGroup/UDA_PoseEstimation)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`, based on `RegDA`]
 
