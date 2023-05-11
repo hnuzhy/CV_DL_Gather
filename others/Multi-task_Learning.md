@@ -20,6 +20,8 @@
 
 * **(ICLR2020 rejected)** Feature Partitioning for Efficient Multi-Task Architectures [[paper link](https://arxiv.org/abs/1908.04339)][[openreview link](https://openreview.net/forum?id=B1eoyAVFwH)]
 
+* 👍**AdaShare(NIPS2020)** AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning [[paper link](https://proceedings.neurips.cc/paper/2020/hash/634841a6831464b64c072c8510c7f35c-Abstract.html)][[project link](https://cs-people.bu.edu/sunxm/AdaShare/project.html)][[code|official](https://github.com/sunxm2357/AdaShare)]
+
 * **TAPS(Task Adaptive Parameter Sharing)(CVPR2022)** Task Adaptive Parameter Sharing for Multi-Task Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wallingford_Task_Adaptive_Parameter_Sharing_for_Multi-Task_Learning_CVPR_2022_paper.html)][[code|official](https://github.com/MattWallingford/TAPS)]
 
 * **Uni-Perceiver(CVPR2022)** Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks [[paper link](http://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Uni-Perceiver_Pre-Training_Unified_Architecture_for_Generic_Perception_for_Zero-Shot_and_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2112.01522)][[code|official](https://github.com/fundamentalvision/Uni-Perceiver)][`ViT Pre-training`, `It processes a variety of modalities and tasks with unified modeling and shared parameters`]
