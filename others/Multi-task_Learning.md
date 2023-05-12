@@ -1,5 +1,5 @@
 # Multi-task Learning
-> `Multi-loss Function`, or `Multi-task Optimization`, or `Mixture-of-Experts`, or `Multi-modal Task`
+> `Multi-loss Function`, or `Multi-task Optimization`, or `Mixture-of-Experts`, or `Multi-modal Task`, or `Multi-objective Optimization` 
 
 
 ## Materials
