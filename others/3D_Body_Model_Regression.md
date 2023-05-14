@@ -49,3 +49,4 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * **PSVT(CVPR2023)** PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers [[paper link](https://arxiv.org/abs/2303.09187)][Datasets: `RH`, `AGORA`, `CMU Panoptic`, `3DPW`]
 
+* 👍**BSTRO(Body-Scene contact TRansfOrmer)(CVPR2022)** Capturing and Inferring Dense Full-Body Human-Scene Contact [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.html)][[project link](https://rich.is.tue.mpg.de/)][[code|official](https://github.com/paulchhuang/bstro)][dataset `RICH`, `Interaction-Contact-Humans`, `MPII`, `single-person`]
