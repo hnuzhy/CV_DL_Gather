@@ -423,13 +423,15 @@
 
 * **PaStaNet(CVPR2020)** PaStaNet: Toward Human Activity Knowledge Engine [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.html)][[project link](http://hake-mvig.cn/)][`SJTU`, `body-part state annotations in the context of HOI`][`HAKE 1.0` (Human Activity Knowledge Engine) dataset]
 
-* **MOVER(CVPR2022)** Human-Aware Object Placement for Visual Environment Reconstruction [[](https://openaccess.thecvf.com/content/CVPR2022/html/Yi_Human-Aware_Object_Placement_for_Visual_Environment_Reconstruction_CVPR_2022_paper.html)][[project link](https://mover.is.tue.mpg.de/)][[code|official](https://github.com/yhw-yhw/mover)][`human-scene interactions (HSIs)`, `MPII`]
+* **CHORE(ECCV2022)** CHORE: Contact, Human and Object Reconstruction from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_8)][[project link](https://virtualhumans.mpi-inf.mpg.de/chore/)][`MPII`, `single-person`, reason the interactions and recover the spatial arrangement, fine-grained contacts between the human and the object]
+
+* **MOVER(CVPR2022)** Human-Aware Object Placement for Visual Environment Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yi_Human-Aware_Object_Placement_for_Visual_Environment_Reconstruction_CVPR_2022_paper.html)][[project link](https://mover.is.tue.mpg.de/)][[code|official](https://github.com/yhw-yhw/mover)][`human-scene interactions (HSIs)`, `MPII`]
 
 * 👍**BSTRO(Body-Scene contact TRansfOrmer)(CVPR2022)** Capturing and Inferring Dense Full-Body Human-Scene Contact [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.html)][[project link](https://rich.is.tue.mpg.de/)][[code|official](https://github.com/paulchhuang/bstro)][dataset `RICH`, `Interaction-Contact-Humans`, `MPII`, `single-person`]
 
 * **HAKE(TPAMI2023)** HAKE: A Knowledge Engine Foundation for Human Activity Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10002711)][[arxiv link](https://arxiv.org/abs/2202.06851)][[project link](http://hake-mvig.cn/)][`HAKE 2.0` (Human Activity Knowledge Engine) dataset]
 
-* 👍**HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][`马普所`][`HOT` dataset, `single-person`]
+* 👍**HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][`马普所`, `HOT` dataset, `single-person`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
