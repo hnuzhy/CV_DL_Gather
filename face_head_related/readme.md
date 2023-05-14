@@ -415,6 +415,7 @@
 
 * 👍**Head-body-Tracking(arxiv2023.04)** Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads [[arxiv link](https://arxiv.org/abs/2304.07705)]
 
+
 #### ▶Human Parts
 
 * **DID-Net(ACCV2018)** Detector-in-Detector: Multi-level Analysis for Human-Parts [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_15)][[code | official](https://github.com/xiaojie1017/Human-Parts)][`HumanParts` dataset]
@@ -432,6 +433,12 @@
 * **HAKE(TPAMI2023)** HAKE: A Knowledge Engine Foundation for Human Activity Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10002711)][[arxiv link](https://arxiv.org/abs/2202.06851)][[project link](http://hake-mvig.cn/)][`HAKE 2.0` (Human Activity Knowledge Engine) dataset]
 
 * 👍**HOT(CVPR2023)** Detecting Human-Object Contact in Images [[paper link](https://arxiv.org/abs/2303.03373)][[project link](https://hot.is.tue.mpg.de/)][`马普所`, `HOT` dataset, `single-person`]
+
+* **VisTracker(CVPR2023)** Visibility Aware Human-Object Interaction Tracking from Single RGB Camera [[arxiv link](https://arxiv.org/abs/2303.16479)][[project link](https://virtualhumans.mpi-inf.mpg.de/VisTracker/)][`MPII`, An approach to jointly track the human, the object and the contacts between them, in 3D, from a monocular RGB video.]
+
+* **Hi4D(Humans interacting in 4D)(CVPR2023)** Hi4D: 4D Instance Segmentation of Close Human Interaction [[arxiv link](https://arxiv.org/abs/2303.15380)][[project link](https://yifeiyin04.github.io/Hi4D/)][`ETH Zürich`, A dataset of humans in close physical interaction]
+
+
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
