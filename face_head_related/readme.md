@@ -401,7 +401,7 @@
 
 * **PaStaNet(CVPR2020)** PaStaNet: Toward Human Activity Knowledge Engine [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.html)][[project link](http://hake-mvig.cn/)][`SJTU`, `body-part state annotations in the context of HOI`][`HAKE 1.0` (Human Activity Knowledge Engine) dataset]
 
-* 👍**HOT(CVPR2022)** Capturing and Inferring Dense Full-Body Human-Scene Contact [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.html)][[project link](https://rich.is.tue.mpg.de/)][dataset `RICH`, `Interaction-Contact-Humans`, `MPII`, `single-person`]
+* 👍**BSTRO(Body-Scene contact TRansfOrmer)(CVPR2022)** Capturing and Inferring Dense Full-Body Human-Scene Contact [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.html)][[project link](https://rich.is.tue.mpg.de/)][[code|official](https://github.com/paulchhuang/bstro)][dataset `RICH`, `Interaction-Contact-Humans`, `MPII`, `single-person`]
 
 * **HAKE(TPAMI2023)** HAKE: A Knowledge Engine Foundation for Human Activity Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10002711)][[arxiv link](https://arxiv.org/abs/2202.06851)][[project link](http://hake-mvig.cn/)][`HAKE 2.0` (Human Activity Knowledge Engine) dataset]
 
