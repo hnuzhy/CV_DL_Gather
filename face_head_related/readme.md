@@ -363,9 +363,14 @@
 
 * **TUCH(Towards Understanding Contact in Humans)(CVPR2021)** On Self-Contact and Human Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Muller_On_Self-Contact_and_Human_Pose_CVPR_2021_paper.html)][[project link](https://tuch.is.tue.mpg.de)][A dataset of `3D Contact Poses (3DCP)`, `hand contact estimation`, `MPII`, `single-person`]
 
+* **VISOR(NIPS2022)** EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/590a7ebe0da1f262c80d0188f5c4c222-Abstract-Datasets_and_Benchmarks.html)][[project link](https://epic-kitchens.github.io/VISOR/)][`EPIC-KITCHENS`, a new set of `challenges` not encountered in current `video segmentation datasets`]
+
 * ⭐**BodyHands(CVPR2022)** Whose Hands Are These? Hand Detection and Hand-Body Association in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Narasimhaswamy_Whose_Hands_Are_These_Hand_Detection_and_Hand-Body_Association_in_CVPR_2022_paper.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/BodyHands/)][[code|official](https://github.com/cvlab-stonybrook/BodyHands)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`joint detection of person body and hands`][`BodyHands` dataset]
 
 * ⭐**HandLer(CVPR2022)** Forward Propagation, Backward Regression, and Pose Association for Hand Tracking in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.html)][[project link](https://vision.cs.stonybrook.edu/~mingzhen/handler/)][[code|official](https://github.com/cvlab-stonybrook/HandLer)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`YoutubeHands` dataset, Hand-tracking]
+
+
+
 
 #### ▶Head Part
 
