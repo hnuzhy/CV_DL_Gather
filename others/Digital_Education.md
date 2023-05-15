@@ -16,13 +16,13 @@
 
 * **(CHI2022)** Participatory Design Goes to School: Co-Teaching as a Form of Co-Design for Educational Technology [[paper link](https://dl.acm.org/doi/10.1145/3491102.3517667)][[TPACK model (Technological Pedagogical And Content Knowledge)](http://tpack.org)][`Children and Learning`, `co-teaching` as a form of co-design practice offers a way to `move teachers from passive adopters of technology` to `active participants in the design and integration of educational technologies`]
 
-* 👍**(CHI2022)** Remote Co-teaching in Rural Classroom: Current Practices, Impacts, and Challenges [[paper link](https://dl.acm.org/doi/10.1145/3491102.3501924)][`Learning Online, Remotely, and Synchronously`, `forming a unique “co-teaching classroom”`, `remote teacher + local teacher`]
+* 👍 **(CHI2022)** Remote Co-teaching in Rural Classroom: Current Practices, Impacts, and Challenges [[paper link](https://dl.acm.org/doi/10.1145/3491102.3501924)][`Learning Online, Remotely, and Synchronously`, `forming a unique “co-teaching classroom”`, `remote teacher + local teacher`]
 
 * **(CHI2022)** Uncovering Instructors’ Diverse Practices and Perceptions: A Field Deployment of a Customization-Sharing Platform that Supports Course Management [[paper link](https://dl.acm.org/doi/10.1145/3491102.3501846)][`Learning Online, Remotely, and Synchronously`, `an example-based customization sharing platform`, `a learning management system (LMS)`]
 
 * **(CHI2022)** Understanding the Situated Practices of School Technology Leaders in the Early Stages of Educational Technology Adoption [[paper link](https://dl.acm.org/doi/10.1145/3491102.3502120)][`Technology for Classrooms`, `Exploring that how technology leader role impacts on the adoption of new technologies in the classroom`]
 
-* 👍**Glancee(CHI2022)** Glancee: An Adaptable System for Instructors to Grasp Student Learning Status in Synchronous Online Classes [[paper link](https://dl.acm.org/doi/10.1145/3491102.3517482)][`Technology for Classrooms`, `Synchronous online learning system`, `Compared with two baselines EngageClass and ZoomOnly`]
+* 👍 **Glancee(CHI2022)** Glancee: An Adaptable System for Instructors to Grasp Student Learning Status in Synchronous Online Classes [[paper link](https://dl.acm.org/doi/10.1145/3491102.3517482)][`Technology for Classrooms`, `Synchronous online learning system`, `Compared with two baselines EngageClass and ZoomOnly`]
 
 * **(CHI2022)** “Hartal (Strike) Happens Here Everyday”: Understanding Impact of Disruption on Education in Kashmir [[paper link](https://dl.acm.org/doi/10.1145/3491102.3502126)][`Technology for Classrooms`, `The regions in Kashmir, India suffer disruption to education and learning due to ongoing socio-political`, `21 semi-structured interviews with parents, teachers, students, and members of a non-government organization`]
 
