@@ -11,7 +11,7 @@
 
 ### CHI (Computer-Human Interaction) (The ACM Conference on Human Factors in Computing Systems)
 
-* **(CHI2022)** Immersive Speculative Enactments: Bringing Future Scenarios and Technology to Life Using Virtual Reality [[paper link](https://dl.acm.org/doi/10.1145/3491102.3517492)][`Strategies for Design`, `a Mixed Reality experience supporting hybrid classrooms`]
+* **(CHI2022)** Immersive Speculative Enactments: Bringing Future Scenarios and Technology to Life Using Virtual Reality [[paper link](https://dl.acm.org/doi/10.1145/3491102.3517492)][`Strategies for Design`, `a Mixed Reality experience supporting hybrid classrooms`, `Cross-Reality Lectures`]
 
 ### UbiComp (Ubiquitous Computing) (The ACM International Joint Conference on Pervasive and Ubiquitous Computing)
 
