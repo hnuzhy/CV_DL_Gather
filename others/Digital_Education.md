@@ -1,4 +1,5 @@
-# Digital_Education
+# Digital Education
+`AI for Education` or `Deep Learning based Education`
 
 ## Materials
 
