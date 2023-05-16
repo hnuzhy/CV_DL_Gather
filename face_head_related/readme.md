@@ -343,6 +343,10 @@
 
 ### Papers
 
+#### ▶Applications
+
+* **ThroughHand (CHI2022)** ThroughHand: 2D Tactile Interaction to Simultaneously Recognize and Touch Multiple Objects [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445530)][`a novel tactile interaction that enables users with visual impairments to interact with multiple dynamic objects in real time`, `utilize the potential of the human tactile sense`, `enable users to perceive the objects using the **palm**`]
+
 #### ▶Body/Person
 
 * **PRNet(ECCV2020)** Progressive Refinement Network for Occluded Pedestrian Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_3)][[code|official](https://github.com/sxlpris/PRNet)][for `Crowded Human Detection`]
