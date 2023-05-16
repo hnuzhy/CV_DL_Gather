@@ -13,6 +13,16 @@
 ### ▶CHI (Computer-Human Interaction) (The ACM Conference on Human Factors in Computing Systems)
 [[CHI-2022](https://st.sigchi.org/publications/toc/chi-2022.html)] [[CHI-2021](https://st.sigchi.org/publications/toc/chi-2021.html)] [[CHI-2020](https://st.sigchi.org/publications/toc/chi-2020.html)] [[CHI-2019](https://st.sigchi.org/publications/toc/chi-2019.html)] [[CHI-2018](https://st.sigchi.org/publications/toc/chi-2018.html)] [[CHI-2017](https://st.sigchi.org/publications/toc/chi-2017.html)] [[CHI-2016](https://st.sigchi.org/publications/toc/chi-2016.html)] 
 
+* **(CHI2021)** Exploring Technology Design for Students with Vision Impairment in the Classroom and Remotely [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445755)][`Access for People with Visual Impairment`, `observed elementary classrooms at a school for the blind for six weeks`]
+
+* **(CHI2021)** Community Based Robot Design for Classrooms with Mixed Visual Abilities Children [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445135)][`Access for People with Visual Impairment`, `social robots`, `a four-month-long community-based design process`]
+
+* **(CHI2021)** The Complexity of Indoor Air Quality Forecasting and the Simplicity of Interacting with It – A Case Study of 1007 Office Meetings [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445524)][`Tech for Specific Situations`, `predicts the evolution of air quality in naturally-ventilated meeting rooms and engages the users in preventive actions when risk is forecast.` (including classroom)]
+
+* **(CHI2021)** [[paper link]()][``]
+
+* **(CHI2021)** [[paper link]()][``]
+
 * **(CHI2021)** [[paper link]()][``]
 
 * **(CHI2021)** [[paper link]()][``]
