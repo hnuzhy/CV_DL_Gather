@@ -16,6 +16,7 @@
   * **[▶ Face Recognition](#-Face-Recognition)**
   * **[▶ Face Reconstruction (3D)](#-Face-Reconstruction-3D)**
   * **[▶ Hand/Head/Person Detection](#-HandHeadPerson-Detection)**
+  * **[▶ Hand Pose Estimation](#-Hand-Pose-Estimation)**
   * **[▶ Head Pose Estimation](#-Head-Pose-Estimation)**
 
 
@@ -353,12 +354,19 @@
 
 
 #### ▶Body/Person
+including `Crowd Person Detection`, `Pedestrian Detection`
+
+* **ReInspect, Lhungarian(CVPR2016)** End-To-End People Detection in Crowded Scenes [[arxiv link](https://arxiv.org/abs/1506.04878)]
 
 * **PRNet(ECCV2020)** Progressive Refinement Network for Occluded Pedestrian Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_3)][[code|official](https://github.com/sxlpris/PRNet)][for `Crowded Human Detection`]
 
+* **Pedestron(CVPR2021)** Generalizable Pedestrian Detection: The Elephant In The Room [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.html)][[code|official](https://github.com/hasanirtiza/Pedestron)][`Pedestrian Detection`]
+
 * **VLPD(CVPR2023)** VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision [[arxiv link](https://arxiv.org/abs/2304.03135)][[code|official](https://github.com/lmy98129/VLPD)][`Vision-Language semantic self-supervision for context-aware Pedestrian Detection`]
 
+
 #### ▶Hand Part
+including `Hand Detection`, `Hand Tracking`, `Hand-Object Contact`, `Hand Pressure Estimation`, `Hand-Object Interaction`, `Hand Contact Reconstruction` and `Hand-Object Manipulation`
 
 * **Hand_detection_rotation_estimation(TIP2017)** Joint Hand Detection and Rotation Estimation Using CNN [[paper link](https://ieeexplore.ieee.org/abstract/document/8128503)][[arxiv link](https://arxiv.org/abs/1612.02742)]
 
@@ -392,17 +400,14 @@
 
 * ⭐**HandLer(CVPR2022)** Forward Propagation, Backward Regression, and Pose Association for Hand Tracking in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.html)][[project link](https://vision.cs.stonybrook.edu/~mingzhen/handler/)][[code|official](https://github.com/cvlab-stonybrook/HandLer)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`YoutubeHands` dataset, Hand-tracking]
 
-* 👍**SignBERT+(TPAMI2023)** SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10109128)][[arxvi link](https://arxiv.org/abs/2305.04868)][[project link](https://signbert-zoo.github.io/)][`Sign Language Understanding (SLU)`]
-
 * **ARCTIC(CVPR2023)** ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation [[arxiv link](https://arxiv.org/abs/2204.13662)][[project link](https://arctic.is.tue.mpg.de/)][[code|official](https://github.com/zc-alexfan/arctic)][`MPII`, `Hand-Object Manipulation`]
 
 
 
 #### ▶Head Part
+including `Head Detection`, `Head Counting`
 
 * **HollywoodHeads(ICCV2015)** Context-Aware CNNs for Person Head Detection [[paper link](https://openaccess.thecvf.com/content_iccv_2015/html/Vu_Context-Aware_CNNs_for_ICCV_2015_paper.html)][[project link](https://www.di.ens.fr/willow/research/headdetection/)][`It introduces a large dataset with 369,846 human heads annotated in 224,740 movie frames.`]
-
-* **ReInspect, Lhungarian(CVPR2016)** End-To-End People Detection in Crowded Scenes [[arxiv link](https://arxiv.org/abs/1506.04878)]
 
 * **DA-RCNN(arxiv2018)** Double Anchor R-CNN for Human Detection in a Crowd [[arxiv link](https://arxiv.org/abs/1909.09998)][[CSDN blog1](https://blog.csdn.net/Suan2014/article/details/103987896)][[CSDN blog2](https://blog.csdn.net/Megvii_tech/article/details/103485685)]
 
@@ -418,14 +423,13 @@
 
 * ⭐**BFJDet(ICCV2021)** Body-Face Joint Detection via Embedding and Head Hook [[paper link](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Body-Face_Joint_Detection_via_Embedding_and_Head_Hook_ICCV_2021_paper.pdf)][[codes|official](https://github.com/AibeeDetect/BFJDet)][`joint detection of person body, head and face`]
 
-* **Pedestron(CVPR2021)** Generalizable Pedestrian Detection: The Elephant In The Room [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.html)][[code|official](https://github.com/hasanirtiza/Pedestron)][`Pedestrian Detection`]
-
 * **HeadHunter(CVPR2021)** Tracking Pedestrian Heads in Dense Crowd [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.html)][[project link](https://project.inria.fr/crowdscience/project/dense-crowd-head-tracking/)][[code|official](https://github.com/Sentient07/HeadHunter)][[Head_Tracking_21 challenge](https://motchallenge.net/data/Head_Tracking_21/)][`Pedestrian Tracking`]
 
 * 👍**Head-body-Tracking(arxiv2023.04)** Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads [[arxiv link](https://arxiv.org/abs/2304.07705)]
 
 
 #### ▶Human Parts
+including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Object Reconstruction`, `Human-Aware Object Placement`, `Human-Scene Contact`, `Human-Object Contact`, `Human-Object Interaction Tracking` and `Close Human Interaction`
 
 * **DID-Net(ACCV2018)** Detector-in-Detector: Multi-level Analysis for Human-Parts [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_15)][[code | official](https://github.com/xiaojie1017/Human-Parts)][`HumanParts` dataset]
 
@@ -448,6 +452,23 @@
 * **Hi4D(Humans interacting in 4D)(CVPR2023)** Hi4D: 4D Instance Segmentation of Close Human Interaction [[arxiv link](https://arxiv.org/abs/2303.15380)][[project link](https://yifeiyin04.github.io/Hi4D/)][`ETH Zürich`, A dataset of humans in close physical interaction]
 
 
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+### ▶ Hand Pose Estimation
+
+#### Materials
+
+#### Datasets
+
+#### Papers
+
+##### ▶Sign Language Understanding
+including `Sign Language Recognition` and `Sign Language Translation`
+
+* **SignBERT (ICCV2021)** SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_SignBERT_Pre-Training_of_Hand-Model-Aware_Representation_for_Sign_Language_Recognition_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2110.05382)][`Sign Language Recognition (SLR)`]
+
+* 👍**SignBERT+ (TPAMI2023)** SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10109128)][[arxvi link](https://arxiv.org/abs/2305.04868)][[project link](https://signbert-zoo.github.io/)][`Sign Language Understanding (SLU)`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
