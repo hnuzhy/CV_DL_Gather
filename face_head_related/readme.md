@@ -461,10 +461,28 @@ including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Ob
 
 #### Datasets
 
+* [HANDS17: (arxiv2017) The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/) [[arxiv link](https://arxiv.org/abs/1707.02237)][`3D Hand Pose Estimation`, `21 joints`]
+* [InterHand2.6M: (ECCV2020) InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image](https://mks0601.github.io/InterHand2.6M/) [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_33)][[github link](https://github.com/facebookresearch/InterHand2.6M)][`facebookresearch`, `A dataset that uses MANO`]
+* 
+
+
 #### Papers
+
+##### ▶Hand Modeling Methods
+
+* **MANO (TOG2017, SIGGRAPH ASIA 2017)** Embodied Hands: Modeling and Capturing Hands and Bodies Together [[paper link](https://dl.acm.org/doi/abs/10.1145/3130800.3130883)][[arxiv link](https://arxiv.org/abs/2201.02610)][[project link (keep updating)](http://mano.is.tue.mpg.de/)][`MPII`, `It attempts to learn hand shape variation with Linear Blend Skinning (LBS)` [[SIGGRAPH 2000](https://dl.acm.org/doi/abs/10.1145/344779.344862)]][`it learns from a large variety of high-quality hand scans and represents the geometric changes in the low-dimensional pose and shape space`]
+
+##### ▶3D Hand Reconstruction
+also `3D Hand Shape and Pose Regression`
+
+* **(CVPR2019)** 3D Hand Shape and Pose From Images in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1902.03451)]
 
 ##### ▶Sign Language Understanding
 including `Sign Language Recognition` and `Sign Language Translation`
+
+* **BSL(ECCV2020)** BSL-1K: Scaling Up Co-articulated Sign Language Recognition Using Mouthing Cues [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_3)]
+
+* **HMA(AAAI2021)** Hand-Model-Aware Sign Language Recognition [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/16247)][`Sign Language Recognition (SLR)`]
 
 * **SignBERT (ICCV2021)** SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_SignBERT_Pre-Training_of_Hand-Model-Aware_Representation_for_Sign_Language_Recognition_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2110.05382)][`Sign Language Recognition (SLR)`]
 
