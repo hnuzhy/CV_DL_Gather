@@ -347,6 +347,11 @@
 
 * **ThroughHand (CHI2021)** ThroughHand: 2D Tactile Interaction to Simultaneously Recognize and Touch Multiple Objects [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445530)][`a novel tactile interaction that enables users with visual impairments to interact with multiple dynamic objects in real time`, `utilize the potential of the ` **human tactile sense**, `enable users to perceive the objects using the` **palm**]
 
+* 👍**SoloFinger (CHI2021)** SoloFinger: Robust Microgestures while Grasping Everyday Objects [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445197)][[project link](https://hci.cs.uni-saarland.de/projects/solofinger/)][`Input / Spatial Interaction / Practice Support`, `36 everyday hand-object actions`, `simple SoloFinger gestures can relieve the need for complex finger configurations or delimiting gestures`]
+
+* **(CHI2021)** Gaze-Supported 3D Object Manipulation in Virtual Reality [`Input / Spatial Interaction / Practice Support`, `investigates integration, coordination, and transition strategies of gaze and hand input for 3D object manipulation in VR`, `help guide the design of future VR systems that incorporate gaze input for 3D object manipulation`]
+
+
 #### ▶Body/Person
 
 * **PRNet(ECCV2020)** Progressive Refinement Network for Occluded Pedestrian Detection [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_3)][[code|official](https://github.com/sxlpris/PRNet)][for `Crowded Human Detection`]
