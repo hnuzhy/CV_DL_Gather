@@ -23,6 +23,8 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * **ExPose(ECCV2020)** Monocular Expressive Body Regression through Body-driven Attention [[paper linkl](https://link.springer.com/chapter/10.1007/978-3-030-58607-2_2)][[project link](https://expose.is.tue.mpg.de/)][[codes|official](https://github.com/vchoutas/expose)][`MPII 马普所`][`the pioneering work (regression-based method) for the full-body mesh recovery task`]
 
+* **DeepCap(CVPR2020)** DeepCap: Monocular Human Performance Capture Using Weak Supervision [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2003.08325)][`MPII`, `a pose estimation step + a non-rigid surface deformation step`, `SMPL based`]
+
 * **GTRS(ACMMM2021)** A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose [[paper link](https://arxiv.org/pdf/2111.12696.pdf)][[code|official](https://github.com/zczcwh/GTRS)]
 
 * **BMP(CVPR2021)** Body Meshes as Points [[paper link](https://arxiv.org/abs/2105.02467)][[code|official](https://github.com/jfzhang95/BMP)][[Jianfeng Zhang](https://jeff95.me/)]
