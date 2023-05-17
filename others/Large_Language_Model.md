@@ -50,9 +50,9 @@
 
 * **Grounded-SAM(2023.04)** Grounded Segment Anything [[code|official](https://github.com/IDEA-Research/Grounded-Segment-Anything)][`IDEA-Research`]
 
-* **Anything-3D(2023.04)** Segment-Anything + 3D. Let's lift anything to 3D [[code|official](https://github.com/Anything-of-anything/Anything-3D)][`Anything-3D-Objects`, `Anything-3DNovel-View`, `Anything-NeRF`, `Any-3DFace`][`Any-3DFace` is based on SAM and [HRN (CVPR2023)](https://younglbw.github.io/HRN-homepage/)]
+* 👍**Anything-3D(2023.04)** Segment-Anything + 3D. Let's lift anything to 3D [[code|official](https://github.com/Anything-of-anything/Anything-3D)][`Anything-3D-Objects`, `Anything-3DNovel-View`, `Anything-NeRF`, `Any-3DFace`][`Any-3DFace` is based on SAM and [HRN (CVPR2023)](https://younglbw.github.io/HRN-homepage/)]
 
-* **3D-Box-Segment-Anything(2023.04)** 3D-Box via Segment Anything [[code|official](https://github.com/dvlab-research/3D-Box-Segment-Anything)][`It extends Segment Anything to 3D perception by combining it with [VoxelNeXt (CVPR2023)](https://github.com/dvlab-research/VoxelNeXt)`]
+* 👍**3D-Box-Segment-Anything(2023.04)** 3D-Box via Segment Anything [[code|official](https://github.com/dvlab-research/3D-Box-Segment-Anything)][`It extends Segment Anything to 3D perception by combining it with [VoxelNeXt (CVPR2023)](https://github.com/dvlab-research/VoxelNeXt)`]
 
 * **SA3D(2023.04)** Segment Anything in 3D with NeRFs [[arxiv link](https://arxiv.org/abs/2304.12308)][[project link](https://jumpat.github.io/SA3D/)][[code|official](https://github.com/Jumpat/SegmentAnythingin3D)]
 
