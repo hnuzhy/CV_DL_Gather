@@ -3,7 +3,7 @@
 
 ## Materials
 
-# [**(blog zhihu)** AIGC的一些记录](https://zhuanlan.zhihu.com/p/615522634) [[Coming from a survey](https://arxiv.org/abs/2303.04226)]
+* [**(blog zhihu)** AIGC的一些记录](https://zhuanlan.zhihu.com/p/615522634) [[Coming from a survey](https://arxiv.org/abs/2303.04226)]
 
 ## Papers
 
