@@ -9,15 +9,15 @@
   * **[▶ ② ⭐⭐Domain Adaptation for Object Detection](#-Domain-Adaptation-for-Object-Detection)**
   * **[▶ ③ ⭐⭐Domain Adaptation for Semantic Segmentation](#-Domain-Adaptation-for-Semantic-Segmentation)**
   * **[▶ ④ ⭐Domain Generalization Methods](#-Domain-Generalization-Methods)**
-    * ▶ [4.1 Image Classification](#-4.1-Image-Classification)
-    * ▶ [4.2 Object Detection](#-4.2-Object-Detection)
-    * ▶ [4.3 Semantic Segmentation](#-4.3-Semantic-Segmentation)
-    * ▶ [4.4 Keypoints Detection](#-4.4-Keypoints-Detection)
+    * ▶ [4.1 Image Classification](#41-Image-Classification)
+    * ▶ [4.2 Object Detection](#42-Object-Detection)
+    * ▶ [4.3 Semantic Segmentation](#43-Semantic-Segmentation)
+    * ▶ [4.4 Keypoints Detection](#44-Keypoints-Detection)
   * **[▶ ⑤ ⭐Source-Free Domain Adaptation Methods](#-Source-Free-Domain-Adaptation-Methods)**
-    * ▶ [5.1 Image Classification](#-5.1-Image-Classification)
-    * ▶ [5.2 Object Detection](#-5.2-Object-Detection)
-    * ▶ [5.3 Semantic Segmentation](#-5.3-Semantic-Segmentation)
-    * ▶ [5.4 Keypoints Detection](#-5.4-Keypoints-Detection)
+    * ▶ [5.1 Image Classification](#51-Image-Classification)
+    * ▶ [5.2 Object Detection](#52-Object-Detection)
+    * ▶ [5.3 Semantic Segmentation](#53-Semantic-Segmentation)
+    * ▶ [5.4 Keypoints Detection](#54-Keypoints-Detection)
   * **[▶ ⑥ ⭐Domain Adaptation for Other Fields](#-Domain-Adaptation-for-Other-Fields)**
 
 
