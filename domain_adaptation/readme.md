@@ -231,7 +231,38 @@
 
 * 👍**USFDA(CVPR2020)** Universal Source-Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.html)][[project link](https://sites.google.com/view/usfda-cvpr2020)]
 
+* **(WACV2021)** Domain Impression: A Source Data Free Domain Adaptation Method [[paper link](https://openaccess.thecvf.com/content/WACV2021/html/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.html)]
+
+* **G-SFDA(ICCV2021)** Generalized Source-Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Generalized_Source-Free_Domain_Adaptation_ICCV_2021_paper.html)][[project link](https://sites.google.com/view/g-sfda/g-sfda)][[code|official](https://github.com/Albert0147/G-SFDA)]
+
+* **A2Net(ICCV2021)** Adaptive Adversarial Network for Source-Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Xia_Adaptive_Adversarial_Network_for_Source-Free_Domain_Adaptation_ICCV_2021_paper.html)][[code|official (can not be used)](https://github.com/HaifengXia/SFDA)]
+
+* **CAiDA(NIPS2021)** Confident Anchor-Induced Multi-Source Free Domain Adaptation [[paper link](https://proceedings.neurips.cc/paper/2021/hash/168908dd3227b8358eababa07fcaf091-Abstract.html)][[code|official](https://github.com/Learning-group123/CAiDA)]
+
+* **SFDA_neighbors(NIPS2021)** Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation [[paper link](https://proceedings.neurips.cc/paper/2021/hash/f5deaeeae1538fb6c45901d524ee2f98-Abstract.html)][[code|official](https://github.com/Albert0147/SFDA_neighbors)]
+
+* **ProxyMix(arxiv2022.05)** ProxyMix: Proxy-based Mixup Training with Label Refinery for Source-Free Domain Adaptation [[arxiv link](https://arxiv.org/abs/2205.14566)][[code|official](https://github.com/YuheD/ProxyMix)]
+
+* **Mixup-SFDA(ICML2022)** Balancing Discriminability and Transferability for Source-Free Domain Adaptation [[paper link](https://proceedings.mlr.press/v162/kundu22a.html)][[project link](https://sites.google.com/view/mixup-sfda)][[code|official](https://github.com/val-iisc/MixupDA)]
+
+* **CoWA-JMDS(ICML2022)** Confidence Score for Source-Free Unsupervised Domain Adaptation [[paper link](https://proceedings.mlr.press/v162/lee22c.html)][[code|official](https://github.com/Jhyun17/CoWA-JMDS)]
+
+* **U-SFAN(ECCV2022)** Uncertainty-Guided Source-Free Domain Adaptation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_31)][[arxiv link](https://arxiv.org/abs/2208.07591)][[code|official](https://github.com/roysubhankar/uncertainty-sfda)]
+
+* **Variational_Model_Perturbation(NIPS2022)** Variational Model Perturbation for Source-Free Domain Adaptation [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6d7a9f292360193eb530d693f7941c73-Abstract-Conference.html)][[code|official](https://github.com/mmjing/Variational_Model_Perturbation)]
+
+* **AaD_SFDA(NIPS2022 Spotlight)** Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation [[openreview link](https://openreview.net/forum?id=ZlCpRiZN7n)][[arxiv link](https://arxiv.org/abs/2205.04183)][[code|official](https://github.com/Albert0147/AaD_SFDA)]
+
+* **SFDA-DE(CVPR2022)** Source-Free Domain Adaptation via Distribution Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Ding_Source-Free_Domain_Adaptation_via_Distribution_Estimation_CVPR_2022_paper.html)]
+
 * **DIPE (Domain-Invariant Parameter Exploring)(CVPR2022)** Exploring Domain-Invariant Parameters for Source Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Exploring_Domain-Invariant_Parameters_for_Source_Free_Domain_Adaptation_CVPR_2022_paper.html)]
+
+* **VDB(CVPR2022)** Visual Domain Bridge: A Source-Free Domain Adaptation for Cross-Domain Few-Shot Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/html/Yazdanpanah_Visual_Domain_Bridge_A_Source-Free_Domain_Adaptation_for_Cross-Domain_Few-Shot_CVPRW_2022_paper.html)][[code|official](https://github.com/MosyMosy/VDB)][adding `Few-Shot Learning`]
+
+* **survey(arxiv2023.02)** A Comprehensive Survey on Source-free Domain Adaptation [[arxiv link](https://arxiv.org/abs/2302.11803)]
+
+* **C-SFDA(CVPR2023)** C-SFDA: A Curriculum Learning Aided Self-Training Framework for Efficient Source Free Domain Adaptation [[arxiv link](https://arxiv.org/abs/2303.17132)][[project link](https://sites.google.com/view/csfdacvpr2023/home)]
+
 
 #### ▶5.2 Object Detection
 
