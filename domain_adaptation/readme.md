@@ -183,7 +183,7 @@
 
 * **WSDA_semantic(MTA2023)** On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data [[paper link](https://link.springer.com/article/10.1007/s11042-023-14662-0)][[code|official](http://www-vpu.eps.uam.es/publications/WSDA_semantic/)]
 
-### ⑤ ⭐Domain Generalized Object Detection
+### ④ ⭐Domain Generalized Object Detection
 
 
 ### ⑤ ⭐Domain Generalized Semantic Segmentation
@@ -207,11 +207,11 @@
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
 
 
-### ⑤ ⭐Source-Free Domain Adaptation Methods
+### ⑥ ⭐Source-Free Domain Adaptation Methods
 
 
 
-### ⑤ ⭐Domain Adaptation for Other Fields
+### ⑦ ⭐Domain Adaptation for Other Fields
 
 * **SSDA3D(AAAI2023)** SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud [[paper link](https://arxiv.org/abs/2212.02845)][[codes|official (not released)](https://github.com/yinjunbo/SSDA3D)][`Domain Adaptation for 3D Object Detection`]
 
