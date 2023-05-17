@@ -8,7 +8,7 @@
   * **[▶ ① ⭐⭐⭐Domain Adaptation for Image Classification](#-Domain-Adaptation-for-Image-Classification)**
   * **[▶ ② ⭐⭐Domain Adaptation for Object Detection](#-Domain-Adaptation-for-Object-Detection)**
   * **[▶ ③ ⭐⭐Domain Adaptation for Semantic Segmentation](#-Domain-Adaptation-for-Semantic-Segmentation)**
-  * **[▶ ④ ⭐Domain Generalization Methods]](#-Domain-Generalization-Methods])**
+  * **[▶ ④ ⭐Domain Generalization Methods](#-Domain-Generalization-Methods)**
     * ▶ [4.1 Image Classification](#-4.1-Image-Classification)
     * ▶ [4.2 Object Detection](#-4.2-Object-Detection)
     * ▶ [4.3 Semantic Segmentation](#-4.3-Semantic-Segmentation)
