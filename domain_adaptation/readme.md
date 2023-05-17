@@ -183,10 +183,13 @@
 
 * **WSDA_semantic(MTA2023)** On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data [[paper link](https://link.springer.com/article/10.1007/s11042-023-14662-0)][[code|official](http://www-vpu.eps.uam.es/publications/WSDA_semantic/)]
 
-### ④ ⭐Domain Generalized Object Detection
+### ④ ⭐Domain Generalization
 
+#### ▶Image Classification
 
-### ⑤ ⭐Domain Generalized Semantic Segmentation
+#### ▶Object Detection
+
+#### ▶Semantic Segmentation
 
 * **IBN-Net(ECCV2018)** Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Xingang_Pan_Two_at_Once_ECCV_2018_paper.html)][[codes|official PyTorch](https://github.com/XingangPan/IBN-Net)]
 
@@ -206,9 +209,29 @@
 
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
 
+#### ▶Keypoints Detection
+
+
 
 ### ⑥ ⭐Source-Free Domain Adaptation Methods
 
+#### ▶Image Classification
+
+* **USFDA(CVPR2020)** Universal Source-Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Universal_Source-Free_Domain_Adaptation_CVPR_2020_paper.html)][[project link](https://sites.google.com/view/usfda-cvpr2020)]
+
+* **DIPE (Domain-Invariant Parameter Exploring)(CVPR2022)** Exploring Domain-Invariant Parameters for Source Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Exploring_Domain-Invariant_Parameters_for_Source_Free_Domain_Adaptation_CVPR_2022_paper.html)]
+
+#### ▶Object Detection
+
+#### ▶Semantic Segmentation
+
+* **SFDA(MICCAI2020)** Source-Relaxed Domain Adaptation for Image Segmentation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_48)][[code|official](https://github.com/mathilde-b/SFDA)]
+
+* 👍**SFDA(CVPR2021)** Source-Free Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.html)][`only a well-trained source model and an unlabeled target domain dataset are available for adaptation`]
+
+#### ▶Keypoints Detection
+
+* **(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project link](https://github.com/thuml/Transfer-Learning-Library)][`Single Hand Keypoint Detection Transfer Test`, `Single Human Keypoint Detection Transfer Test`]
 
 
 ### ⑦ ⭐Domain Adaptation for Other Fields
