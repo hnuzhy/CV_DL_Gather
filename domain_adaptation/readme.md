@@ -73,6 +73,7 @@
 * **DINE(CVPR2022)** DINE: Domain Adaptation From Single and Multiple Black-Box Predictors [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_DINE_Domain_Adaptation_From_Single_and_Multiple_Black-Box_Predictors_CVPR_2022_paper.html)][[codes|official](https://github.com/tim-learn/DINE/)]
 
 
+`*********************************`
 
 ### ② ⭐⭐Domain Adaptation for Object Detection
 
@@ -139,6 +140,7 @@
 
 * **2PCNet(CVPR2023)** 2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection [[arxiv link](https://arxiv.org/abs/2303.13853)][[code|official](https://github.com/mecarill/2pcnet)]
 
+`*********************************`
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
 
@@ -192,6 +194,8 @@
 
 * **WSDA_semantic(MTA2023)** On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data [[paper link](https://link.springer.com/article/10.1007/s11042-023-14662-0)][[code|official](http://www-vpu.eps.uam.es/publications/WSDA_semantic/)]
 
+`*********************************`
+
 ### ④ ⭐Domain Generalization Methods
 
 #### ▶4.1 Image Classification
@@ -221,6 +225,7 @@
 #### ▶4.4 Keypoints Detection
 
 
+`*********************************`
 
 ### ⑤ ⭐Source-Free Domain Adaptation Methods
 
@@ -242,6 +247,7 @@
 
 * **(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project link](https://github.com/thuml/Transfer-Learning-Library)][`Single Hand Keypoint Detection Transfer Test`, `Single Human Keypoint Detection Transfer Test`]
 
+`*********************************`
 
 ### ⑥ ⭐Domain Adaptation for Other Fields
 
