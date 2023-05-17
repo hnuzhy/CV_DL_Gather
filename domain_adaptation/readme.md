@@ -8,8 +8,10 @@
   * **[▶ ① ⭐⭐⭐Domain Adaptation for Image Classification](#-Domain-Adaptation-for-Image-Classification)**
   * **[▶ ② ⭐⭐Domain Adaptation for Object Detection](#-Domain-Adaptation-for-Object-Detection)**
   * **[▶ ③ ⭐⭐Domain Adaptation for Semantic Segmentation](#-Domain-Adaptation-for-Semantic-Segmentation)**
-  * **[▶ ④ ⭐Domain Generalized Semantic Segmentation](#-Domain-Generalized-Semantic-Segmentation)**
-  * **[▶ ⑤ ⭐Domain Adaptation for Other Fields](#-Domain-Adaptation-for-Other-Fields)**
+  * **[▶ ④ ⭐Domain Generalized Object Detection](#-Domain-Generalized-Object-Detection)**
+  * **[▶ ⑤ ⭐Domain Generalized Semantic Segmentation](#-Domain-Generalized-Semantic-Segmentation)**
+  * **[▶ ⑥ ⭐Source-Free Domain Adaptation Methods](#-Source-Free-Domain-Adaptation-Methods)**
+  * **[▶ ⑦ ⭐Domain Adaptation for Other Fields](#-Domain-Adaptation-for-Other-Fields)**
 
 
 ## 1) Defination
@@ -181,8 +183,10 @@
 
 * **WSDA_semantic(MTA2023)** On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data [[paper link](https://link.springer.com/article/10.1007/s11042-023-14662-0)][[code|official](http://www-vpu.eps.uam.es/publications/WSDA_semantic/)]
 
+### ⑤ ⭐Domain Generalized Object Detection
 
-### ④ ⭐Domain Generalized Semantic Segmentation
+
+### ⑤ ⭐Domain Generalized Semantic Segmentation
 
 * **IBN-Net(ECCV2018)** Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Xingang_Pan_Two_at_Once_ECCV_2018_paper.html)][[codes|official PyTorch](https://github.com/XingangPan/IBN-Net)]
 
@@ -201,6 +205,10 @@
 * **SAN-SAW(CVPR2022 Oral)** Semantic-Aware Domain Generalized Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Peng_Semantic-Aware_Domain_Generalized_Segmentation_CVPR_2022_paper.html)][[codes|official PyTorch](https://github.com/leolyj/SAN-SAW)][author `leolyj`]
 
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
+
+
+### ⑤ ⭐Source-Free Domain Adaptation Methods
+
 
 
 ### ⑤ ⭐Domain Adaptation for Other Fields
