@@ -396,7 +396,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
 
-#### Animal Pose Estimation
+#### ※ Animal Pose Estimation
 
 * **(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][`Animal Pose`]
 
@@ -406,21 +406,21 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)]
 
-#### Hand Pose Estimation
+#### ※ Hand Pose Estimation
 
 * **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
 
 * **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`]
 
-#### Head Pose Estimation
+#### ※ Head Pose Estimation
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)]
 
-#### Object Pose Estimation
+#### ※ Object Pose Estimation
 
 * **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
 
-#### Human Pose Estimation (2D and 3D, Single and Multiple)
+#### ※ Human Pose Estimation (2D and 3D, Single and Multiple)
 
 * **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
 
