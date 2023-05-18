@@ -12,12 +12,10 @@
     * ▶ [4.1 Image Classification](#41-Image-Classification)
     * ▶ [4.2 Object Detection](#42-Object-Detection)
     * ▶ [4.3 Semantic Segmentation](#43-Semantic-Segmentation)
-    * ▶ [4.4 Keypoints Detection](#44-Keypoints-Detection)
   * **[▶ ⑤ ⭐Source-Free Domain Adaptation Methods](#-Source-Free-Domain-Adaptation-Methods)**
     * ▶ [5.1 Image Classification](#51-Image-Classification)
     * ▶ [5.2 Object Detection](#52-Object-Detection)
     * ▶ [5.3 Semantic Segmentation](#53-Semantic-Segmentation)
-    * ▶ [5.4 Keypoints Detection](#54-Keypoints-Detection)
   * **[▶ ⑥ ⭐Domain Adaptation for Other Fields](#-Domain-Adaptation-for-Other-Fields)**
 
 
@@ -220,8 +218,6 @@
 
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
 
-#### ▶4.4 Keypoints Detection
-
 
 `*********************************`
 
@@ -274,10 +270,6 @@
 
 * 👍**SFDA-Seg(CVPR2021)** Source-Free Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.16372)][`only a well-trained source model and an unlabeled target domain dataset are available for adaptation`]
 
-
-#### ▶5.4 Keypoints Detection
-
-* **(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project link](https://github.com/thuml/Transfer-Learning-Library)][`Single Hand Keypoint Detection Transfer Test`, `Single Human Keypoint Detection Transfer Test`]
 
 `*********************************`
 
