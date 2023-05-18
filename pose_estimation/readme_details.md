@@ -396,13 +396,35 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
 
-* **(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][`Animal Pose`]
+#### Animal Pose Estimation
 
-* **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
+* **(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][`Animal Pose`]
 
 * **CC-SSL(CVPR2020)** Learning From Synthetic Animals [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mu_Learning_From_Synthetic_Animals_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.08265)][[code|official](https://github.com/JitengMu/Learning-from-Synthetic-Animals)][`Animal Pose`]
 
-* **(ICLR2021)** Semi-supervised keypoint localization [[paper link](https://arxiv.org/pdf/2101.07988.pdf)]
+* 👍**MDAM, UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`]
+
+* **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)]
+
+#### Hand Pose Estimation
+
+* **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
+
+* **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`]
+
+#### Head Pose Estimation
+
+* **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)]
+
+#### Object Pose Estimation
+
+* **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
+
+#### Human Pose Estimation (2D and 3D, Single and Multiple)
+
+* **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
+
+* **(ICLR2021)** Semi-supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2101.07988)][`single hand datasets`, `single person datasets`]
 
 * **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)]
 
@@ -410,25 +432,19 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * ❤**RegDA(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project library](https://github.com/thuml/Transfer-Learning-Library)][[code|official](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`]
 
-* 👍**MDAM, UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`]
-
-* **AdaptOR(arxiv2021)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR [[paper link](https://arxiv.org/abs/2108.11801)]
+* 👍**HPE-AdaptOR(arxiv2021)(Medical Image Analysis2022)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the operating room [[paper link](https://www.sciencedirect.com/science/article/pii/S1361841522001724)][[arxiv link](https://arxiv.org/abs/2108.11801)][[code|official](https://github.com/CAMMA-public/HPE-AdaptOR)]
 
 * **TransPar(TIP2022)** Learning Transferable Parameters for Unsupervised Domain Adaptation [[paper link](https://ieeexplore.ieee.org/abstract/document/9807644)][[arxiv link](https://arxiv.org/abs/2108.06129)][evaluation on tasks `image classification` and `regression tasks (keypoint detection)`]
-
-* **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`]
 
 * ❤**UniFrame, UDA_PoseEstimation(ECCV2022)** A Unified Framework for Domain Adaptive Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_35)][[arxiv link](https://arxiv.org/abs/2204.00172)][[code|official](https://github.com/VisionLearningGroup/UDA_PoseEstimation)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`, based on `RegDA`]
 
 * 👍**iart-semi-pose(ACMMM2022)** Semi-supervised Human Pose Estimation in Art-historical Images [[arxiv link](https://arxiv.org/abs/2207.02976)][[code|official](https://github.com/TIBHannover/iart-semi-pose)][`Germany`]
 
-* **PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[paper link](https://arxiv.org/pdf/2201.08613.pdf)]
+* **PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2201.08613)]
 
 * **ADHNN(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://www.aaai.org/AAAI22Papers/AAAI-1201.XuX.pdf)][[Codes|PyTorch](https://github.com/Sophie-Xu/Pose-ADHNN)]
 
 * **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[arxiv link](https://arxiv.org/abs/2108.01819)][[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
-
-* **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)]
 
 * **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)]
 
