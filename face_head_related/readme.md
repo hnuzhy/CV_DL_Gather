@@ -435,6 +435,8 @@ including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Ob
 
 * **DID-Net(ACCV2018)** Detector-in-Detector: Multi-level Analysis for Human-Parts [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_15)][[code | official](https://github.com/xiaojie1017/Human-Parts)][`HumanParts` dataset]
 
+* **PROX(ICCV2019)** Resolving 3D Human Pose Ambiguities with 3D Scene Constraints [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Hassan_Resolving_3D_Human_Pose_Ambiguities_With_3D_Scene_Constraints_ICCV_2019_paper.html)][[project link](https://prox.is.tue.mpg.de./)][`MPII`, `The contact constraint encourages specific parts of the body to be in contact with scene surfaces if they are close enough in distance and orientation.`]
+
 * ⭐**Hier-R-CNN(TIP2020)** Hier R-CNN: Instance-Level Human Parts Detection and A New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/9229236)][[code|official](https://github.com/soeaver/Hier-R-CNN)][`Mask R-CNN` as Backbone][`FCOS` as Hier Branch which needs many hand-crafted tricks][`COCOHumanParts` dataset]
 
 * **PaStaNet(CVPR2020)** PaStaNet: Toward Human Activity Knowledge Engine [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.html)][[project link](http://hake-mvig.cn/)][`SJTU`, `body-part state annotations in the context of HOI`][`HAKE 1.0` (Human Activity Knowledge Engine) dataset]
