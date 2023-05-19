@@ -196,7 +196,11 @@
 
 #### ▶4.1 Image Classification
 
+* **PCL(CVPR2022)** PCL: Proxy-Based Contrastive Learning for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yao_PCL_Proxy-Based_Contrastive_Learning_for_Domain_Generalization_CVPR_2022_paper.html)][`CUHK`]
+
 #### ▶4.2 Object Detection
+
+* **H2FA_R-CNN(CVPR2022)** H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.html)][[code|official](https://github.com/XuYunqiu/H2FA_R-CNN)][`Baidu Research`, `Cross-domain weakly supervised object detection (CDWSOD)`]
 
 #### ▶4.3 Semantic Segmentation
 
