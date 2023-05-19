@@ -439,6 +439,8 @@ including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Ob
 
 * ⭐**Hier-R-CNN(TIP2020)** Hier R-CNN: Instance-Level Human Parts Detection and A New Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/9229236)][[code|official](https://github.com/soeaver/Hier-R-CNN)][`Mask R-CNN` as Backbone][`FCOS` as Hier Branch which needs many hand-crafted tricks][`COCOHumanParts` dataset]
 
+* **ContactDynamics(ECCV2020)** Contact and Human Dynamics from Monocular Video [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_5)][[project link](https://geometry.stanford.edu/projects/human-dynamics-eccv-2020/)][[code|official](https://github.com/davrempe/contact-human-dynamics)][`Stanford University`, `Adobe Research`]
+
 * **PaStaNet(CVPR2020)** PaStaNet: Toward Human Activity Knowledge Engine [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.html)][[project link](http://hake-mvig.cn/)][`SJTU`, `body-part state annotations in the context of HOI`][`HAKE 1.0` (Human Activity Knowledge Engine) dataset]
 
 * **CHORE(ECCV2022)** CHORE: Contact, Human and Object Reconstruction from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_8)][[project link](https://virtualhumans.mpi-inf.mpg.de/chore/)][`MPII`, `single-person`, reason the interactions and recover the spatial arrangement, fine-grained contacts between the human and the object]
