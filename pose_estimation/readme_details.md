@@ -422,6 +422,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Human Pose Estimation (2D and 3D, Single and Multiple)
 
+* **pose-hg-3d(ICCV2017)** Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhou_Towards_3D_Human_ICCV_2017_paper.html)][[code|official](https://github.com/xingyizhou/pose-hg-3d)]
+
 * **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
 
 * **(ICLR2021)** Semi-supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2101.07988)][`single hand datasets`, `single person datasets`]
