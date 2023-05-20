@@ -561,6 +561,8 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * ⭐**2DHeadPose(NN2023)** 2DHeadPose: A simple and effective annotation method for the head pose in RGB images and its dataset [[paper link](https://www.sciencedirect.com/science/article/pii/S0893608022005214)][[codes|official](https://github.com/youngnuaa/2DHeadPose)][`annotation tool, dataset, and source code`]
 
+* **6dof_face(TIP2023)** Towards 3D Face Reconstruction in Perspective Projection: Estimating 6DoF Face Pose from Monocular Image [[paper link](https://ieeexplore.ieee.org/abstract/document/10127617)][[code|official](https://github.com/cbsropenproject/6dof_face)]
+
 
 #### Papers(Conference)
 
