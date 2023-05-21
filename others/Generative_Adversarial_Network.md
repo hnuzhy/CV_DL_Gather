@@ -6,7 +6,8 @@ also named ***Deep Generative Framework***
 * **[1) Materials](#1-Materials)**
 * **[2) Other Closely Related Paper](#2-Other-Closely-Related-Paper)**
 * **[3) Surveys](#3-Surveys)**
-* **[4) Papers](#4-Papers)**
+* **[4) Superstars](#4-Superstars)**
+* **[5) Papers](#5-Papers)**
   * **[▲ GAN-based](#-GAN-based)**
   * **[▲ Diffusion-based](#-Diffusion-based)**
     * **[▶ Basic Theories](#-Basic-Theories)**
@@ -44,7 +45,13 @@ also named ***Deep Generative Framework***
 * **(arxiv2022)** Synthetic Data in Human Analysis: A Survey [[paper link](https://arxiv.org/abs/2208.09191)][`Synthetic Data usually needs GAN`]
 * **(arxiv2022)** NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [[paper link](https://arxiv.org/abs/2210.00379)][`Neural Radiance Field`]
 
-## 4) Papers
+## 4) Superstars
+
+* **DragGAN(SIGGRAPH2023)** Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold [[pdf link](https://vcai.mpi-inf.mpg.de/projects/DragGAN/data/paper.pdf)][[project link](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)][[code|official](https://github.com/XingangPan/DragGAN)][`MPII`, `MIT`, `Google`]
+
+
+
+## 5) Papers
 
 ### ▲ GAN-based
 [Generative Adversarial Network (GAN): collections in paperswithcode wedsite](https://paperswithcode.com/method/gan)
