@@ -459,5 +459,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * 👍**SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)]
 
+* **SCAI(self-correctable and adaptable inference)(CVPR2023)** Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11180)][`Domain Generalization`]
+
 * **Full-DG(full-view data generation)(TNNLS2023)** Overcoming Data Deficiency for Multi-Person Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10122653)][Full-DG can help improve pose estimators’ `robustness` and `generalizability`]
 
