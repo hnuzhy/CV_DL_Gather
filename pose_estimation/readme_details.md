@@ -260,6 +260,7 @@
 
 * **DEKRv2(ICIP2022)** DEKRv2: More Fast or Accurate than DEKR [[paper link](https://ieeexplore.ieee.org/abstract/document/9897550)][[codes|official PyTorch](https://github.com/chaowentao/DEKRv2)]
 
+* **HrHRNet-CF(CVPR2023)** A Characteristic Function-Based Method for Bottom-Up Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_A_Characteristic_Function-Based_Method_for_Bottom-Up_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
 
 ### ▶ Single-Stage Multiple Person Pose Estimation
 
