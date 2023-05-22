@@ -16,6 +16,9 @@ also named ***Deep Generative Framework***
     * **[▶ Text-to-3D Diffusion](#-Text-to-3D-Diffusion)** 
   * **[▲ NeRF-based](#-NeRF-based)**
   * **[▲ Others-based](#-Others-based)**
+* **[6) Applications](#6-Applications)**
+ * **[▲ Head Synthesis](#-Head-Synthesis)**
+ * **[▲ Body Synthesis](#-Body-Synthesis)**
 
 ## 1) Materials
 
@@ -244,5 +247,15 @@ also named ***Deep Generative Framework***
 * **Taming Transformer (a.k.a VQ-GAN)(CVPR2021 oral)** Taming Transformers for High-Resolution Image Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.html?ref=https://githubhelp.com)][[project link](https://compvis.github.io/taming-transformers/)][`image-to-image translation`, `Vision Transformers (ViTs) based`, `with the capability to both generate images and perform image-to-image translations`]
 
 
+## 6) Applications
 
+### ▲ Head Synthesis
+
+* 👍**PanoHead(CVPR2023)** PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360° [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/An_PanoHead_Geometry-Aware_3D_Full-Head_Synthesis_in_360deg_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.13071)][[project link](https://sizhean.github.io/panohead)][[code|official](https://github.com/sizhean/panohead)]
+
+* **OmniAvatar(CVPR2023)** OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_OmniAvatar_Geometry-Guided_Controllable_3D_Head_Synthesis_CVPR_2023_paper.pdf)][[arxiv link](abs/2303.15539)]
+
+* **ReDirTrans-GAN(CVPR2023)** ReDirTrans: Latent-to-Latent Translation for Gaze and Head Redirection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_ReDirTrans_Latent-to-Latent_Translation_for_Gaze_and_Head_Redirection_CVPR_2023_paper.pdf)][[]()]
+
+### ▲ Body Synthesis
 
