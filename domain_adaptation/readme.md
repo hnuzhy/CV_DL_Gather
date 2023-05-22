@@ -190,6 +190,11 @@
 
 * **WSDA_semantic(MTA2023)** On exploring weakly supervised domain adaptation strategies for semantic segmentation using synthetic data [[paper link](https://link.springer.com/article/10.1007/s11042-023-14662-0)][[code|official](http://www-vpu.eps.uam.es/publications/WSDA_semantic/)]
 
+* **DPPASS(CVPR2023)** Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.14360)][[project link](https://vlis2022.github.io/cvpr23/DPPASS)]
+
+* **DIGA(CVPR2023)** Dynamically Instance-Guided Adaptation: A Backward-Free Approach for Test-Time Domain Adaptive Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Dynamically_Instance-Guided_Adaptation_A_Backward-Free_Approach_for_Test-Time_Domain_Adaptive_CVPR_2023_paper.pdf)][[code|official](https://github.com/Waybaba/DIGA)]
+
+
 `*********************************`
 
 ### ④ ⭐Domain Generalization Methods
@@ -200,12 +205,42 @@
 
 * **ITTA(CVPR2023)** Improved Test-Time Adaptation for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Improved_Test-Time_Adaptation_for_Domain_Generalization_CVPR_2023_paper.pdf)][[code|official](https://github.com/liangchen527/ITTA)]
 
-* **** 
-* **** 
+* **DFF(Deep Frequency Filtering)(CVPR2023)** Deep Frequency Filtering for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Deep_Frequency_Filtering_for_Domain_Generalization_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2203.12198)]
+
+* **DART(Diversify-Aggregate-Repeat Training)(CVPR2023)** DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jain_DART_Diversify-Aggregate-Repeat_Training_Improves_Generalization_of_Neural_Networks_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2302.14685)][[code|official](https://github.com/val-iisc/DART)]
+
+* **DCG(CVPR2023)** Improving Generalization With Domain Convex Game [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Lv_Improving_Generalization_With_Domain_Convex_Game_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.13297)][[code|official](https://github.com/BIT-DA/DCG)]
+
+* **NICO++(CVPR2023)** NICO++: Towards Better Benchmarking for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_NICO_Towards_Better_Benchmarking_for_Domain_Generalization_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2204.08040)][[code|official](https://github.com/xxgege/NICO-plus)]
+
+* **SAGM(CVPR2023)** Sharpness-Aware Gradient Matching for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Sharpness-Aware_Gradient_Matching_for_Domain_Generalization_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.10353)][[code|official](https://github.com/Wang-pengfei/SAGM)]
+
+* **DAC-P & DAC-SC(CVPR2023)** Decompose, Adjust, Compose: Effective Normalization by Playing With Frequency for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Decompose_Adjust_Compose_Effective_Normalization_by_Playing_With_Frequency_for_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.02328)]
+
+* **Pro-RandConv(CVPR2023)** Progressive Random Convolutions for Single Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Progressive_Random_Convolutions_for_Single_Domain_Generalization_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2304.00424)]
+
+* 👍**OKDPH(CVPR2023)** Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Generalization_Matters_Loss_Minima_Flattening_via_Parameter_Hybridization_for_Efficient_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.14666)][[code|official](https://github.com/tianlizhang/OKDPH)][`online knowledge distillation (OKD)`]
+
+* **FedDG-GA(CVPR2023)** Federated Domain Generalization With Generalization Adjustment [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf)][[code|official](https://github.com/MediaBrain-SJTU/FedDG-GA)]
+
+* **MCL(CVPR2023)** Meta-Causal Learning for Single Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Meta-Causal_Learning_for_Single_Domain_Generalization_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2304.03709)]
+
+* **MAD(Modality-Agnostic Debiasing)(CVPR2023)** Modality-Agnostic Debiasing for Single Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Modality-Agnostic_Debiasing_for_Single_Domain_Generalization_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.07123)]
+
+* **ALOFT(CVPR2023)** ALOFT: A Lightweight MLP-Like Architecture With Dynamic Low-Frequency Transform for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_ALOFT_A_Lightweight_MLP-Like_Architecture_With_Dynamic_Low-Frequency_Transform_for_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11674)][[code|official](https://github.com/lingeringlight/ALOFT/)]
+
+* **DN2A(CVPR2023)** Promoting Semantic Connectivity: Dual Nearest Neighbors Contrastive Learning for Unsupervised Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Promoting_Semantic_Connectivity_Dual_Nearest_Neighbors_Contrastive_Learning_for_Unsupervised_CVPR_2023_paper.pdf)]
+
 
 #### ▶4.2 Object Detection
 
+* **Single-DGOD(CVPR2022)**  Single-Domain Generalized Object Detection in Urban Scene via Cyclic-Disentangled Self-Distillation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Single-Domain_Generalized_Object_Detection_in_Urban_Scene_via_Cyclic-Disentangled_Self-Distillation_CVPR_2022_paper.html)][[code|official](https://github.com/AmingWu/Single-DGOD)][`the first SDG object detection method`]
+
 * **H2FA_R-CNN(CVPR2022)** H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.html)][[code|official](https://github.com/XuYunqiu/H2FA_R-CNN)][`Baidu Research`, `Cross-domain weakly supervised object detection (CDWSOD)`]
+
+* **DomainGen(CVPR2023)** CLIP the Gap: A Single Domain Generalization Approach for Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Vidit_CLIP_the_Gap_A_Single_Domain_Generalization_Approach_for_Object_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2301.05499)][[code|official](https://github.com/vidit09/domaingen)][`By this paper, the literature on SDG object detection remains almost non-existent`]
+
+* **DG-BEV(CVPR2023)** Towards Domain Generalization for Multi-View 3D Object Detection in Bird-Eye-View [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Towards_Domain_Generalization_for_Multi-View_3D_Object_Detection_in_Bird-Eye-View_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.01686)][`this is the first systematic study to explore a domain generalization method for MV3D-Det`]
 
 #### ▶4.3 Semantic Segmentation
 
@@ -227,6 +262,7 @@
 
 * **SHADE(ECCV2022)** Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation [[paper link](https://arxiv.org/pdf/2204.02548.pdf)][[codes|official PyTorch](https://github.com/HeliosZhao/SHADE)][`Style Consistency` and `Retrospection Consistency`]
 
+* **DGLSS(CVPR2023)** Single Domain Generalization for LiDAR Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Single_Domain_Generalization_for_LiDAR_Semantic_Segmentation_CVPR_2023_paper.pdf)][[code|official](https://github.com/gzgzys9887/DGLSS)]
 
 `*********************************`
 
@@ -270,8 +306,11 @@
 
 * **MHPL(CVPR2023)** MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MHPL_Minimum_Happy_Points_Learning_for_Active_Source_Free_Domain_CVPR_2023_paper.pdf)]
 
-* **** 
-* **** 
+* **GPL(CVPR2023)** Guiding Pseudo-Labels With Uncertainty Estimation for Source-Free Unsupervised Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Litrico_Guiding_Pseudo-Labels_With_Uncertainty_Estimation_for_Source-Free_Unsupervised_Domain_Adaptation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.03770)][[code|official](https://github.com/MattiaLitrico/Guiding-Pseudo-labels-with-Uncertainty-Estimation-for-Source-free-Unsupervised-Domain-Adaptation)]
+
+* **CRCo(CVPR2023)** Class Relationship Embedded Learning for Source-Free Unsupervised Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Class_Relationship_Embedded_Learning_for_Source-Free_Unsupervised_Domain_Adaptation_CVPR_2023_paper.pdf)][[code|official](https://github.com/zhyx12/CRCo)]
+
+
 
 #### ▶5.2 Object Detection
 
@@ -283,6 +322,7 @@
 
 * 👍**SFDA-Seg(CVPR2021)** Source-Free Domain Adaptation for Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.16372)][`only a well-trained source model and an unlabeled target domain dataset are available for adaptation`]
 
+* 👍**STPL(CVPR2023)** Spatio-Temporal Pixel-Level Contrastive Learning-Based Source-Free Domain Adaptation for Video Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Lo_Spatio-Temporal_Pixel-Level_Contrastive_Learning-Based_Source-Free_Domain_Adaptation_for_Video_Semantic_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.14361)][[code|official](https://github.com/shaoyuanlo/STPL)]
 
 `*********************************`
 
