@@ -17,8 +17,8 @@ also named ***Deep Generative Framework***
   * **[▲ NeRF-based](#-NeRF-based)**
   * **[▲ Others-based](#-Others-based)**
 * **[6) Applications](#6-Applications)**
- * **[▲ Head Synthesis](#-Head-Synthesis)**
- * **[▲ Body Synthesis](#-Body-Synthesis)**
+  * **[▲ Head Synthesis](#-Head-Synthesis)**
+  * **[▲ Body Synthesis](#-Body-Synthesis)**
 
 ## 1) Materials
 
