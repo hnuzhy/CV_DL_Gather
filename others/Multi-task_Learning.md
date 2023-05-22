@@ -30,4 +30,7 @@
 
 * **Uni-Perceiver-MoE(NIPS2022)** Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs [[paper link](https://arxiv.org/abs/2206.04674)][[openreview link](https://openreview.net/forum?id=agJEk7FhvKL)][[code|official](https://github.com/fundamentalvision/Uni-Perceiver)][`It proposes Conditional MoEs to address the task-interference issue in generalist models for the multi-task optimization`, `It is based on the generalist model Uni-Perceiver`]
 
+* **UniHCP(CVPR2023)** UniHCP: A Unified Model for Human-Centric Perceptions [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Ci_UniHCP_A_Unified_Model_for_Human-Centric_Perceptions_CVPR_2023_paper.pdf)][[code|official](https://github.com/OpenGVLab/UniHCP)][`ReID + Keypoints + Parsing + Detection + Attribute`]
+
+
 
