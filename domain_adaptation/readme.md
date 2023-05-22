@@ -198,6 +198,11 @@
 
 * **PCL(CVPR2022)** PCL: Proxy-Based Contrastive Learning for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yao_PCL_Proxy-Based_Contrastive_Learning_for_Domain_Generalization_CVPR_2022_paper.html)][`CUHK`]
 
+* **ITTA(CVPR2023)** Improved Test-Time Adaptation for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Improved_Test-Time_Adaptation_for_Domain_Generalization_CVPR_2023_paper.pdf)][[code|official](https://github.com/liangchen527/ITTA)]
+
+* **** 
+* **** 
+
 #### ▶4.2 Object Detection
 
 * **H2FA_R-CNN(CVPR2022)** H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.html)][[code|official](https://github.com/XuYunqiu/H2FA_R-CNN)][`Baidu Research`, `Cross-domain weakly supervised object detection (CDWSOD)`]
@@ -263,6 +268,10 @@
 
 * **C-SFDA(CVPR2023)** C-SFDA: A Curriculum Learning Aided Self-Training Framework for Efficient Source Free Domain Adaptation [[arxiv link](https://arxiv.org/abs/2303.17132)][[project link](https://sites.google.com/view/csfdacvpr2023/home)]
 
+* **MHPL(CVPR2023)** MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MHPL_Minimum_Happy_Points_Learning_for_Active_Source_Free_Domain_CVPR_2023_paper.pdf)]
+
+* **** 
+* **** 
 
 #### ▶5.2 Object Detection
 
@@ -283,3 +292,4 @@
 
 * **CMOM(WACV2023)** Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing [[paper link](https://arxiv.org/abs/2211.02307)][`Domain Adaptation for Video Semantic Segmentation`]
 
+* **TTA-COPE(CVPR2023)** TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_TTA-COPE_Test-Time_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)][[]()]
