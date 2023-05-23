@@ -395,7 +395,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 
 ### ▶ Domain Adaptive Multiple Person Pose Estimation
-**Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised**
+**Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised / Generalizable**
 
 #### ※ Animal Pose Estimation
 
@@ -426,19 +426,25 @@ images`]
 
 * **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
 
+#### ※ Pose in Real Classroom
+
+* 👍**SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
+
+* 👍**CC-PoseNet(ICASSP2023)** CC-PoseNet: Towards Human Pose Estimation in Crowded Classrooms [[paper link](https://ieeexplore.ieee.org/abstract/document/10095734)]
+
 #### ※ Human Pose Estimation (2D and 3D, Single and Multiple)
 
 * **pose-hg-3d(ICCV2017)** Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhou_Towards_3D_Human_ICCV_2017_paper.html)][[code|official](https://github.com/xingyizhou/pose-hg-3d)][`3D keypoints detection`, `weakly-supervised domain adaptation with a 3D geometric constraint-induced loss`]
 
 * **3DKeypoints-DA(ECCV2018)** Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1712.05765v2)][[code|official](https://github.com/xingyizhou/3DKeypoints-DA)][`It utilizes view-consistency to regularize predictions from unlabeled target domain in 3D keypoints detection, but depth scans and images from different views are required on the target domain`]
 
-* **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
+* **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)][`3D keypoints detection`]
 
-* 👍**Pose_DomainAdaption(ACMMM2020)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose_DomainAdaption)][[(TMM2022 extended journal version) Structure-enriched Topology Learning for Cross-domain Multi-person Pose estimation](https://ieeexplore.ieee.org/abstract/document/9894704)]
+* **Pose_DomainAdaption(code not available)(ACMMM2020)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose_DomainAdaption)][[(TMM2022 extended journal version) Structure-enriched Topology Learning for Cross-domain Multi-person Pose estimation](https://ieeexplore.ieee.org/abstract/document/9894704)]
 
-* **(ICLR2021)** Semi-supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2101.07988)][`single hand datasets`, `single person datasets`]
+* ⭐**SSKL(ICLR2021)** Semi-supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2101.07988)][`single hand datasets`, `single person datasets`, `Semi-Supervised Keypoint Localization`]
 
-* **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)]
+* ⭐**Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)][`Semi-Supervised 2D Human Pose Estimation`]
 
 * 👍❤**RegDA(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project library](https://github.com/thuml/Transfer-Learning-Library)][[code|official](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`][based on the DA classification method [disparity discrepancy (DD)](https://proceedings.mlr.press/v97/zhang19i.html) (ICML2019, authors including Mingsheng Long and Michael Jordan)][`It utilizes one shared feature extractor and two separate regressors`; `It made changes in DD for human and hand pose estimation tasks, which measures discrepancy by estimating false predictions on the target domain`]
 
@@ -448,23 +454,19 @@ images`]
 
 * 👍❤**UniFrame, UDA_PoseEstimation(ECCV2022)** A Unified Framework for Domain Adaptive Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_35)][[arxiv link](https://arxiv.org/abs/2204.00172)][[code|official](https://github.com/VisionLearningGroup/UDA_PoseEstimation)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`, `animal datasets (SynAnimal→TigDog, SynAnimal→AnimalPose)`, based on `RegDA`][[AdaIN (ICCV2017)](https://github.com/xunhuang1995/AdaIN-style) `for image style transfer` + `Mean Teacher for student model updating`; `It modifies the classic Mean-Teacher model by combining it with style transfer AdaIN`]
 
-* 👍**iart-semi-pose(ACMMM2022)** Semi-supervised Human Pose Estimation in Art-historical Images [[arxiv link](https://arxiv.org/abs/2207.02976)][[code|official](https://github.com/TIBHannover/iart-semi-pose)][`Germany`]
+* ⭐**iart-semi-pose(ACMMM2022)** Semi-supervised Human Pose Estimation in Art-historical Images [[arxiv link](https://arxiv.org/abs/2207.02976)][[code|official](https://github.com/TIBHannover/iart-semi-pose)][`Germany`, `Semi-Supervised 2D Human Pose Estimation`]
 
-* **PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2201.08613)]
+* ⭐**PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2201.08613)][`Semi-Supervised Keypoint Localization`]
 
-* **ADHNN(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20201)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose-ADHNN)]
+* **ADHNN(code not available)(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20201)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose-ADHNN)]
 
-* **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[arxiv link](https://arxiv.org/abs/2108.01819)][[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
+* **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2108.01819)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
 
-* **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)]
+* **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)][`3D keypoints detection`]
 
-* 👍**SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
+* ⭐**SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)][`Semi-Supervised 2D Human Pose Estimation`]
 
-* 👍**CC-PoseNet(ICASSP2023)** CC-PoseNet: Towards Human Pose Estimation in Crowded Classrooms [[paper link](https://ieeexplore.ieee.org/abstract/document/10095734)]
-
-* 👍**SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)]
-
-* **SCAI(self-correctable and adaptable inference)(CVPR2023)** Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11180)][`Domain Generalization`]
+* **SCAI(self-correctable and adaptable inference)(CVPR2023)** Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11180)][`Domain Generalization`][`It works as a play-in-plug for top-down human pose estimation methods like SimpleBaseline and HRNet`]
 
 * **Full-DG(full-view data generation)(TNNLS2023)** Overcoming Data Deficiency for Multi-Person Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10122653)][Full-DG can help improve pose estimators’ `robustness` and `generalizability`]
 
