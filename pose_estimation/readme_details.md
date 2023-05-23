@@ -399,10 +399,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Animal Pose Estimation
 
-* **WS-CDA(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][`Animal Pose`, ``]
+* **WS-CDA(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][`Animal Pose`, `Leverages human pose data and a partially annotated animal pose dataset to perform semi-supervised domain adaptation`]
 
-* **CC-SSL(CVPR2020)** Learning From Synthetic Animals [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mu_Learning_From_Synthetic_Animals_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.08265)][[code|official](https://github.com/JitengMu/Learning-from-Synthetic-Animals)][`Animal Pose`, `Leverages human pose data and a partially annotated animal
-pose dataset to perform semi-supervised domain adaptation`]
+* **CC-SSL(CVPR2020)** Learning From Synthetic Animals [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mu_Learning_From_Synthetic_Animals_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.08265)][[code|official](https://github.com/JitengMu/Learning-from-Synthetic-Animals)][`Animal Pose`]
 
 * 👍**MDAM, UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`]
 
