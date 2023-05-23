@@ -362,7 +362,14 @@ including `Crowd Person Detection`, `Pedestrian Detection`
 
 * **Pedestron(CVPR2021)** Generalizable Pedestrian Detection: The Elephant In The Room [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.html)][[code|official](https://github.com/hasanirtiza/Pedestron)][`Pedestrian Detection`]
 
+* **OTP-NMS(TIP2023)** OTP-NMS: Towards Optimal Threshold Prediction of NMS for Crowded Pedestrian Detection [[paper link](https://ieeexplore.ieee.org/abstract/document/10130101)][`CrowdHuman and CityPersons datasets`, `HNU`]
+
 * **VLPD(CVPR2023)** VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision [[arxiv link](https://arxiv.org/abs/2304.03135)][[code|official](https://github.com/lmy98129/VLPD)][`Vision-Language semantic self-supervision for context-aware Pedestrian Detection`]
+
+* **LSFM (Localized Semantic Feature Mixers)(CVPR2023)** Localized Semantic Feature Mixers for Efficient Pedestrian Detection in Autonomous Driving [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Khan_Localized_Semantic_Feature_Mixers_for_Efficient_Pedestrian_Detection_in_Autonomous_CVPR_2023_paper.html)][`Caltech, CityPersons, Euro City Persons, and TJU-Traffic-Pedestrian datasets`][`LSFM beats the human baseline for the first time in the history of pedestrian detection`]
+
+* **SSCP (Sample Selection for Crowded Pedestrians)(arxiv2023.05)** Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection [[arxiv link](https://arxiv.org/abs/2305.10801)][`Crowdhuman and Citypersons datasets`]
+
 
 
 #### ▶Hand Part
