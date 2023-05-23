@@ -436,11 +436,11 @@ images`]
 
 * **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
 
+* 👍**Pose_DomainAdaption(ACMMM2020)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose_DomainAdaption)]
+
 * **(ICLR2021)** Semi-supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2101.07988)][`single hand datasets`, `single person datasets`]
 
-* **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)]
-
-* 👍**Pose_DomainAdaption(ACMMM2021)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose_DomainAdaption)]
+* **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)][[(TMM2022 extended journal version) Structure-enriched Topology Learning for Cross-domain Multi-person Pose estimation](https://ieeexplore.ieee.org/abstract/document/9894704)]
 
 * 👍❤**RegDA(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project library](https://github.com/thuml/Transfer-Learning-Library)][[code|official](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`]
 
