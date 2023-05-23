@@ -411,6 +411,11 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Hand Pose Estimation
 
+* **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`a weakly-supervised method with the aid of depth
+images`]
+
+
+
 * **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
 
 * **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`]
@@ -425,7 +430,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Human Pose Estimation (2D and 3D, Single and Multiple)
 
-* **pose-hg-3d(ICCV2017)** Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhou_Towards_3D_Human_ICCV_2017_paper.html)][[code|official](https://github.com/xingyizhou/pose-hg-3d)]
+* **pose-hg-3d(ICCV2017)** Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhou_Towards_3D_Human_ICCV_2017_paper.html)][[code|official](https://github.com/xingyizhou/pose-hg-3d)][`3D keypoints detection`, `weakly-supervised domain adaptation with a 3D geometric constraint-induced loss`]
+
+* **3DKeypoints-DA(ECCV2018)** Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1712.05765v2)][[code|official](https://github.com/xingyizhou/3DKeypoints-DA)][`It utilizes view-consistency to regularize predictions from unlabeled target domain in 3D keypoints detection, but depth scans and images from different views are required on the target domain`]
 
 * **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)]
 
