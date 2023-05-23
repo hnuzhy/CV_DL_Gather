@@ -401,9 +401,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **WS-CDA(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][`Animal Pose`, `Leverages human pose data and a partially annotated animal pose dataset to perform semi-supervised domain adaptation`]
 
-* **CC-SSL(CVPR2020)** Learning From Synthetic Animals [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mu_Learning_From_Synthetic_Animals_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.08265)][[code|official](https://github.com/JitengMu/Learning-from-Synthetic-Animals)][`Animal Pose`]
+* 👍**CC-SSL(CVPR2020)** Learning From Synthetic Animals [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mu_Learning_From_Synthetic_Animals_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.08265)][[code|official](https://github.com/JitengMu/Learning-from-Synthetic-Animals)][`Animal Pose`][`It proposed invariance and equivariance consistency learning with respect to transformations as well as temporal consistency learning with a video`]
 
-* 👍**MDAM, UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`]
+* 👍**MDAM, UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`][`It proposed a refinement module and a self-feedback loop to obtain reliable pseudo labels.`]
 
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)]
 
@@ -413,8 +413,6 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`a weakly-supervised method with the aid of depth
 images`]
-
-
 
 * **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
 
@@ -442,7 +440,7 @@ images`]
 
 * **Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)]
 
-* 👍❤**RegDA(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project library](https://github.com/thuml/Transfer-Learning-Library)][[code|official](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`]
+* 👍❤**RegDA(CVPR2021)** Regressive Domain Adaptation for Unsupervised Keypoint Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.html)][[project library](https://github.com/thuml/Transfer-Learning-Library)][[code|official](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/keypoint_detection)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`][based on the DA classification method [disparity discrepancy (DD)](https://proceedings.mlr.press/v97/zhang19i.html) (ICML2019, authors including Mingsheng Long and Michael Jordan)][`It utilizes one shared feature extractor and two separate regressors`, `It made changes in DD for human and hand pose estimation tasks, which measures discrepancy by estimating false predictions on the target domain`]
 
 * 👍**HPE-AdaptOR(arxiv2021)(Medical Image Analysis2022)** Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the operating room [[paper link](https://www.sciencedirect.com/science/article/pii/S1361841522001724)][[arxiv link](https://arxiv.org/abs/2108.11801)][[code|official](https://github.com/CAMMA-public/HPE-AdaptOR)]
 
