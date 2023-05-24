@@ -416,7 +416,7 @@ images`]
 
 * **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
 
-* 👍**MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA, `It applies a teacher-student approach to edit RegDA`]
+* 👍**MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`, `It applies a teacher-student approach to edit RegDA`]
 
 #### ※ Head Pose Estimation
 
