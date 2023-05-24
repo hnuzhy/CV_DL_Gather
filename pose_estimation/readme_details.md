@@ -399,7 +399,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Animal Pose Estimation
 
-* **WS-CDA(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[arxiv link](https://arxiv.org/abs/1908.05806)][[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][`Animal Pose`, `Leverages human pose data and a partially annotated animal pose dataset to perform semi-supervised domain adaptation`]
+* **WS-CDA(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1908.05806)][[project link](https://sites.google.com/view/animal-pose/)][[code|official](https://github.com/noahcao/animal-pose-dataset)][`Animal Pose Dataset`, `Leverages human pose data and a partially annotated animal pose dataset to perform semi-supervised domain adaptation`]
 
 * 👍**CC-SSL(CVPR2020)** Learning From Synthetic Animals [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mu_Learning_From_Synthetic_Animals_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.08265)][[code|official](https://github.com/JitengMu/Learning-from-Synthetic-Animals)][`Animal Pose`][`It proposed invariance and equivariance consistency learning with respect to transformations as well as temporal consistency learning with a video`; `It employs a single end-to-end trained network`]
 
