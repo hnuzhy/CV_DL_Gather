@@ -138,6 +138,16 @@
 
 * **2PCNet(CVPR2023)** 2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection [[arxiv link](https://arxiv.org/abs/2303.13853)][[code|official](https://github.com/mecarill/2pcnet)]
 
+* **Semi-DETR(CVPR2023)** Semi-DETR: Semi-Supervised Object Detection With Detection Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Semi-DETR_Semi-Supervised_Object_Detection_With_Detection_Transformers_CVPR_2023_paper.html)][[code is not available]()]
+
+* **Harmonious-Teacher(CVPR2023)** Harmonious Teacher for Cross-Domain Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Deng_Harmonious_Teacher_for_Cross-Domain_Object_Detection_CVPR_2023_paper.html)][[code|official](https://github.com/kinredon/Harmonious-Teacher)]
+
+* **Scenes100(CVPR2023)** Object Detection With Self-Supervised Scene Adaptation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Object_Detection_With_Self-Supervised_Scene_Adaptation_CVPR_2023_paper.html)][[code|official](https://github.com/cvlab-stonybrook/scenes100)]
+
+* **CIGAR(CVPR2023)** CIGAR: Cross-Modality Graph Reasoning for Domain Adaptive Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimal_Proposal_Learning_for_Deployable_End-to-End_Pedestrian_Detection_CVPR_2023_paper.html)][[code is not available]()]
+
+
+
 `*********************************`
 
 ### ③ ⭐⭐Domain Adaptation for Semantic Segmentation
