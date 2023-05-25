@@ -354,7 +354,7 @@
 
 
 #### ▶Body/Person
-including `Crowd Person Detection`, `Pedestrian Detection`
+including `Crowd Person Detection`, `Pedestrian Detection`， `Crowded Pedestrian Detection`
 
 * **ReInspect, Lhungarian(CVPR2016)** End-To-End People Detection in Crowded Scenes [[arxiv link](https://arxiv.org/abs/1506.04878)]
 
@@ -370,6 +370,7 @@ including `Crowd Person Detection`, `Pedestrian Detection`
 
 * **SSCP (Sample Selection for Crowded Pedestrians)(arxiv2023.05)** Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection [[arxiv link](https://arxiv.org/abs/2305.10801)][`Crowdhuman and Citypersons datasets`]
 
+* **OPL (Optimal Proposal Learning)(CVPR2023)** Optimal Proposal Learning for Deployable End-to-End x [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimal_Proposal_Learning_for_Deployable_End-to-End_Pedestrian_Detection_CVPR_2023_paper.html)][[code is not available]()]
 
 
 #### ▶Hand Part
