@@ -416,7 +416,14 @@ images`]
 
 * **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
 
+* **SemiHand(ICCV2021)** SemiHand: Semi-Supervised Hand Pose Estimation With Consistency [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_SemiHand_Semi-Supervised_Hand_Pose_Estimation_With_Consistency_ICCV_2021_paper.html)][[code is not available]()][`semi-supervised hand pose estimation`]
+
 * **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`, `hand datasets (RHD→H3D)`, `It applies a teacher-student approach to edit RegDA`]
+
+* 👍**C-GAC(ECCV2022)** Domain Adaptive Hand Keypoint and Pixel Localization in the Wild [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_5)][[arxiv link](https://arxiv.org/abs/2203.08344)][[project link](https://tkhkaeio.github.io/projects/22-hand-ps-da/)][based on `RegDA`]
+
+* **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][[code is not available]()][`cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
+
 
 #### ※ Head Pose Estimation
 
@@ -428,6 +435,10 @@ images`]
 #### ※ Object Pose Estimation
 
 * **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
+
+#### ※ Active Learning for Pose
+
+* **VL4Pose(BMVC2022)** VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation [[arxiv link](https://arxiv.org/abs/2210.06028)][[code|official](https://github.com/meghshukla/ActiveLearningForHumanPose)][with tasks of single `human pose` and `hand pose`]
 
 #### ※ Pose in Real Classroom
 
@@ -466,6 +477,8 @@ images`]
 * **(WACV2022)** Transfer Learning for Pose Estimation of Illustrated Characters [[paper link](https://openaccess.thecvf.com/content/WACV2022/html/Chen_Transfer_Learning_for_Pose_Estimation_of_Illustrated_Characters_WACV_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2108.01819)][[codes|official PyTorch](https://github.com/ShuhongChen/bizarre-pose-estimator)]
 
 * **AdaptPose(CVPR2022)** AdaptPose: Cross-Dataset Adaptation for 3D Human Pose Estimation by Learnable Motion Generation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Gholami_AdaptPose_Cross-Dataset_Adaptation_for_3D_Human_Pose_Estimation_by_Learnable_CVPR_2022_paper.html)][`3D keypoints detection`]
+
+* **CD_HPE(ICASSP2022)** Towards Accurate Cross-Domain in-Bed Human Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9747183)][[arxiv link](https://arxiv.org/abs/2110.03578)][[code|official](https://github.com/MohamedAfham/CD_HPE)]
 
 * ⭐**SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)][`Semi-Supervised 2D Human Pose Estimation`]
 
