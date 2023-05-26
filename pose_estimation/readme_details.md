@@ -422,6 +422,9 @@ images`]
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)]
 
+* **DARE-GRAM(CVPR2023)** DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.html)][[code|official](https://github.com/ismailnejjar/DARE-GRAM)][HPE domain transfer test for Male --> Female on `BIWI` dataset]
+
+
 #### ※ Object Pose Estimation
 
 * **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
