@@ -459,7 +459,7 @@ images`]
 
 * ⭐**iart-semi-pose(ACMMM2022)** Semi-supervised Human Pose Estimation in Art-historical Images [[arxiv link](https://arxiv.org/abs/2207.02976)][[code|official](https://github.com/TIBHannover/iart-semi-pose)][`Germany`, `Semi-Supervised 2D Human Pose Estimation`]
 
-* ⭐**PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[arxiv link](https://arxiv.org/abs/2201.08613)][`Semi-Supervised Keypoint Localization`]
+* ⭐**PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[openreview link](https://openreview.net/forum?id=6Q52pZ-Th7N)][[arxiv link](https://arxiv.org/abs/2201.08613)][`Semi-Supervised Keypoint Localization`]
 
 * **ADHNN(code not available)(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20201)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose-ADHNN)]
 
@@ -473,3 +473,6 @@ images`]
 
 * **Full-DG(full-view data generation)(TNNLS2023)** Overcoming Data Deficiency for Multi-Person Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10122653)][Full-DG can help improve pose estimators’ `robustness` and `generalizability`]
 
+* **MAPS(arxiv2023.02)** MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection [[arxiv link](https://arxiv.org/abs/2302.04589)][[code|official](https://github.com/YuheD/MAPS)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→LSP)`, `animal datasets (SynAnimal→TigDog, SynAnimal→AnimalPose)`, based on `RegDA` and `UniFrame`]
+
+* **ImSty(Implicit Stylization)(ICLRW2023)** Implicit Stylization for Domain Adaptation [[openreview link](https://openreview.net/forum?id=fkFFh4fAbH)][[pdf link](https://openreview.net/pdf?id=fkFFh4fAbH)][[workshop homepage](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DG)]
