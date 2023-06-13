@@ -407,7 +407,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)][`Semi-Supervised Keypoint Localization`]
 
-* ⭐**ScarceNet(CVPR2023)** ScarceNet: Animal Pose Estimation With Scarce Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_ScarceNet_Animal_Pose_Estimation_With_Scarce_Annotations_CVPR_2023_paper.pdf)][[code|official](https://github.com/chaneyddtt/ScarceNet)][`Animal Pose`, `Semi-Supervised Keypoint Localization`]
+* ⭐**ScarceNet(CVPR2023)** ScarceNet: Animal Pose Estimation With Scarce Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_ScarceNet_Animal_Pose_Estimation_With_Scarce_Annotations_CVPR_2023_paper.pdf)][[code|official](https://github.com/chaneyddtt/ScarceNet)][`Animal Pose`, `Semi-Supervised Keypoint Localization`, based on `HRNet`][`small-loss trick for reliability check` + `agreement check to identify reusable samples` + `student-teacher network (Mean Teacher) to enforce a consistency constraint`]
 
 #### ※ Hand Pose Estimation
 
