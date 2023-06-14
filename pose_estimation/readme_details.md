@@ -450,6 +450,8 @@ images`]
 
 * **pose-hg-3d(ICCV2017)** Towards 3D Human Pose Estimation in the Wild: A Weakly-Supervised Approach [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhou_Towards_3D_Human_ICCV_2017_paper.html)][[code|official](https://github.com/xingyizhou/pose-hg-3d)][`3D keypoints detection`, `weakly-supervised domain adaptation with a 3D geometric constraint-induced loss`]
 
+* **DataDistill(CVPR2018)** Data Distillation: Towards Omni-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Radosavovic_Data_Distillation_Towards_CVPR_2018_paper.html)][`Omni-Supervised Learning`, `a special regime of semi-supervised learning`, with tasks `human keypoint detection` and `general object detection`]
+
 * **3DKeypoints-DA(ECCV2018)** Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1712.05765v2)][[code|official](https://github.com/xingyizhou/3DKeypoints-DA)][`It utilizes view-consistency to regularize predictions from unlabeled target domain in 3D keypoints detection, but depth scans and images from different views are required on the target domain`]
 
 * **(ACMMM2019)** Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](http://zju-capg.org/unsupervised_domain_adaptation/main.pdf)][`3D keypoints detection`]
