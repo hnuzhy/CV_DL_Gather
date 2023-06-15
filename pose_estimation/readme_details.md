@@ -486,6 +486,10 @@ images`]
 
 * **SCAI(self-correctable and adaptable inference)(CVPR2023)** Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11180)][`Domain Generalization`][`It works as a play-in-plug for top-down human pose estimation methods like SimpleBaseline and HRNet`]
 
+* **FewShot3DKP(CVPR2023)** Few-Shot Geometry-Aware Keypoint Localization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/He_Few-Shot_Geometry-Aware_Keypoint_Localization_CVPR_2023_paper.html)][[project link](https://xingzhehe.github.io/FewShot3DKP/)][`Few-Shot Learning`, `3D Keypoint Localization`, `human faces, eyes, animals, cars, and never-before-seen mouth interior (teeth) localization tasks`]
+
+* **ACSM-Plus(CVPR2023)** Learning Articulated Shape With Keypoint Pseudo-Labels From Web Images [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Stathopoulos_Learning_Articulated_Shape_With_Keypoint_Pseudo-Labels_From_Web_Images_CVPR_2023_paper.html)][`2D Keypoints for downstream application`, `3D Reconstruction / Shape Recovery from 2D images`]
+
 * **Full-DG(full-view data generation)(TNNLS2023)** Overcoming Data Deficiency for Multi-Person Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10122653)][Full-DG can help improve pose estimators’ `robustness` and `generalizability`]
 
 * **MAPS(arxiv2023.02)** MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection [[arxiv link](https://arxiv.org/abs/2302.04589)][[code|official](https://github.com/YuheD/MAPS)][`hand datasets (RHD→H3D)`, `human datasets (SURREAL→LSP)`, `animal datasets (SynAnimal→TigDog, SynAnimal→AnimalPose)`, based on `RegDA` and `UniFrame`]
