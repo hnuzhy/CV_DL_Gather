@@ -482,6 +482,8 @@ images`]
 
 * **CD_HPE(ICASSP2022)** Towards Accurate Cross-Domain in-Bed Human Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9747183)][[arxiv link](https://arxiv.org/abs/2110.03578)][[code|official](https://github.com/MohamedAfham/CD_HPE)]
 
+* **EdgeTrans4Mark(ECCV2022)** One-Shot Medical Landmark Localization by Edge-Guided Transform and Noisy Landmark Refinement [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_28)][[arxiv link](https://arxiv.org/abs/2208.00453)][[code|official](https://github.com/GoldExcalibur/EdgeTrans4Mark)][`PKU`, `Landmark Localization`, `Medical Image`]
+
 * ⭐**SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)][`Semi-Supervised 2D Human Pose Estimation`]
 
 * **SCAI(self-correctable and adaptable inference)(CVPR2023)** Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11180)][`Domain Generalization`][`It works as a play-in-plug for top-down human pose estimation methods like SimpleBaseline and HRNet`]
