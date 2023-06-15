@@ -472,7 +472,7 @@ images`]
 
 * ⭐**iart-semi-pose(ACMMM2022)** Semi-supervised Human Pose Estimation in Art-historical Images [[arxiv link](https://arxiv.org/abs/2207.02976)][[code|official](https://github.com/TIBHannover/iart-semi-pose)][`Germany`, `Semi-Supervised 2D Human Pose Estimation`]
 
-* ⭐**PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[openreview link](https://openreview.net/forum?id=6Q52pZ-Th7N)][[arxiv link](https://arxiv.org/abs/2201.08613)][[author Sheng Jin's homepage](https://jin-s13.github.io/)][`Semi-Supervised Keypoint Localization`, `Curriculum Learning` + `Reinforcement Learning`, slightly better than `SSKL(ICLR2020)`][largely based on [`(Curriculum-Labeling, AAAI2021) Curriculum Labeling: Revisiting Pseudo-Labeling for Semi-Supervised Learning`](https://arxiv.org/abs/2001.06001)]
+* ⭐**PLACL(ICLR2022)** Pseudo-Labeled Auto-Curriculum Learning for Semi-Supervised Keypoint Localization [[openreview link](https://openreview.net/forum?id=6Q52pZ-Th7N)][[arxiv link](https://arxiv.org/abs/2201.08613)][[author Sheng Jin's homepage](https://jin-s13.github.io/)][`Semi-Supervised Keypoint Localization`, backbone `HRNet-w32`, `Curriculum Learning` + `Reinforcement Learning`, slightly better than `SSKL(ICLR2020)`][largely based on [`(Curriculum-Labeling, AAAI2021) Curriculum Labeling: Revisiting Pseudo-Labeling for Semi-Supervised Learning`](https://arxiv.org/abs/2001.06001)]
 
 * **ADHNN(code not available)(AAAI2022)** Adaptive Hypergraph Neural Network for Multi-person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20201)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose-ADHNN)]
 
