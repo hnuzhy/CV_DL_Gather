@@ -1,8 +1,9 @@
 # 2D Talking Heads
-also named ***Speech-driven 3D Facial Animation*** or ***Audio2Face***
+also named ***Speech-driven 3D Facial Animation*** or ***Audio2Face*** or ***Digital Human***
 
 ## Materials
 
+* [(github) A collection of resources on digital human including clothed people digitalization, virtual try-on, and other related directions.](https://github.com/weihaox/awesome-digital-human)
 
 ## Papers
 
