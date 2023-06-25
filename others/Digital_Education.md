@@ -39,7 +39,7 @@
 
 * 👍 **(CHI2021)** Digital Transformations of Classrooms in Virtual Reality [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445596)][`Tech for Learning and Families`, `an immersive VR classroom`, `eye tracking data`, `learners sitting in the back of the virtual classroom may have difficulties extracting information`, `present an important baseline for design decisions for VR classrooms`]
 
-* 👍👍 **(CHI2021)** Classroom Digital Twins with Instrumentation-Free Gaze Tracking [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445711)][`Tech for Learning and Families`, `class gaze behavior`, `a new computer-vision-driven system that powers a 3D “digital twin” of the classroom and enables whole-class, 6DOF head gaze vector estimation without instrumenting any of the occupants`]
+* 👍👍 **ClassroomDigitialTwins(CHI2021)** Classroom Digital Twins with Instrumentation-Free Gaze Tracking [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445711)][[project link](https://www.edusense.io/classroom-digital-twins)][[code|official](https://github.com/edusense/ClassroomDigitialTwins)][[first author homepage](https://karan-ahuja.com/)][`Tech for Learning and Families`, `class gaze behavior`, `a new computer-vision-driven system that powers a 3D “digital twin” of the classroom and enables whole-class, 6DOF head gaze vector estimation without instrumenting any of the occupants`]
 
 * **(CHI2021)** Hardhats and Bungaloos: Comparing Crowdsourced Design Feedback with Peer Design Feedback in the Classroom [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445380)][`Various People`, `investigate how crowdsourced design feedback compares to peer design feedback within a design-oriented HCI class and across two metrics: perceived quality and perceived fairness`, `provide suggestions for teachers in HCI and other researchers interested in crowd feedback systems on using crowds as a potential complement to peers`]
 
@@ -69,4 +69,4 @@
 
 ### ▶UbiComp (Ubiquitous Computing) (The ACM International Joint Conference on Pervasive and Ubiquitous Computing)
 
-
+* 👍 **EduSense(UbiComp2019)** EduSense: Practical Classroom Sensing at Scale [[paper link](https://dl.acm.org/doi/abs/10.1145/3351229)][[project link](https://www.edusense.io/)[[code|official](https://github.com/edusense/edusense)][[first author homepage](https://karan-ahuja.com/)]
