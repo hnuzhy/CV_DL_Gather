@@ -52,6 +52,11 @@
 
 * **** [[]()][[]()][[]()]
 
+### ▶for Semantic Segmentation
+
+* **UniMatch (CVPR2023)** Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2208.09910)][[code|official](https://github.com/LiheYoung/UniMatch)]
+
+
 ### ▶for Pose Estimation
 
 * Please refer [[Domain Adaptive Multiple Person Pose Estimation](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#-domain-adaptive-multiple-person-pose-estimation)]
