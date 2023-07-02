@@ -4,6 +4,7 @@
 
 ## Materials
 
+* [(github) SemiSeg: a list of "Awesome Semi-Supervised Semantic Segmentation" works](https://github.com/LiheYoung/UniMatch/blob/main/docs/SemiSeg.md)
 
 ---
 
