@@ -33,6 +33,10 @@
 
 * **VAT (TPAMI2018)** Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning [[paper link](https://ieeexplore.ieee.org/abstract/document/8417973)][[arxiv link](https://arxiv.org/abs/1704.03976)][[code|official vat_chainer](https://github.com/takerum/vat_chainer)][[code|official vat_tf](https://github.com/takerum/vat_tf)]
 
+* **DCT (Deep Co-Training)(ECCV2018)** Deep Co-Training for Semi-Supervised Image Recognition [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Siyuan_Qiao_Deep_Co-Training_for_ECCV_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1803.05984v1)][`learn two different models by minimizing their prediction discrepancy`, `learn from different initializations to avoid the case where the two models converge to the same point`]
+
+* **Dual-Student (ICCV2019)** Dual Student: Breaking the Limits of the Teacher in Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Ke_Dual_Student_Breaking_the_Limits_of_the_Teacher_in_Semi-Supervised_ICCV_2019_paper.html)][`learn two different models by minimizing their prediction discrepancy`, `add view difference constraints to avoid the case where the two models converge to the same point`]
+
 * **MixMatch (NIPS2019)** MixMatch: A Holistic Approach to Semi-Supervised Learning [[paper link](https://proceedings.neurips.cc/paper/2019/hash/1cd138d0499a68f4bb72bee04bbec2d7-Abstract.html)][[arxiv link](https://arxiv.org/abs/1905.02249)][[code|official](https://github.com/google-research/mixmatch)]
 
 * 👍**UDA (NIPS2020)** Unsupervised Data Augmentation for Consistency Training [[paper link](https://proceedings.neurips.cc/paper/2020/hash/44feb0096faa8326192570788b38c1d1-Abstract.html)][[arxiv link](https://arxiv.org/abs/1904.12848)][[code|official](https://github.com/google-research/uda)]
