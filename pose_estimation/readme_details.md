@@ -262,6 +262,8 @@
 
 * **HrHRNet-CF(CVPR2023)** A Characteristic Function-Based Method for Bottom-Up Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_A_Characteristic_Function-Based_Method_for_Bottom-Up_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
 
+* **ICON(AAAI2023)** Inter-image Contrastive Consistency for Multi-Person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25410)][`Xixia Xu`, `No code`, sever as a play-in-plug]
+
 ### ▶ Single-Stage Multiple Person Pose Estimation
 
 * **DirectPose(arxiv2019)** DirectPose: Direct End-to-End Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/1911.07451v2)][`DirectPose proposes to directly regress the instance-level keypoints by considering the keypoints as a special bounding-box with more than two corners.`]
