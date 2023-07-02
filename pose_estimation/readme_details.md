@@ -209,6 +209,8 @@
 
 * **BCIR(Bias Compensated Integral Regression)(TPAMI2023)** Bias-Compensated Integral Regression for Human Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10093110)][[arxiv link](https://arxiv.org/abs/2301.10431)][`A model-agnostic approach`, `Plug-and-Play`]
 
+* **ICON(AAAI2023)** Inter-image Contrastive Consistency for Multi-Person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25410)][`Xixia Xu`, `No code`, sever as a play-in-plug]
+
 
 ### ▶ Two-Stage [Bottom-Up] Multiple Person Pose Estimation
 
@@ -262,7 +264,6 @@
 
 * **HrHRNet-CF(CVPR2023)** A Characteristic Function-Based Method for Bottom-Up Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_A_Characteristic_Function-Based_Method_for_Bottom-Up_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
 
-* **ICON(AAAI2023)** Inter-image Contrastive Consistency for Multi-Person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25410)][`Xixia Xu`, `No code`, sever as a play-in-plug]
 
 ### ▶ Single-Stage Multiple Person Pose Estimation
 
