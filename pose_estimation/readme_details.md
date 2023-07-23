@@ -201,7 +201,7 @@
 
 * **Poseur(ECCV2022)** Poseur: Direct Human Pose Regression with Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_5)][[code|official](https://github.com/aim-uofa/Poseur)][`RLE-based`, `DETR-based top-down framework`]
 
-* **SCIO(ECCV2022)** Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42)][[arxiv link](https://arxiv.org/abs/2207.02425)][`Test-Time Adaptation`, the same author of [`SCAI`(https://arxiv.org/abs/2303.11180)]]
+* **SCIO(ECCV2022)** Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42)][[arxiv link](https://arxiv.org/abs/2207.02425)][`Test-Time Adaptation`, the same author of [`SCAI`](https://arxiv.org/abs/2303.11180)]
 
 * **Swin-Pose(arxiv2022)(MIPR2022)** Swin-Pose: Swin Transformer Based Human Pose Estimation [[paper link](https://arxiv.org/abs/2201.07384)][`Swin Transformer`]
 
@@ -491,7 +491,7 @@ images`]
 
 * ⭐**SSPCM(CVPR2023)** Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.04346)][[code|official](https://github.com/hlz0606/SSPCM)][`Semi-Supervised 2D Human Pose Estimation`]
 
-* **SCAI(self-correctable and adaptable inference)(CVPR2023)** Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11180)][`Domain Generalization`][`It works as a play-in-plug for top-down human pose estimation methods like SimpleBaseline and HRNet`, the same author of [`SCIO`(https://arxiv.org/abs/2207.02425)]]
+* **SCAI(self-correctable and adaptable inference)(CVPR2023)** Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)][[arxiv link](https://arxiv.org/abs/2303.11180)][`Domain Generalization`][`It works as a play-in-plug for top-down human pose estimation methods like SimpleBaseline and HRNet`, the same author of [`SCIO`](https://arxiv.org/abs/2207.02425)]
 
 * **FewShot3DKP(CVPR2023)** Few-Shot Geometry-Aware Keypoint Localization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/He_Few-Shot_Geometry-Aware_Keypoint_Localization_CVPR_2023_paper.html)][[project link](https://xingzhehe.github.io/FewShot3DKP/)][`Few-Shot Learning`, `3D Keypoint Localization`, `human faces, eyes, animals, cars, and never-before-seen mouth interior (teeth) localization tasks`]
 
