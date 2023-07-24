@@ -425,7 +425,7 @@ images`]
 
 * **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`, `hand datasets (RHD→H3D)`, `It applies a teacher-student approach to edit RegDA`]
 
-* 👍**C-GAC(ECCV2022)** Domain Adaptive Hand Keypoint and Pixel Localization in the Wild [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_5)][[arxiv link](https://arxiv.org/abs/2203.08344)][[project link](https://tkhkaeio.github.io/projects/22-hand-ps-da/)][based on `RegDA`]
+* 👍**C-GAC(ECCV2022)** Domain Adaptive Hand Keypoint and Pixel Localization in the Wild [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_5)][[arxiv link](https://arxiv.org/abs/2203.08344)][[project link](https://tkhkaeio.github.io/projects/22-hand-ps-da/)][based on `Stacked Hourglass`， `all compared methods are reproduced by the author`, `no code is available`]
 
 * **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][[code is not available]()][`cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
 
