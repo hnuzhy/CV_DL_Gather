@@ -463,6 +463,8 @@ images`]
 
 * **Pose_DomainAdaption(code not available)(ACMMM2020)** Alleviating Human-level Shift: A Robust Domain Adaptation Method for Multi-person Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3394171.3414040)][[Codes|PyTorch (not available)](https://github.com/Sophie-Xu/Pose_DomainAdaption)][[(TMM2022 extended journal version) Structure-enriched Topology Learning for Cross-domain Multi-person Pose estimation](https://ieeexplore.ieee.org/abstract/document/9894704)]
 
+* **(CVPR2020)** Weakly-Supervised 3D Human Pose Learning via Multi-View Images in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Iqbal_Weakly-Supervised_3D_Human_Pose_Learning_via_Multi-View_Images_in_the_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2003.07581)][`NVIDIA`, `It focuses on unlabelled multi-view images`, `Self-supervised learning for 3D human pose estimation`]
+
 * ⭐**SSKL(ICLR2021)** Semi-supervised Keypoint Localization [[openreview link](https://openreview.net/forum?id=yFJ67zTeI2)][[arxiv link](https://arxiv.org/abs/2101.07988)][[code|official](https://github.com/olgamoskvyak/tf_equivariance_loss)][[author Olga Moskvyak's homepage](https://olgamoskvyak.github.io/)][`single hand datasets`, `single person datasets`, `Semi-Supervised Keypoint Localization`]
 
 * ⭐**Semi_Human_Pose(ICCV2021)** An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Xie_An_Empirical_Study_of_the_Collapsing_Problem_in_Semi-Supervised_2D_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2011.12498)][[codes|official PyTorch](https://github.com/xierc/Semi_Human_Pose)][`Semi-Supervised 2D Human Pose Estimation`]
