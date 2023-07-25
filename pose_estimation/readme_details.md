@@ -14,7 +14,7 @@
   * **[▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation](#-Simultaneous-Multiple-Person-Pose-Estimation-and-Instance-Segmentation)**
   * **[▶ 3D Multiple Person Pose Estimation](#-3D-Multiple-Person-Pose-Estimation)**
   * **[▶ Special Multiple Person Pose Estimation](#-Special-Multiple-Person-Pose-Estimation)**
-  * **[▶ Domain Adaptive Multiple Person Pose Estimation](#-Domain-Adaptive-Multiple-Person-Pose-Estimation)**
+  * **[▶ Transfer Learning of Multiple Person Pose Estimation](#-Transfer-Learning-of-Multiple-Person-Pose-Estimation)**
 
 
 #  List for public implementation of various algorithms
@@ -399,8 +399,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 * 👍**AutoLink(NIPS2022)** AutoLink: Self-supervised Learning of Human Skeletons and Object Outlines by Linking Keypoints [[arxiv link](https://arxiv.org/abs/2205.10636)][[openreview link](https://openreview.net/forum?id=mXP-qQcYCBN)][[project link](https://xingzhehe.github.io/autolink/)]
 
 
-### ▶ Domain Adaptive Multiple Person Pose Estimation
-**Domain Adaptive / Unsupervised / Semi-Supervised / Weakly-Supervised / Generalizable**
+### ▶ Transfer Learning of Multiple Person Pose Estimation
+**Domain Adaptive / Unsupervised / Self-Supervised / Semi-Supervised / Weakly-Supervised / Generalizable**
 
 #### ※ Animal Pose Estimation
 
