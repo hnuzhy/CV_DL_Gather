@@ -414,7 +414,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * ⭐**ScarceNet(CVPR2023)** ScarceNet: Animal Pose Estimation With Scarce Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_ScarceNet_Animal_Pose_Estimation_With_Scarce_Annotations_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.15023)][[code|official](https://github.com/chaneyddtt/ScarceNet)][`Animal Pose`, `Semi-Supervised Keypoint Localization`, based on `HRNet`][`small-loss trick for reliability check` + `agreement check to identify reusable samples` + `student-teacher network (Mean Teacher) to enforce a consistency constraint`]
 
-* 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K)]
+* 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K)]
 
 
 #### ※ Hand Pose Estimation
