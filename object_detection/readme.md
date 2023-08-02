@@ -98,6 +98,8 @@
 
 * **VFNet(arxiv2020)** VarifocalNet: An IoU-aware Dense Object Detector [[arxiv link](https://arxiv.org/abs/2008.13367)][[Codes|offical with MMDetection & PyTorch](https://github.com/hyz-xmaster/VarifocalNet)]
 
+* 👍**TOOD(ICCV2021 Oral)** TOOD: Task-aligned One-stage Object Detection [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Feng_TOOD_Task-Aligned_One-Stage_Object_Detection_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.07755)][[project link](https://fcjian.github.io/tood/)][[code|official](https://github.com/fcjian/TOOD)]
+
 
 ### ▶ Detection Transformer (DETR, fully end-to-end)
 `DETRs --> Pros: eliminates the hand-designed anchor and NMS components; Cons: slow training convergence and hard-to-optimize queries. Thus, researchers should put their efforts of optimizing transformer-based detectors in accelerating training convergence and reducing optimization difficulty`
