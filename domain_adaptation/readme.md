@@ -77,6 +77,8 @@
 
 * ❤**DA-FasterRCNN(CVPR2018)(Baseline & Milestone)** Domain Adaptive Faster R-CNN for Object Detection in the Wild [[arxiv link](https://arxiv.org/abs/1803.03243)][[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.html)][[codes|official Caffe](https://github.com/yuhuayc/da-faster-rcnn)][[Zhihu blog](https://zhuanlan.zhihu.com/p/371721493)]
 
+* ❤**cross_domain_detection(CVPR2018)** Cross-Domain Weakly-Supervised Object Detection Through Progressive Domain Adaptation [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.html)][[arxiv link](http://arxiv.org/abs/1803.11365v1)][[project link](https://naoto0804.github.io/cross_domain_detection/)][[code|official](https://github.com/naoto0804/cross-domain-detection)][`Weakly-Supervised Learning for Object Detection`]
+
 * **SCL(arxiv2019)** SCL: Towards Accurate Domain Adaptive Object Detection via Gradient Detach Based Stacked Complementary Losses [[paper link](https://arxiv.org/abs/1911.02559)]
 [[code|official](https://github.com/harsh-99/SCL)]
 
