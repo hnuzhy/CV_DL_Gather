@@ -1,1 +1,1 @@
-This repo is purely for research purposes.
+This repo is purely for research purposes. Feel free to fork it and update it into your own sytle.
