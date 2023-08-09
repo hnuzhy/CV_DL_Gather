@@ -437,6 +437,8 @@ images`]
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)]
 
+* **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)][[pdf link](https://www.tnt.uni-hannover.de/papers/data/1544/RCRwFG2021.pdf)][`Semi-Supervised`]
+
 * **SynGaze(CVPRW2022)** Learning-by-Novel-View-Synthesis for Full-Face Appearance-Based 3D Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/GAZE/html/Qin_Learning-by-Novel-View-Synthesis_for_Full-Face_Appearance-Based_3D_Gaze_Estimation_CVPRW_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2201.07927)][`The University of Tokyo`]
 
 * **AdaptiveGaze(arxiv2023.05)** Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement [[arxiv link](https://arxiv.org/abs/2305.16140)][[code|official](https://github.com/utvision/AdaptiveGaze)][`The University of Tokyo`]
