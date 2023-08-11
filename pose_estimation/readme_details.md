@@ -433,18 +433,27 @@ images`]
 * **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][[code is not available]()][`cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
 
 
-#### ※ Head Pose Estimation
+#### ※ Head Pose Estimation / Eye Gaze Estimation
+belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)]
 
+* **DAGEN(ACCV2020)** Domain Adaptation Gaze Estimation by Embedding with Prediction Consistency [[paper link](https://openaccess.thecvf.com/content/ACCV2020/html/Guo_Domain_Adaptation_Gaze_Estimation_by_Embedding_with_Prediction_Consistency_ACCV_2020_paper.html)][[arxiv link](http://arxiv.org/abs/2011.07526)][`Eye Gaze Estimation`]
+
 * **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)][[pdf link](https://www.tnt.uni-hannover.de/papers/data/1544/RCRwFG2021.pdf)][`Semi-Supervised`]
 
-* **SynGaze(CVPRW2022)** Learning-by-Novel-View-Synthesis for Full-Face Appearance-Based 3D Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/GAZE/html/Qin_Learning-by-Novel-View-Synthesis_for_Full-Face_Appearance-Based_3D_Gaze_Estimation_CVPRW_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2201.07927)][`The University of Tokyo`]
+* **RSD(ICML2021)** Representation Subspace Distance for Domain Adaptation Regression [[paper link](http://proceedings.mlr.press/v139/chen21u.html)][[code|official](https://github.com/thuml/Domain-Adaptation-Regression)][`Domain Adaptive Regression (DGA)` theory, `Mingsheng Long`, datasets [dSprites](1https://github.com/deepmind/dsprites-dataset)(a standard 2D synthetic dataset for deep representation learning) and [MPI3D](https://github.com/rr-learning/disentanglement_dataset)(a simulation-to-real dataset of 3D objects)]
+
+* **DINO-INIT & DINO-TRAIN(NIPS2022)** Distribution-Informed Neural Networks for Domain Adaptation Regression [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/410bbba8388369d8bb5875544d1d4428-Abstract-Conference.html)][`Domain Adaptive Regression (DGA)` theory]
+
+* **SynGaze(CVPRW2022)** Learning-by-Novel-View-Synthesis for Full-Face Appearance-Based 3D Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/GAZE/html/Qin_Learning-by-Novel-View-Synthesis_for_Full-Face_Appearance-Based_3D_Gaze_Estimation_CVPRW_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2201.07927)][`The University of Tokyo`, `Eye Gaze Estimation`]
+
+* **RUDA(CVPR2022)** Generalizing Gaze Estimation With Rotation Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.html)][`Eye Gaze Estimation`]
 
 * **(TBIOM2023)** Domain Adaptation for Head Pose Estimation Using Relative Pose Consistency [[paper link](https://ieeexplore.ieee.org/abstract/document/10021684)]
 
-* **AdaptiveGaze(arxiv2023.05)** Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement [[arxiv link](https://arxiv.org/abs/2305.16140)][[code|official](https://github.com/utvision/AdaptiveGaze)][`The University of Tokyo`]
- 
+* **AdaptiveGaze(arxiv2023.05)** Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement [[arxiv link](https://arxiv.org/abs/2305.16140)][[code|official](https://github.com/utvision/AdaptiveGaze)][`The University of Tokyo`, `Eye Gaze Estimation`]
+
 * **DARE-GRAM(CVPR2023)** DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.html)][[code|official](https://github.com/ismailnejjar/DARE-GRAM)][HPE domain transfer test for Male --> Female on `BIWI` dataset]
 
 
