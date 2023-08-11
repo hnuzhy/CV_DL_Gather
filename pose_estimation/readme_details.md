@@ -465,6 +465,8 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **AdaptiveGaze(arxiv2023.05)** Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement [[arxiv link](https://arxiv.org/abs/2305.16140)][[code|official](https://github.com/utvision/AdaptiveGaze)][`The University of Tokyo`, `Eye Gaze Estimation`]
 
+* 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[porject link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Rotation Regression` task]
+
 * 👍**DARE-GRAM(CVPR2023)** DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.html)][[code|official](https://github.com/ismailnejjar/DARE-GRAM)][HPE domain transfer test for Male --> Female on `BIWI` dataset]
 
 
