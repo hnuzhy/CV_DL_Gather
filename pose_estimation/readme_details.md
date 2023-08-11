@@ -15,11 +15,11 @@
   * **[▶ 3D Multiple Person Pose Estimation](#-3D-Multiple-Person-Pose-Estimation)**
   * **[▶ Special Multiple Person Pose Estimation](#-Special-Multiple-Person-Pose-Estimation)**
   * **[▶ Transfer Learning of Multiple Person Pose Estimation](#-Transfer-Learning-of-Multiple-Person-Pose-Estimation)**
+    * **[※ Active Learning for Pose](#-active-learning-for-pose)**
     * **[※ Animal Pose Estimation](#-animal-pose-estimation)**
     * **[※ Hand Pose Estimation](#-hand-pose-estimation)**
     * **[※ Head Pose Estimation / Eye Gaze Estimation](#-head-pose-estimation--eye-gaze-estimation)**
     * **[※ Object Pose Estimation](#-object-pose-estimation)**
-    * **[※ Active Learning for Pose](#-active-learning-for-pose)**
     * **[※ Pose in Real Classroom](#-pose-in-real-classroom)**
     * **[※ Human Pose Estimation (2D and 3D, Single and Multiple)](#-human-pose-estimation-2d-and-3d-single-and-multiple)**
 
@@ -409,6 +409,10 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 ### ▶ Transfer Learning of Multiple Person Pose Estimation
 **Domain Adaptive / Unsupervised / Self-Supervised / Semi-Supervised / Weakly-Supervised / Generalizable**
 
+#### ※ Active Learning for Pose
+
+* **VL4Pose(BMVC2022)** VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation [[arxiv link](https://arxiv.org/abs/2210.06028)][[code|official](https://github.com/meghshukla/ActiveLearningForHumanPose)][with tasks of single `human pose` and `hand pose`]
+
 #### ※ Animal Pose Estimation
 
 * **WS-CDA(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1908.05806)][[project link](https://sites.google.com/view/animal-pose/)][[code|official](https://github.com/noahcao/animal-pose-dataset)][`Animal Pose Dataset`, `Leverages human pose data and a partially annotated animal pose dataset to perform semi-supervised domain adaptation`]
@@ -464,10 +468,6 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 #### ※ Object Pose Estimation
 
 * **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
-
-#### ※ Active Learning for Pose
-
-* **VL4Pose(BMVC2022)** VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation [[arxiv link](https://arxiv.org/abs/2210.06028)][[code|official](https://github.com/meghshukla/ActiveLearningForHumanPose)][with tasks of single `human pose` and `hand pose`]
 
 #### ※ Pose in Real Classroom
 
