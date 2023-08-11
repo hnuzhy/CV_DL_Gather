@@ -15,6 +15,13 @@
   * **[▶ 3D Multiple Person Pose Estimation](#-3D-Multiple-Person-Pose-Estimation)**
   * **[▶ Special Multiple Person Pose Estimation](#-Special-Multiple-Person-Pose-Estimation)**
   * **[▶ Transfer Learning of Multiple Person Pose Estimation](#-Transfer-Learning-of-Multiple-Person-Pose-Estimation)**
+   * **[※ Animal Pose Estimation](#-animal-pose-estimation)**
+   * **[※ Hand Pose Estimation](#-hand-pose-estimation)**
+   * **[※ Head Pose Estimation / Eye Gaze Estimation](#-head-pose-estimation--eye-gaze-estimation)**
+   * **[※ Object Pose Estimation](#-object-pose-estimation)**
+   * **[※ Active Learning for Pose](#-active-learning-for-pose)**
+   * **[※ Pose in Real Classroom](#-pose-in-real-classroom)**
+   * **[※ Human Pose Estimation (2D and 3D, Single and Multiple)](#-human-pose-estimation-2d-and-3d-single-and-multiple)**
 
 
 #  List for public implementation of various algorithms
@@ -416,7 +423,6 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K)]
 
-
 #### ※ Hand Pose Estimation
 
 * **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`a weakly-supervised method with the aid of depth
@@ -431,7 +437,6 @@ images`]
 * 👍**C-GAC(ECCV2022)** Domain Adaptive Hand Keypoint and Pixel Localization in the Wild [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_5)][[arxiv link](https://arxiv.org/abs/2203.08344)][[project link](https://tkhkaeio.github.io/projects/22-hand-ps-da/)][based on `Stacked Hourglass`， `all compared methods are reproduced by the author`, `no code is available`]
 
 * **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][[code is not available]()][`cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
-
 
 #### ※ Head Pose Estimation / Eye Gaze Estimation
 belonging to the `Domain Adaptive Regression (DGA)` problem
@@ -455,7 +460,6 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 * **AdaptiveGaze(arxiv2023.05)** Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement [[arxiv link](https://arxiv.org/abs/2305.16140)][[code|official](https://github.com/utvision/AdaptiveGaze)][`The University of Tokyo`, `Eye Gaze Estimation`]
 
 * **DARE-GRAM(CVPR2023)** DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.html)][[code|official](https://github.com/ismailnejjar/DARE-GRAM)][HPE domain transfer test for Male --> Female on `BIWI` dataset]
-
 
 #### ※ Object Pose Estimation
 
