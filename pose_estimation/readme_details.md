@@ -447,6 +447,8 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)]
 
+* **DeepDAR(SpringerBook2020)** Deep Domain Adaptation for Regression [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-31764-5_4)][[pdf link](https://link.springer.com/content/pdf/10.1007/978-3-030-31764-5.pdf#page=99)][`Domain Adaptive Regression (DGA)` theory, `Age Estimation` and `Head Pose Estimation`][book title [`Development and Analysis of Deep Learning Architectures`](https://link.springer.com/content/pdf/10.1007/978-3-030-31764-5.pdf)]
+
 * **DAGEN(ACCV2020)** Domain Adaptation Gaze Estimation by Embedding with Prediction Consistency [[paper link](https://openaccess.thecvf.com/content/ACCV2020/html/Guo_Domain_Adaptation_Gaze_Estimation_by_Embedding_with_Prediction_Consistency_ACCV_2020_paper.html)][[arxiv link](http://arxiv.org/abs/2011.07526)][`Eye Gaze Estimation`]
 
 * **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)][[pdf link](https://www.tnt.uni-hannover.de/papers/data/1544/RCRwFG2021.pdf)][`Semi-Supervised`]
