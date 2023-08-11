@@ -70,10 +70,6 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * Please refer [[Domain Adaptive Multiple Person Pose Estimation](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#-domain-adaptive-multiple-person-pose-estimation)]
 
-### ▶for Rotation Regression
-
-* 👍**FisherMatch (CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[porject link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`]
-
 ---
 
 ## Papers (Self-Supervised Learning or Unsupervised Learning)
