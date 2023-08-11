@@ -451,7 +451,7 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)][[pdf link](https://www.tnt.uni-hannover.de/papers/data/1544/RCRwFG2021.pdf)][`Semi-Supervised`]
 
-* **RSD(ICML2021)** Representation Subspace Distance for Domain Adaptation Regression [[paper link](http://proceedings.mlr.press/v139/chen21u.html)][[code|official](https://github.com/thuml/Domain-Adaptation-Regression)][`Domain Adaptive Regression (DGA)` theory, `Mingsheng Long`, datasets [dSprites](1https://github.com/deepmind/dsprites-dataset)(a standard 2D synthetic dataset for deep representation learning) and [MPI3D](https://github.com/rr-learning/disentanglement_dataset)(a simulation-to-real dataset of 3D objects)]
+* **RSD(ICML2021)** Representation Subspace Distance for Domain Adaptation Regression [[paper link](http://proceedings.mlr.press/v139/chen21u.html)][[code|official](https://github.com/thuml/Domain-Adaptation-Regression)][`Domain Adaptive Regression (DGA)` theory, `Mingsheng Long`, datasets [dSprites](https://github.com/deepmind/dsprites-dataset)(a standard 2D synthetic dataset for deep representation learning) and [MPI3D](https://github.com/rr-learning/disentanglement_dataset)(a simulation-to-real dataset of 3D objects)]
 
 * **DINO-INIT & DINO-TRAIN(NIPS2022)** Distribution-Informed Neural Networks for Domain Adaptation Regression [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/410bbba8388369d8bb5875544d1d4428-Abstract-Conference.html)][`Domain Adaptive Regression (DGA)` theory]
 
