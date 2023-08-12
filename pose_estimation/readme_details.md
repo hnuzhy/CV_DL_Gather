@@ -16,11 +16,11 @@
   * **[▶ Special Multiple Person Pose Estimation](#-Special-Multiple-Person-Pose-Estimation)**
   * **[▶ Transfer Learning of Multiple Person Pose Estimation](#-Transfer-Learning-of-Multiple-Person-Pose-Estimation)**
     * **[※ Active Learning for Pose](#-active-learning-for-pose)**
+    * **[※ Object Pose Estimation](#-object-pose-estimation)**
+    * **[※ Pose in Real Classroom](#-pose-in-real-classroom)**
     * **[※ Animal Pose Estimation](#-animal-pose-estimation)**
     * **[※ Hand Pose Estimation](#-hand-pose-estimation)**
     * **[※ Head Pose Estimation / Eye Gaze Estimation](#-head-pose-estimation--eye-gaze-estimation)**
-    * **[※ Object Pose Estimation](#-object-pose-estimation)**
-    * **[※ Pose in Real Classroom](#-pose-in-real-classroom)**
     * **[※ Human Pose Estimation (2D and 3D, Single and Multiple)](#-human-pose-estimation-2d-and-3d-single-and-multiple)**
 
 
@@ -413,6 +413,16 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **VL4Pose(BMVC2022)** VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation [[arxiv link](https://arxiv.org/abs/2210.06028)][[code|official](https://github.com/meghshukla/ActiveLearningForHumanPose)][with tasks of single `human pose` and `hand pose`]
 
+#### ※ Object Pose Estimation
+
+* **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
+
+#### ※ Pose in Real Classroom
+
+* 👍**SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
+
+* 👍**CC-PoseNet(ICASSP2023)** CC-PoseNet: Towards Human Pose Estimation in Crowded Classrooms [[paper link](https://ieeexplore.ieee.org/abstract/document/10095734)]
+
 #### ※ Animal Pose Estimation
 
 * **WS-CDA(ICCV2019)** Cross-Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Cao_Cross-Domain_Adaptation_for_Animal_Pose_Estimation_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1908.05806)][[project link](https://sites.google.com/view/animal-pose/)][[code|official](https://github.com/noahcao/animal-pose-dataset)][`Animal Pose Dataset`, `Leverages human pose data and a partially annotated animal pose dataset to perform semi-supervised domain adaptation`]
@@ -469,16 +479,6 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * 👍**DARE-GRAM(CVPR2023)** DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.html)][[code|official](https://github.com/ismailnejjar/DARE-GRAM)][HPE domain transfer test for Male --> Female on `BIWI` dataset]
 
-
-#### ※ Object Pose Estimation
-
-* **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
-
-#### ※ Pose in Real Classroom
-
-* 👍**SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
-
-* 👍**CC-PoseNet(ICASSP2023)** CC-PoseNet: Towards Human Pose Estimation in Crowded Classrooms [[paper link](https://ieeexplore.ieee.org/abstract/document/10095734)]
 
 #### ※ Human Pose Estimation (2D and 3D, Single and Multiple)
 
