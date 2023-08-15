@@ -467,9 +467,11 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **DINO-INIT & DINO-TRAIN(NIPS2022)** Distribution-Informed Neural Networks for Domain Adaptation Regression [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/410bbba8388369d8bb5875544d1d4428-Abstract-Conference.html)][`Domain Adaptive Regression (DGA)` theory]
 
-* **SynGaze(CVPRW2022)** Learning-by-Novel-View-Synthesis for Full-Face Appearance-Based 3D Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/GAZE/html/Qin_Learning-by-Novel-View-Synthesis_for_Full-Face_Appearance-Based_3D_Gaze_Estimation_CVPRW_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2201.07927)][`The University of Tokyo`, `Eye Gaze Estimation`]
+* **SynGaze(CVPRW2022)** Learning-by-Novel-View-Synthesis for Full-Face Appearance-Based 3D Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022W/GAZE/html/Qin_Learning-by-Novel-View-Synthesis_for_Full-Face_Appearance-Based_3D_Gaze_Estimation_CVPRW_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2201.07927)][`The University of Tokyo`, `Eye Gaze Estimation`, No code]
 
-* **RUDA(CVPR2022)** Generalizing Gaze Estimation With Rotation Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.html)][`Eye Gaze Estimation`]
+* **RUDA(CVPR2022)** Generalizing Gaze Estimation With Rotation Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.html)][`Eye Gaze Estimation`, No code]
+
+* **CRGA(CVPR2022)** Contrastive Regression for Domain Adaptation on Gaze Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Contrastive_Regression_for_Domain_Adaptation_on_Gaze_Estimation_CVPR_2022_paper.html)][`SJTU`, `Eye Gaze Estimation`, No code]
 
 * **(TBIOM2023)** Domain Adaptation for Head Pose Estimation Using Relative Pose Consistency [[paper link](https://ieeexplore.ieee.org/abstract/document/10021684)]
 
