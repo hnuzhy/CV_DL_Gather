@@ -48,6 +48,12 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * 👍**FlexMatch (NIPS2021)** FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling [[paper link](https://proceedings.neurips.cc/paper/2021/hash/995693c15f439e3d189b06e89d145dd5-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.08263)][[code|official](https://github.com/TorchSSL/TorchSSL)]
 
+* **Dash (ICML2021)** Dash: Semi-Supervised Learning with Dynamic Thresholding [[paper link](https://proceedings.mlr.press/v139/xu21e.html)][[arxiv link](https://arxiv.org/abs/2109.00650)][`It proposes dynamic and adaptive pseudo label filtering, better suited for the training process (similar to the FixMatch)`] 
+
+* **SimPLE (CVPR2021)** SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_SimPLE_Similar_Pseudo_Label_Exploitation_for_Semi-Supervised_Classification_CVPR_2021_paper.html)][[arxiv link](http://arxiv.org/abs/2103.16725)][[code|official](https://github.com/zijian-hu/SimPLE)][`It proposes the paired loss minimizing the statistical distance between confident and similar pseudo labels`]
+
+* **SemCo (CVPR2021)** All Labels Are Not Created Equal: Enhancing Semi-Supervision via Label Grouping and Co-Training [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Nassar_All_Labels_Are_Not_Created_Equal_Enhancing_Semi-Supervision_via_Label_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.05248)][[code|official](https://github.com/islam-nassar/semco)][`It considers label semantics to prevent the degradation of pseudo label quality for visually similar classes in a co-training manner`]
+
 * **EMAN (CVPR2021)** Exponential Moving Average Normalization for Self-Supervised and Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Cai_Exponential_Moving_Average_Normalization_for_Self-Supervised_and_Semi-Supervised_Learning_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2101.08482)][[code|official](https://github.com/amazon-science/exponential-moving-average-normalization)]
 
 * **** [[]()][[]()][[]()]
