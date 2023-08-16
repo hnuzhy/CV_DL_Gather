@@ -455,7 +455,7 @@ images`]
 #### ※ Head Pose Estimation / Eye Gaze Estimation
 belonging to the `Domain Adaptive Regression (DGA)` problem
 
-* **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)]
+* **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)][`An adversarial training approach based on [domain adversarial neural networks](http://proceedings.mlr.press/v37/ganin15.html) is used to force the extraction of domain-invariant features`]
 
 * **DeepDAR(SpringerBook2020)** Deep Domain Adaptation for Regression [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-31764-5_4)][[pdf link](https://link.springer.com/content/pdf/10.1007/978-3-030-31764-5.pdf#page=99)][`Domain Adaptive Regression (DGA)` theory, `Age Estimation` and `Head Pose Estimation`][book title [`Development and Analysis of Deep Learning Architectures`](https://link.springer.com/content/pdf/10.1007/978-3-030-31764-5.pdf)]
 
