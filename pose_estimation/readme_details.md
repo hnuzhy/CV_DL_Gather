@@ -315,6 +315,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **PolarPose(TIP2023)** PolarPose: Single-Stage Multi-Person Pose Estimation in Polar Coordinates [[paper link](https://ieeexplore.ieee.org/abstract/document/10034548)]
 
+* 👍**GroupPose(ICCV2023)** Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.07313)][[code|official Paddle](https://github.com/Michel-liu/GroupPose-Paddle)][[code|official PyTorch](https://github.com/Michel-liu/GroupPose)]
+
+
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
 * ⭐**Mask R-CNN(ICCV2017)(multi-task)** Mask R-CNN [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html)]
