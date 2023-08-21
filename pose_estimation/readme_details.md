@@ -486,7 +486,7 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * 👍**DARE-GRAM(CVPR2023)** DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.html)][[code|official](https://github.com/ismailnejjar/DARE-GRAM)][HPE domain transfer test for Male --> Female on `BIWI` dataset]
 
-* **UnReGA(AAAI2023)** Learning a Generalized Gaze Estimator from Gaze-Consistent Feature [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25406)]
+* **(AAAI2023)** Learning a Generalized Gaze Estimator from Gaze-Consistent Feature [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25406)]
 
 * **UnReGA(CVPR2023)** Source-Free Adaptive Gaze Estimation by Uncertainty Reduction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.html)][[paperswithcode link](https://paperswithcode.com/paper/source-free-adaptive-gaze-estimation-by)][[code|official (not released)](https://github.com/caixin1998/UnReGA)]
 
