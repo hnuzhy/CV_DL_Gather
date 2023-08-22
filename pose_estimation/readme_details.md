@@ -462,11 +462,17 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)][An adversarial training approach based on [`domain adversarial neural networks`](http://proceedings.mlr.press/v37/ganin15.html) is used to force the extraction of domain-invariant features]
 
+* 👍**Gaze360(ICCV2019)** Gaze360: Physically Unconstrained Gaze Estimation in the Wild [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kellnhofer_Gaze360_Physically_Unconstrained_Gaze_Estimation_in_the_Wild_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1910.10088)][[project link](http://gaze360.csail.mit.edu/)][`dataset Gaze360`, `Domain Adaptive Gaze Estimation`]
+
+* **few_shot_gaze(ICCV2019 oral)** Few-Shot Adaptive Gaze Estimation [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1905.01941)][[code|official](https://github.com/NVlabs/few_shot_gaze)][`Domain Adaptive Gaze Estimation`]
+
 * **DeepDAR(SpringerBook2020)** Deep Domain Adaptation for Regression [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-31764-5_4)][[pdf link](https://link.springer.com/content/pdf/10.1007/978-3-030-31764-5.pdf#page=99)][`Domain Adaptive Regression (DGA)` theory, `Age Estimation` and `Head Pose Estimation`][book title [`Development and Analysis of Deep Learning Architectures`](https://link.springer.com/content/pdf/10.1007/978-3-030-31764-5.pdf)]
 
 * **DAGEN(ACCV2020)** Domain Adaptation Gaze Estimation by Embedding with Prediction Consistency [[paper link](https://openaccess.thecvf.com/content/ACCV2020/html/Guo_Domain_Adaptation_Gaze_Estimation_by_Embedding_with_Prediction_Consistency_ACCV_2020_paper.html)][[arxiv link](http://arxiv.org/abs/2011.07526)][`Eye Gaze Estimation`]
 
 * **(FG2021)** Relative Pose Consistency for Semi-Supervised Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9666992/)][[pdf link](https://www.tnt.uni-hannover.de/papers/data/1544/RCRwFG2021.pdf)][`Semi-Supervised`]
+
+* **PnP-GA(ICCV2021)** Generalizing Gaze Estimation With Outlier-Guided Collaborative Adaptation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Generalizing_Gaze_Estimation_With_Outlier-Guided_Collaborative_Adaptation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2107.13780)][[code|official](https://github.com/DreamtaleCore/PnP-GA)][`Domain Adaptive Gaze Estimation`]
 
 * 👍**RSD(ICML2021)** Representation Subspace Distance for Domain Adaptation Regression [[paper link](http://proceedings.mlr.press/v139/chen21u.html)][[code|official](https://github.com/thuml/Domain-Adaptation-Regression)][`Domain Adaptive Regression (DGA)` theory, `Mingsheng Long`, datasets [dSprites](https://github.com/deepmind/dsprites-dataset)(a standard 2D synthetic dataset for deep representation learning) and [MPI3D](https://github.com/rr-learning/disentanglement_dataset)(a simulation-to-real dataset of 3D objects)]
 
