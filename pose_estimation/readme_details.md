@@ -494,7 +494,7 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **(AAAI2023)** Learning a Generalized Gaze Estimator from Gaze-Consistent Feature [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25406)]
 
-* **UnReGA(CVPR2023)** Source-Free Adaptive Gaze Estimation by Uncertainty Reduction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.html)][[paperswithcode link](https://paperswithcode.com/paper/source-free-adaptive-gaze-estimation-by)][[code|official (not released)](https://github.com/caixin1998/UnReGA)]
+* 👍**UnReGA(CVPR2023)** Source-Free Adaptive Gaze Estimation by Uncertainty Reduction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.html)][[paperswithcode link](https://paperswithcode.com/paper/source-free-adaptive-gaze-estimation-by)][[code|official (not released)](https://github.com/caixin1998/UnReGA)]
 
 
 #### ※ Human Pose Estimation (2D and 3D, Single and Multiple)
