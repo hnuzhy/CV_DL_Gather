@@ -552,3 +552,6 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 * **ImSty(Implicit Stylization)(ICLRW2023)** Implicit Stylization for Domain Adaptation [[openreview link](https://openreview.net/forum?id=fkFFh4fAbH)][[pdf link](https://openreview.net/pdf?id=fkFFh4fAbH)][[workshop homepage](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DG)]
 
 * ⭐**SF-DAPE(ICCV2023)** Source-free Domain Adaptive Human Pose Estimation [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.03202)][[code|not released]()][`Source-free Domain Adaptation`, `hand datasets (RHD→H3D, RHD→FreiHand)`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`]
+
+* **POST(ICCV2023)** Prior-guided Source-free Domain Adaptation for Human Pose Estimation [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.13954)][`Source-free Domain Adaptation`, `Self-training`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`]
+
