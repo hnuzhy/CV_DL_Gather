@@ -137,6 +137,9 @@
 
 * **CUDA-GHR(WACV2023)** CUDA-GHR: Controllable Unsupervised Domain Adaptation for Gaze and Head Redirection [[paper link](https://arxiv.org/abs/2106.10852)][[code|official](https://github.com/jswati31/cuda-ghr)]
 
+* 👍**PJAE(ICCV2023)** Interaction-aware Joint Attention Estimation Using People Attributes [[paper link]()][[arxiv link link](https://arxiv.org/abs/2308.05382)][[project link](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/selection/ICCV2023-PJAE.html)][[code|official](https://github.com/chihina/PJAE)][`Japan`, `Toyota Technological Institute and University of Hyogo`]
+
+
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 
