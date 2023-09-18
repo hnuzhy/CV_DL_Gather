@@ -417,6 +417,8 @@ including `Hand Detection`, `Hand Tracking`, `Hand-Object Contact`, `Hand Pressu
 
 * **RUFormer(ICCV2023)** Nonrigid Object Contact Estimation With Regional Unwrapping Transformer [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.14074)][`Southeast University`, `Nonrigid Object Hand Contact`]
 
+* **HO-NeRF(ICCV2023)** Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.11198)][[project link](https://iscas3dv.github.io/HO-NeRF/)][`Hand-Object Interaction`, `NeRF`]
+
 
 #### ▶Head Part
 including `Head Detection`, `Head Counting`
