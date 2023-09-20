@@ -540,6 +540,7 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 
 #### Datasets
+* [[Head Pose Estimation on AFLW2000](https://paperswithcode.com/sota/head-pose-estimation-on-aflw2000)], [[Head Pose Estimation on BIWI ranking](https://paperswithcode.com/sota/head-pose-estimation-on-biwi)]
 * [BIWI Kinect Head Pose Database: (IJCV2013) Random forests for real time 3d face analysis](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html)[`pitch-yaw-roll`]
 * [300W-LP & AFLW2000: (CVPR2016) Face Alignment Across Large Poses: A 3D Solution](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)[`pitch-yaw-roll`]
 * [LPHD: (ICME2019) LPHD: A Large-Scale Head Pose Dataset for RGB Images](https://ieeexplore.ieee.org/abstract/document/8784950)[`pitch-yaw-roll`][`un-released`]
@@ -645,3 +646,4 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **TokenHPE(CVPR2023)** TokenHPE: Learning Orientation Tokens for Efficient Head Pose Estimation via Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_TokenHPE_Learning_Orientation_Tokens_for_Efficient_Head_Pose_Estimation_via_CVPR_2023_paper.html)][[code|official](https://github.com/zc2023/TokenHPE)][`Transformer-based method`]
 
+* ⭐**DSFNet(CVPR2023)** DSFNet: Dual Space Fusion Network for Occlusion-Robust Dense 3D Face Alignment [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.11522)][[paperwithcode link](https://paperswithcode.com/paper/dsfnet-dual-space-fusion-network-for-1)][[code|official](https://github.com/lhyfst/DSFNet)][`Head Pose Estimation` + `Face Alignment` + `3D Face Reconstruction`]
