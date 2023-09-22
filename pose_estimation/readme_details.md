@@ -359,6 +359,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **HUPOR(ECCV2022)** Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2208.00090)][[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_29)][[code|official](https://github.com/qihao067/HUPOR)] 
 
+* **POTR3D(ICCV2023)** Towards Robust and Smooth 3D Multi-Person Pose Estimation from Monocular Videos in the Wild [[paper link]()][[arxiv link](https://arxiv.org/abs/2309.08644)][`Seoul National University`]
+
 
 ### ▶ Special Multiple Person Pose Estimation
 
