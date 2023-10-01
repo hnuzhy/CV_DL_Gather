@@ -64,11 +64,14 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **MUM (CVPR2022)** MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2111.10958)][[code|official](https://github.com/JongMokKim/mix-unmix)][`data augmentation`, [(arxiv2022.03) Pose-MUM: Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation](https://arxiv.org/abs/2203.07837)]]
 
-* **** [[]()][[]()][[]()]
 
 ### ▶for Semantic Segmentation
 
 * **UniMatch (CVPR2023)** Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2208.09910)][[code|official](https://github.com/LiheYoung/UniMatch)]
+
+### ▶for 6D Object Pose Estimation
+
+* **PseudoFlow(ICCV2023)** Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.10016)][[code|official](https://github.com/yanghai-1218/pseudoflow)]
 
 
 ### ▶for Pose Estimation
