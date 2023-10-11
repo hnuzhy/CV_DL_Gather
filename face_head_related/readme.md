@@ -443,6 +443,8 @@ including `Head Detection`, `Head Counting`
 
 * 👍**Head-body-Tracking(arxiv2023.04)** Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads [[arxiv link](https://arxiv.org/abs/2304.07705)]
 
+* 👍👍**PanoHead(CVPR2023)** PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘ [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/An_PanoHead_Geometry-Aware_3D_Full-Head_Synthesis_in_360deg_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13071)][[project link](https://sizhean.github.io/panohead)][[code|official](https://github.com/SizheAn/PanoHead)]
+
 
 #### ▶Human Parts
 including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Object Reconstruction`, `Human-Aware Object Placement`, `Human-Scene Contact`, `Human-Object Contact`, `Human-Object Interaction Tracking` and `Close Human Interaction`
