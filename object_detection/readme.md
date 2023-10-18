@@ -98,7 +98,13 @@
 
 * **VFNet(arxiv2020)** VarifocalNet: An IoU-aware Dense Object Detector [[arxiv link](https://arxiv.org/abs/2008.13367)][[Codes|offical with MMDetection & PyTorch](https://github.com/hyz-xmaster/VarifocalNet)]
 
+* **GFLV1 (NIPS2020)** Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection [[paper link](https://proceedings.neurips.cc/paper/2020/hash/f0bda020d2470f2e74990a07a607ebd9-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.04388)][[code|official](https://github.com/implus/GFocal)][[`Li Xiang`](https://implus.github.io/), based on `ATSS `]
+
+* **GFLV2 (CVPR2021)** Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Generalized_Focal_Loss_V2_Learning_Reliable_Localization_Quality_Estimation_for_CVPR_2021_paper.html)][[arxiv link](http://arxiv.org/abs/2011.12885)][[code|official](https://github.com/implus/GFocalV2)][[`Li Xiang`](https://implus.github.io/), based on `ATSS `]
+
 * 👍**TOOD(ICCV2021 Oral)** TOOD: Task-aligned One-stage Object Detection [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Feng_TOOD_Task-Aligned_One-Stage_Object_Detection_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.07755)][[project link](https://fcjian.github.io/tood/)][[code|official](https://github.com/fcjian/TOOD)]
+
+* **GFL(QFL + DFL)(TPAMI2022)** Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection [[paper link](https://ieeexplore.ieee.org/abstract/document/9792391/)][[`Li Xiang`](https://implus.github.io/), based on `ATSS `]
 
 
 ### ▶ Detection Transformer (DETR, fully end-to-end)
