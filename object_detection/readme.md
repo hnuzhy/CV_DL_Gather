@@ -98,6 +98,8 @@
 
 * **VFNet(arxiv2020)** VarifocalNet: An IoU-aware Dense Object Detector [[arxiv link](https://arxiv.org/abs/2008.13367)][[Codes|offical with MMDetection & PyTorch](https://github.com/hyz-xmaster/VarifocalNet)]
 
+* 👍**ATSS(CVPR2020 Oral, Best Paper Nomination)** Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection [[paper link](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Bridging_the_Gap_Between_Anchor-Based_and_Anchor-Free_Detection_via_Adaptive_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.02424)][[code|official](https://github.com/sfzhang15/ATSS)][[CSDN blog](https://blog.csdn.net/u014380165/article/details/103795048)][[`Shifeng Zhang`](http://www.cbsr.ia.ac.cn/users/sfzhang/)]
+
 * **GFLV1 (NIPS2020)** Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection [[paper link](https://proceedings.neurips.cc/paper/2020/hash/f0bda020d2470f2e74990a07a607ebd9-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.04388)][[code|official](https://github.com/implus/GFocal)][[`Li Xiang`](https://implus.github.io/), based on `ATSS `]
 
 * **GFLV2 (CVPR2021)** Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Generalized_Focal_Loss_V2_Learning_Reliable_Localization_Quality_Estimation_for_CVPR_2021_paper.html)][[arxiv link](http://arxiv.org/abs/2011.12885)][[code|official](https://github.com/implus/GFocalV2)][[`Li Xiang`](https://implus.github.io/), based on `ATSS `]
