@@ -148,7 +148,7 @@
 
 * **YOLOv5-Lite (github 2021.08)** YOLOv5-Lite：Lighter, faster and easier to deploy [[No published paper]()][[code|official](https://github.com/ppogg/YOLOv5-Lite)]
   
-* **PP-YOLOE (arxiv2022.03)** PP-YOLOE: An evolved version of YOLO [[paper link](https://arxiv.org/abs/2203.16250)][[code|official](https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.4/configs/ppyoloe)][`PaddlePaddle`, `PaddleDetection`, `Baidu`]
+* **PP-YOLOE (arxiv2022.03)** PP-YOLOE: An evolved version of YOLO [[paper link](https://arxiv.org/abs/2203.16250)][[code|official](https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.4/configs/ppyoloe)][`PaddlePaddle`, `PaddleDetection`, `Baidu`, based on the `TAL (task-aligned assignment loss)` proposed in `TOOD`]
   
 * **YOLOv6 (arxiv2022.09)** YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications [[paper link](https://arxiv.org/abs/2209.02976)][[code|official by meituan](https://github.com/meituan/YOLOv6)][[YOLOv6 v3.0: A Full-Scale Reloading (arxiv2023.01)](https://arxiv.org/abs/2301.05586)][`meituan`] 
 
