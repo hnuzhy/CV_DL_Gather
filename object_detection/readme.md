@@ -120,7 +120,7 @@
 
 * **DeFCN (CVPR2021)** End-to-End Object Detection with Fully Convolutional Network [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_End-to-End_Object_Detection_With_Fully_Convolutional_Network_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2012.03544)][[codes|official](https://github.com/Megvii-BaseDetection/DeFCN)][`Megvii BaseDetection`]
 
-* **SparseR-CNN (CVPR2021, TPAMI2023)** Sparse R-CNN: End-to-End Object Detection with Learnable Proposals [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Sparse_R-CNN_End-to-End_Object_Detection_With_Learnable_Proposals_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2011.12450)][[](https://github.com/PeizeSun/SparseR-CNN)]
+* **SparseR-CNN (CVPR2021, TPAMI2023)** Sparse R-CNN: End-to-End Object Detection with Learnable Proposals [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Sparse_R-CNN_End-to-End_Object_Detection_With_Learnable_Proposals_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2011.12450)][[code|official](https://github.com/PeizeSun/SparseR-CNN)]
 
 * **Anchor-DETR (AAAI2022)** Anchor detr: Query design for transformer-based detector [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20158)][`Megvii Technology`]
 
@@ -128,13 +128,15 @@
 
 * **DAB-DETR (ICLR2022)** DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR [[paper link](https://arxiv.org/abs/2201.12329)][[codes|official](https://github.com/SlongLiu/DAB-DETR)]
 
-* **DN-DETR (CVPR2022 OralPaper)** DN-DETR: Accelerate DETR Training by Introducing Query DeNoising [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.html)] [[codes|official](https://github.com/IDEA-Research/DN-DETR)][`IDEA Research`]
+* **DN-DETR (CVPR2022 OralPaper)** DN-DETR: Accelerate DETR Training by Introducing Query DeNoising [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.html)] [[codes|official](https://github.com/IDEA-Research/DN-DETR)][`IDEA Research`, https://www.idea.edu.cn/]
 
 * **DINO (ICLR2023)** DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [[openreview link](https://openreview.net/forum?id=3mRwyG5one)][[arxiv link](https://arxiv.org/abs/2203.03605)][[codes|official](https://github.com/IDEA-Research/DINO)][`IDEA Research`]
 
 * **HDETR (CVPR2023)** DETRs with Hybrid Matching [[arxiv link](https://arxiv.org/abs/2207.13080)][[code|official](https://github.com/HDETR)][[code|official (`H-Deformable-DETR`)](https://github.com/HDETR/H-Deformable-DETR)][[code|official (`H-PETR-3D`)](https://github.com/HDETR/H-PETR-3D)][[code|official (`H-PETR-Pose`)](https://github.com/HDETR/H-PETR-Pose)]
 
 * **DDQ-DETR (CVPR2023)** Dense Distinct Query for End-to-End Object Detection [[arxiv link](https://arxiv.org/abs/2303.12776)][[code|official](https://github.com/jshilong/DDQ)]
+
+* **LiteDETR (CVPR2023)** Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Lite_DETR_An_Interleaved_Multi-Scale_Encoder_for_Efficient_DETR_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.07335)][[code|official](https://github.com/IDEA-Research/Lite-DETR)][`IDEA Research`, https://www.idea.edu.cn/]
 
 * ❤**RT-DETR(arxiv2023)** DETRs Beat YOLOs on Real-time Object Detection [[arxiv link](https://arxiv.org/abs/2304.08069)][[code|official whole-repo](https://github.com/PaddlePaddle/PaddleDetection)][[code|official branch-repo](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr)][[code|reproduced by ultralytics](https://docs.ultralytics.com/models/rtdetr/#overview)][`Baidu`, `PaddlePaddle`, `PaddleDetection`]
 
