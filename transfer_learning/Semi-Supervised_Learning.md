@@ -73,6 +73,16 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for 6D Object Pose Estimation
 
+* **Self6D(ECCV2020)** Self6D: Self-Supervised Monocular 6D Object Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_7)][[arxiv link](https://arxiv.org/abs/2004.06468)][[code|official (Self6D-Diff-Renderer)](https://github.com/THU-DA-6D-Pose-Group/Self6D-Diff-Renderer)][`THU`]
+
+* **Self6D++(TPAMI2021)** Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation [[paper link](https://ieeexplore.ieee.org/document/9655492)][[arxiv link](https://arxiv.org/abs/2203.10339)][[code|official](https://github.com/THU-DA-6D-Pose-Group/self6dpp)][`THU`]
+
+* **NVSM(NIPS2021)** Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[paper link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a61ed715ee66c48bacf237fa7bb5289-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14213)][[code|official](https://github.com/Angtian/NeuralVS)]
+
+* 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task][based on the `matrix Fisher distribution` theory introduced in [(NIPS2020) An Analysis of SVD for Deep Rotation Estimation](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html) and [(NIPS2020) Probabilistic Orientation Estimation with Matrix Fisher Distributions](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)]
+
+* **UCVME(AAAI2023)** Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks [[paper link]()][[arxiv link](https://arxiv.org/abs/2302.07579)][[code | official](https://github.com/xmed-lab/UCVME)][`Semi-Supervised Rotation Regression`]
+
 * **PseudoFlow(ICCV2023)** Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.10016)][[code|official](https://github.com/yanghai-1218/pseudoflow)]
 
 
