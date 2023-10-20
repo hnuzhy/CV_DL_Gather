@@ -25,6 +25,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **Manifold Mixup (ICML2019)** Manifold Mixup: Better Representations by Interpolating Hidden States [[paper link](https://proceedings.mlr.press/v97/verma19a.html)][[arxiv link](https://arxiv.org/abs/1806.05236)][[code|official](https://github.com/vikasverma1077/manifold_mixup)]
 
+* **AutoAugment (CVPR2019)** AutoAugment: Learning Augmentation Policies from Data [[paper link]](https://research.google/pubs/pub47890/)][[arxiv link](https://arxiv.org/abs/1805.09501)][[code|official](https://github.com/tensorflow/models/tree/master/research/autoaugment)][`google`]
+
 * 👍**RandAugment (CVPRW2020)** Randaugment: Practical Automated Data Augmentation With a Reduced Search Space [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1909.13719)][[code|official](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 
 
