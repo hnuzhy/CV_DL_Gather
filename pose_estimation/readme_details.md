@@ -460,7 +460,7 @@ images`]
 * **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][[code is not available]()][`cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
 
 #### ※ Head Pose Estimation / Eye Gaze Estimation
-belonging to the `Domain Adaptive Regression (DGA)` problem
+belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation Regression` problem
 
 * **PADACO(ICCV2019)** Deep Head Pose Estimation Using Synthetic Images and Partial Adversarial Domain Adaption for Continuous Label Spaces [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Kuhnke_Deep_Head_Pose_Estimation_Using_Synthetic_Images_and_Partial_Adversarial_ICCV_2019_paper.html)][[code|official](http://www.tnt.uni-hannover.de/project/headposeplus)][An adversarial training approach based on [`domain adversarial neural networks`](http://proceedings.mlr.press/v37/ganin15.html) is used to force the extraction of domain-invariant features]
 
@@ -490,13 +490,9 @@ belonging to the `Domain Adaptive Regression (DGA)` problem
 
 * **AdaptiveGaze(arxiv2023.05)** Domain-Adaptive Full-Face Gaze Estimation via Novel-View-Synthesis and Feature Disentanglement [[arxiv link](https://arxiv.org/abs/2305.16140)][[code|official](https://github.com/utvision/AdaptiveGaze)][`The University of Tokyo`, `Eye Gaze Estimation`]
 
-* 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task][based on the `matrix Fisher distribution` theory introduced in [(NIPS2020) An Analysis of SVD for Deep Rotation Estimation](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html) and [(NIPS2020) Probabilistic Orientation Estimation with Matrix Fisher Distributions](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)]
-
 * 👍**DARE-GRAM(CVPR2023)** DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.html)][[code|official](https://github.com/ismailnejjar/DARE-GRAM)][HPE domain transfer test for Male --> Female on `BIWI` dataset]
 
 * **(AAAI2023)** Learning a Generalized Gaze Estimator from Gaze-Consistent Feature [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25406)]
-
-* **UCVME(AAAI2023)** Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks [[paper link]()][[arxiv link](https://arxiv.org/abs/2302.07579)][[code | official](https://github.com/xmed-lab/UCVME)][`Semi-Supervised Rotation Regression`]
 
 * 👍**UnReGA(CVPR2023)** Source-Free Adaptive Gaze Estimation by Uncertainty Reduction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.html)][[paperswithcode link](https://paperswithcode.com/paper/source-free-adaptive-gaze-estimation-by)][[code|official (not released)](https://github.com/caixin1998/UnReGA)]
 
