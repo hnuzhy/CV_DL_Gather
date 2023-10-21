@@ -73,9 +73,9 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for 3D Object Detection
 
-* **SESS (CVPR2020 oral)** SESS: Self-Ensembling Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.11803)][[code|official](https://github.com/Na-Z/sess)][`National University of Singapore`]
+* 👍**SESS (CVPR2020 oral)** SESS: Self-Ensembling Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.11803)][[code|official](https://github.com/Na-Z/sess)][`National University of Singapore`]
 
-* **3DIoUMatch (CVPR2021)** 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_3DIoUMatch_Leveraging_IoU_Prediction_for_Semi-Supervised_3D_Object_Detection_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2012.04355)][[code|official](https://github.com/yezhen17/3DIoUMatch)][`Stanford University + Tsinghua University + NVIDIA`]
+* 👍**3DIoUMatch (CVPR2021)** 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_3DIoUMatch_Leveraging_IoU_Prediction_for_Semi-Supervised_3D_Object_Detection_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2012.04355)][[code|official](https://github.com/yezhen17/3DIoUMatch)][`Stanford University + Tsinghua University + NVIDIA`]
 
 * **UpCycling (ICCV2023)** UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2211.11950)][`Seoul National University`]
 
