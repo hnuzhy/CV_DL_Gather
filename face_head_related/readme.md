@@ -373,8 +373,9 @@ including `Crowd Person Detection`, `Pedestrian Detection`， `Crowded Pedestria
 
 * **SSCP (Sample Selection for Crowded Pedestrians)(arxiv2023.05)** Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection [[arxiv link](https://arxiv.org/abs/2305.10801)][`Crowdhuman and Citypersons datasets`]
 
-* **OPL (Optimal Proposal Learning)(CVPR2023)** Optimal Proposal Learning for Deployable End-to-End x [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimal_Proposal_Learning_for_Deployable_End-to-End_Pedestrian_Detection_CVPR_2023_paper.html)][[code is not available]()]
+* **OPL (Optimal Proposal Learning)(CVPR2023)** Optimal Proposal Learning for Deployable End-to-End Pedestrian Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimal_Proposal_Learning_for_Deployable_End-to-End_Pedestrian_Detection_CVPR_2023_paper.html)][[code is not available]()][`BUPT`]
 
+* **LOAF (ICCV2023)** Large-Scale Person Detection and Localization Using Overhead Fisheye Cameras [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Large-Scale_Person_Detection_and_Localization_Using_Overhead_Fisheye_Cameras_ICCV_2023_paper.html)][[project link](https://loafisheye.github.io/)][[arxiv link](https://arxiv.org/abs/2307.08252)][[code|official](https://github.com/BUPT-PRIV/LOAF)][`dataset`, `BUPT-PRIV`]
 
 #### ▶Hand Part
 including `Hand Detection`, `Hand Tracking`, `Hand-Object Contact`, `Hand Pressure Estimation`, `Hand-Object Interaction`, `Hand Contact Reconstruction` and `Hand-Object Manipulation`
@@ -444,6 +445,7 @@ including `Head Detection`, `Head Counting`
 * 👍**Head-body-Tracking(arxiv2023.04)** Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads [[arxiv link](https://arxiv.org/abs/2304.07705)]
 
 * 👍👍**PanoHead(CVPR2023)** PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘ [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/An_PanoHead_Geometry-Aware_3D_Full-Head_Synthesis_in_360deg_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13071)][[project link](https://sizhean.github.io/panohead)][[code|official](https://github.com/SizheAn/PanoHead)]
+
 
 
 #### ▶Human Parts
