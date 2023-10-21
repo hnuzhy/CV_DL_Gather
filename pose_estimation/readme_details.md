@@ -317,6 +317,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * 👍**GroupPose(ICCV2023)** Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Group_Pose_A_Simple_Baseline_for_End-to-End_Multi-Person_Pose_Estimation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.07313)][[code|official Paddle](https://github.com/Michel-liu/GroupPose-Paddle)][[code|official PyTorch](https://github.com/Michel-liu/GroupPose)]
 
+* **BUCTD(ICCV2023)** Rethinking Pose Estimation in Crowds: Overcoming the Detection Information Bottleneck and Ambiguity [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Rethinking_Pose_Estimation_in_Crowds_Overcoming_the_Detection_Information_Bottleneck_ICCV_2023_paper.html)][[project link](https://amathislab.github.io/BUCTD/)][[arxiv link](https://arxiv.org/abs/2306.07879)][[code|official](https://github.com/amathislab/BUCTD)][`EPFL`]
+
+
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
