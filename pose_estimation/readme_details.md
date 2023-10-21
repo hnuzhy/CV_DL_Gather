@@ -446,6 +446,10 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K)]
 
+* **LoTE-Animal (ICCV2023)** LoTE-Animal: A Long Time-span Dataset for Endangered Animal Behavior Understanding [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_LoTE-Animal_A_Long_Time-span_Dataset_for_Endangered_Animal_Behavior_Understanding_ICCV_2023_paper.html)][[project link](https://lote-animal.github.io/)][Animal dataset]
+
+* **Animal3D (ICCV2023)** Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Animal3D_A_Comprehensive_Dataset_of_3D_Animal_Pose_and_Shape_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2308.11737)][[project link](https://xujiacong.github.io/Animal3D/)][based on the `SMAL` model, Animal dataset]
+
 #### ※ Hand Pose Estimation
 
 * **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`a weakly-supervised method with the aid of depth
