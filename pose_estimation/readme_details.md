@@ -273,6 +273,8 @@
 
 * **HrHRNet-CF(CVPR2023)** A Characteristic Function-Based Method for Bottom-Up Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_A_Characteristic_Function-Based_Method_for_Bottom-Up_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
 
+* **BUCTD(ICCV2023)** Rethinking Pose Estimation in Crowds: Overcoming the Detection Information Bottleneck and Ambiguity [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Rethinking_Pose_Estimation_in_Crowds_Overcoming_the_Detection_Information_Bottleneck_ICCV_2023_paper.html)][[project link](https://amathislab.github.io/BUCTD/)][[arxiv link](https://arxiv.org/abs/2306.07879)][[code|official](https://github.com/amathislab/BUCTD)][`EPFL`]
+
 
 ### ▶ Single-Stage Multiple Person Pose Estimation
 
@@ -316,9 +318,6 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 * **PolarPose(TIP2023)** PolarPose: Single-Stage Multi-Person Pose Estimation in Polar Coordinates [[paper link](https://ieeexplore.ieee.org/abstract/document/10034548)]
 
 * 👍**GroupPose(ICCV2023)** Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Group_Pose_A_Simple_Baseline_for_End-to-End_Multi-Person_Pose_Estimation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.07313)][[code|official Paddle](https://github.com/Michel-liu/GroupPose-Paddle)][[code|official PyTorch](https://github.com/Michel-liu/GroupPose)]
-
-* **BUCTD(ICCV2023)** Rethinking Pose Estimation in Crowds: Overcoming the Detection Information Bottleneck and Ambiguity [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Rethinking_Pose_Estimation_in_Crowds_Overcoming_the_Detection_Information_Bottleneck_ICCV_2023_paper.html)][[project link](https://amathislab.github.io/BUCTD/)][[arxiv link](https://arxiv.org/abs/2306.07879)][[code|official](https://github.com/amathislab/BUCTD)][`EPFL`]
-
 
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
