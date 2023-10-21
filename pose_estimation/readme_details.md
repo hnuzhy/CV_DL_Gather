@@ -442,13 +442,20 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)][`Semi-Supervised Keypoint Localization`]
 
+
+
 * ⭐**ScarceNet(CVPR2023)** ScarceNet: Animal Pose Estimation With Scarce Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_ScarceNet_Animal_Pose_Estimation_With_Scarce_Annotations_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.15023)][[code|official](https://github.com/chaneyddtt/ScarceNet)][`Animal Pose`, `Semi-Supervised Keypoint Localization`, based on `HRNet`][`small-loss trick for reliability check` + `agreement check to identify reusable samples` + `student-teacher network (Mean Teacher) to enforce a consistency constraint`]
 
 * 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K), also see [`APT-36K`](https://github.com/pandorgan/APT-36K)]
 
+* **AnimalTrack (IJCV2023)** AnimalTrack: A Benchmark for Multi-Animal Tracking in the Wild [[arxiv link](https://arxiv.org/abs/2205.00158)][[project link](https://hengfan2010.github.io/projects/AnimalTrack/)][[download page](https://hengfan2010.github.io/projects/AnimalTrack/download.html)][`Animal dataset`]
+
 * **LoTE-Animal (ICCV2023)** LoTE-Animal: A Long Time-span Dataset for Endangered Animal Behavior Understanding [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_LoTE-Animal_A_Long_Time-span_Dataset_for_Endangered_Animal_Behavior_Understanding_ICCV_2023_paper.html)][[project link](https://lote-animal.github.io/)][Animal dataset]
 
 * **Animal3D (ICCV2023)** Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Animal3D_A_Comprehensive_Dataset_of_3D_Animal_Pose_and_Shape_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2308.11737)][[project link](https://xujiacong.github.io/Animal3D/)][based on the `SMAL` model, Animal dataset]
+
+
+
 
 #### ※ Hand Pose Estimation
 
