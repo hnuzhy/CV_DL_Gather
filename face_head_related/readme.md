@@ -330,7 +330,9 @@
 
 * **JMLR(ECCVW2022)** Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression [[paper link](https://arxiv.org/abs/2208.07142)][[code|official](https://github.com/deepinsight/insightface/tree/master/reconstruction/jmlr)]
 
+* ⭐**DSFNet(CVPR2023)** DSFNet: Dual Space Fusion Network for Occlusion-Robust Dense 3D Face Alignment [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.11522)][[paperwithcode link](https://paperswithcode.com/paper/dsfnet-dual-space-fusion-network-for-1)][[code|official](https://github.com/lhyfst/DSFNet)][`Head Pose Estimation` + `Face Alignment` + `3D Face Reconstruction`]
 
+* **TokenHead (ICCV2023)** Accurate 3D Face Reconstruction with Facial Component Tokens [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.html)][`THU(Shenzhen)` + `IDEA`]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
