@@ -442,7 +442,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)][`Semi-Supervised Keypoint Localization`]
 
-
+* **AnimalKingdom (CVPR2022)** Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Ng_Animal_Kingdom_A_Large_and_Diverse_Dataset_for_Animal_Behavior_CVPR_2022_paper.html)][[project link](https://sutdcv.github.io/Animal-Kingdom)][[arxiv link](https://arxiv.org/abs/2204.08129)][[code|official](https://github.com/sutdcv/Animal-Kingdom)]
 
 * ⭐**ScarceNet(CVPR2023)** ScarceNet: Animal Pose Estimation With Scarce Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_ScarceNet_Animal_Pose_Estimation_With_Scarce_Annotations_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.15023)][[code|official](https://github.com/chaneyddtt/ScarceNet)][`Animal Pose`, `Semi-Supervised Keypoint Localization`, based on `HRNet`][`small-loss trick for reliability check` + `agreement check to identify reusable samples` + `student-teacher network (Mean Teacher) to enforce a consistency constraint`]
 
