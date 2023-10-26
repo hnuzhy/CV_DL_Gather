@@ -127,13 +127,12 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **TTA-COPE (CVPR2023)** TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_TTA-COPE_Test-Time_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.16730)][[project link](https://sites.google.com/view/taeyeop-lee/ttacope)][`The proposed pose ensemble and the self-training loss improve category-level object pose performance during test time under both semi-supervised and unsupervised settings.`]
 
-* 👍**PseudoFlow(ICCV2023)** Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Hai_Pseudo_Flow_Consistency_for_Self-Supervised_6D_Object_Pose_Estimation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.10016)][[code|official](https://github.com/yanghai-1218/pseudoflow)][[`Yang Hai(海洋)`](https://yanghai-1218.github.io/)]
+* 👍**PseudoFlow(ICCV2023)** Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Hai_Pseudo_Flow_Consistency_for_Self-Supervised_6D_Object_Pose_Estimation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.10016)][[code|official](https://github.com/yanghai-1218/pseudoflow)][[`Yang Hai(海洋)`](https://yanghai-1218.github.io/), [`Yinlin Hu (胡银林)`](https://yinlinhu.github.io/)]
 
 
 ### ▶for Crowd Counting
 
 * **SSCC (ICCV2023)** Calibrating Uncertainty for Semi-Supervised Crowd Counting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/LI_Calibrating_Uncertainty_for_Semi-Supervised_Crowd_Counting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.09887)][`Stony Brook University`]
-
 
 
 ---
