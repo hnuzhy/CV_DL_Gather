@@ -81,14 +81,15 @@ also including `self-supervised learning` and `unsupervised learning`
 * **MUM (CVPR2022)** MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2111.10958)][[code|official](https://github.com/JongMokKim/mix-unmix)][`data augmentation`, [(arxiv2022.03) Pose-MUM: Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation](https://arxiv.org/abs/2203.07837)]]
 
 
+### ▶for Semantic Segmentation
+
+* **UniMatch (CVPR2023)** Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2208.09910)][[code|official](https://github.com/LiheYoung/UniMatch)]
+
+
 ### ▶for Pose Estimation
 
 * Please refer [[Transfer Learning of Multiple Person Pose Estimation](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#-transfer-learning-of-multiple-person-pose-estimation)]
 
-
-### ▶for Semantic Segmentation
-
-* **UniMatch (CVPR2023)** Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2208.09910)][[code|official](https://github.com/LiheYoung/UniMatch)]
 
 ### ▶for 3D Object Detection
 
