@@ -83,7 +83,7 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for Pose Estimation
 
-* Please refer [[Domain Adaptive Multiple Person Pose Estimation](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#-domain-adaptive-multiple-person-pose-estimation)]
+* Please refer [[Transfer Learning of Multiple Person Pose Estimation](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#-transfer-learning-multiple-person-pose-estimation)]
 
 
 ### ▶for Semantic Segmentation
