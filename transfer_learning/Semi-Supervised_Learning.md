@@ -132,7 +132,16 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for Crowd Counting
 
+* **MTCP(TNNLS2023)** Multi-Task Credible Pseudo-Label Learning for Semi-Supervised Crowd Counting [[paper link](https://ieeexplore.ieee.org/abstract/document/10040995)][[code|official](https://github.com/ljq2000/MTCP)][`TJU`]
+
 * **SSCC (ICCV2023)** Calibrating Uncertainty for Semi-Supervised Crowd Counting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/LI_Calibrating_Uncertainty_for_Semi-Supervised_Crowd_Counting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.09887)][`Stony Brook University`]
+
+
+### ▶for 3D Hand-Object
+
+* **Semi-Hand-Object(CVPR2021)** Semi-Supervised 3D Hand-Object Poses Estimation With Interactions in Time [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Semi-Supervised_3D_Hand-Object_Poses_Estimation_With_Interactions_in_Time_CVPR_2021_paper.html)][[arxiv link](http://arxiv.org/abs/2106.05266)][[project link](https://stevenlsw.github.io/Semi-Hand-Object/)][[code|official](https://github.com/stevenlsw/Semi-Hand-Object)][trained on `HO3D` dataset, `UC San Diego` and `NVIDIA`]
+
+* **S2Contact(ECCV2022)** S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning [[paper link]](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_33)][[arxiv link](https://arxiv.org/abs/2208.00874)][[project link](https://eldentse.github.io/s2contact/)][[code|official](https://github.com/eldentse/s2contact)][`University of Birmingham, UNIST, SUSTech`]
 
 
 ---
