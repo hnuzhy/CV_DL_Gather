@@ -12,6 +12,7 @@ also including `self-supervised learning` and `unsupervised learning`
   * **[▶ for 3D Object Detection](#for-3d-object-detection)**
   * **[▶ for 6D Object Pose Estimation](#for-6d-object-pose-estimation)**
   * **[▶ for Crowd Counting](#for-crowd-counting)**
+  * **[▶ for 3D Hand-Object](#for-3d-hand-object)**
 * **[2) Papers (Self-Supervised Learning or Unsupervised Learning)](#papers-self-supervised-learning-or-unsupervised-learning)**
   * **[▶ for Image Classification](#for-image-classification-1)**
 
