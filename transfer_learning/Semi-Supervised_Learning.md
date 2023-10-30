@@ -118,6 +118,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **NVSM(NIPS2021)** Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[paper link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a61ed715ee66c48bacf237fa7bb5289-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14213)][[code|official](https://github.com/Angtian/NeuralVS)]
 
+* **ViewNet(ICCV2021)** ViewNet: Unsupervised Viewpoint Estimation From Conditional Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Mariotti_ViewNet_Unsupervised_Viewpoint_Estimation_From_Conditional_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2212.00435)][`Unsupervised Learning`, trained on `PASCAL3D+`, `University of Edinburgh`]
+
 * **DSC-PoseNet(CVPR2021)** DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_DSC-PoseNet_Learning_6DoF_Object_Pose_Estimation_via_Dual-Scale_Consistency_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.03658)][[code is not available]()][`Baidu Research`, a self-supervised manner, needing 2D bounding boxes]
 
 * **zero-shot-pose(ECCV2022)** Zero-Shot Category-Level Object Pose Estimation [[[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_30)][[arxiv link](https://arxiv.org/abs/2204.03635)][[code|official](https://github.com/applied-ai-lab/zero-shot-pose)][`Zero-shot`, `University of Oxford`, on the dataset `CO3D`, `the authors re-annotated 10 sequences from each of 20 categories with ground-truth poses.`, `all baselines are reproduced by the authors.`]
