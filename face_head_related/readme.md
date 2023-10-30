@@ -357,6 +357,9 @@
 
 * **(CHI2021)** Gaze-Supported 3D Object Manipulation in Virtual Reality [`Input / Spatial Interaction / Practice Support`, `investigates integration, coordination, and transition strategies of gaze and hand input for 3D object manipulation in VR`, `help guide the design of future VR systems that incorporate gaze input for 3D object manipulation`]
 
+* **ARnnotate(UIST2022)(CCF-A)** ARnnotate: An Augmented Reality Interface for Collecting Custom Dataset of 3D Hand-Object Interaction Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3526113.3545663)][[pdf link](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2022/11/ARnnotate_CameraReady.pdf)][`Purdue University`, application in `Augmented Reality`]
+
+
 
 #### ▶Body/Person
 including `Crowd Person Detection`, `Pedestrian Detection`， `Crowded Pedestrian Detection`
