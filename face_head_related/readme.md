@@ -355,10 +355,13 @@
 
 * 👍**SoloFinger (CHI2021)** SoloFinger: Robust Microgestures while Grasping Everyday Objects [[paper link](https://dl.acm.org/doi/10.1145/3411764.3445197)][[project link](https://hci.cs.uni-saarland.de/projects/solofinger/)][`Input / Spatial Interaction / Practice Support`, `36 everyday hand-object actions`, `simple SoloFinger gestures can relieve the need for complex finger configurations or delimiting gestures`]
 
-* **(CHI2021)** Gaze-Supported 3D Object Manipulation in Virtual Reality [`Input / Spatial Interaction / Practice Support`, `investigates integration, coordination, and transition strategies of gaze and hand input for 3D object manipulation in VR`, `help guide the design of future VR systems that incorporate gaze input for 3D object manipulation`]
+* **Gaze-Supported (CHI2021)** Gaze-Supported 3D Object Manipulation in Virtual Reality [[paper link](https://dl.acm.org/doi/abs/10.1145/3411764.3445343)][`Input / Spatial Interaction / Practice Support`, `investigates integration, coordination, and transition strategies of gaze and hand input for 3D object manipulation in VR`, `help guide the design of future VR systems that incorporate gaze input for 3D object manipulation`]
 
-* **ARnnotate(UIST2022)(CCF-A)** ARnnotate: An Augmented Reality Interface for Collecting Custom Dataset of 3D Hand-Object Interaction Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3526113.3545663)][[pdf link](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2022/11/ARnnotate_CameraReady.pdf)][`Purdue University`, application in `Augmented Reality`]
+* **ARnnotate (UIST2022)(CCF-A)** ARnnotate: An Augmented Reality Interface for Collecting Custom Dataset of 3D Hand-Object Interaction Pose Estimation [[paper link](https://dl.acm.org/doi/abs/10.1145/3526113.3545663)][[pdf link](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2022/11/ARnnotate_CameraReady.pdf)][`Purdue University`, application in `Augmented Reality`]
 
+* **Ubi-TOUCH (UIST2023)(CCF-A)** Ubi-TOUCH: Ubiquitous Tangible Object Utilization through Consistent Hand-object interaction in Augmented Reality [[paper link](https://dl.acm.org/doi/abs/10.1145/3586183.3606793)][`Purdue University`, application in `Augmented Reality`]
+
+* **InstruMentAR (CHI2023)** InstruMentAR: Auto-Generation of Augmented Reality Tutorials for Operating Digital Instruments Through Recording Embodied Demonstration [[paper link](https://dl.acm.org/doi/abs/10.1145/3544548.3581442)][[pdf link](https://3dvar.com/Liu2023InstruMentAR.pdf)][`Purdue University`, application in `Augmented Reality`]
 
 
 #### ▶Body/Person
