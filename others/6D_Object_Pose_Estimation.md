@@ -74,7 +74,7 @@ Also named ***3D Object Detection***
 
 * ❤**PVNet(CVPR2019 Oral)** PVNet: Pixel-Wise Voting Network for 6DoF Pose Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Peng_PVNet_Pixel-Wise_Voting_Network_for_6DoF_Pose_Estimation_CVPR_2019_paper.html)][[codes|official](https://zju3dv.github.io/pvnet/)]
 
-* **NOCS(CVPR2019 Oral)** Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.html)][[project link](https://geometry.stanford.edu/projects/NOCS_CVPR2019/)][[codes & datasets|official keras and tensorflow](https://github.com/hughw19/NOCS_CVPR2019)]
+* 👍👍**NOCS(CVPR2019 Oral)** Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.html)][[project link](https://geometry.stanford.edu/projects/NOCS_CVPR2019/)][[codes & datasets|official keras and tensorflow](https://github.com/hughw19/NOCS_CVPR2019)][[`He Wang (王鹤)`](https://hughw19.github.io/)]
 
 * **DPOD(ICCV2019)** DPOD: 6D Pose Object Detector and Refiner [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.html)][[codes|PyTorch](https://github.com/zakharos/DPOD)]
 
