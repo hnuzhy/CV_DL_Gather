@@ -100,6 +100,8 @@ Also named ***3D Object Detection***
 
 * ❤**Objectron(CVPR2021)(Training Codes ╳)(Annotation Tool ╳)]** Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild With Pose Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmadyan_Objectron_A_Large_Scale_Dataset_of_Object-Centric_Videos_in_the_CVPR_2021_paper.html)][[codes|PyTorch+TensorFlow](https://github.com/google-research-datasets/Objectron)][[official blog 1: MediaPipe](https://mediapipe.dev/)][[official blog 2: MediaPipe Objectron](https://google.github.io/mediapipe/solutions/objectron)]
 
+* **CPPF(CVPR2022)** CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/You_CPPF_Towards_Robust_Category-Level_9D_Pose_Estimation_in_the_Wild_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.03089)][[code|official](https://github.com/qq456cvb/CPPF)][[`Yang You (尤洋)`](https://qq456cvb.github.io/)]
+
 * **SAR-Net(CVPR2022)** SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation [[paper link](https://arxiv.org/abs/2106.14193)][[project link](https://hetolin.github.io/SAR-Net/)][[codes|official](https://github.com/hetolin/SAR-Net)]
 
 * **OVE6D-pose(CVPR2022)** OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation [[paper link](https://arxiv.org/pdf/2203.01072.pdf)][[project link](https://dingdingcai.github.io/ove6d-pose/)][[codes|official](https://github.com/dingdingcai/OVE6D-pose)]
