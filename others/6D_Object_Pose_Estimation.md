@@ -106,7 +106,7 @@ Also named ***3D Object Detection***
 
 * **OVE6D-pose(CVPR2022)** OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation [[paper link](https://arxiv.org/pdf/2203.01072.pdf)][[project link](https://dingdingcai.github.io/ove6d-pose/)][[codes|official](https://github.com/dingdingcai/OVE6D-pose)]
 
-* **OnePose(CVPR2022)** OnePose: One-Shot Object Pose Estimation without CAD Models [[paper link](https://arxiv.org/pdf/2205.12257.pdf)][[project link](https://zju3dv.github.io/onepose/)][[codes|official](https://github.com/zju3dv/OnePose)][`ZJU + Objectron`]
+* **OnePose(CVPR2022)** OnePose: One-Shot Object Pose Estimation without CAD Models [[paper link](https://arxiv.org/pdf/2205.12257.pdf)][[project link](https://zju3dv.github.io/onepose/)][[codes|official](https://github.com/zju3dv/OnePose)][`ZJU + Objectron`, [`Jiaming Sun 孙佳明`](https://jiamingsun.ml/)]
 
 * **Gen6D(ECCV2022)** Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [[paper link](https://arxiv.org/abs/2204.10776)][[project link](https://liuyuan-pal.github.io/Gen6D/)][[codes|on the way]()]
 
@@ -115,6 +115,8 @@ Also named ***3D Object Detection***
 * ❤**CenterPose(ICRA2022)(Training with CenterNet and Objectron)** Single-stage Keypoint-based Category-level Object Pose Estimation from an RGB Image [[paper link](https://arxiv.org/abs/2109.06161)][[project link](https://sites.google.com/view/centerpose)][[author homepage](https://yunzhi.netlify.app/)][[codes|official PyTorch](https://github.com/NVlabs/CenterPose)][`Nvidia + Objectron + one-stage + end2end`][based on `FADNet` (https://github.com/gtzly/FADNet) and `CenterNet` (https://github.com/xingyizhou/CenterNet)]
 
 * 👍**EPro-PnP(CVPR2022 Oral, Best Student Paper)** EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf)][[code|official](https://github.com/tjiiv-cprg/EPro-PnP)]
+
+* **OnePose++(NIPS2022)** OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e43f900f571de6c96a70d5724a0fb565-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2301.07673)][[project link](https://zju3dv.github.io/onepose_plus_plus/)][[code|official](https://github.com/zju3dv/OnePose_Plus_Plus)][`ZJU`, [`Jiaming Sun 孙佳明`](https://jiamingsun.ml/)]
 
 * 👍**VI-Net(ICCV2023)** VI-Net: Boosting Category-level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_VI-Net_Boosting_Category-level_6D_Object_Pose_Estimation_via_Learning_Decoupled_ICCV_2023_paper.html)][[arxivl ink](https://arxiv.org/abs/2308.09916)][[code|official](https://github.com/JiehongLin/VI-Net)]
 
