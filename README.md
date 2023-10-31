@@ -70,7 +70,9 @@
 * [**3D Body Model Regression**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/3D_Body_Model_Regression.md)
 * [**6D Object Pose Estimation**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/6D_Object_Pose_Estimation.md)
 * [**Generative Adversarial Network**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/Generative_Adversarial_Network.md)
+* [**Domain Adaptation**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/transfer_learning/Domain_Adaptation.md)
 * [**Semi-Supervised Learning**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/transfer_learning/Semi-Supervised_Learning.md)
+
 
 
 ## Other Collection Depository
