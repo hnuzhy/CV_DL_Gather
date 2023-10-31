@@ -48,6 +48,13 @@ Also named ***3D Object Detection***
 
 ## Papers
 
+### ⭐3D Point Cloud
+
+* **👍 PointNet(CVPR2017)** PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[paper link](http://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html)][[arxiv link](https://arxiv.org/abs/1612.00593)][[project link](https://stanford.edu/~rqi/pointnet/)][[code|official](https://github.com/charlesq34/pointnet)][[zhihu blog](https://zhuanlan.zhihu.com/p/264627148)][`Stanford University`, [`Charles Ruizhongtai Qi`](https://charlesrqi.com/)]
+
+* **👍 PointNet++(NIPS2017)** PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space [[paper link](https://proceedings.neurips.cc/paper_files/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)][[arxiv link](https://arxiv.org/abs/1706.02413)][[project link](https://stanford.edu/~rqi/pointnet2/)][[code|official](https://github.com/charlesq34/pointnet2)][[zhihu blog](https://zhuanlan.zhihu.com/p/266324173)][`Stanford University`, [`Charles Ruizhongtai Qi`](https://charlesrqi.com/)]
+
+
 ### ⭐3D Object Detection
 
 * ❤ **3D-BoundingBox(CVPR2017)** 3D Bounding Box Estimation Using Deep Learning and Geometry [[paper link](https://arxiv.org/abs/1612.00496)][[codes|official PyTorch](https://github.com/skhadem/3D-BoundingBox)]
