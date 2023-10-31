@@ -106,6 +106,8 @@ Also named ***3D Object Detection***
 
 * **OVE6D-pose(CVPR2022)** OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation [[paper link](https://arxiv.org/pdf/2203.01072.pdf)][[project link](https://dingdingcai.github.io/ove6d-pose/)][[codes|official](https://github.com/dingdingcai/OVE6D-pose)]
 
+* **OSOP(CVPR2022)** OSOP: A Multi-Stage One Shot Object Pose Estimation Framework [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Shugurov_OSOP_A_Multi-Stage_One_Shot_Object_Pose_Estimation_Framework_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.15533)][[code is not available]()][`TU Munich`]
+
 * **OnePose(CVPR2022)** OnePose: One-Shot Object Pose Estimation without CAD Models [[paper link](https://arxiv.org/pdf/2205.12257.pdf)][[project link](https://zju3dv.github.io/onepose/)][[codes|official](https://github.com/zju3dv/OnePose)][`ZJU + Objectron`, [`Jiaming Sun 孙佳明`](https://jiamingsun.ml/), [`Xiaowei Zhou 周晓巍`](https://xzhou.me/)]
 
 * **Gen6D(ECCV2022)** Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [[paper link](https://arxiv.org/abs/2204.10776)][[project link](https://liuyuan-pal.github.io/Gen6D/)][[codes|official](https://github.com/liuyuan-pal/Gen6D)][`The University of Hong Kong`, [`Yuan Liu (刘缘)`](https://liuyuan-pal.github.io/)]
