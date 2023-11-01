@@ -45,13 +45,13 @@ also named ***Deep Generative Framework***
 
 ## 3) Surveys
 
-* **(arxiv2022)** Synthetic Data in Human Analysis: A Survey [[paper link](https://arxiv.org/abs/2208.09191)][`Synthetic Data usually needs GAN`]
-* **(arxiv2022)** NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [[paper link](https://arxiv.org/abs/2210.00379)][`Neural Radiance Field`]
+* **(arxiv2022.08)** Synthetic Data in Human Analysis: A Survey [[paper link](https://arxiv.org/abs/2208.09191)][`Synthetic Data usually needs GAN`]
+* **(arxiv2022.10)** NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [[paper link](https://arxiv.org/abs/2210.00379)][`Neural Radiance Field`]
+* **(arxiv2023.10)** State of the Art on Diffusion Models for Visual Computing [[paper link](https://arxiv.org/abs/2310.07204)][`Diffusion Models for Visual Computing`, `Stanford University`]
 
 ## 4) Superstars
 
 * **DragGAN(SIGGRAPH2023)** Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold [[pdf link](https://vcai.mpi-inf.mpg.de/projects/DragGAN/data/paper.pdf)][[project link](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)][[code|official](https://github.com/XingangPan/DragGAN)][`MPII`, `MIT`, `Google`]
-
 
 
 ## 5) Papers
