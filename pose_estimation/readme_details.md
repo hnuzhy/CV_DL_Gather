@@ -22,7 +22,9 @@
     * **[※ Head Pose Estimation / Eye Gaze Estimation](#-head-pose-estimation--eye-gaze-estimation)**
     * **[※ Human Pose Estimation (2D and 3D, Single and Multiple)](#-human-pose-estimation-2d-and-3d-single-and-multiple)**
   * **[▶ Keypoints Detection Meets Large Language Model](#-Keypoints-Detection-Meets-Large-Language-Model)**
+  * **[▶ Keypoints for Human Motion Generation](#-Keypoints-for-Human-Motion-Generation)**
 
+  
 #  List for public implementation of various algorithms
 
 ## 1) Pubilc Datasets and Challenges
@@ -573,4 +575,16 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 * **UniPose(arxiv2023.10)(under review in ICLR2024)** UniPose: Detecting Any Keypoints [[openreview link](https://openreview.net/forum?id=v2J205zwlu)][[arxiv link](https://arxiv.org/abs/2310.08530)][[project link](https://yangjie-cv.github.io/UniPose/)][[code|official](https://github.com/IDEA-Research/UniPose)][`IDEA-Research`, `using visual or textual prompts`]
 
 
+### ▶ Keypoints for Human Motion Generation
+**Motion Synthesis / Motion Diffusion Model**
+
+* **MoFusion(CVPR2023)** MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Dabral_Mofusion_A_Framework_for_Denoising-Diffusion-Based_Motion_Synthesis_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2212.04495)][[project link](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)][code is not avaliable][`MPII`]
+
+* **GMD(ICCV2023)** Guided Motion Diffusion for Controllable Human Motion Synthesis [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Karunratanakul_Guided_Motion_Diffusion_for_Controllable_Human_Motion_Synthesis_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.12577)][[project link](https://korrawe.github.io/gmd-project/)][[code|official](https://github.com/korrawe/guided-motion-diffusion)][`ETH`]
+
+* **PhysDiff(ICCV2023 Oral)** PhysDiff: Physics-Guided Human Motion Diffusion Model [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Yuan_PhysDiff_Physics-Guided_Human_Motion_Diffusion_Model_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2212.02500)][[project link](https://nvlabs.github.io/PhysDiff/)][code is not avaliable][`NVIDIA`]
+
+* **InterDiff(ICCV2023)** InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_InterDiff_Generating_3D_Human-Object_Interactions_with_Physics-Informed_Diffusion_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.16905)][[project link](https://sirui-xu.github.io/InterDiff/)][[code|official](https://github.com/Sirui-Xu/InterDiff)][`University of Illinois at Urbana-Champaign`, `Human-Object Interactions`]
+
+* **OmniControl(arxiv2023.10)** OmniControl: Control Any Joint at Any Time for Human Motion Generation [[arxiv link](https://arxiv.org/abs/2310.08580)][[project link](https://neu-vi.github.io/omnicontrol/)][[code|official](https://github.com/neu-vi/omnicontrol)][`Northeastern University + Google Research`]
 
