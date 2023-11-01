@@ -16,7 +16,6 @@
   * **[▶ Special Multiple Person Pose Estimation](#-Special-Multiple-Person-Pose-Estimation)**
   * **[▶ Transfer Learning of Multiple Person Pose Estimation](#-Transfer-Learning-of-Multiple-Person-Pose-Estimation)**
     * **[※ Active Learning for Pose](#-active-learning-for-pose)**
-    * **[※ Object Pose Estimation](#-object-pose-estimation)**
     * **[※ Pose in Real Classroom](#-pose-in-real-classroom)**
     * **[※ Animal Pose Estimation](#-animal-pose-estimation)**
     * **[※ Hand Pose Estimation](#-hand-pose-estimation)**
