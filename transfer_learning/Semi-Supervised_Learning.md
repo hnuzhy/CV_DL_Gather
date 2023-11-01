@@ -104,6 +104,14 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **MUM (CVPR2022)** MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2111.10958)][[code|official](https://github.com/JongMokKim/mix-unmix)][`data augmentation`, [(arxiv2022.03) Pose-MUM: Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation](https://arxiv.org/abs/2203.07837)]]
 
+* **ARSL (CVPR2023)** Ambiguity-Resistant Semi-Supervised Learning for Dense Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Ambiguity-Resistant_Semi-Supervised_Learning_for_Dense_Object_Detection_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.14960)][[code|official of PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)][`PaddleDetection`]
+
+* **MixTeacher (CVPR2023)** MixTeacher: Mining Promising Labels With Mixed Scale Teacher for Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_MixTeacher_Mining_Promising_Labels_With_Mixed_Scale_Teacher_for_Semi-Supervised_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.09061)][[code|official](https://github.com/lliuz/MixTeacher)]
+
+* **Semi-DETR (CVPR2023)** Semi-DETR: Semi-Supervised Object Detection With Detection Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Semi-DETR_Semi-Supervised_Object_Detection_With_Detection_Transformers_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08095)][[code|official](https://github.com/JCZ404/Semi-DETR)][`SYSU`]
+
+* **Consistent-Teacher (CVPR2023)** Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Consistent-Teacher_Towards_Reducing_Inconsistent_Pseudo-Targets_in_Semi-Supervised_Object_Detection_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2209.01589)][[project link](https://adamdad.github.io/consistentteacher/)][[code|official](https://github.com/Adamdad/ConsistentTeacher)][`SenseTime Research`]
+
 
 ### ▶for Semantic Segmentation
 
@@ -175,7 +183,15 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for Crowd Counting
 
+* **IRAST(ECCV2020)** Semi-supervised Crowd Counting via Self-training on Surrogate Tasks [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_15)][[arxiv link](https://arxiv.org/abs/2007.03207)][`Sichuan University`]
+
+* **UA_crowd_counting(ICCV2021)** Spatial Uncertainty-Aware Semi-Supervised Crowd Counting [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2107.13271)][[code|official](https://github.com/smallmax00/SUA_crowd_counting)]
+
 * **MTCP(TNNLS2023)** Multi-Task Credible Pseudo-Label Learning for Semi-Supervised Crowd Counting [[paper link](https://ieeexplore.ieee.org/abstract/document/10040995)][[code|official](https://github.com/ljq2000/MTCP)][`TJU`]
+
+* **OPT(CVPR2023)** Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Optimal_Transport_Minimization_Crowd_Localization_on_Density_Maps_for_Semi-Supervised_CVPR_2023_paper.html)][[code|official](https://github.com/Elin24/OT-M)]
+
+* **CrowdCLIP(CVPR2023)** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liang_CrowdCLIP_Unsupervised_Crowd_Counting_via_Vision-Language_Model_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.04231)][[code|official](https://github.com/dk-liang/CrowdCLIP)][`HUST`]
 
 * **SSCC (ICCV2023)** Calibrating Uncertainty for Semi-Supervised Crowd Counting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/LI_Calibrating_Uncertainty_for_Semi-Supervised_Crowd_Counting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.09887)][`Stony Brook University`]
 
