@@ -112,6 +112,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for 6D Object Pose Estimation
 
+* **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`Domain Adaptation`, `6D Object Detection`, `3D Object Pose Estimation`]
+
 * **Self6D(ECCV2020)** Self6D: Self-Supervised Monocular 6D Object Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_7)][[arxiv link](https://arxiv.org/abs/2004.06468)][[code|official (Self6D-Diff-Renderer)](https://github.com/THU-DA-6D-Pose-Group/Self6D-Diff-Renderer)][`THU`]
 
 * **Self6D++(TPAMI2021)** Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation [[paper link](https://ieeexplore.ieee.org/document/9655492)][[arxiv link](https://arxiv.org/abs/2203.10339)][[code|official](https://github.com/THU-DA-6D-Pose-Group/self6dpp)][`THU`]
@@ -133,6 +135,8 @@ also including `self-supervised learning` and `unsupervised learning`
 * 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task][based on the `matrix Fisher distribution` theory introduced in [(NIPS2020) An Analysis of SVD for Deep Rotation Estimation](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html) and [(NIPS2020) Probabilistic Orientation Estimation with Matrix Fisher Distributions](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)]
 
 * **SSC-6D(AAAI2022)** Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20104)][[code|official](https://github.com/swords123/SSC-6D)][`Dalian University of Technology`]
+
+* **MAST(IJCAI2023)** Manifold-Aware Self-Training for Unsupervised Domain Adaptation on Regressing 6D Object Pose [[paper link](https://www.ijcai.org/proceedings/2023/0193.pdf)][[arxiv link](https://arxiv.org/abs/2305.10808)][`Domain Adaptation`, `Self-Training`]
 
 * 👍**self-pose(ICLR2023)(arxiv 2022.10)** Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild [[openreview link](https://openreview.net/forum?id=ZKDUlVMqG_O)][[arxiv link](https://arxiv.org/abs/2210.07199)][[project link](https://kywind.github.io/self-pose)][[code|official](https://github.com/kywind/self-corr-pose)][training and testing on `Wild6D`, [`Kaifeng Zhang`](https://kywind.github.io/), second author is [`Yang Fu 付旸`](https://oasisyang.github.io/)]
 
