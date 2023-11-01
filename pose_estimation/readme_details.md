@@ -22,7 +22,7 @@
     * **[※ Head Pose Estimation / Eye Gaze Estimation](#-head-pose-estimation--eye-gaze-estimation)**
     * **[※ 3D Human Pose Estimation](#-3d-human-pose-estimation)**
     * **[※ 2D Human Pose Estimation (Single and Multiple)](#-2d-human-pose-estimation-single-and-multiple)**
-  * **[▶ Keypoints Detection Meets Large Language Model](#-Keypoints-Detection-Meets-Large-Language-Model)**
+  * **[▶ Keypoints Meet Large Language Model](#-Keypoints-Meet-Large-Language-Model)**
   * **[▶ Keypoints for Human Motion Generation](#-Keypoints-for-Human-Motion-Generation)**
 
   
@@ -571,10 +571,12 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 * **Pseudo-Heatmaps(arxiv2023.10)** Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2310.00099)][based on the `DualPose (ICCV2021)`, do not compare with `SSPCM(CVPR2023)`]
 
 
-### ▶ Keypoints Detection Meets Large Language Model
+### ▶ Keypoints Meet Large Language Model
 **Large Language Model / Large Vision Model / Vision-Language Model for Human / Animals / Anything**
 
 * 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`CLIP`, `Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K), also see [`APT-36K`](https://github.com/pandorgan/APT-36K)]
+
+* **PoseFix(ICCV2023)** PoseFix: Correcting 3D Human Poses with Natural Language [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Delmas_PoseFix_Correcting_3D_Human_Poses_with_Natural_Language_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2309.08480)][[code|official](https://europe.naverlabs.com/research/computer-vision/posefix/)]
 
 * **UniAP(arxiv2023.08)** UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning [[arxiv link](https://arxiv.org/abs/2308.09953)][`CLIP`, `ZJU`, `Few-shot Learning`, `various perception tasks including pose estimation, segmentation, and classification tasks`]
 
