@@ -218,6 +218,8 @@
 
 * **PCT(CVPR2023)** Human Pose as Compositional Tokens [[arxiv link](https://arxiv.org/abs/2303.11638)][[code|official](https://github.com/Gengzigang/PCT)][`Transformer-based`]
 
+* **DistilPose(CVPR2023)** DistilPose: Tokenized Pose Regression With Heatmap Distillation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Ye_DistilPose_Tokenized_Pose_Regression_With_Heatmap_Distillation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.02455)][[code|offical](https://github.com/yshMars/DistilPose)][`Xia Men University`, `Regression-based`, Transformer]
+
 * **BCIR(Bias Compensated Integral Regression)(TPAMI2023)** Bias-Compensated Integral Regression for Human Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10093110)][[arxiv link](https://arxiv.org/abs/2301.10431)][`A model-agnostic approach`, `Plug-and-Play`]
 
 * **ICON(AAAI2023)** Inter-image Contrastive Consistency for Multi-Person Pose Estimation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25410)][`Xixia Xu`, `No code`, sever as a play-in-plug]
