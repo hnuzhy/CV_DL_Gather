@@ -22,7 +22,7 @@
     * **[※ Hand Pose Estimation](#-hand-pose-estimation)**
     * **[※ Head Pose Estimation / Eye Gaze Estimation](#-head-pose-estimation--eye-gaze-estimation)**
     * **[※ Human Pose Estimation (2D and 3D, Single and Multiple)](#-human-pose-estimation-2d-and-3d-single-and-multiple)**
-
+  * **[▶ Keypoints Detection Meets Large Language Model](#-Keypoints-Detection-Meets-Large-Language-Model)**
 
 #  List for public implementation of various algorithms
 
@@ -420,12 +420,6 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **VL4Pose(BMVC2022)** VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation [[arxiv link](https://arxiv.org/abs/2210.06028)][[code|official](https://github.com/meghshukla/ActiveLearningForHumanPose)][with tasks of single `human pose` and `hand pose`]
 
-#### ※ Object Pose Estimation
-
-* **multipath(CVPR2020)** Multi-Path Learning for Object Pose Estimation Across Domains [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html)][[code|official](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath)][`6D Object Detection`, `3D Object Pose Estimation`]
-
-* **MAST(IJCAI2023)** Manifold-Aware Self-Training for Unsupervised Domain Adaptation on Regressing 6D Object Pose [[paper link]()][[arxiv link](https://arxiv.org/abs/2305.10808)]
-
 #### ※ Pose in Real Classroom
 
 * 👍**SynPose(ICASSP2022)** Synpose: A Large-Scale and Densely Annotated Synthetic Dataset for Human Pose Estimation in Classroom [[paper link](https://ieeexplore.ieee.org/abstract/document/9747453)][[project link](https://yuzefang96.github.io/SynPose/)][`Based on GTA-V, CycleGAN, ST-GCN and DEKR`]
@@ -446,15 +440,11 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * ⭐**ScarceNet(CVPR2023)** ScarceNet: Animal Pose Estimation With Scarce Annotations [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_ScarceNet_Animal_Pose_Estimation_With_Scarce_Annotations_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.15023)][[code|official](https://github.com/chaneyddtt/ScarceNet)][`Animal Pose`, `Semi-Supervised Keypoint Localization`, based on `HRNet`][`small-loss trick for reliability check` + `agreement check to identify reusable samples` + `student-teacher network (Mean Teacher) to enforce a consistency constraint`]
 
-* 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K), also see [`APT-36K`](https://github.com/pandorgan/APT-36K)]
-
 * **AnimalTrack (IJCV2023)** AnimalTrack: A Benchmark for Multi-Animal Tracking in the Wild [[arxiv link](https://arxiv.org/abs/2205.00158)][[project link](https://hengfan2010.github.io/projects/AnimalTrack/)][[download page](https://hengfan2010.github.io/projects/AnimalTrack/download.html)][`Animal dataset`]
 
 * **LoTE-Animal (ICCV2023)** LoTE-Animal: A Long Time-span Dataset for Endangered Animal Behavior Understanding [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_LoTE-Animal_A_Long_Time-span_Dataset_for_Endangered_Animal_Behavior_Understanding_ICCV_2023_paper.html)][[project link](https://lote-animal.github.io/)][Animal dataset]
 
 * **Animal3D (ICCV2023)** Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Animal3D_A_Comprehensive_Dataset_of_3D_Animal_Pose_and_Shape_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2308.11737)][[project link](https://xujiacong.github.io/Animal3D/)][based on the `SMAL` model, Animal dataset]
-
-
 
 
 #### ※ Hand Pose Estimation
@@ -471,6 +461,7 @@ images`]
 * 👍**C-GAC(ECCV2022)** Domain Adaptive Hand Keypoint and Pixel Localization in the Wild [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_5)][[arxiv link](https://arxiv.org/abs/2203.08344)][[project link](https://tkhkaeio.github.io/projects/22-hand-ps-da/)][based on `Stacked Hourglass`， `all compared methods are reproduced by the author`, `no code is available`]
 
 * **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][[code is not available]()][`cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
+
 
 #### ※ Head Pose Estimation / Eye Gaze Estimation
 belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation Regression` problem
@@ -569,4 +560,18 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 * **POST(ICCV2023)** Prior-guided Source-free Domain Adaptation for Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Raychaudhuri_Prior-guided_Source-free_Domain_Adaptation_for_Human_Pose_Estimation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.13954)][`Source-free Domain Adaptation`, `Self-training`, `human datasets (SURREAL→Human3.6M, SURREAL→LSP)`]
 
 * **Pseudo-Heatmaps(arxiv2023.10)** Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2310.00099)][based on the `DualPose (ICCV2021)`, do not compare with `SSPCM(CVPR2023)`]
+
+
+### ▶ Keypoints Detection Meets Large Language Model
+**Large Language Model / Large Vision Model / Vision-Language Model for Human / Animals / Anything**
+
+* 👍**CLAMP(CVPR2023)** CLAMP: Prompt-Based Contrastive Learning for Connecting Language and Animal Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_CLAMP_Prompt-Based_Contrastive_Learning_for_Connecting_Language_and_Animal_Pose_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2206.11752)][[code|official](https://github.com/xuzhang1199/CLAMP)][`CLIP`, `Tao Dacheng`, trained and tested on dataset [`AP-10K`](https://github.com/AlexTheBad/AP-10K), also see [`APT-36K`](https://github.com/pandorgan/APT-36K)]
+
+* **UniAP(arxiv2023.08)** UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning [[arxiv link](https://arxiv.org/abs/2308.09953)][`CLIP`, `ZJU`, `Few-shot Learning`, `various perception tasks including pose estimation, segmentation, and classification tasks`]
+
+* **KDSM(arxiv2023.10)** Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face [[arxiv link](https://arxiv.org/abs/2310.05056)][`CLIP`, `XJU + Shanghai AI Lab`, `Open-Vocabulary Keypoint Detection`]
+
+* **UniPose(arxiv2023.10)(under review in ICLR2024)** UniPose: Detecting Any Keypoints [[openreview link](https://openreview.net/forum?id=v2J205zwlu)][[arxiv link](https://arxiv.org/abs/2310.08530)][[project link](https://yangjie-cv.github.io/UniPose/)][[code|official](https://github.com/IDEA-Research/UniPose)][`IDEA-Research`, `using visual or textual prompts`]
+
+
 
