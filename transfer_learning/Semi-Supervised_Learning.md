@@ -71,9 +71,24 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **SemCo (CVPR2021)** All Labels Are Not Created Equal: Enhancing Semi-Supervision via Label Grouping and Co-Training [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Nassar_All_Labels_Are_Not_Created_Equal_Enhancing_Semi-Supervision_via_Label_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.05248)][[code|official](https://github.com/islam-nassar/semco)][`It considers label semantics to prevent the degradation of pseudo label quality for visually similar classes in a co-training manner`]
 
-* **EMAN (CVPR2021)** Exponential Moving Average Normalization for Self-Supervised and Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Cai_Exponential_Moving_Average_Normalization_for_Self-Supervised_and_Semi-Supervised_Learning_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2101.08482)][[code|official](https://github.com/amazon-science/exponential-moving-average-normalization)]
+* **EMAN (CVPR2021)** Exponential Moving Average Normalization for Self-Supervised and Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Cai_Exponential_Moving_Average_Normalization_for_Self-Supervised_and_Semi-Supervised_Learning_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2101.08482)][[code|official](https://github.com/amazon-science/exponential-moving-average-normalization)][`may not that generic`]
+
+* **Classification-SemiCLS (CVPR2022)** Class-Aware Contrastive Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Class-Aware_Contrastive_Semi-Supervised_Learning_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.02261)][[code|official](https://github.com/TencentYoutuResearch/Classification-SemiCLS)][based on `FixMatch`, `THU + Tencent Youtu Lab`]
+
+* **FreeMatch (ICLR2023)** FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning [[openreview link](https://openreview.net/forum?id=PDrUPTXJI_A)][[arxiv link](https://arxiv.org/abs/2205.07246)][[code|official](https://github.com/microsoft/Semi-supervised-learning)][`microsoft`]
+
+* **SoftMatch (ICLR2023)** SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning [[openreview link](https://openreview.net/forum?id=ymt1zQXBDiF)][[arxiv link](https://arxiv.org/abs/2301.10921)][[code|official](https://github.com/microsoft/Semi-supervised-learning)][`microsoft`]
+
+* **FullMatch (CVPR2023)** Boosting Semi-Supervised Learning by Exploiting All Unlabeled Data [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Boosting_Semi-Supervised_Learning_by_Exploiting_All_Unlabeled_Data_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.11066)][[code|official](https://github.com/megvii-research/FullMatch)][based on `FixMatch`, `megvii-research`]
+
+* **CHMatch (CVPR2023)** CHMATCH: Contrastive Hierarchical Matching and Robust Adaptive Threshold Boosted Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_CHMATCH_Contrastive_Hierarchical_Matching_and_Robust_Adaptive_Threshold_Boosted_Semi-Supervised_CVPR_2023_paper.html)][[code|official](https://github.com/sailist/CHMatch)][based on `FixMatch` and `FlexMatch`, `Harbin Institute of Technology (Shenzhen)`]
+
+* 👍**Suave-Daino(CVPR2023)** Semi-Supervised Learning Made Simple With Self-Supervised Clustering [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2306.07483)][[code|official](https://github.com/pietroastolfi/suave-daino)][based on `Self-Supervised` methods such as `SwAV` or `DINO`]
+
+* **ProtoCon(CVPR2023)** PROTOCON: Pseudo-label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nassar_ProtoCon_Pseudo-Label_Refinement_via_Online_Clustering_and_Prototypical_Consistency_for_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.13556)][code is unavailable][`Monash University, Australia`]
 
 * **** [[]()][[]()][[]()]
+
 
 ### ▶for Object Detection
 
@@ -179,7 +194,7 @@ also including `self-supervised learning` and `unsupervised learning`
 * 👍**SwAV (NIPS2020)** Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[paper link](https://proceedings.neurips.cc/paper/2020/hash/70feb62b69f16e0238f741fab228fec2-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.09882)]
 [[code|official](https://github.com/facebookresearch/swav)][including `contrastive learning`]
 
-* **DINO (ICCV2021)** Emerging Properties in Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`ViT-based`, `a form of self-distillation with no labels`, `self-supervised pre-training`]
+* 👍👍**DINO (ICCV2021)** Emerging Properties in Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`ViT-based`, `a form of self-distillation with no labels`, `self-supervised pre-training`]
 
 * **MoCo-v3(ICCV2021)** An Empirical Study of Training Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`ViT-based`, `self-supervised pre-training`]
 
