@@ -521,6 +521,8 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * **PoseDA (ICCV2023)** Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chai_Global_Adaptation_Meets_Local_Generalization_Unsupervised_Domain_Adaptation_for_3D_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.16456)][[code|official](https://github.com/rese1f/PoseDA)][`ZJU`]
 
+* 👍**3D-Pose-Transfer (ICCV2023)** Weakly-supervised 3D Pose Transfer with Keypoints [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Weakly-supervised_3D_Pose_Transfer_with_Keypoints_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.13459)][[project link](https://jinnan-chen.github.io/ws3dpt/)][[code|official](https://github.com/jinnan-chen/3D-Pose-Transfer)][`National University of Singapore`]
+
 
 #### ※ 2D Human Pose Estimation (Single and Multiple)
 
