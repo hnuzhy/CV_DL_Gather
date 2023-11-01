@@ -75,6 +75,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **Classification-SemiCLS (CVPR2022)** Class-Aware Contrastive Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Class-Aware_Contrastive_Semi-Supervised_Learning_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.02261)][[code|official](https://github.com/TencentYoutuResearch/Classification-SemiCLS)][based on `FixMatch`, `THU + Tencent Youtu Lab`]
 
+* **SimMatch (CVPR2022)** SimMatch: Semi-Supervised Learning With Similarity Matching [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_SimMatch_Semi-Supervised_Learning_With_Similarity_Matching_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.06915)][[code|official](https://github.com/mingkai-zheng/SimMatch)][`The University of Sydney`]
+
 * **FreeMatch (ICLR2023)** FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning [[openreview link](https://openreview.net/forum?id=PDrUPTXJI_A)][[arxiv link](https://arxiv.org/abs/2205.07246)][[code|official](https://github.com/microsoft/Semi-supervised-learning)][`microsoft`]
 
 * **SoftMatch (ICLR2023)** SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning [[openreview link](https://openreview.net/forum?id=ymt1zQXBDiF)][[arxiv link](https://arxiv.org/abs/2301.10921)][[code|official](https://github.com/microsoft/Semi-supervised-learning)][`microsoft`]
@@ -86,6 +88,12 @@ also including `self-supervised learning` and `unsupervised learning`
 * 👍**Suave-Daino(CVPR2023)** Semi-Supervised Learning Made Simple With Self-Supervised Clustering [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Fini_Semi-Supervised_Learning_Made_Simple_With_Self-Supervised_Clustering_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2306.07483)][[code|official](https://github.com/pietroastolfi/suave-daino)][based on `Self-Supervised` methods such as `SwAV` or `DINO`]
 
 * **ProtoCon(CVPR2023)** PROTOCON: Pseudo-label Refinement via Online Clustering and Prototypical Consistency for Efficient Semi-supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Nassar_ProtoCon_Pseudo-Label_Refinement_via_Online_Clustering_and_Prototypical_Consistency_for_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.13556)][code is unavailable][`Monash University, Australia`]
+
+* **SAA (ICCV2023)** Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Gui_Enhancing_Sample_Utilization_through_Sample_Adaptive_Augmentation_in_Semi-Supervised_Learning_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2309.03598)][[code|official](https://github.com/GuanGui-nju/SAA)][based on `FixMatch` and `FlexMatch`]
+
+* **ShrinkMatch (ICCV2023)** Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Shrinking_Class_Space_for_Enhanced_Certainty_in_Semi-Supervised_Learning_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.06777)][[code|official](https://github.com/LiheYoung/ShrinkMatch)][based on `FixMatch`]
+
+* **SimMatchV2 (ICCV2023)** SimMatchV2: Semi-Supervised Learning with Graph Consistency [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.06692)][[code|official](https://github.com/mingkai-zheng/SimMatchV2)][`The University of Sydney`]
 
 * **** [[]()][[]()][[]()]
 
