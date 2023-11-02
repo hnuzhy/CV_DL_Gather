@@ -129,6 +129,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * 👍**3DIoUMatch (CVPR2021)** 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_3DIoUMatch_Leveraging_IoU_Prediction_for_Semi-Supervised_3D_Object_Detection_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2012.04355)][[code|official](https://github.com/yezhen17/3DIoUMatch)][`Stanford University + Tsinghua University + NVIDIA`]
 
+* **Proficient-Teachers (ECCV2022)** Semi-supervised 3D Object Detection with Proficient Teachers [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_42)][[arxiv link](https://arxiv.org/abs/2207.12655)][[code|official (not really released!!!👎)](https://github.com/yinjunbo/ProficientTeachers)]
+
 * **UpCycling (ICCV2023)** UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2211.11950)][`Seoul National University`]
 
 * **ViT-WSS3D (ICCV2023)** A Simple Vision Transformer for Weakly Semi-supervised 3D Object Detection
@@ -138,7 +140,7 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * 👍**DQS3D (ICCV2023)** DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_DQS3D_Densely-matched_Quantization-aware_Semi-supervised_3D_Detection_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.13031)][[code|official](https://github.com/AIR-DISCOVER/DQS3D)][`Institute for AI Industry Research (AIR), Tsinghua University`]
 
-* 👍**NoiseDet (ICCV2023)** Learning from Noisy Data for Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Learning_from_Noisy_Data_for_Semi-Supervised_3D_Object_Detection_ICCV_2023_paper.html)][[code|official (not really released!!!)](https://github.com/zehuichen123/NoiseDet)][`USTC`]
+* **NoiseDet (ICCV2023)** Learning from Noisy Data for Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Learning_from_Noisy_Data_for_Semi-Supervised_3D_Object_Detection_ICCV_2023_paper.html)][[code|official (not really released!!!👎)](https://github.com/zehuichen123/NoiseDet)][`USTC`]
 
 
 ### ▶for 6D Object Pose Estimation
