@@ -43,7 +43,7 @@ Also named ***3D Object Detection***
 * [Objaverse (arxiv2022)](https://arxiv.org/abs/2212.08051): Objaverse: A Universe of Annotated 3D Objects [[project link](https://objaverse.allenai.org/)][[paperswithcode homepage](https://paperswithcode.com/dataset/objaverse)][***A large dataset of objects with 800K+ (and growing) 3D models with descriptive captions, tags, and animations.***]
 * [👍 ❤ Wild6D (NIPS2022)(by University of California San Diego)](https://oasisyang.github.io/semi-pose/): Category-Level 6D Object Pose Estimation in the Wild: A Semi-Supervised Learning Approach and A New Dataset [***This dataset consists of a large number of object-centric RGBD videos***]
 * [❤ Omni3D (CVPR2023)(by facebook)](https://github.com/facebookresearch/omni3d): Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild [***Omni3D re-purposes and combines existing datasets resulting in 234k images annotated with more than 3 million instances and 98 categories. 3D detection at such scale is challenging due to variations in camera intrinsics and the rich diversity of scene and object types.***]
-
+* [❤ HANDAL (IROS2023)(by NVIDIA)](https://nvlabs.github.io/HANDAL/): HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions [***The dataset consists of 308k annotated image frames from 2.2k videos of 212 real-world objects in 17 categories.***]
 
 
 ## Papers
