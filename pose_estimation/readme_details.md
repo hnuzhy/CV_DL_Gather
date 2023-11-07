@@ -572,6 +572,8 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * **Pseudo-Heatmaps(arxiv2023.10)** Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2310.00099)][based on the `DualPose (ICCV2021)`, do not compare with `SSPCM(CVPR2023)`]
 
+* **MDSs(arxiv2023.10)(under review in ICLR2024)** Modeling the Uncertainty with Maximum Discrepant Students for Semi-supervised 2D Pose Estimation [[arxiv link](https://arxiv.org/abs/2311.01770)][[code|official](https://github.com/Qi2019KB/MDSs/tree/master)][based on the `DualPose (ICCV2021)`, do not compare with `SSPCM(CVPR2023)`]
+
 
 ### ▶ Keypoints Meet Large Language Model
 **Large Language Model / Large Vision Model / Vision-Language Model for Human / Animals / Anything**
