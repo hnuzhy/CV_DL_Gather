@@ -70,6 +70,7 @@
 
 * **(TPAMI 2022)** A Survey on Vision Transformer [[paper link](https://ieeexplore.ieee.org/abstract/document/9716741)][[arxiv link (2020.12)](https://arxiv.org/abs/2012.12556)][`Huawei`, `PKU`, `Dacheng Tao`]
 
+* **(TPAMI 2023)** Towards Large-Scale Small Object Detection: Survey and Benchmarks [[paper link](https://ieeexplore.ieee.org/abstract/document/10168277)][[arxiv link (2022.07)](https://arxiv.org/abs/2207.14096)][[project link](https://shaunyuan22.github.io/SODA/)][datasets `SODA-D` and `SODA-A`]
 
 ### ▶ Two-stage Anchor based
 
