@@ -179,7 +179,9 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * 👍**PseudoFlow(ICCV2023)** Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Hai_Pseudo_Flow_Consistency_for_Self-Supervised_6D_Object_Pose_Estimation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.10016)][[code|official](https://github.com/yanghai-1218/pseudoflow)][[`Yang Hai(海洋)`](https://yanghai-1218.github.io/), [`Yinlin Hu (胡银林)`](https://yinlinhu.github.io/)]
 
-* **Cas6D (arxiv2023.06)** Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [[arxiv link](https://arxiv.org/abs/2306.07598)][`Few-Shot Learning`, `ByteDance`, compared to `OnePose++` and `Gen6D`, trained on datasets `LINEMOD` and `GenMOP`]
+* **SA6D(CoRL2023)** SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects [[openreview link](https://openreview.net/forum?id=gdkKi_F55h)][[project link](https://sites.google.com/view/sa6d)][[arxiv link](https://arxiv.org/abs/2308.16528)][`Bosch Center for AI`, `robotic manipulation`, `few-shot pose estimation (FSPE)`, inputs: `a small number of cluttered reference images`]
+
+* **Cas6D (arxiv2023.06)** Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [[arxiv link](https://arxiv.org/abs/2306.07598)][`Few-Shot Learning`, `ByteDance`, compared to `OnePose++` and `Gen6D`, trained on datasets `LINEMOD` and `GenMOP`, inputs: ` sparse support views`]
 
 
 
