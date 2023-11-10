@@ -44,6 +44,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * 👍**RandAugment (CVPRW2020)** Randaugment: Practical Automated Data Augmentation With a Reduced Search Space [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1909.13719)][[code|official](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 
+* **AugMix(ICLR2020)** AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty [[paper link](https://openreview.net/forum?id=S1gmrxHFvB)][[arxiv link](https://arxiv.org/abs/1912.02781)][[code|official](https://github.com/google-research/augmix)][for `improving robustness and uncertainty` and `domain generalization`]
+
 
 ### ▶for Image Classification
 
