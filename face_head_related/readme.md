@@ -318,6 +318,8 @@
 
 * ⭐**DECA(TOG2021)(SIGGRAPH2021)** Learning an animatable detailed 3D face model from in-the-wild images [[paper link](https://dl.acm.org/doi/abs/10.1145/3450626.3459936)][[project link](https://deca.is.tue.mpg.de/)][[code|official](https://github.com/YadiraF/DECA)][`MPII 马普所`]
 
+* **(TOG2021)** Semi-supervised video-driven facial animation transfer for production [[paper link](https://dl.acm.org/doi/abs/10.1145/3478513.3480515)][`, Digital Domain`, `transfer of facial expressions`, based on `unsupervised image-to-image translation`]
+
 * 👍**FOCUS(arxiv2021)** To fit or not to fit: Model-based Face Reconstruction and Occlusion Segmentation from Weak Supervision [[paper link](https://arxiv.org/abs/2106.09614)][[code|official](https://github.com/unibas-gravis/Occlusion-Robust-MoFA)]
 
 * ⭐**DAD-3DNet(CVPR2022)** DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)][[project link👍](https://www.pinatafarm.com/research/dad-3dheads)][[codes|official PyTorch](https://github.com/PinataFarms/DAD-3DHeads)][[benchmark challenge👍](https://github.com/PinataFarms/DAD-3DHeads/tree/main/dad_3dheads_benchmark)][`DAD-3DHeads dataset`][By `pinatafarm`]
