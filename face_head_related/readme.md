@@ -592,6 +592,8 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **6dof_face(TIP2023)** Towards 3D Face Reconstruction in Perspective Projection: Estimating 6DoF Face Pose from Monocular Image [[paper link](https://ieeexplore.ieee.org/abstract/document/10127617)][[code|official](https://github.com/cbsropenproject/6dof_face)]
 
+* **CIT(IJCV2023)** Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose [[paper link](https://link.springer.com/article/10.1007/s11263-023-01935-2)][[code|official](https://github.com/Iron-LYK/CIT)][`SYSU`, `Facial Landmark` + `Head Pose`]
+
 
 #### Papers(Conference)
 
