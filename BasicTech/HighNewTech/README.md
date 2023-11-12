@@ -25,15 +25,15 @@
   前道工序：扩散、薄膜沉积、光刻、刻蚀、离子注入、CMP、金属化、测试
   后道工序：背面减薄、晶圆切割、贴片、引线键合、模塑、切筋/成型、终测
   ```
-![img1](./materials/process_of_nano_chip_manufacturing.jpg)
+![img1](./process_of_nano_chip_manufacturing.jpg)
 * 芯片代工厂国产技术设备发展状况（截止到2020年11月）
 
-![img2](./materials/chip_foundry_technology_China_202011.jpg)
+![img2](./chip_foundry_technology_China_202011.jpg)
 
 
 ## 锂电池相关
 
-![img3](./materials/lithium_battery_manufacturing.jpg)
+![img3](./lithium_battery_manufacturing.jpg)
 
 
 ## 科学技术与商业经济关系的辩证思考
