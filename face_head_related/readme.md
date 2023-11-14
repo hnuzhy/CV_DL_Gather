@@ -338,9 +338,9 @@
 
 * **TEMPEH(CVPR2023)** Instant Multi-View Head Capture Through Learnable Registration [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Bolkart_Instant_Multi-View_Head_Capture_Through_Learnable_Registration_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2306.07437)][[project link](https://tempeh.is.tue.mpg.de/)][[code|official](https://github.com/TimoBolkart/TEMPEH)][`MPII 马普所`, based on `ToFu(ICCV2021)`]
 
-* **TokenHead (ICCV2023)** Accurate 3D Face Reconstruction with Facial Component Tokens [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.html)][`THU(Shenzhen)` + `IDEA`]
+* **3DDFA+ & DAD-3DNet+ (CVPR2023)** 3D-Aware Facial Landmark Detection via Multi-View Consistent Training on Synthetic Data [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zeng_3D-Aware_Facial_Landmark_Detection_via_Multi-View_Consistent_Training_on_Synthetic_CVPR_2023_paper.html)][[project link](https://people.engr.tamu.edu/nimak/Papers/CVPR2023_Landmark/index.html)][`Texas A&M University`, new dataset `DAD-3DHeads-Syn` based on `NeRF`]
 
-* **3DDFA+ & DAD-3DNet+ (ICCV2023)** 3D-Aware Facial Landmark Detection via Multi-View Consistent Training on Synthetic Data [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zeng_3D-Aware_Facial_Landmark_Detection_via_Multi-View_Consistent_Training_on_Synthetic_CVPR_2023_paper.html)][[project link](https://people.engr.tamu.edu/nimak/Papers/CVPR2023_Landmark/index.html)][`Texas A&M University`, new dataset `DAD-3DHeads-Syn` based on `NeRF`]
+* **TokenHead (ICCV2023)** Accurate 3D Face Reconstruction with Facial Component Tokens [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.html)][`THU(Shenzhen)` + `IDEA`]
 
 * **HiFace (ICCV2023)** HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chai_HiFace_High-Fidelity_3D_Face_Reconstruction_by_Learning_Static_and_Dynamic_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.11225)][[project link](https://project-hiface.github.io/)][`MicroSoft`, based on `DenseLandmarks(ECCV2022)`]
 
