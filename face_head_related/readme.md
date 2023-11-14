@@ -314,6 +314,8 @@
 
 * **(ICCV2021)** Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing [[paper link](https://arxiv.org/abs/2103.15432)][`MPII 马普所`]
 
+* **ToFu(ICCV2021)** ToFu: Topologically Consistent Multi-View Face Inference Using Volumetric Sampling [[paper link](http://openaccess.thecvf.com/content/ICCV2021/html/Li_Topologically_Consistent_Multi-View_Face_Inference_Using_Volumetric_Sampling_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2110.02948)][[project link](https://tianyeli.github.io/tofu)][[code|official](https://github.com/tianyeli/tofu)][`USC Institute for Creative Technologies` and `MPII 马普所`]
+
 * **HIFI3D(TOG2021)** High-Fidelity 3D Digital Human Head Creation from RGB-D Selfies [[paper link](https://dl.acm.org/doi/abs/10.1145/3472954)][[project link](https://tencent-ailab.github.io/hifi3dface_projpage/)][[codes|official](https://github.com/tencent-ailab/hifi3dface)][`3DMM of face/head (HIFI3D)`][By `Tencent`]
 
 * ⭐**DECA(TOG2021)(SIGGRAPH2021)** Learning an animatable detailed 3D face model from in-the-wild images [[paper link](https://dl.acm.org/doi/abs/10.1145/3450626.3459936)][[project link](https://deca.is.tue.mpg.de/)][[code|official](https://github.com/YadiraF/DECA)][`MPII 马普所`]
@@ -334,7 +336,14 @@
 
 * ⭐**DSFNet(CVPR2023)** DSFNet: Dual Space Fusion Network for Occlusion-Robust Dense 3D Face Alignment [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.11522)][[paperwithcode link](https://paperswithcode.com/paper/dsfnet-dual-space-fusion-network-for-1)][[code|official](https://github.com/lhyfst/DSFNet)][`Head Pose Estimation` + `Face Alignment` + `3D Face Reconstruction`]
 
+* **TEMPEH(CVPR2023)** Instant Multi-View Head Capture Through Learnable Registration [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Bolkart_Instant_Multi-View_Head_Capture_Through_Learnable_Registration_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2306.07437)][[project link](https://tempeh.is.tue.mpg.de/)][[code|official](https://github.com/TimoBolkart/TEMPEH)][`MPII 马普所`, based on `ToFu(ICCV2021)`]
+
 * **TokenHead (ICCV2023)** Accurate 3D Face Reconstruction with Facial Component Tokens [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Accurate_3D_Face_Reconstruction_with_Facial_Component_Tokens_ICCV_2023_paper.html)][`THU(Shenzhen)` + `IDEA`]
+
+* **3DDFA+ & DAD-3DNet+ (ICCV2023)** 3D-Aware Facial Landmark Detection via Multi-View Consistent Training on Synthetic Data [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zeng_3D-Aware_Facial_Landmark_Detection_via_Multi-View_Consistent_Training_on_Synthetic_CVPR_2023_paper.html)][[project link](https://people.engr.tamu.edu/nimak/Papers/CVPR2023_Landmark/index.html)][`Texas A&M University`, new dataset `DAD-3DHeads-Syn` based on `NeRF`]
+
+* **HiFace (ICCV2023)** HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chai_HiFace_High-Fidelity_3D_Face_Reconstruction_by_Learning_Static_and_Dynamic_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.11225)][[project link](https://project-hiface.github.io/)][`MicroSoft`, based on `DenseLandmarks(ECCV2022)`]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
