@@ -18,7 +18,7 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * **SMPL(SIGGRAPH2015)** SMPL: A Skinned Multi-Person Linear Model [[paper link](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)][[project link](https://smpl.is.tue.mpg.de/)][`MPII 马普所`]
 
-* **SMPL-X(CVPR2019)** Expressive Body Capture: 3D Hands, Face, and Body from a Single Image [[paper link](https://ps.is.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)][[project link](https://smpl-x.is.tue.mpg.de/)][[codes|official](https://github.com/vchoutas/smplify-x)][`MPII 马普所`]
+* **SMPL-X & SMPLify-X(CVPR2019)** Expressive Body Capture: 3D Hands, Face, and Body from a Single Image [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.html)][[pdf link](https://ps.is.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)][[project link](https://smpl-x.is.tue.mpg.de/)][[codes|official](https://github.com/vchoutas/smplify-x)][`MPII 马普所`]
 
 * **PARE(ICCV2019)** PARE: Part Attention Regressor for 3D Human Body Estimation [[paper link](https://arxiv.org/abs/2104.08527)][[project link](https://github.com/mkocabas/PARE)][[codes|official](https://pare.is.tue.mpg.de/)][`MPII 马普所`]
 
@@ -84,5 +84,6 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * 👍**SGNify(CVPR2023)** Reconstructing Signing Avatars From Video Using Linguistic Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Forte_Reconstructing_Signing_Avatars_From_Video_Using_Linguistic_Priors_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.10482)][[project link](https://sgnify.is.tue.mpg.de/)][[code|official](https://github.com/MPForte/SGNify)][`MPII 马普所`, `Whole Body Recovery with Hands and Face`][`It improves the 3D hand poses by leveraging linguistic priors as constraints for more natural whole-body mesh recovery from sign-language videos.`]
 
+* 👍👍👍**SMPLer-X(NIPS2023)(Dataset and Benchmark Track)** SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation [[openreview link](https://openreview.net/forum?id=n8hpztIuet)][[arxiv link](https://arxiv.org/abs/2309.17448)][[project link](https://caizhongang.github.io/projects/SMPLer-X/)][[code|official](https://github.com/caizhongang/SMPLer-X)][tested on datasets `AGORA`, `UBody`, `EgoBody`, `3DPW` and `EHF`]
 
 
