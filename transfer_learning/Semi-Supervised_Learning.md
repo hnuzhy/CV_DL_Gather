@@ -11,6 +11,7 @@ also including `self-supervised learning` and `unsupervised learning`
   * **[▶ for Pose Estimation](#for-pose-estimation)**
   * **[▶ for 3D Object Detection](#for-3d-object-detection)**
   * **[▶ for 6D Object Pose Estimation](#for-6d-object-pose-estimation)**
+  * **[▶ for Rotation Regression](#for-rotation-regression)**
   * **[▶ for Crowd Counting](#for-crowd-counting)**
   * **[▶ for 3D Hand-Object](#for-3d-hand-object)**
 * **[2) Papers (Self-Supervised Learning or Unsupervised Learning)](#papers-self-supervised-learning-or-unsupervised-learning)**
@@ -124,7 +125,6 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * Please refer [[Transfer Learning of Multiple Person Pose Estimation](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#-transfer-learning-of-multiple-person-pose-estimation)]
 
-
 ### ▶for 3D Object Detection
 
 * 👍**SESS (CVPR2020 oral)** SESS: Self-Ensembling Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.11803)][[code|official](https://github.com/Na-Z/sess)][`National University of Singapore`, comparing to `SESS`, on datasets `ScanNet` and `SUNRGB-D`, using `Mean-Teacher`]
@@ -167,15 +167,11 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **UDA-COPE(CVPR2022)** UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2111.12580)][[project link](https://sites.google.com/view/taeyeop-lee/udacope)][[no code]()][[`Domain Adaptation`, `Taeyeop Lee`](https://sites.google.com/view/taeyeop-lee/), based on the [NOCS](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.html)]
 
-* 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task][based on the `matrix Fisher distribution` theory introduced in [(NIPS2020) An Analysis of SVD for Deep Rotation Estimation](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html) and [(NIPS2020) Probabilistic Orientation Estimation with Matrix Fisher Distributions](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)]
-
 * **SSC-6D(AAAI2022)** Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/20104)][[code|official](https://github.com/swords123/SSC-6D)][`Dalian University of Technology`]
 
 * **MAST(IJCAI2023)** Manifold-Aware Self-Training for Unsupervised Domain Adaptation on Regressing 6D Object Pose [[paper link](https://www.ijcai.org/proceedings/2023/0193.pdf)][[arxiv link](https://arxiv.org/abs/2305.10808)][`Domain Adaptation`, `Self-Training`]
 
 * 👍**self-pose(ICLR2023)(arxiv 2022.10)** Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild [[openreview link](https://openreview.net/forum?id=ZKDUlVMqG_O)][[arxiv link](https://arxiv.org/abs/2210.07199)][[project link](https://kywind.github.io/self-pose)][[code|official](https://github.com/kywind/self-corr-pose)][training and testing on `Wild6D`, [`Kaifeng Zhang`](https://kywind.github.io/), second author is [`Yang Fu 付旸`](https://oasisyang.github.io/)]
-
-* **UCVME(AAAI2023)** Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25890/)][[arxiv link](https://arxiv.org/abs/2302.07579)][[code | official](https://github.com/xmed-lab/UCVME)][`Semi-Supervised Rotation Regression`]
 
 * **TTA-COPE (CVPR2023)** TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_TTA-COPE_Test-Time_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.16730)][[project link](https://sites.google.com/view/taeyeop-lee/ttacope)][[Code is not available]()][`Test-Time Adaptation`, [`Taeyeop Lee`](https://sites.google.com/view/taeyeop-lee/), `The proposed pose ensemble and the self-training loss improve category-level object pose performance during test time under both semi-supervised and unsupervised settings.`, based on the [NOCS](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Normalized_Object_Coordinate_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2019_paper.html)]
 
@@ -185,6 +181,12 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **Cas6D (arxiv2023.06)** Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [[arxiv link](https://arxiv.org/abs/2306.07598)][`Few-Shot Learning`, `ByteDance`, compared to `OnePose++` and `Gen6D`, trained on datasets `LINEMOD` and `GenMOP`, inputs: ` sparse support views`]
 
+
+### ▶for Rotation Regression
+
+* 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task][based on the `matrix Fisher distribution` theory introduced in [(NIPS2020) An Analysis of SVD for Deep Rotation Estimation](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html) and [(NIPS2020) Probabilistic Orientation Estimation with Matrix Fisher Distributions](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)]
+
+* **UCVME(AAAI2023)** Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25890/)][[arxiv link](https://arxiv.org/abs/2302.07579)][[code | official](https://github.com/xmed-lab/UCVME)][`Semi-Supervised Rotation Regression`]
 
 
 ### ▶for Crowd Counting
