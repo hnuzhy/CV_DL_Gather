@@ -62,11 +62,11 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * ❤**hmr-benchmarks(NIPS2022)** Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms [[paper link](https://openreview.net/forum?id=rjBYortWdRV)][[codes|official](https://github.com/smplbody/hmr-benchmarks)]
 
-* **PSVT(CVPR2023)** PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers [[paper link](https://arxiv.org/abs/2303.09187)][Datasets: `RH`, `AGORA`, `CMU Panoptic`, `3DPW`]
-
 * 👍**BSTRO(Body-Scene contact TRansfOrmer)(CVPR2022)** Capturing and Inferring Dense Full-Body Human-Scene Contact [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.html)][[project link](https://rich.is.tue.mpg.de/)][[code|official](https://github.com/paulchhuang/bstro)][dataset `RICH`, `Interaction-Contact-Humans`, `MPII`, `single-person`]
 
-* **EgoEgo(CVPR2023)** Ego-Body Pose Estimation via Ego-Head Pose Estimation [[arxiv link](https://arxiv.org/abs/2212.04636)][[project link](https://lijiaman.github.io/projects/egoego/)][`predict head poses and estimate full-body poses`]
+* **EgoEgo(CVPR2023)(Award Candidate)** Ego-Body Pose Estimation via Ego-Head Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Ego-Body_Pose_Estimation_via_Ego-Head_Pose_Estimation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2212.04636)][[project link](https://lijiaman.github.io/projects/egoego/)][[code|official](https://github.com/lijiaman/egoego_release)][`Stanford University`, `predict head poses and estimate full-body poses`]
+
+* **PSVT(CVPR2023)** PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Qiu_PSVT_End-to-End_Multi-Person_3D_Pose_and_Shape_Estimation_With_Progressive_CVPR_2023_paper.html)][[paper link](https://arxiv.org/abs/2303.09187)][Datasets: `RH`, `AGORA`, `CMU Panoptic`, `3DPW`]
 
 * **HuManiFlow(CVPR2023)** HuManiFlow: Ancestor-Conditioned Normalising Flows on SO(3) Manifolds for Human Pose and Shape Distribution Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Sengupta_HuManiFlow_Ancestor-Conditioned_Normalising_Flows_on_SO3_Manifolds_for_Human_Pose_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.06968)][[code|official](https://github.com/akashsengupta1997/HuManiFlow)][[[Akash Sengupta](https://akashsengupta1997.github.io/)] `Regression-based Paradigm with Probabilistic Output`, `multi-image shape prediction`, `It improves the consistency and diversity of predictions by modeling the ancestor-conditioned perbody-part pose distributions in an autoregressive manner.`]
 
