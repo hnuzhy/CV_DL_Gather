@@ -9,6 +9,9 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 ## Datasets
 
+* [A rencent summary by `SMPLer-X`] --> [https://github.com/caizhongang/SMPLer-X#preparation](https://github.com/caizhongang/SMPLer-X#preparation)
+
+
 
 ## Papers
 
