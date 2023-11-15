@@ -7,6 +7,8 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 * **(blogs) OBJ Files** [[6 Best Free OBJ Editor Software For Windows](https://listoffreeware.com/free-obj-editor-software-windows/)]
 * **(models) SMPL family, i.e. SMPL, SMPL+H, SMPL-X** [[codes|official github](https://github.com/vchoutas/smplx/tree/main/transfer_model)]
 
+## Datasets
+
 
 ## Papers
 
@@ -71,6 +73,8 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 * ❤**hmr-benchmarks(NIPS2022)** Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms [[paper link](https://openreview.net/forum?id=rjBYortWdRV)][[codes|official](https://github.com/smplbody/hmr-benchmarks)]
 
 * 👍**BSTRO(Body-Scene contact TRansfOrmer)(CVPR2022)** Capturing and Inferring Dense Full-Body Human-Scene Contact [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.html)][[project link](https://rich.is.tue.mpg.de/)][[code|official](https://github.com/paulchhuang/bstro)][dataset `RICH`, `Interaction-Contact-Humans`, `MPII`, `single-person`]
+
+* **BEDLAM(CVPR2023)** BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Black_BEDLAM_A_Synthetic_Dataset_of_Bodies_Exhibiting_Detailed_Lifelike_Animated_CVPR_2023_paper.html)][[project link](https://bedlam.is.tue.mpg.de/)][[code|official](https://github.com/pixelite1201/BEDLAM)][`MPII 马普所`, dataset `BEDLAM`]
 
 * **EgoEgo(CVPR2023)(Award Candidate)** Ego-Body Pose Estimation via Ego-Head Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Ego-Body_Pose_Estimation_via_Ego-Head_Pose_Estimation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2212.04636)][[project link](https://lijiaman.github.io/projects/egoego/)][[code|official](https://github.com/lijiaman/egoego_release)][`Stanford University`, `predict head poses and estimate full-body poses`]
 
