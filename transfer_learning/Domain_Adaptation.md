@@ -223,6 +223,8 @@
 
 #### ▶4.1 Image Classification
 
+* **(NIPS2011)** Generalizing from Several Related Classification Tasks to a New Unlabeled Sample [[paper link](https://proceedings.neurips.cc/paper_files/paper/2011/hash/b571ecea16a9824023ee1af16897a582-Abstract.html)][`the problem of domain generalization (DG) was firstly introduced.`]
+
 * **PCL(CVPR2022)** PCL: Proxy-Based Contrastive Learning for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yao_PCL_Proxy-Based_Contrastive_Learning_for_Domain_Generalization_CVPR_2022_paper.html)][`CUHK`]
 
 * **ITTA(CVPR2023)** Improved Test-Time Adaptation for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Improved_Test-Time_Adaptation_for_Domain_Generalization_CVPR_2023_paper.pdf)][[code|official](https://github.com/liangchen527/ITTA)]
