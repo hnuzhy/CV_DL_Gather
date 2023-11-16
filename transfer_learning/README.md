@@ -8,6 +8,8 @@ It includes `Domain Adaptation`, `Domain Generalization`, `Semi-Supervised Learn
 
 * **Survey(TPAMI2018)** Transferable Representation Learning with Deep Adaptation Networks [[paper link](https://ieeexplore.ieee.org/abstract/document/8454781)][[`Mingsheng Long`](http://ise.thss.tsinghua.edu.cn/~mlong/)]
 
+* **Survey(arxiv2019.02)(TPAMI2020)** Self-Supervised Visual Feature Learning With Deep Neural Networks: A Survey [[paper link](https://ieeexplore.ieee.org/abstract/document/9086055)][[arxiv link](https://arxiv.org/abs/1902.06162)][[`Longlong Jing (Waymo LLC)`](https://longlong-jing.github.io/)]
+
 * **Survey(arxiv2020.11)(TPAMI2021)** Meta-Learning in Neural Networks: A Survey [[paper link](https://ieeexplore.ieee.org/abstract/document/9428530)][[arxiv link](https://arxiv.org/abs/2004.05439)][[`Timothy M. Hospedales (The University of Edinburgh)`](https://homepages.inf.ed.ac.uk/thospeda/)]
 
 * **Survey(arxiv2022.05)(TKDE2022)** Generalizing to Unseen Domains: A Survey on Domain Generalization [[paper link](https://ieeexplore.ieee.org/abstract/document/9782500)][[arxiv link](https://arxiv.org/abs/2103.03097)][[`Jindong Wang (王晋东)`](https://jd92.wang/)]
