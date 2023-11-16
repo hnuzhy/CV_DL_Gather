@@ -2,7 +2,7 @@
 
 It includes `Domain Adaptation`, `Domain Generalization`, `Semi-Supervised Learning`, `Unsupervised Learning` and `Self-Training`.
 
-## ⭐Survey of Transfer Learning, Meta-Learning, Domain Adaptation and Domain Generalization
+## ⭐Survey of Transfer Learning, Self-Supervised Learning, Meta-Learning, Domain Adaptation and Domain Generalization
 
 * **Survey(TKDE2009)** A Survey on Transfer Learning [[paper link](https://ieeexplore.ieee.org/abstract/document/5288526)][[pdf link](https://cse.hkust.edu.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)][[`Sinno Jialin Pan (CUHK)`](http://www.cse.cuhk.edu.hk/~sinnopan/)]
 
