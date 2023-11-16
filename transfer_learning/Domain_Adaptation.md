@@ -5,6 +5,7 @@
 * **[3) Datasets](#3-Datasets)**
 * **[4) Materials](#4-Materials)**
 * **[5) Papers](#5-Papers)**
+  * **[▶ ⭐Survey of Domain Adaptation and Generalization](#-Survey-of-Domain-Generalization-and-Generalization)** 
   * **[▶ ① ⭐⭐⭐Domain Adaptation for Image Classification](#-Domain-Adaptation-for-Image-Classification)**
   * **[▶ ② ⭐⭐Domain Adaptation for Object Detection](#-Domain-Adaptation-for-Object-Detection)**
   * **[▶ ③ ⭐⭐Domain Adaptation for Semantic Segmentation](#-Domain-Adaptation-for-Semantic-Segmentation)**
@@ -55,6 +56,15 @@
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ## 5) Papers
+
+`*********************************`
+### ⭐Survey of Domain Adaptation and Generalization
+
+* **Survey(TPAMI2018)** Transferable Representation Learning with Deep Adaptation Networks [[paper link](https://ieeexplore.ieee.org/abstract/document/8454781)][[`Mingsheng Long`](http://ise.thss.tsinghua.edu.cn/~mlong/)]
+
+* **Survey(arxiv2022.08)(TPAMI2022)** Domain Generalization: A Survey [[paper link](https://ieeexplore.ieee.org/abstract/document/9847099/)][[arxiv link](https://arxiv.org/abs/2103.02503)][[Kaiyang Zhou](https://kaiyangzhou.github.io/)]
+
+* **Survey(arxiv2021.07)(TPAMI2023)** Unsupervised Domain Adaptation of Object Detectors: A Survey [[paper link](https://ieeexplore.ieee.org/abstract/document/10075484)][[arxiv link](https://arxiv.org/abs/2105.13502)][`Poojan Oza`, `Johns Hopkins Univeristy`]
 
 `*********************************`
 
