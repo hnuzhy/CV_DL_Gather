@@ -220,10 +220,13 @@
 `*********************************`
 
 ### ④ ⭐Domain Generalization Methods
+`Unlike other related learning problems such as domain adaptation or transfer learning, DG considers the scenarios where target data is inaccessible during model learning.`
 
 #### ▶4.1 Image Classification
 
 * **(NIPS2011)** Generalizing from Several Related Classification Tasks to a New Unlabeled Sample [[paper link](https://proceedings.neurips.cc/paper_files/paper/2011/hash/b571ecea16a9824023ee1af16897a582-Abstract.html)][`the problem of domain generalization (DG) was firstly introduced.`]
+
+* **(ICML2013)** Domain Generalization via Invariant Feature Representation [[paper link](https://proceedings.mlr.press/v28/muandet13.html)][[arxiv link](https://arxiv.org/abs/1301.2115)][`the term domain generalization was later coined in this paper after (NIPS2011)`]
 
 * **PCL(CVPR2022)** PCL: Proxy-Based Contrastive Learning for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yao_PCL_Proxy-Based_Contrastive_Learning_for_Domain_Generalization_CVPR_2022_paper.html)][`CUHK`]
 
