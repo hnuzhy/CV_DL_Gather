@@ -45,7 +45,11 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * 👍**RandAugment (CVPRW2020)** Randaugment: Practical Automated Data Augmentation With a Reduced Search Space [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1909.13719)][[code|official](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 
+* **PuzzleMix(ICML2020)** Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup [[paper link](https://proceedings.mlr.press/v119/kim20b.html)][[arxiv link](https://arxiv.org/abs/2009.06962)][[code|official](https://github.com/snu-mllab/PuzzleMix)]
+
 * **AugMix(ICLR2020)** AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty [[paper link](https://openreview.net/forum?id=S1gmrxHFvB)][[arxiv link](https://arxiv.org/abs/1912.02781)][[code|official](https://github.com/google-research/augmix)][for `improving robustness and uncertainty` and `domain generalization`]
+
+* **AugMax(NIPS2021)** AugMax: Adversarial Composition of Random Augmentations for Robust Training [[paper link](https://proceedings.neurips.cc/paper/2021/hash/01e9565cecc4e989123f9620c1d09c09-Abstract.html)][[openreview link](https://openreview.net/forum?id=P5MtdcVdFZ4)][[code|official](https://github.com/VITA-Group/AugMax)][`AugMax-DuBIN`, compared to `AugMix`]
 
 * **MixStyle(ICLR2021)** Domain Generalization with MixStyle [[openreview link](https://openreview.net/forum?id=6xHJ37MVxxp)][[arxiv link](https://arxiv.org/abs/2104.02008)][[slides link](https://iclr.cc/media/Slides/iclr/2021/virtual(03-08-00)-03-08-00UTC-2738-domain_generali.pdf)][[code}official](https://github.com/KaiyangZhou/mixstyle-release)][originally designed for `domain generalization`, inspired by `AdaIN (ICCV2017)`]
 
