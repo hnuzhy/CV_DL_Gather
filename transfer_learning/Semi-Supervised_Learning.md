@@ -63,7 +63,11 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **RegMixup(NIPS2022)** Using Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ddcfaad1cb72ce6f1a365e8f1ecf791-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2206.14502)][[code|official](https://github.com/FrancescoPinto/RegMixup)]
 
-* 👍**C-Mixup** C-Mixup: Improving Generalization in Regression [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1626be0ab7f3d7b3c639fbfd5951bc40-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2210.05775)][[code|official](https://github.com/huaxiuyao/C-Mixup)][for the `Regression` task]
+* 👍**C-Mixup(NIPS2022)** C-Mixup: Improving Generalization in Regression [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1626be0ab7f3d7b3c639fbfd5951bc40-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2210.05775)][[code|official](https://github.com/huaxiuyao/C-Mixup)][for the `Regression` task]
+
+* **DeepAA(ICLR2022)** Deep AutoAugment [[openreview link](https://openreview.net/forum?id=St-53J9ZARf)][[code|official](https://github.com/AIoT-MLSys-Lab/DeepAA)][`Michigan State University + Amazon Web Services`]
+
+* **AutoMix(ECCV2022)** AutoMix: Unveiling the Power of Mixup for Stronger Classifiers [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_26)][[arxiv link](https://arxiv.org/abs/2103.13027)][[code|official](https://github.com/Westlake-AI/openmixup)][`Westlake University`]
 
 * **TokenMix(ECCV2022)** TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_26)][[arxiv link](https://arxiv.org/abs/2207.08409)][[code|official](https://github.com/Sense-X/TokenMix)]
 
