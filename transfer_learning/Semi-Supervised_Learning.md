@@ -29,7 +29,7 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for Data Augmentation
 
-* **AdaIN (ICCV2017)** Arbitrary Style Transfer in Real-Time With Adaptive Instance Normalization [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.html)][[arxiv link](https://arxiv.org/abs/1703.06868v2)][[code|official](https://github.com/xunhuang1995/AdaIN-style)]
+* 👍**AdaIN (ICCV2017)** Arbitrary Style Transfer in Real-Time With Adaptive Instance Normalization [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.html)][[arxiv link](https://arxiv.org/abs/1703.06868v2)][[code|official](https://github.com/xunhuang1995/AdaIN-style)]
 
 * 👍**Cutout (arxiv2017.08)** Improved Regularization of Convolutional Neural Networks with Cutout [[arxiv link](https://arxiv.org/abs/1708.04552)][[code|official](https://github.com/uoguelph-mlrg/Cutout)]
 
@@ -46,6 +46,8 @@ also including `self-supervised learning` and `unsupervised learning`
 * 👍**RandAugment (CVPRW2020)** Randaugment: Practical Automated Data Augmentation With a Reduced Search Space [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1909.13719)][[code|official](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 
 * **AugMix(ICLR2020)** AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty [[paper link](https://openreview.net/forum?id=S1gmrxHFvB)][[arxiv link](https://arxiv.org/abs/1912.02781)][[code|official](https://github.com/google-research/augmix)][for `improving robustness and uncertainty` and `domain generalization`]
+
+* **MixStyle(ICLR2021)** Domain Generalization with MixStyle [[openreview link](https://openreview.net/forum?id=6xHJ37MVxxp)][[arxiv link](https://arxiv.org/abs/2104.02008)][[slides link](https://iclr.cc/media/Slides/iclr/2021/virtual(03-08-00)-03-08-00UTC-2738-domain_generali.pdf)][[code}official](https://github.com/KaiyangZhou/mixstyle-release)][originally designed for `domain generalization`, inspired by `AdaIN (ICCV2017)`]
 
 
 ### ▶for Image Classification
