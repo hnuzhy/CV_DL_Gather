@@ -53,9 +53,17 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **MixStyle(ICLR2021)** Domain Generalization with MixStyle [[openreview link](https://openreview.net/forum?id=6xHJ37MVxxp)][[arxiv link](https://arxiv.org/abs/2104.02008)][[slides link](https://iclr.cc/media/Slides/iclr/2021/virtual(03-08-00)-03-08-00UTC-2738-domain_generali.pdf)][[code}official](https://github.com/KaiyangZhou/mixstyle-release)][originally designed for `domain generalization`, inspired by `AdaIN (ICCV2017)`]
 
+* **StyleMix(CVPR2021)** StyleMix: Separating Content and Style for Enhanced Data Augmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.html)][[code|official](https://github.com/alsdml/StyleMix)]
+
+* **KeepAugment(CVPR2021)** KeepAugment: A Simple Information-Preserving Data Augmentation Approach [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Gong_KeepAugment_A_Simple_Information-Preserving_Data_Augmentation_Approach_CVPR_2021_paper.html)][[arxiv link](http://arxiv.org/abs/2011.11778)]
+
 * **Augmentation-for-LNL(CVPR2021)** Augmentation Strategies for Learning With Noisy Labels [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Nishi_Augmentation_Strategies_for_Learning_With_Noisy_Labels_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.02130)][[code|official](https://github.com/KentoNishi/Augmentation-for-LNL)]
 
 * **TrivialAugment(ICCV2021 oral)** TrivialAugment: Tuning-Free Yet State-of-the-Art Data Augmentation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Muller_TrivialAugment_Tuning-Free_Yet_State-of-the-Art_Data_Augmentation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.10158)][[code|official](https://github.com/automl/trivialaugment)]
+
+* **RegMixup(NIPS2022)** Using Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5ddcfaad1cb72ce6f1a365e8f1ecf791-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2206.14502)][[code|official](https://github.com/FrancescoPinto/RegMixup)]
+
+* 👍**C-Mixup** C-Mixup: Improving Generalization in Regression [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1626be0ab7f3d7b3c639fbfd5951bc40-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2210.05775)][[code|official](https://github.com/huaxiuyao/C-Mixup)][for the `Regression` task]
 
 * **TokenMix(ECCV2022)** TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_26)][[arxiv link](https://arxiv.org/abs/2207.08409)][[code|official](https://github.com/Sense-X/TokenMix)]
 
@@ -77,6 +85,8 @@ also including `self-supervised learning` and `unsupervised learning`
 * 👍**ReMixMatch (NIPS2020)** ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring [[openreview link](https://openreview.net/forum?id=HklkeR4KPB)][[arxiv link](https://arxiv.org/abs/1911.09785)][[code|official](https://github.com/google-research/remixmatch)][`Google`, The first author is `David Berthelot`, `Applying Multiple Strong Augmentations for the Same Input Batch`]
 
 * 👍👍**FixMatch (NIPS2020)** FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[paper link](https://proceedings.neurips.cc/paper/2020/hash/06964dce9addb1c5cb5d6e3d9838f733-Abstract.html)][[arxiv link](https://arxiv.org/abs/2001.07685)][[code|official](https://github.com/google-research/fixmatch)][`Google`, The first author is `David Berthelot`, `Weak-Strong Augmentation Pairs`, `pseudo-labeling based (also called self-training)`]
+
+* **FeatMatch(ECCV2020)** FeatMatch: Feature-Based Augmentation for Semi-supervised Learning [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_28)][[arxiv link](https://arxiv.org/abs/2007.08505)][[project link](https://sites.google.com/view/chiawen-kuo/home/featmatch)][[code|official](https://github.com/GT-RIPL/FeatMatch)]
 
 * 👍**UDA (NIPS2020)** Unsupervised Data Augmentation for Consistency Training [[paper link](https://proceedings.neurips.cc/paper/2020/hash/44feb0096faa8326192570788b38c1d1-Abstract.html)][[arxiv link](https://arxiv.org/abs/1904.12848)][[code|official](https://github.com/google-research/uda)]
 
