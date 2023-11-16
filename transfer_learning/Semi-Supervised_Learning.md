@@ -53,6 +53,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **MixStyle(ICLR2021)** Domain Generalization with MixStyle [[openreview link](https://openreview.net/forum?id=6xHJ37MVxxp)][[arxiv link](https://arxiv.org/abs/2104.02008)][[slides link](https://iclr.cc/media/Slides/iclr/2021/virtual(03-08-00)-03-08-00UTC-2738-domain_generali.pdf)][[code}official](https://github.com/KaiyangZhou/mixstyle-release)][originally designed for `domain generalization`, inspired by `AdaIN (ICCV2017)`]
 
+* **TrivialAugment(ICCV2021 oral)** TrivialAugment: Tuning-Free Yet State-of-the-Art Data Augmentation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Muller_TrivialAugment_Tuning-Free_Yet_State-of-the-Art_Data_Augmentation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.10158)][[code|official](https://github.com/automl/trivialaugment)]
+
 
 ### ▶for Image Classification
 
@@ -112,6 +114,8 @@ also including `self-supervised learning` and `unsupervised learning`
 * **ssl_detection(arxiv2020.12)** A Simple Semi-Supervised Learning Framework for Object Detection [[arxiv link](https://arxiv.org/abs/2005.04757)][[code|official](https://github.com/google-research/ssl_detection/)][`google-research`]
 
 * 👍**Unbiased Teacher (ICLR2021)** Unbiased Teacher for Semi-Supervised Object Detection [[openreview link](https://openreview.net/forum?id=MJIve1zgR_)][[arxiv link](https://arxiv.org/abs/2102.09480)][[project link](https://ycliu93.github.io/projects/unbiasedteacher.html)][[code|official](https://github.com/facebookresearch/unbiased-teacher)]
+
+* **Unbiased Teacher v2 (CVPR2022)** Unbiased Teacher v2: Semi-Supervised Object Detection for Anchor-Free and Anchor-Based Detectors [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Unbiased_Teacher_v2_Semi-Supervised_Object_Detection_for_Anchor-Free_and_Anchor-Based_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2206.09500)][[project link](https://ycliu93.github.io/projects/unbiasedteacher2.html)]
 
 * **MUM (CVPR2022)** MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2111.10958)][[code|official](https://github.com/JongMokKim/mix-unmix)][`data augmentation`, [(arxiv2022.03) Pose-MUM: Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation](https://arxiv.org/abs/2203.07837)]]
 
