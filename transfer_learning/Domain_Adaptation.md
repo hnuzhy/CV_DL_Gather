@@ -222,11 +222,16 @@
 ### ④ ⭐Domain Generalization Methods
 `Unlike other related learning problems such as domain adaptation or transfer learning, DG considers the scenarios where target data is inaccessible during model learning.`
 
+* **(NIPS2011)** Generalizing from Several Related Classification Tasks to a New Unlabeled Sample [[paper link](https://proceedings.neurips.cc/paper_files/paper/2011/hash/b571ecea16a9824023ee1af16897a582-Abstract.html)][`Universitat Potsdam + University of Michigan`][`the problem of domain generalization (DG) was firstly introduced.`]
+
+* **(CVPR2011)** Unbiased Look at Dataset Bias [[paper link](https://ieeexplore.ieee.org/abstract/document/5995347)][[pdf link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b6a70d3116a47b4b1cf3a7bd3572aee469173689)][`MIT + CMU`][`A seminal work raised attention on the cross-domain generalization issue in computer vision. It performed a thorough investigation into the cross-dataset generalization performance of object recognition models using six popular benchmark datasets. Their findings suggested that dataset biases, which are difficult to avoid, can lead to poor generalization performance.`]
+
+* **(CVPR2012)** Undoing the Damage of Dataset Bias [[paper link](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_12)][[pdf link](https://tom.ai/papers/khosla_eccv2012.pdf)][`MIT + CMU`][`It targeted the cross-dataset generalization problem in classification and detection tasks, and proposed to learn domain-specific bias vectors and domainagnostic weight vectors based on support vector machine (SVM) classifiers.`]
+
+* **(ICML2013)** Domain Generalization via Invariant Feature Representation [[paper link](https://proceedings.mlr.press/v28/muandet13.html)][[arxiv link](https://arxiv.org/abs/1301.2115)][`MPII + ETH Zurich`][`the term domain generalization was later coined in this paper after (NIPS2011)`]
+
+
 #### ▶4.1 Image Classification
-
-* **(NIPS2011)** Generalizing from Several Related Classification Tasks to a New Unlabeled Sample [[paper link](https://proceedings.neurips.cc/paper_files/paper/2011/hash/b571ecea16a9824023ee1af16897a582-Abstract.html)][`the problem of domain generalization (DG) was firstly introduced.`]
-
-* **(ICML2013)** Domain Generalization via Invariant Feature Representation [[paper link](https://proceedings.mlr.press/v28/muandet13.html)][[arxiv link](https://arxiv.org/abs/1301.2115)][`the term domain generalization was later coined in this paper after (NIPS2011)`]
 
 * **PCL(CVPR2022)** PCL: Proxy-Based Contrastive Learning for Domain Generalization [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yao_PCL_Proxy-Based_Contrastive_Learning_for_Domain_Generalization_CVPR_2022_paper.html)][`CUHK`]
 
