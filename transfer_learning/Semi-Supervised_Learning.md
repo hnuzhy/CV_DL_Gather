@@ -118,6 +118,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for Semantic Segmentation
 
+* **PS-MT(CVPR2022)** Perturbed and Strict Mean Teachers for Semi-Supervised Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Perturbed_and_Strict_Mean_Teachers_for_Semi-Supervised_Semantic_Segmentation_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2111.12903)][[code|official](https://github.com/yyliu01/PS-MT)]
+
 * **UniMatch (CVPR2023)** Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2208.09910)][[code|official](https://github.com/LiheYoung/UniMatch)]
 
 
