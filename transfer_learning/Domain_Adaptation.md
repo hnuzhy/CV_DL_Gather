@@ -5,7 +5,7 @@
 * **[3) Datasets](#3-Datasets)**
 * **[4) Materials](#4-Materials)**
 * **[5) Papers](#5-Papers)**
-  * **[▶ ⭐Survey of Domain Adaptation and Generalization](#-Survey-of-Domain-Generalization-and-Generalization)** 
+  * **[▶ ⭐Survey of Domain Adaptation and Generalization](#Survey-of-Domain-Generalization-and-Generalization)** 
   * **[▶ ① ⭐⭐⭐Domain Adaptation for Image Classification](#-Domain-Adaptation-for-Image-Classification)**
   * **[▶ ② ⭐⭐Domain Adaptation for Object Detection](#-Domain-Adaptation-for-Object-Detection)**
   * **[▶ ③ ⭐⭐Domain Adaptation for Semantic Segmentation](#-Domain-Adaptation-for-Semantic-Segmentation)**
