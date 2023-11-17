@@ -254,7 +254,7 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **SSR(ICCVW2021)** SSR: Semi-Supervised Soft Rasterizer for Single-View 2D to 3D Reconstruction [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/Diff3D/html/Laradji_SSR_Semi-Supervised_Soft_Rasterizer_for_Single-View_2D_to_3D_Reconstruction_ICCVW_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.09593)][[code|official](https://github.com/IssamLaradji/SSR)][may still needing additional annotations such as `silhouette`]
 
-* **SSP3D(ECCV2022)** Semi-supervised Single-View 3D Reconstruction via Prototype Shape Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_31)][[arxiv link](https://arxiv.org/abs/2209.15383)][[code|official](https://github.com/ChenHsing/SSP3D)][[`Zhen Xing`](https://chenhsing.github.io/), on datasets `ShapeNet` and `Pix3D`]
+* **SSP3D(ECCV2022)** Semi-supervised Single-View 3D Reconstruction via Prototype Shape Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_31)][[arxiv link](https://arxiv.org/abs/2209.15383)][[code|official](https://github.com/ChenHsing/SSP3D)][[`Zhen Xing`](https://chenhsing.github.io/), on datasets `ShapeNet` and `Pix3D`][based on `mean-teacher` and proposed two modules namely `Prototype Attention Module` (using multi-head self-attention) and `Shape Naturalness Module` (a generative adversarial learning manner)]
 
 
 ---
