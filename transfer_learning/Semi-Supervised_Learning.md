@@ -110,6 +110,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **SimMatch (CVPR2022)** SimMatch: Semi-Supervised Learning With Similarity Matching [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_SimMatch_Semi-Supervised_Learning_With_Similarity_Matching_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.06915)][[code|official](https://github.com/mingkai-zheng/SimMatch)][`The University of Sydney`]
 
+* **Bi-Adaptation(ICML2023)** Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions [[openreview link](https://openreview.net/forum?id=dZA7WtCULT)][[pdf link](http://www.lamda.nju.edu.cn/guolz/paper/ICML23_SSL.pdf)][`Nanjing University`, `SSL (Semi-Supervised Learning) + DA (Domain Adaptation)`]
+
 * **FreeMatch (ICLR2023)** FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning [[openreview link](https://openreview.net/forum?id=PDrUPTXJI_A)][[arxiv link](https://arxiv.org/abs/2205.07246)][[code|official](https://github.com/microsoft/Semi-supervised-learning)][`microsoft`]
 
 * **SoftMatch (ICLR2023)** SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning [[openreview link](https://openreview.net/forum?id=ymt1zQXBDiF)][[arxiv link](https://arxiv.org/abs/2301.10921)][[code|official](https://github.com/microsoft/Semi-supervised-learning)][`microsoft`]
