@@ -312,6 +312,8 @@
 
 * ⭐**SynergyNet(3DV2021)** Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry [[paper link](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800a453/1zWEnuGbFte)][[project link](https://choyingw.github.io/works/SynergyNet)][[codes|PyTorch](https://github.com/choyingw/SynergyNet)]
 
+* 👍**H3D-Net(ICCV2021)** H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Ramon_H3D-Net_Few-Shot_High-Fidelity_3D_Head_Reconstruction_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2107.12512)][[project link](https://crisalixsa.github.io/h3d-net/)][[`H3DS Dataset`](https://github.com/CrisalixSA/h3ds)]
+
 * **(ICCV2021)** Towards High Fidelity Monocular Face Reconstruction with Rich Reflectance using Self-supervised Learning and Ray Tracing [[paper link](https://arxiv.org/abs/2103.15432)][`MPII 马普所`]
 
 * **ToFu(ICCV2021)** ToFu: Topologically Consistent Multi-View Face Inference Using Volumetric Sampling [[paper link](http://openaccess.thecvf.com/content/ICCV2021/html/Li_Topologically_Consistent_Multi-View_Face_Inference_Using_Volumetric_Sampling_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2110.02948)][[project link](https://tianyeli.github.io/tofu)][[code|official](https://github.com/tianyeli/tofu)][`USC Institute for Creative Technologies` and `MPII 马普所`]
@@ -346,7 +348,7 @@
 
 * **HiFace (ICCV2023)** HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chai_HiFace_High-Fidelity_3D_Face_Reconstruction_by_Learning_Static_and_Dynamic_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.11225)][[project link](https://project-hiface.github.io/)][`MicroSoft`, based on `DenseLandmarks(ECCV2022)`]
 
-* **SIRA++(arxiv2023.10)** Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction [[arxiv link](https://arxiv.org/abs/2310.08784)][`few-shot learning`]
+* **SIRA++(arxiv2023.10)** Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction [[arxiv link](https://arxiv.org/abs/2310.08784)][`few-shot learning`][extended journal on `SIRA(WACV2023)` --> SIRA: Relightable Avatars From a Single Image [[paper link](https://openaccess.thecvf.com/content/WACV2023/html/Caselles_SIRA_Relightable_Avatars_From_a_Single_Image_WACV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2209.03027)]]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
