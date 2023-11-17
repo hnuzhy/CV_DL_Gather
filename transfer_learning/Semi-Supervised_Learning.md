@@ -246,7 +246,7 @@ also including `self-supervised learning` and `unsupervised learning`
 * **S2Contact(ECCV2022)** S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning [[paper link]](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_33)][[arxiv link](https://arxiv.org/abs/2208.00874)][[project link](https://eldentse.github.io/s2contact/)][[code|official](https://github.com/eldentse/s2contact)][`University of Birmingham, UNIST, SUSTech`]
 
 
-### ▶ for 3D Reconstruction
+### ▶for 3D Reconstruction
 
 * **SSP3D(ECCV2022)** Semi-supervised Single-View 3D Reconstruction via Prototype Shape Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_31)][[arxiv link](https://arxiv.org/abs/2209.15383)][[code|official](https://github.com/ChenHsing/SSP3D)][[`Zhen Xing`](https://chenhsing.github.io/), on datasets `ShapeNet` and `Pix3D`]
 
