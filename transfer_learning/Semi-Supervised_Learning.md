@@ -25,6 +25,10 @@ also including `self-supervised learning` and `unsupervised learning`
 * [(github) SemiSeg: a list of "Awesome Semi-Supervised Semantic Segmentation" works](https://github.com/LiheYoung/UniMatch/blob/main/docs/SemiSeg.md)
 * [(github) LAMDA-SSL: Semi-Supervised Learning Algorithms ](https://github.com/YGZWQZD/LAMDA-SSL) [[arxiv link](https://arxiv.org/abs/2208.04610)][[project homepage](https://ygzwqzd.github.io/LAMDA-SSL/#/)]
 
+## Pioneers
+
+[[`李宇峰 Yu-Feng Li`](https://cs.nju.edu.cn/liyf/index.htm)]
+
 ---
 
 ## Papers (Semi-Supervised_Learning)
