@@ -18,6 +18,8 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 ### Journals
 
 * **(survey)(arxiv2022.03)(TPAMI2023) Recovering 3D Human Mesh from Monocular Images: A Survey** [[paper link](https://arxiv.org/abs/2203.01923)] [[project link](https://github.com/tinatiansjz/hmr-survey)] [[CVPR 2022 related works](https://github.com/tinatiansjz/hmr-survey/issues/1)]
+* **(survey)(arxiv2023.07)(TPAMI2023) Human Motion Generation: A Survey** [[paper link](https://arxiv.org/abs/2307.10894)][`PKU` + `Huawei`]
+
 
 ### Conferences
 
