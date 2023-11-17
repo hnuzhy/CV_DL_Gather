@@ -110,6 +110,10 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **EMAN (CVPR2021)** Exponential Moving Average Normalization for Self-Supervised and Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Cai_Exponential_Moving_Average_Normalization_for_Self-Supervised_and_Semi-Supervised_Learning_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2101.08482)][[code|official](https://github.com/amazon-science/exponential-moving-average-normalization)][`may not that generic`]
 
+* **SAW_SSL(ICML2022)** Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data [[paper link](https://proceedings.mlr.press/v162/lai22b)][[code|official](https://github.com/ZJUJeffLai/SAW_SSL)]
+
+* **ADSH(ICML2022)** Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding [[paper link](https://proceedings.mlr.press/v162/guo22e.html)][[code|official](http://www.lamda.nju.edu.cn/code_ADSH.ashx)][`Nanjing University`]
+
 * **Classification-SemiCLS (CVPR2022)** Class-Aware Contrastive Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Class-Aware_Contrastive_Semi-Supervised_Learning_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.02261)][[code|official](https://github.com/TencentYoutuResearch/Classification-SemiCLS)][based on `FixMatch`, `THU + Tencent Youtu Lab`]
 
 * **SimMatch (CVPR2022)** SimMatch: Semi-Supervised Learning With Similarity Matching [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_SimMatch_Semi-Supervised_Learning_With_Similarity_Matching_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.06915)][[code|official](https://github.com/mingkai-zheng/SimMatch)][`The University of Sydney`]
