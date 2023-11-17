@@ -272,6 +272,8 @@ also including `self-supervised learning` and `unsupervised learning`
 * 👍**SwAV (NIPS2020)** Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[paper link](https://proceedings.neurips.cc/paper/2020/hash/70feb62b69f16e0238f741fab228fec2-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.09882)]
 [[code|official](https://github.com/facebookresearch/swav)][including `contrastive learning`]
 
+* **CARE(NIPS2021)** Revitalizing CNN Attention via Transformers in Self-Supervised Visual Representation Learning [[paper link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/21be992eb8016e541a15953eee90760e-Abstract.html)][[openreview link](https://openreview.net/forum?id=sRojdWhXJx)][[arxiv link](https://arxiv.org/abs/2110.05340)][[`Chongjian GE 葛崇剑`](https://chongjiange.github.io/)][In order to make the training process of `Mean-Teacher` more stable, it slowly increases α from 0.999 to 1 through cosine design.]
+
 * 👍👍**DINO (ICCV2021)** Emerging Properties in Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`ViT-based`, `a form of self-distillation with no labels`, `self-supervised pre-training`]
 
 * **MoCo-v3(ICCV2021)** An Empirical Study of Training Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`ViT-based`, `self-supervised pre-training`]
