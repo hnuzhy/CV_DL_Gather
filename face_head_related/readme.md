@@ -680,3 +680,7 @@ including `Sign Language Recognition` and `Sign Language Translation`
 * **TokenHPE(CVPR2023)** TokenHPE: Learning Orientation Tokens for Efficient Head Pose Estimation via Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_TokenHPE_Learning_Orientation_Tokens_for_Efficient_Head_Pose_Estimation_via_CVPR_2023_paper.html)][[code|official](https://github.com/zc2023/TokenHPE)][`Transformer-based method`]
 
 * ⭐**DSFNet(CVPR2023)** DSFNet: Dual Space Fusion Network for Occlusion-Robust Dense 3D Face Alignment [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.11522)][[paperwithcode link](https://paperswithcode.com/paper/dsfnet-dual-space-fusion-network-for-1)][[code|official](https://github.com/lhyfst/DSFNet)][`Head Pose Estimation` + `Face Alignment` + `3D Face Reconstruction`]
+
+* **PFA(arxiv2023.08)** 3D Face Alignment Through Fusion of Head Pose Information and Features [[arxiv link](https://arxiv.org/abs/2308.13327)][`Soongsil University`]
+
+
