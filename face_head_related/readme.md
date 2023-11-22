@@ -507,7 +507,7 @@ including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Ob
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
 ### ▶ Hand Pose Estimation
-also `Hand Shape Estimation`
+also `2D/3D Hand Keypoints Detection` or `Hand Shape Estimation` or `3D Hand Shape and Pose Regression`
 
 #### Materials
 
@@ -530,10 +530,46 @@ also `Hand Shape Estimation`
 
 * **MANO (TOG2017, SIGGRAPH ASIA 2017)** Embodied Hands: Modeling and Capturing Hands and Bodies Together [[paper link](https://dl.acm.org/doi/abs/10.1145/3130800.3130883)][[arxiv link](https://arxiv.org/abs/2201.02610)][[project link (keep updating)](http://mano.is.tue.mpg.de/)][`MPII`, `It attempts to learn hand shape variation with Linear Blend Skinning (LBS)` [[SIGGRAPH 2000](https://dl.acm.org/doi/abs/10.1145/344779.344862)]][`it learns from a large variety of high-quality hand scans and represents the geometric changes in the low-dimensional pose and shape space`]
 
+##### ▶Hand Keypoints Detection
+
+* **hand3d(ICCV2017)** Learning to Estimate 3D Hand Pose From Single RGB Images [[paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Zimmermann_Learning_to_Estimate_ICCV_2017_paper.html)][[arxiv link](https://arxiv.org/abs/1705.01389v3)][[project link](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)][[code|official](https://github.com/lmb-freiburg/hand3d)][`University of Freiburg`, new dataset `Rendered Hand Pose Dataset (RHD)`, `3D Hand Keypoints Detection`]
+
 ##### ▶3D Hand Reconstruction
 also `3D Hand Shape and Pose Regression`
 
-* **(CVPR2019)** 3D Hand Shape and Pose From Images in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1902.03451)]
+* **(ECCV2018)** Hand Pose Estimation via Latent 2.5D Heatmap Regression [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Umar_Iqbal_Hand_Pose_Estimation_ECCV_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1804.09534)][`No code is available`, `NVIDIA`]
+
+* **(CVPR2019)** 3D Hand Shape and Pose From Images in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1902.03451)][`No code is available`, based on `MANO`]
+
+* **(CVPR2019)** Pushing the Envelope for RGB-Based Dense 3D Hand Pose Estimation via Neural Rendering [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Baek_Pushing_the_Envelope_for_RGB-Based_Dense_3D_Hand_Pose_Estimation_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1904.04196)][`No code is available`, based on `MANO`]
+
+* **Hand+Object(CVPR2019)** H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Tekin_HO_Unified_Egocentric_Recognition_of_3D_Hand-Object_Poses_and_Interactions_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1904.05349)][`No code is available`, `6DoF Object Pose Estimation` + `3D Hand Keypoints Detection`]
+
+* 👍**hand-graph-cnn(CVPR2019)** 3D Hand Shape and Pose Estimation From a Single RGB Image [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1903.00812)][[code|official](https://github.com/3d-hand-shape/hand-graph-cnn)][based on `MANO`, `2D/3D Hand Keypoints Detection` + `3D Hand Mesh`]
+
+* **HAMR(ICCV2019)** End-to-End Hand Mesh Recovery From a Monocular RGB Image [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_End-to-End_Hand_Mesh_Recovery_From_a_Monocular_RGB_Image_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1902.09305)][[code|official](https://github.com/MandyMo/HAMR)][based on `MANO`, `2D/3D Hand Keypoints Detection` + `3D Hand Mesh`]
+
+* 👍**MobileHand(ICONIP2020)** MobileHand: Real-time 3D Hand Shape and Pose Estimation from Color Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_52)][[project link](https://gmntu.github.io/mobilehand/)][[code|official](https://github.com/gmntu/mobilehand)][`anyang Technological University`][based on `MANO`, `2D/3D Hand Keypoints Detection` + `3D Hand Mesh`]
+
+* **mesh_hands(CVPR2020)** Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2004.01946)][[project link](https://arielai.com/mesh_hands)][based on `MANO`]
+
+* 👍**HandOccNet(CVPR2022)** HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Park_HandOccNet_Occlusion-Robust_3D_Hand_Mesh_Estimation_Network_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.14564)][[code|official](https://github.com/namepllet/HandOccNet)][based on `MANO`]
+
+* **** [[paper link]()][[]()][[]()]
+
+* **** [[paper link]()][[]()][[]()]
+
+* **** [[paper link]()][[]()][[]()]
+
+* **** [[paper link]()][[]()][[]()]
+
+* **** [[paper link]()][[]()][[]()]
+
+* **** [[paper link]()][[]()][[]()]
+
+* **** [[paper link]()][[]()][[]()]
+
+
 
 ##### ▶Sign Language Understanding
 including `Sign Language Recognition` and `Sign Language Translation`
