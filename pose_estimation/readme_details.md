@@ -453,8 +453,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Hand Pose Estimation
 
-* **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`a weakly-supervised method with the aid of depth
-images`]
+* **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`No code`, `Nanyang Technological University`, `a weakly-supervised method with the aid of depth images`, `3D Hand Pose Estimation`, `Keypoints`]
+
+* **SO-HandNet(ICCV2019)** SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation With Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_SO-HandNet_Self-Organizing_Network_for_3D_Hand_Pose_Estimation_With_Semi-Supervised_ICCV_2019_paper.html)][`No code`, `Wuhan University`, `3D Hand Pose Estimation`, `Keypoints`, based on [`SO-Net`](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.html) and 3D point clouds]
 
 * **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
 
