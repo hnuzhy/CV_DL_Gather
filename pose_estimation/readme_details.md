@@ -453,19 +453,19 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Hand Pose Estimation
 
-* **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`No code`, `Nanyang Technological University`, `a weakly-supervised method with the aid of depth images`, `3D Hand Pose Estimation`, `Keypoints`]
+* **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`No code is available`, `Nanyang Technological University`, `a weakly-supervised method with the aid of depth images`, `3D Hand Pose Estimation`, `Keypoints`]
 
-* **SO-HandNet(ICCV2019)** SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation With Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_SO-HandNet_Self-Organizing_Network_for_3D_Hand_Pose_Estimation_With_Semi-Supervised_ICCV_2019_paper.html)][`No code`, `Wuhan University`, `3D Hand Pose Estimation`, `Keypoints`, based on [`SO-Net`](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.html) and 3D point clouds]
+* **SO-HandNet(ICCV2019)** SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation With Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_SO-HandNet_Self-Organizing_Network_for_3D_Hand_Pose_Estimation_With_Semi-Supervised_ICCV_2019_paper.html)][`No code is available`, `Wuhan University`, `3D Hand Pose Estimation`, `Keypoints`, based on [`SO-Net`](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.html) and 3D point clouds]
 
 * **weak_da_hands(CVPR2020)** Weakly-Supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.html)][[code|official (not available)](https://github.com/bsrvision/weak_da_hands)]
 
-* **SemiHand(ICCV2021)** SemiHand: Semi-Supervised Hand Pose Estimation With Consistency [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_SemiHand_Semi-Supervised_Hand_Pose_Estimation_With_Consistency_ICCV_2021_paper.html)][`No code`, `semi-supervised hand pose estimation`]
+* **SemiHand(ICCV2021)** SemiHand: Semi-Supervised Hand Pose Estimation With Consistency [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_SemiHand_Semi-Supervised_Hand_Pose_Estimation_With_Consistency_ICCV_2021_paper.html)][`No code is available`, `semi-supervised hand pose estimation`]
 
 * **MarsDA(TCSVT2022)** Multibranch Adversarial Regression for Domain Adaptative Hand Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732951)][based on `RegDA`, `hand datasets (RHD→H3D)`, `It applies a teacher-student approach to edit RegDA`]
 
 * 👍**C-GAC(ECCV2022)** Domain Adaptive Hand Keypoint and Pixel Localization in the Wild [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_5)][[arxiv link](https://arxiv.org/abs/2203.08344)][[project link](https://tkhkaeio.github.io/projects/22-hand-ps-da/)][based on `Stacked Hourglass`， `all compared methods are reproduced by the author`, `no code is available`]
 
-* **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][[code is not available]()][`cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
+* **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][`No code is available`, `cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
 
 
 #### ※ Head Pose Estimation / Eye Gaze Estimation
