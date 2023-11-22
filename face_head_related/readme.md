@@ -511,6 +511,8 @@ also `2D/3D Hand Keypoints Detection` or `Hand Shape Estimation` or `3D Hand Sha
 
 #### Materials
 
+* **(github)(Hand3DResearch) Recent Progress in 3D Hand Tasks** [[github link](https://github.com/SeanChenxy/Hand3DResearch)]
+
 #### Datasets
 
 * [**HANDS17: (arxiv2017)**] [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/) [[arxiv link](https://arxiv.org/abs/1707.02237)][`3D Hand Pose Estimation`, `21 joints`]
@@ -553,22 +555,21 @@ also `3D Hand Shape and Pose Regression`
 
 * **mesh_hands(CVPR2020)** Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2004.01946)][[project link](https://arielai.com/mesh_hands)][based on `MANO`]
 
+* **RGB2Hands(SIGGRAPH Asia 2020)** RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video [[paper link](https://dl.acm.org/doi/abs/10.1145/3414685.3417852)][[arxiv link](https://arxiv.org/abs/2106.11725)][[project link](https://handtracker.mpi-inf.mpg.de/projects/RGB2Hands/)][new dataset `RGB2Hands`, based on `MANO`]
+
+* **InterShape(ICCV2021)** Interacting Two-Hand 3D Pose and Shape Reconstruction From Single Color Image [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Interacting_Two-Hand_3D_Pose_and_Shape_Reconstruction_From_Single_Color_ICCV_2021_paper.html)][[pdf link](https://www.yangangwang.com/papers/ZHANG-ITH-2021-08.pdf)][[project link](https://baowenz.github.io/Intershape/)][[code|official](https://github.com/BaowenZ/Two-Hand-Shape-Pose)][`Yangang Wang`, based on `MANO`, using the dataset `InterHand2.6M`]
+
+* **IntagHand(CVPR2022)** Interacting Attention Graph for Single Image Two-Hand Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Interacting_Attention_Graph_for_Single_Image_Two-Hand_Reconstruction_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.09364)][[code|official](https://github.com/Dw1010/IntagHand)][based on `MANO`, using the dataset `InterHand2.6M`]
+
 * 👍**HandOccNet(CVPR2022)** HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Park_HandOccNet_Occlusion-Robust_3D_Hand_Mesh_Estimation_Network_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.14564)][[code|official](https://github.com/namepllet/HandOccNet)][based on `MANO`]
 
-* **** [[paper link]()][[]()][[]()]
+* **MeMaHand(CVPR2023)** MeMaHand: Exploiting Mesh-Mano Interaction for Single Image Two-Hand Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_MeMaHand_Exploiting_Mesh-Mano_Interaction_for_Single_Image_Two-Hand_Reconstruction_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.15718)][`ByteDance`, `No code is available`, based on `MANO`, compared to `IntagHand` and `InterShape`]
 
-* **** [[paper link]()][[]()][[]()]
+* **Im2Hands(CVPR2023)** Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Im2Hands_Learning_Attentive_Implicit_Representation_of_Interacting_Two-Hand_Shapes_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2302.14348)][[project link](https://jyunlee.github.io/projects/implicit-two-hands/)][[code|official](https://github.com/jyunlee/Im2Hands)][`KAIST`, compared to `IntagHand`, based on [`HALO: A Skeleton-Driven Neural Occupancy Representation for Articulated Hands (3DV 2021)`](https://github.com/korrawe/halo) and [`Occupancy Networks`](https://github.com/autonomousvision/occupancy_networks)]
 
-* **** [[paper link]()][[]()][[]()]
+* **ACR(CVPR2023)** ACR: Attention Collaboration-Based Regressor for Arbitrary Two-Hand Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_ACR_Attention_Collaboration-Based_Regressor_for_Arbitrary_Two-Hand_Reconstruction_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.05938)][[code|official](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction)][`Tencent AI Lab`, based on `MANO`, compared to `IntagHand`]
 
-* **** [[paper link]()][[]()][[]()]
-
-* **** [[paper link]()][[]()][[]()]
-
-* **** [[paper link]()][[]()][[]()]
-
-* **** [[paper link]()][[]()][[]()]
-
+* **InterWild(CVPR2023)** Bringing Inputs to Shared Domains for 3D Interacting Hands Recovery in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Moon_Bringing_Inputs_to_Shared_Domains_for_3D_Interacting_Hands_Recovery_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13652)][[code|official](https://github.com/facebookresearch/InterWild)][`facebookresearch`, single author `Gyeongsik Moon`, based on `MANO`, compared to `IntagHand`]
 
 
 ##### ▶Sign Language Understanding
