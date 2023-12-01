@@ -249,7 +249,7 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **CrowdCLIP(CVPR2023)** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liang_CrowdCLIP_Unsupervised_Crowd_Counting_via_Vision-Language_Model_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.04231)][[code|official](https://github.com/dk-liang/CrowdCLIP)][`HUST`]
 
-* **SSCC (ICCV2023)** Calibrating Uncertainty for Semi-Supervised Crowd Counting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/LI_Calibrating_Uncertainty_for_Semi-Supervised_Crowd_Counting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.09887)][`Stony Brook University`]
+* **SSCC (ICCV2023)** Calibrating Uncertainty for Semi-Supervised Crowd Counting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/LI_Calibrating_Uncertainty_for_Semi-Supervised_Crowd_Counting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.09887)][`Stony Brook University`, `Mean-Teacher framework`, `A new uncertainty estimation branch`]
 
 
 ### ▶for 3D Hand-Object
