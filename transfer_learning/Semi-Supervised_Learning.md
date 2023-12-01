@@ -236,6 +236,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **UCVME(AAAI2023)** Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25890/)][[arxiv link](https://arxiv.org/abs/2302.07579)][[code | official](https://github.com/xmed-lab/UCVME)][`Semi-Supervised Rotation Regression`]
 
+* **FisherMatch+(arxiv2023.05)(submitted to TPAMI)** Towards Robust Probabilistic Modeling on SO(3) via Rotation Laplace Distribution [[arxiv link](https://arxiv.org/abs/2305.10465)][It proposed a new robust `probabilistic modeling` method; It is an extended version of `FisherMatch`]
+
 
 ### ▶for Crowd Counting
 
