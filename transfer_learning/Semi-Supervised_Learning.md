@@ -79,6 +79,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **TransMix(CVPR2022)** TransMix: Attend To Mix for Vision Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2111.09833)][[code|official](https://github.com/Beckschen/TransMix)]
 
+* 👍**YOCO(ICML2022)** You Only Cut Once: Boosting Data Augmentation with a Single Cut [[paper link](https://proceedings.mlr.press/v162/han22a.html)][[arxiv link](https://arxiv.org/abs/2201.12078)][[code|official](https://github.com/JunlinHan/YOCO)]
+
 
 ### ▶for Image Classification
 
