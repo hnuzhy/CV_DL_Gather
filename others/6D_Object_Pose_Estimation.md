@@ -130,3 +130,7 @@ Also named ***3D Object Detection***
 * 👍**VI-Net(ICCV2023)** VI-Net: Boosting Category-level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_VI-Net_Boosting_Category-level_6D_Object_Pose_Estimation_via_Learning_Decoupled_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.09916)][[code|official](https://github.com/JiehongLin/VI-Net)]
 
 * **IST-Net(ICCV2023)** IST-Net: Prior-free Category-level Pose Estimation with Implicit Space Transformation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_IST-Net_Prior-Free_Category-Level_Pose_Estimation_with_Implicit_Space_Transformation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13479)][[project link](https://sites.google.com/view/cvmi-ist-net/)][[code|official](https://github.com/CVMI-Lab/IST-Net)][`The University of Hong Kong`, `It investigates whether 3D shape priors are necessary (The anwser is No)`]
+
+* **SAM-6D(arxiv2023.11)** SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2311.15707)][[code|official](https://github.com/JiehongLin/SAM-6D)]
+
+
