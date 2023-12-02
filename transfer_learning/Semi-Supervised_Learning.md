@@ -84,6 +84,8 @@ also including `self-supervised learning` and `unsupervised learning`
 
 ### ▶for Image Classification
 
+* **Π-model (ICLR2017)** Temporal Ensembling for Semi-Supervised Learning [[openreview link](https://openreview.net/forum?id=BJ6oOfqge)][[arxiv link](https://arxiv.org/abs/1610.02242)][`It proposes a temporal ensemble strategy for the pseudo-label to reduce the noise in the target`]
+
 * 👍👍**Mean Teachers (NIPS2017)** Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results [[paper link](https://proceedings.neurips.cc/paper/2017/hash/68053af2923e00204c3ca7c6a3150cf7-Abstract.html)][[arxiv link](https://arxiv.org/abs/1703.01780)][` the teacher is the moving average of the student which can be timely updated in every iteration`, `But their performance is limited because the two models tend to converge to the same point and stop further exploration`]
 
 * **VAT (TPAMI2018)** Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning [[paper link](https://ieeexplore.ieee.org/abstract/document/8417973)][[arxiv link](https://arxiv.org/abs/1704.03976)][[code|official vat_chainer](https://github.com/takerum/vat_chainer)][[code|official vat_tf](https://github.com/takerum/vat_tf)]
