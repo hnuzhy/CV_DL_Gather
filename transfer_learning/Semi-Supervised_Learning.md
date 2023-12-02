@@ -140,7 +140,7 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **ShrinkMatch (ICCV2023)** Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Shrinking_Class_Space_for_Enhanced_Certainty_in_Semi-Supervised_Learning_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.06777)][[code|official](https://github.com/LiheYoung/ShrinkMatch)][based on `FixMatch`]
 
-* **SimMatchV2 (ICCV2023)** SimMatchV2: Semi-Supervised Learning with Graph Consistency [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.06692)][[code|official](https://github.com/mingkai-zheng/SimMatchV2)][`The University of Sydney`]
+* **SimMatchV2 (ICCV2023)** SimMatchV2: Semi-Supervised Learning with Graph Consistency [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_SimMatchV2_Semi-Supervised_Learning_with_Graph_Consistency_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.06692)][[code|official](https://github.com/mingkai-zheng/SimMatchV2)][`The University of Sydney`, based on `FixMatch` and `SimMatch`]
 
 * **** [[]()][[]()][[]()]
 
