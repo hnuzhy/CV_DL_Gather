@@ -116,7 +116,7 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **CoMatch (ICCV2021)** CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_CoMatch_Semi-Supervised_Learning_With_Contrastive_Graph_Regularization_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2011.11183)][[code|official](https://github.com/salesforce/CoMatch)][`Salesforce Research`, based on `FixMatch]
 
-* **CRMatch (arxiv2021.12)(IJCV2023)** Revisiting Consistency Regularization for Semi-Supervised Learning [[]paper link(https://link.springer.com/article/10.1007/s11263-022-01723-4)][[arxiv link](https://arxiv.org/abs/2112.05825)]
+* **CRMatch (arxiv2021.12)(IJCV2023)** Revisiting Consistency Regularization for Semi-Supervised Learning [[paper link](https://link.springer.com/article/10.1007/s11263-022-01723-4)][[arxiv link](https://arxiv.org/abs/2112.05825)]
 
 * **SAW_SSL(ICML2022)** Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data [[paper link](https://proceedings.mlr.press/v162/lai22b)][[code|official](https://github.com/ZJUJeffLai/SAW_SSL)]
 
