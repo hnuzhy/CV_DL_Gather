@@ -259,7 +259,7 @@
 * [**Feng et al. using Stirling meshes (Stirling/ESRC Benchmark)**] [(FG2018) Evaluation of Dense 3D Reconstruction from 2D Face Images in the Wild](https://ieeexplore.ieee.org/abstract/document/8373916) [[pdf page](https://arxiv.org/pdf/2204.06607.pdf)]
 * [**NoW ("Not quite in-the-Wild")**] [RingNet(CVPR2019) Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](https://ringnet.is.tue.mpg.de/index.html) [[NoW Challenge](https://now.is.tue.mpg.de/nonmetricalevaluation.html)]
 * [**FaceScape**] [FaceScape(CVPR2020) FaceScape: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://facescape.nju.edu.cn/)
-* [**FaceSynthetics**] [FaceSynthetics(ICCV2021) Fake It Till You Make It: Face analysis in the wild using synthetic data alone](https: //microsoft.github.io/FaceSynthetics/) [`synthetic face image with 70 landmarks`]
+* [**FaceSynthetics**] [FaceSynthetics(ICCV2021) Fake It Till You Make It: Face analysis in the wild using synthetic data alone](https://microsoft.github.io/FaceSynthetics/) [`synthetic face image with 70 landmarks`]
 * [**DAD-3DHeads**] [DAD-3DNet(CVPR2022) DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image](https://www.pinatafarm.com/research/dad-3dheads)
 * [**Multiface**] [Multiface(arxiv2022.07) Multiface: A Dataset for Neural Face Rendering](https://arxiv.org/abs/2207.11243) [[github link](https://github.com/facebookresearch/multiface)] [`Facebook`]
 
