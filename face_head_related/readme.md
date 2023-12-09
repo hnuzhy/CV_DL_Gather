@@ -350,6 +350,8 @@
 
 * **SIRA++(arxiv2023.10)** Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction [[arxiv link](https://arxiv.org/abs/2310.08784)][`few-shot learning`][extended journal on `SIRA(WACV2023)` --> SIRA: Relightable Avatars From a Single Image [[paper link](https://openaccess.thecvf.com/content/WACV2023/html/Caselles_SIRA_Relightable_Avatars_From_a_Single_Image_WACV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2209.03027)]]
 
+* **PRDL(arxiv2023.12)** 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation [[arxiv link](https://arxiv.org/abs/2312.00311)][tested on the dataset `REALY`]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
@@ -446,7 +448,6 @@ including `Hand Detection`, `Hand Tracking`, `Hand-Object Contact`, `Hand Pressu
 * **HO-NeRF(ICCV2023)** Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.11198)][[project link](https://iscas3dv.github.io/HO-NeRF/)][`Hand-Object Interaction`, `NeRF`]
 
 * **USST(ICCV2023)** Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08243)][[project link](https://actionlab-cv.github.io/EgoHandTrajPred/)][[code|official](https://github.com/oppo-us-research/USST)][`3D Ego-Hand Trajectory Forecasting`]
-
 
 #### ▶Head Part
 including `Head Detection`, `Head Counting`
