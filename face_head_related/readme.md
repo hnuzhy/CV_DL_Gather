@@ -573,6 +573,8 @@ also `3D Hand Shape and Pose Regression`
 
 * **InterWild(CVPR2023)** Bringing Inputs to Shared Domains for 3D Interacting Hands Recovery in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Moon_Bringing_Inputs_to_Shared_Domains_for_3D_Interacting_Hands_Recovery_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13652)][[code|official](https://github.com/facebookresearch/InterWild)][`facebookresearch`, single author `Gyeongsik Moon`, based on `MANO`, compared to `IntagHand`]
 
+* 👍**HaMeR(arxiv2023.12)** Reconstructing Hands in 3D with Transformers [[arxiv link](https://arxiv.org/abs/2312.05251)][[project link](https://geopavlakos.github.io/hamer/)][[code|official](https://github.com/geopavlakos/hamer)][[[first author `Georgios Pavlakos`](https://geopavlakos.github.io/)], `University of California, Berkeley`, a new dataset `HInt` which is built by sampling frames from `New Days of Hands`, `EpicKitchens-VISOR` and `Ego4D` and annotating the hands with `2D keypoints`.]
+
 
 ##### ▶Sign Language Understanding
 including `Sign Language Recognition` and `Sign Language Translation`
