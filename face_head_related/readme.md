@@ -352,6 +352,7 @@
 
 * **PRDL(arxiv2023.12)** 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation [[arxiv link](https://arxiv.org/abs/2312.00311)][tested on the dataset `REALY`]
 
+* **PPR-CNet(Computers & Graphics 2023)(CCF C)** 3D face reconstruction from a single image based on hybrid-level contextual information with weak supervision [[paper link](https://www.sciencedirect.com/science/article/pii/S0097849323002881)][`no code is available`, `Xinjiang University`]
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
