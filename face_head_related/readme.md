@@ -649,6 +649,7 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **CIT(IJCV2023)** Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose [[paper link](https://link.springer.com/article/10.1007/s11263-023-01935-2)][[code|official](https://github.com/Iron-LYK/CIT)][`SYSU`, `Facial Landmark` + `Head Pose`]
 
+* **TokenHPE(TIP2023)** Orientation Cues-Aware Facial Relationship Representation for Head Pose Estimation via Transformer [[paper link](https://ieeexplore.ieee.org/abstract/document/10318055)][The journal version of the conference paper `TokenHPE(CVPR2023)`]
 
 #### Papers(Conference)
 
