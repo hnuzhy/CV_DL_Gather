@@ -268,10 +268,13 @@ also including `self-supervised learning` and `unsupervised learning`
 
 * **S2Contact(ECCV2022)** S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning [[paper link]](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_33)][[arxiv link](https://arxiv.org/abs/2208.00874)][[project link](https://eldentse.github.io/s2contact/)][[code|official](https://github.com/eldentse/s2contact)][`University of Birmingham, UNIST, SUSTech`]
 
+* **SHAR(CVPR2023)** Semi-supervised Hand Appearance Recovery via Structure Disentanglement and Dual Adversarial Discrimination [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Semi-Supervised_Hand_Appearance_Recovery_via_Structure_Disentanglement_and_Dual_Adversarial_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.06380)][[project link](https://www.yangangwang.com/papers/CVPR2023/ZHAO-SHAR-2023-03.html)][`Ynagang Wang`]
 
 ### ▶for 3D Reconstruction
 
 * **3d-recon(ECCV2018)** Learning Single-View 3D Reconstruction with Limited Pose Supervision [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.html)][[pdf link](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.pdf)][[code|official](https://github.com/stevenygd/3d-recon)][[[`Guandao Yang (杨关道)`](https://www.guandaoyang.com/)], may still needing additional annotations such as `camera pose`]
+
+* **(CVPRW2020)** Semi-Supervised 3D Face Representation Learning From Unconstrained Photo Collections [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w21/Gao_Semi-Supervised_3D_Face_Representation_Learning_From_Unconstrained_Photo_Collections_CVPRW_2020_paper.html)][`Multiple Images as Inputs`]
 
 * **SSR(ICCVW2021)** SSR: Semi-Supervised Soft Rasterizer for Single-View 2D to 3D Reconstruction [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/Diff3D/html/Laradji_SSR_Semi-Supervised_Soft_Rasterizer_for_Single-View_2D_to_3D_Reconstruction_ICCVW_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.09593)][[code|official](https://github.com/IssamLaradji/SSR)][may still needing additional annotations such as `silhouette`]
 
