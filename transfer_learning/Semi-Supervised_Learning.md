@@ -1,5 +1,3 @@
-![image](https://github.com/hnuzhy/CV_DL_Gather/assets/21312423/cbf01f6b-5c79-44d1-8740-807875dfb33c)# Semi-Supervised_Learning
-also including `self-supervised learning` and `unsupervised learning`
 
 ## Contents
 
