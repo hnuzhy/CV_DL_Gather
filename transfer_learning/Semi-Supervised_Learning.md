@@ -1,4 +1,4 @@
-# Semi-Supervised_Learning
+![image](https://github.com/hnuzhy/CV_DL_Gather/assets/21312423/cbf01f6b-5c79-44d1-8740-807875dfb33c)# Semi-Supervised_Learning
 also including `self-supervised learning` and `unsupervised learning`
 
 ## Contents
@@ -239,8 +239,29 @@ also including `self-supervised learning` and `unsupervised learning`
 
 
 ### ▶for Rotation Regression
+`We here also collect supervised learning based Rotation Regression methods`
 
-* 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task][based on the `matrix Fisher distribution` theory introduced in [`(NIPS2020) An Analysis of SVD for Deep Rotation Estimation`](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html) and [`(NIPS2020) Probabilistic Orientation Estimation with Matrix Fisher Distributions`](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)][a similar `Rotation Regression` work proposed by the co-author of FisherMatch [`(CVPR2023) Delving into Discrete Normalizing Flows on SO (3) Manifold for Probabilistic Rotation Modeling`](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Delving_Into_Discrete_Normalizing_Flows_on_SO3_Manifold_for_Probabilistic_CVPR_2023_paper.html)][applying the `matrix Fisher parameters` for `Human Mesh Recovery` in work [`(CVPR2023) Learning Analytical Posterior Probability for Human Mesh Recovery`](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_Learning_Analytical_Posterior_Probability_for_Human_Mesh_Recovery_CVPR_2023_paper.html)]
+#### Supervised Learning
+
+* 👍 **(CVPR2019)** On the Continuity of Rotation Representations in Neural Networks [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1812.07035)][`University of Southern California`, the first author [`Yi Zhou`](https://zhouyisjtu.github.io/), `Gram-Schmidt orthogonalization procedure`][For `Rotation Regression`, this paper validated that parameterization in four or fewer dimensions will be `discontinuous` (this applies to all classic representations such as `Euler angles`, `axis-angle`, and `unit quaternions`)]
+
+* **(NIPS2020)** An Analysis of SVD for Deep Rotation Estimation [[paper link](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.14616)][`Simon Fraser University`, the first author [`Jake Levinson`](http://www.sfu.ca/~jlevinso/), `FisherMatch` is partially based on the `matrix Fisher distribution` theory introduced in this paper.]
+
+* 👍 **(NIPS2020)** Probabilistic Orientation Estimation with Matrix Fisher Distributions [[paper link](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.09740)][[code|official](https://www.github.com/Davmo049/Public_prob_orientation_estimation_with_matrix_fisher_distributions)][`KTH`, the first author [`David Mohlin`](https://www.kth.se/profile/davmo), `FisherMatch` is based on the `matrix Fisher distribution` theory introduced in this paper.][applying the `matrix Fisher parameters` for `Human Mesh Recovery` in work [`(CVPR2023) Learning Analytical Posterior Probability for Human Mesh Recovery`](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_Learning_Analytical_Posterior_Probability_for_Human_Mesh_Recovery_CVPR_2023_paper.html)]
+
+* **Implicit-PDF(ICML2021)** Implicit-PDF: Non-Parametric Representation of Probability Distributions on the Rotation Manifold [[paper link](https://proceedings.mlr.press/v139/murphy21a.html)][[arxiv link](https://arxiv.org/abs/2106.05965)][[project link](https://implicit-pdf.github.io/)][[code|official](https://github.com/google-research/google-research/tree/master/implicit_pdf)][`Google Research`, the first author [`Kieran A Murphy
+`](https://www.kieranamurphy.com/), `awesome visualization of SO(3)`]
+
+* **RotationNormFlow(CVPR2023)** Delving into Discrete Normalizing Flows on SO (3) Manifold for Probabilistic Rotation Modeling [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Delving_Into_Discrete_Normalizing_Flows_on_SO3_Manifold_for_Probabilistic_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.03937)][[project link](https://pku-epic.github.io/RotationNormFlow/)][[code|official](https://github.com/PKU-EPIC/RotationNormFlow)][`PKU`, the first author [`Yulin Liu 刘雨霖`](https://liuyulinn.github.io/), it is proposed by the co-author of `FisherMatch`]
+
+* **Image2Sphere(ICLR2023)(notable-top-5%)** Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction [[openreview link](https://openreview.net/forum?id=_2bDpAtr7PI)][[arxiv link](https://arxiv.org/abs/2302.13926)][[project link](https://dmklee.github.io/image2sphere/)][[code|official](https://github.com/dmklee/image2sphere)][`Northeastern University`]
+
+* **RotationLaplace(ICLR2023)(notable-top-25%)** A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation [[openreview link](https://openreview.net/forum?id=Mvetq8DO05O)][[arxiv link](https://arxiv.org/abs/2303.01743)][[project link](https://pku-epic.github.io/RotationLaplace/)][[code|official](https://github.com/yd-yin/RotationLaplace)][`PKU`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
+
+
+#### Semi-Supervised Learning
+
+* 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`PKU`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task]
 
 * **UCVME(AAAI2023)** Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25890/)][[arxiv link](https://arxiv.org/abs/2302.07579)][[code | official](https://github.com/xmed-lab/UCVME)][`Semi-Supervised Rotation Regression`]
 
