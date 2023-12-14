@@ -157,6 +157,8 @@
 
 * **MUM (CVPR2022)** MUM: Mix Image Tiles and UnMix Feature Tiles for Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_MUM_Mix_Image_Tiles_and_UnMix_Feature_Tiles_for_Semi-Supervised_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2111.10958)][[code|official](https://github.com/JongMokKim/mix-unmix)][`data augmentation`, [(arxiv2022.03) Pose-MUM: Reinforcing Key Points Relationship for Semi-Supervised Human Pose Estimation](https://arxiv.org/abs/2203.07837)]]
 
+* 👍**EfficientTeacher(arxiv2023.02)** Efficient Teacher: Semi-Supervised Object Detection for YOLOv5 [[arxiv link](https://arxiv.org/abs/2302.07577)][[code|official](https://github.com/AlibabaResearch/efficientteacher)][`Alibaba Research`, based on `YOLOv5-L`]
+
 * **ARSL (CVPR2023)** Ambiguity-Resistant Semi-Supervised Learning for Dense Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Ambiguity-Resistant_Semi-Supervised_Learning_for_Dense_Object_Detection_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.14960)][[code|official of PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)][`PaddleDetection`]
 
 * **MixTeacher (CVPR2023)** MixTeacher: Mining Promising Labels With Mixed Scale Teacher for Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_MixTeacher_Mining_Promising_Labels_With_Mixed_Scale_Teacher_for_Semi-Supervised_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.09061)][[code|official](https://github.com/lliuz/MixTeacher)]
@@ -164,6 +166,7 @@
 * **Semi-DETR (CVPR2023)** Semi-DETR: Semi-Supervised Object Detection With Detection Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Semi-DETR_Semi-Supervised_Object_Detection_With_Detection_Transformers_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08095)][[code|official](https://github.com/JCZ404/Semi-DETR)][`SYSU`]
 
 * **Consistent-Teacher (CVPR2023)** Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Consistent-Teacher_Towards_Reducing_Inconsistent_Pseudo-Targets_in_Semi-Supervised_Object_Detection_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2209.01589)][[project link](https://adamdad.github.io/consistentteacher/)][[code|official](https://github.com/Adamdad/ConsistentTeacher)][`SenseTime Research`]
+
 
 
 ### ▶for Semantic Segmentation
