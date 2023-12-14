@@ -573,6 +573,8 @@ also `3D Hand Shape and Pose Regression`
 
 * **InterWild(CVPR2023)** Bringing Inputs to Shared Domains for 3D Interacting Hands Recovery in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Moon_Bringing_Inputs_to_Shared_Domains_for_3D_Interacting_Hands_Recovery_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13652)][[code|official](https://github.com/facebookresearch/InterWild)][`facebookresearch`, single author `Gyeongsik Moon`, based on `MANO`, compared to `IntagHand`]
 
+* **H2ONet(CVPR2023)** H2ONet: Hand-Occlusion-and-Orientation-aware Network for Real-time 3D Hand Mesh Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_H2ONet_Hand-Occlusion-and-Orientation-Aware_Network_for_Real-Time_3D_Hand_Mesh_Reconstruction_CVPR_2023_paper.html)][[code|official](https://github.com/hxwork/H2ONet_Pytorch)][`CUHK`, first author [`Hao XU (徐昊)`](https://hxwork.github.io/), tested on datasets `DexYCB` and `HO3D`]
+
 * 👍**HaMeR(arxiv2023.12)** Reconstructing Hands in 3D with Transformers [[arxiv link](https://arxiv.org/abs/2312.05251)][[project link](https://geopavlakos.github.io/hamer/)][[code|official](https://github.com/geopavlakos/hamer)][the first author [`Georgios Pavlakos`](https://geopavlakos.github.io/), `University of California, Berkeley`, a new dataset `HInt` which is built by sampling frames from `New Days of Hands`, `EpicKitchens-VISOR` and `Ego4D` and annotating the hands with `2D keypoints`.]
 
 
