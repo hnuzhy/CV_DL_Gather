@@ -250,7 +250,7 @@
 * [(zhihu) 1.利用3D mesh生成2D图像](https://zhuanlan.zhihu.com/p/463003032) [2.人脸3DMM](https://zhuanlan.zhihu.com/p/463145736) [3. 2D图像的3D重建(3DMM)](https://zhuanlan.zhihu.com/p/465224205)
 * [(website) searching '3D Face Reconstruction' in the website catalyzex](https://www.catalyzex.com/s/3D%20Face%20Reconstruction)
 * [(github) Awesome-Talking-Face (papers, code and projects)](https://github.com/JosephPai/Awesome-Talking-Face)
-
+* [(github) awesome 3d human reconstruction --> 3d_human_face](https://github.com/rlczddl/awesome-3d-human-reconstruction?tab=readme-ov-file#3d_human_face)
 
 #### Datasets
 
@@ -514,6 +514,7 @@ also `2D/3D Hand Keypoints Detection` or `Hand Shape Estimation` or `3D Hand Sha
 #### Materials
 
 * **(github)(Hand3DResearch) Recent Progress in 3D Hand Tasks** [[github link](https://github.com/SeanChenxy/Hand3DResearch)]
+* **(github) awesome 3d human reconstruction --> 3d_human_hand**  [[github link](https://github.com/rlczddl/awesome-3d-human-reconstruction?tab=readme-ov-file#3d_human_hand)]
 
 #### Datasets
 
@@ -533,6 +534,8 @@ also `2D/3D Hand Keypoints Detection` or `Hand Shape Estimation` or `3D Hand Sha
 ##### ▶Hand Modeling Methods
 
 * **MANO (TOG2017, SIGGRAPH ASIA 2017)** Embodied Hands: Modeling and Capturing Hands and Bodies Together [[paper link](https://dl.acm.org/doi/abs/10.1145/3130800.3130883)][[arxiv link](https://arxiv.org/abs/2201.02610)][[project link (keep updating)](http://mano.is.tue.mpg.de/)][`MPII`, `It attempts to learn hand shape variation with Linear Blend Skinning (LBS)` [[SIGGRAPH 2000](https://dl.acm.org/doi/abs/10.1145/344779.344862)]][`it learns from a large variety of high-quality hand scans and represents the geometric changes in the low-dimensional pose and shape space`]
+
+* **NIMBLE (TOG2022)** NIMBLE: A Non-rigid Hand Model with Bones and Muscles [[paper link](https://dl.acm.org/doi/abs/10.1145/3528223.3530079)][[arxiv link](https://arxiv.org/abs/2202.04533)][[project link](https://liyuwei.cc/proj/nimble)][[code|official](https://github.com/reyuwei/NIMBLE_model)][`ShanghaiTech University`]
 
 ##### ▶Hand Keypoints Detection
 
