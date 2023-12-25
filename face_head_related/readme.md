@@ -580,6 +580,8 @@ also `3D Hand Shape and Pose Regression`
 
 * 👍**HaMeR(arxiv2023.12)** Reconstructing Hands in 3D with Transformers [[arxiv link](https://arxiv.org/abs/2312.05251)][[project link](https://geopavlakos.github.io/hamer/)][[code|official](https://github.com/geopavlakos/hamer)][the first author [`Georgios Pavlakos`](https://geopavlakos.github.io/), `University of California, Berkeley`, a new dataset `HInt` which is built by sampling frames from `New Days of Hands`, `EpicKitchens-VISOR` and `Ego4D` and annotating the hands with `2D keypoints`.]
 
+* **HMP(WACV2024)** HMP: Hand Motion Priors for Pose and Shape Estimation From Video [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Duran_HMP_Hand_Motion_Priors_for_Pose_and_Shape_Estimation_From_WACV_2024_paper.html)][[project link](https://hmp.is.tue.mpg.de/)][[code|official](https://github.com/enesduran/HMP)][`MPII`, taking video as the input, tested on datasets `HO3D` and `DexYCB`, mainly focusing on `hand occlusions`]
+
 
 ##### ▶Sign Language Understanding
 including `Sign Language Recognition` and `Sign Language Translation`
