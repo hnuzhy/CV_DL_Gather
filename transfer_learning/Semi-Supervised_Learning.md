@@ -268,9 +268,11 @@
 
 #### Semi-Supervised Learning
 
-* **NVSM(NIPS2021)** Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[paper link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a61ed715ee66c48bacf237fa7bb5289-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14213)][[code|official](https://github.com/Angtian/NeuralVS)][`Johns Hopkins University`, trained on `PASCAL3D+` and `KITTI`]
+* **SSV(CVPR2020)** Self-Supervised Viewpoint Learning From Image Collections [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mustikovela_Self-Supervised_Viewpoint_Learning_From_Image_Collections_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2004.01793)][[code|official](https://github.com/NVlabs/SSV)][`Unsupervised Learning`, `Head Pose Estimation`, trained on `300W-LP` and tested on `BIWI`, `NVlabs`]
 
 * **ViewNet(ICCV2021)** ViewNet: Unsupervised Viewpoint Estimation From Conditional Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Mariotti_ViewNet_Unsupervised_Viewpoint_Estimation_From_Conditional_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2212.00435)][`Unsupervised Learning`, trained on `PASCAL3D+`, `University of Edinburgh`]
+
+* **NVSM(NIPS2021)** Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[paper link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a61ed715ee66c48bacf237fa7bb5289-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14213)][[code|official](https://github.com/Angtian/NeuralVS)][`Johns Hopkins University`, trained on `PASCAL3D+` and `KITTI`]
 
 * 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`PKU`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task]
 
