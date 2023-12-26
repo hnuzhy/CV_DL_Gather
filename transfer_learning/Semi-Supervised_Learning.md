@@ -10,9 +10,9 @@
   * **[▶ for 3D Object Detection](#for-3d-object-detection)**
   * **[▶ for 6D Object Pose Estimation](#for-6d-object-pose-estimation)**
   * **[▶ for Rotation Regression (3D Object Pose)](#for-rotation-regression-3d-object-pose)**
+  * **[▶ for 3D Reconstruction](#for-3d-reconstruction)**
   * **[▶ for Crowd Counting](#for-crowd-counting)**
   * **[▶ for 3D Hand-Object](#for-3d-hand-object)**
-  * **[▶ for 3D Reconstruction](#for-3d-reconstruction)**
 * **[2) Papers (Self-Supervised Learning or Unsupervised Learning)](#papers-self-supervised-learning-or-unsupervised-learning)**
   * **[▶ for Image Classification](#for-image-classification-1)**
 
@@ -265,7 +265,6 @@
 
 * **RotationLaplace(ICLR2023)(notable-top-25%)** A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation [[openreview link](https://openreview.net/forum?id=Mvetq8DO05O)][[arxiv link](https://arxiv.org/abs/2303.01743)][[project link](https://pku-epic.github.io/RotationLaplace/)][[code|official](https://github.com/yd-yin/RotationLaplace)][`PKU`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
 
-
 #### Semi-Supervised Learning
 
 * **SSV(CVPR2020)** Self-Supervised Viewpoint Learning From Image Collections [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mustikovela_Self-Supervised_Viewpoint_Learning_From_Image_Collections_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2004.01793)][[code|official](https://github.com/NVlabs/SSV)][`Unsupervised Learning`, `Head Pose Estimation`, trained on `300W-LP` and tested on `BIWI`, `NVlabs`]
@@ -279,6 +278,17 @@
 * **UCVME(AAAI2023)** Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks [[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25890/)][[arxiv link](https://arxiv.org/abs/2302.07579)][[code | official](https://github.com/xmed-lab/UCVME)][`Semi-Supervised Rotation Regression`]
 
 * **FisherMatch+(arxiv2023.05)(submitted to TPAMI)** Towards Robust Probabilistic Modeling on SO(3) via Rotation Laplace Distribution [[arxiv link](https://arxiv.org/abs/2305.10465)][It proposed a new robust `probabilistic modeling` method; It is an extended version of `FisherMatch`]
+
+
+### ▶for 3D Reconstruction
+
+* **3d-recon(ECCV2018)** Learning Single-View 3D Reconstruction with Limited Pose Supervision [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.html)][[pdf link](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.pdf)][[code|official](https://github.com/stevenygd/3d-recon)][[`Guandao Yang (杨关道)`](https://www.guandaoyang.com/)], may still needing additional annotations such as `camera pose`]
+
+* **(CVPRW2020)** Semi-Supervised 3D Face Representation Learning From Unconstrained Photo Collections [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w21/Gao_Semi-Supervised_3D_Face_Representation_Learning_From_Unconstrained_Photo_Collections_CVPRW_2020_paper.html)][`Multiple Images as Inputs`]
+
+* **SSR(ICCVW2021)** SSR: Semi-Supervised Soft Rasterizer for Single-View 2D to 3D Reconstruction [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/Diff3D/html/Laradji_SSR_Semi-Supervised_Soft_Rasterizer_for_Single-View_2D_to_3D_Reconstruction_ICCVW_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.09593)][[code|official](https://github.com/IssamLaradji/SSR)][may still needing additional annotations such as `silhouette`]
+
+* **SSP3D(ECCV2022)** Semi-supervised Single-View 3D Reconstruction via Prototype Shape Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_31)][[arxiv link](https://arxiv.org/abs/2209.15383)][[code|official](https://github.com/ChenHsing/SSP3D)][[`Zhen Xing`](https://chenhsing.github.io/), on datasets `ShapeNet` and `Pix3D`][based on `mean-teacher` and proposed two modules namely `Prototype Attention Module` (using multi-head self-attention) and `Shape Naturalness Module` (a generative adversarial learning manner)]
 
 
 ### ▶for Crowd Counting
@@ -303,16 +313,6 @@
 * **S2Contact(ECCV2022)** S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning [[paper link]](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_33)][[arxiv link](https://arxiv.org/abs/2208.00874)][[project link](https://eldentse.github.io/s2contact/)][[code|official](https://github.com/eldentse/s2contact)][`University of Birmingham, UNIST, SUSTech`]
 
 * **SHAR(CVPR2023)** Semi-supervised Hand Appearance Recovery via Structure Disentanglement and Dual Adversarial Discrimination [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Semi-Supervised_Hand_Appearance_Recovery_via_Structure_Disentanglement_and_Dual_Adversarial_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.06380)][[project link](https://www.yangangwang.com/papers/CVPR2023/ZHAO-SHAR-2023-03.html)][`Ynagang Wang`]
-
-### ▶for 3D Reconstruction
-
-* **3d-recon(ECCV2018)** Learning Single-View 3D Reconstruction with Limited Pose Supervision [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.html)][[pdf link](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.pdf)][[code|official](https://github.com/stevenygd/3d-recon)][[[`Guandao Yang (杨关道)`](https://www.guandaoyang.com/)], may still needing additional annotations such as `camera pose`]
-
-* **(CVPRW2020)** Semi-Supervised 3D Face Representation Learning From Unconstrained Photo Collections [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w21/Gao_Semi-Supervised_3D_Face_Representation_Learning_From_Unconstrained_Photo_Collections_CVPRW_2020_paper.html)][`Multiple Images as Inputs`]
-
-* **SSR(ICCVW2021)** SSR: Semi-Supervised Soft Rasterizer for Single-View 2D to 3D Reconstruction [[paper link](https://openaccess.thecvf.com/content/ICCV2021W/Diff3D/html/Laradji_SSR_Semi-Supervised_Soft_Rasterizer_for_Single-View_2D_to_3D_Reconstruction_ICCVW_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2108.09593)][[code|official](https://github.com/IssamLaradji/SSR)][may still needing additional annotations such as `silhouette`]
-
-* **SSP3D(ECCV2022)** Semi-supervised Single-View 3D Reconstruction via Prototype Shape Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_31)][[arxiv link](https://arxiv.org/abs/2209.15383)][[code|official](https://github.com/ChenHsing/SSP3D)][[`Zhen Xing`](https://chenhsing.github.io/), on datasets `ShapeNet` and `Pix3D`][based on `mean-teacher` and proposed two modules namely `Prototype Attention Module` (using multi-head self-attention) and `Shape Naturalness Module` (a generative adversarial learning manner)]
 
 
 ---
