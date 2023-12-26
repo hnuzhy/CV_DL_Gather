@@ -9,7 +9,7 @@
   * **[▶ for Pose Estimation](#for-pose-estimation)**
   * **[▶ for 3D Object Detection](#for-3d-object-detection)**
   * **[▶ for 6D Object Pose Estimation](#for-6d-object-pose-estimation)**
-  * **[▶ for Rotation Regression](#for-rotation-regression)**
+  * **[▶ for Rotation Regression (3D Object Pose)](#for-rotation-regression-3d-object-pose)**
   * **[▶ for Crowd Counting](#for-crowd-counting)**
   * **[▶ for 3D Hand-Object](#for-3d-hand-object)**
   * **[▶ for 3D Reconstruction](#for-3d-reconstruction)**
@@ -210,10 +210,6 @@
 
 * **Self6D++(TPAMI2021)** Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation [[paper link](https://ieeexplore.ieee.org/document/9655492)][[arxiv link](https://arxiv.org/abs/2203.10339)][[code|official](https://github.com/THU-DA-6D-Pose-Group/self6dpp)][`THU`]
 
-* **NVSM(NIPS2021)** Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[paper link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a61ed715ee66c48bacf237fa7bb5289-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14213)][[code|official](https://github.com/Angtian/NeuralVS)]
-
-* **ViewNet(ICCV2021)** ViewNet: Unsupervised Viewpoint Estimation From Conditional Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Mariotti_ViewNet_Unsupervised_Viewpoint_Estimation_From_Conditional_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2212.00435)][`Unsupervised Learning`, trained on `PASCAL3D+`, `University of Edinburgh`]
-
 * **DSC-PoseNet(CVPR2021)** DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_DSC-PoseNet_Learning_6DoF_Object_Pose_Estimation_via_Dual-Scale_Consistency_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.03658)][[code is not available]()][`Baidu Research`, a self-supervised manner, needing 2D bounding boxes]
 
 * **zero-shot-pose(ECCV2022)** Zero-Shot Category-Level Object Pose Estimation [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_30)][[arxiv link](https://arxiv.org/abs/2204.03635)][[code|official](https://github.com/applied-ai-lab/zero-shot-pose)][`Zero-Shot Learning`, `University of Oxford`, on the dataset `CO3D`, `the authors re-annotated 10 sequences from each of 20 categories with ground-truth poses.`, `all baselines are reproduced by the authors.`]
@@ -239,12 +235,14 @@
 * **Cas6D (arxiv2023.06)** Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [[arxiv link](https://arxiv.org/abs/2306.07598)][`Few-Shot Learning`, `ByteDance`, compared to `OnePose++` and `Gen6D`, trained on datasets `LINEMOD` and `GenMOP`, inputs: ` sparse support views`]
 
 
-### ▶for Rotation Regression
-`We here also collect supervised learning based Rotation Regression methods`
+### ▶for Rotation Regression (3D Object Pose)
+`We here also collect supervised learning based Rotation Regression (a.k.a. 3D Object Pose) methods`
 
 #### Supervised Learning
 
 * **deep_direct_stat(ECCV2018)** Deep Directional Statistics: Pose Estimation with Uncertainty Quantification [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Sergey_Prokudin_Deep_Directional_Statistics_ECCV_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1805.03430)][[code|official](https://github.com/sergeyprokudin/deep_direct_stat)][`MPII`, `von Mises`, first author [`Sergey Prokudin`](https://vlg.inf.ethz.ch/team/Dr-Sergey-Prokudin.html), `Probabilistic representations have been introduced for modeling orientation with uncertainty`]
+
+* **StarMap(ECCV2018)** StarMap for Category-Agnostic Keypoint and Viewpoint Estimation [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Xingyi_Zhou_Category-Agnostic_Semantic_Keypoint_ECCV_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1803.09331v2)][[code|official](https://github.com/xingyizhou/StarMap)][`The University of Texas at Austin`, tested on datasets `ObjectNet3D` and `PASCAL3D+`]
 
 * 👍 **(CVPR2019)** On the Continuity of Rotation Representations in Neural Networks [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1812.07035)][`University of Southern California`, the first author [`Yi Zhou`](https://zhouyisjtu.github.io/), `Gram-Schmidt orthogonalization procedure`][For `Rotation Regression`, this paper validated that parameterization in four or fewer dimensions will be `discontinuous` (this applies to all classic representations such as `Euler angles`, `axis-angle`, and `unit quaternions`)]
 
@@ -255,6 +253,8 @@
 * 👍 **(NIPS2020)** An Analysis of SVD for Deep Rotation Estimation [[paper link](https://proceedings.neurips.cc/paper/2020/hash/fec3392b0dc073244d38eba1feb8e6b7-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.14616)][`Simon Fraser University`, the first author [`Jake Levinson`](http://www.sfu.ca/~jlevinso/), `FisherMatch` is partially based on the `matrix Fisher distribution` theory introduced in this paper.][pointed out two previous methods modeling the uncertainty of 3D rotation estimation: `deep_direct_stat(ECCV2018)` and `deep_bingham(ICLR2020)`.]
 
 * 👍 **(NIPS2020)** Probabilistic Orientation Estimation with Matrix Fisher Distributions [[paper link](https://proceedings.neurips.cc/paper/2020/hash/33cc2b872dfe481abef0f61af181dfcf-Abstract.html)][[arxiv link](https://arxiv.org/abs/2006.09740)][[code|official](https://www.github.com/Davmo049/Public_prob_orientation_estimation_with_matrix_fisher_distributions)][`KTH`, the first author [`David Mohlin`](https://www.kth.se/profile/davmo), `FisherMatch` is based on the `matrix Fisher distribution` theory introduced in this paper.][`matrix Fisher distribution` --> [(1977) The von Mises–Fisher Matrix Distribution in Orientation Statistics](https://academic.oup.com/jrsssb/article-abstract/39/1/95/7027450)][pointed out two previous methods modeling the uncertainty of 3D rotation estimation: `deep_direct_stat(ECCV2018)` and `deep_bingham(ICLR2020)`.][applying the `matrix Fisher parameters` for `Human Mesh Recovery` in work [`(CVPR2023) Learning Analytical Posterior Probability for Human Mesh Recovery`](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_Learning_Analytical_Posterior_Probability_for_Human_Mesh_Recovery_CVPR_2023_paper.html)]
+
+* **NeMo(ICLR2021)** NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation [[openreview link](https://openreview.net/forum?id=pmj131uIL9H)][[arxiv link](https://arxiv.org/abs/2101.12378)][[code|official](https://github.com/Angtian/NeMo)][`Johns Hopkins University`, tested on datasets `ObjectNet3D`, `OccludedPASCAL3D+` and `PASCAL3D+`]
 
 * **Implicit-PDF(ICML2021)** Implicit-PDF: Non-Parametric Representation of Probability Distributions on the Rotation Manifold [[paper link](https://proceedings.mlr.press/v139/murphy21a.html)][[arxiv link](https://arxiv.org/abs/2106.05965)][[project link](https://implicit-pdf.github.io/)][[code|official](https://github.com/google-research/google-research/tree/master/implicit_pdf)][`Google Research`, the first author [`Kieran A Murphy
 `](https://www.kieranamurphy.com/), `awesome visualization of SO(3)`]
@@ -267,6 +267,10 @@
 
 
 #### Semi-Supervised Learning
+
+* **NVSM(NIPS2021)** Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[paper link](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3a61ed715ee66c48bacf237fa7bb5289-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14213)][[code|official](https://github.com/Angtian/NeuralVS)][`Johns Hopkins University`, trained on `PASCAL3D+` and `KITTI`]
+
+* **ViewNet(ICCV2021)** ViewNet: Unsupervised Viewpoint Estimation From Conditional Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Mariotti_ViewNet_Unsupervised_Viewpoint_Estimation_From_Conditional_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2212.00435)][`Unsupervised Learning`, trained on `PASCAL3D+`, `University of Edinburgh`]
 
 * 👍**FisherMatch(CVPR2022 Oral)** FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2203.15765)][[project link](https://yd-yin.github.io/FisherMatch/)][[code|official](https://github.com/yd-yin/FisherMatch)][`PKU`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)][`3DoF rotation estimation`, based on `FixMatch` and `Semi_Human_Pose`, maybe suitable for `3D head pose estimation`, the `Semi-Supervised Rotation Regression` task]
 
