@@ -236,7 +236,7 @@
 
 
 ### ▶for Rotation Regression (3D Object Pose)
-`We here also collect supervised learning based Rotation Regression (a.k.a. 3D Object Pose) methods`
+`We here also collect supervised learning based Rotation Regression (a.k.a. 3D Object Pose, or Camera Viewpoint Estimation) methods`
 
 #### Supervised Learning
 
