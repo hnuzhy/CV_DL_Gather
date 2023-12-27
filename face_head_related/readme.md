@@ -582,6 +582,8 @@ also `3D Hand Shape and Pose Regression`
 
 * **HMP(WACV2024)** HMP: Hand Motion Priors for Pose and Shape Estimation From Video [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Duran_HMP_Hand_Motion_Priors_for_Pose_and_Shape_Estimation_From_WACV_2024_paper.html)][[project link](https://hmp.is.tue.mpg.de/)][[code|official](https://github.com/enesduran/HMP)][`MPII`, taking video as the input, tested on datasets `HO3D` and `DexYCB`, mainly focusing on `hand occlusions`]
 
+* **Ev2Hands(3DV2024)** 3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera [[arxiv link](https://arxiv.org/abs/2312.14157)][[project link](https://4dqv.mpi-inf.mpg.de/Ev2Hands/)][[code|official](https://github.com/Chris10M/Ev2Hands)][`MPII`, a new `synthetic` large-scale dataset of two interacting hands, `Ev2Hands-S`, and a new real benchmark with real event streams and ground-truth 3D annotations, `Ev2Hands-R`.]
+
 
 ##### ▶Sign Language Understanding
 including `Sign Language Recognition` and `Sign Language Translation`
