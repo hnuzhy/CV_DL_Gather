@@ -265,6 +265,8 @@
 
 * **RotationLaplace(ICLR2023)(notable-top-25%)** A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation [[openreview link](https://openreview.net/forum?id=Mvetq8DO05O)][[arxiv link](https://arxiv.org/abs/2303.01743)][[project link](https://pku-epic.github.io/RotationLaplace/)][[code|official](https://github.com/yd-yin/RotationLaplace)][`PKU`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
 
+* **RestrictedRepresentations(NIPS2023)(arxiv2023.06)** Equivariant Single View Pose Prediction Via Induced and Restricted Representations [[openreview link](https://openreview.net/forum?id=dxVN2fZjx6)][[arxiv link](https://arxiv.org/abs/2307.03704)][`Northeastern University`, the first author [Owen Howell](https://owenhowell20.github.io/), on datasets `PASCAL3D+` and `SYMSOL`, `Machine Learning, Group Theory`]
+
 #### Semi-Supervised Learning
 
 * **SSV(CVPR2020)** Self-Supervised Viewpoint Learning From Image Collections [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Mustikovela_Self-Supervised_Viewpoint_Learning_From_Image_Collections_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2004.01793)][[code|official](https://github.com/NVlabs/SSV)][`Unsupervised Learning`, `Head Pose Estimation`, trained on `300W-LP` and tested on `BIWI`, `NVlabs`]
