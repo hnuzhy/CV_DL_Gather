@@ -1,5 +1,5 @@
 # Noise Robust Learning
-also named `Sample Selection Learning`
+also named `Partial Label Learning` or `Sample Selection Learning`
 
 ## Papers
 
@@ -16,6 +16,7 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis` (mainly focusing on `classification`)]
 
+* **NPN(AAAI2024)** Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning [[arxiv link](https://arxiv.org/abs/2312.09505)][[code|official](https://github.com/NUST-Machine-Intelligence-Laboratory/NPN)]
 
 ### ▶ for Detection
 
