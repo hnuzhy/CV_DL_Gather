@@ -181,6 +181,7 @@
 * Please refer [[Transfer Learning of Multiple Person Pose Estimation](https://github.com/hnuzhy/CV_DL_Gather/blob/master/pose_estimation/readme_details.md#-transfer-learning-of-multiple-person-pose-estimation)]
 
 ### ▶for 3D Object Detection
+`It estimates the category and 3D bounding box for each object in the image. The 3D bounding box can be further divided into 3D center location (x, y, z), dimension (h, w, l) and orientation (yaw angle) θ. The roll and pitch angles of objects are set to 0.`
 
 * 👍**SESS (CVPR2020 oral)** SESS: Self-Ensembling Semi-Supervised 3D Object Detection [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1912.11803)][[code|official](https://github.com/Na-Z/sess)][`National University of Singapore`, comparing to `SESS`, on datasets `ScanNet` and `SUNRGB-D`, using `Mean-Teacher`]
 
