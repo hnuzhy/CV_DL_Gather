@@ -3,7 +3,7 @@ also named `Sample Selection Learning`
 
 ## Papers
 
-### for Classification
+### ▶ for Classification
 
 * **(NIPS2019)** Gradient based sample selection for online continual learning [[paper link](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e562cd9c0768d5464b64cf61da7fc6bb-Abstract.html)][[arxiv link](https://arxiv.org/abs/1903.08671)][`Rahaf Aljundi` and `Yoshua Bengio`]
 
@@ -13,7 +13,7 @@ also named `Sample Selection Learning`
 by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/10.1145/1553374.1553380) (also see [Self-Paced Learning for Latent Variable Models (NIPS2010)](https://proceedings.neurips.cc/paper/2010/hash/e57c6b956a6521b28495f2886ca0977a-Abstract.html) wherein easiness is decided upon based on how small the loss values are.) and can be thought of as a way to design an `adaptive curriculum`.][The core selection strategy is choosing a threshold in each mini-batch by calaulating `mean + 1*var` (super easy!!!)][tested on datasets `MNIST`, `CIFAR10` and `Clothing-1M`, where the Label Noise is manually made with a given `noisy rate`!!! (not realistic datasets with noisy labels!!!)(except the `Clothing-1M`)]
 
 
-### for Detection
+### ▶ for Detection
 
 * **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis`]
 
