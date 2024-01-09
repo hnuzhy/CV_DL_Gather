@@ -3,6 +3,11 @@ also named `Sample Selection Learning`
 
 ## Papers
 
+### for Survey
+
+* **(TNNLS2022)** Learning From Noisy Labels With Deep Neural Networks: A Survey [[paper link](https://ieeexplore.ieee.org/abstract/document/9729424)][[arxiv link](https://arxiv.org/abs/2007.08199)][[github link](https://github.com/songhwanjun/Awesome-Noisy-Labels)][`KAIST`, first author [`Hwanjun Song`](https://songhwanjun.github.io/)]
+
+
 ### ▶ for Classification
 
 * **(NIPS2019)** Gradient based sample selection for online continual learning [[paper link](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e562cd9c0768d5464b64cf61da7fc6bb-Abstract.html)][[arxiv link](https://arxiv.org/abs/1903.08671)][`Rahaf Aljundi` and `Yoshua Bengio`]
