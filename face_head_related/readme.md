@@ -513,8 +513,9 @@ also `2D/3D Hand Keypoints Detection` or `Hand Shape Estimation` or `3D Hand Sha
 
 #### Materials
 
-* **(github)(Hand3DResearch) Recent Progress in 3D Hand Tasks** [[github link](https://github.com/SeanChenxy/Hand3DResearch)]
+* 👍**(github)(Hand3DResearch) Recent Progress in 3D Hand Tasks** [[github link](https://github.com/SeanChenxy/Hand3DResearch)]
 * **(github) awesome 3d human reconstruction --> 3d_human_hand**  [[github link](https://github.com/rlczddl/awesome-3d-human-reconstruction?tab=readme-ov-file#3d_human_hand)]
+
 
 #### Datasets
 
