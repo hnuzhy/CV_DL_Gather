@@ -505,6 +505,7 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * 👍**UnReGA(CVPR2023)** Source-Free Adaptive Gaze Estimation by Uncertainty Reduction [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Cai_Source-Free_Adaptive_Gaze_Estimation_by_Uncertainty_Reduction_CVPR_2023_paper.html)][[paperswithcode link](https://paperswithcode.com/paper/source-free-adaptive-gaze-estimation-by)][[code|official (not released)](https://github.com/caixin1998/UnReGA)]
 
+* **PnP-GA+(TPAMI2023)** PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation using Model Variants [[paper link](https://ieeexplore.ieee.org/abstract/document/10378867)][`Domain Adaptive Gaze Estimation`, extended based on `PnP-GA(ICCV2021)`]
 
 #### ※ 3D Human Pose Estimation
 
