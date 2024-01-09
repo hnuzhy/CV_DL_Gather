@@ -1,5 +1,5 @@
 # Noise Robust Learning
-also named `Partial Label Learning` or `Sample Selection Learning`
+also named `Partial Label Learning` or `Sample Selection Learning` or `Label Noise Tolerance Learning`
 
 ## Papers
 
@@ -20,9 +20,12 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * 👍**RTME(TPAMI2023)** Regularly Truncated M-Estimators for Learning With Noisy Labels [[paper link](https://ieeexplore.ieee.org/document/10375792)][[arxiv link](https://arxiv.org/abs/2309.00894)][[code|official](https://github.com/xiaoboxia/RTM_LNL)][`University of Sydney`, first author [`Xiaobo Xia`](https://xiaoboxia.github.io/)][`label-noise-tolerant`]
 
+* **NPN(arxiv2023.12)(AAAI2024)** Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning [[arxiv link](https://arxiv.org/abs/2312.09505)][[code|official](https://github.com/NUST-Machine-Intelligence-Laboratory/NPN)]
+
 * **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis` (mainly focusing on `classification`)]
 
-* **NPN(AAAI2024)** Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning [[arxiv link](https://arxiv.org/abs/2312.09505)][[code|official](https://github.com/NUST-Machine-Intelligence-Laboratory/NPN)]
+* **ERASE(arxiv2023.12)** ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance [[arxiv link](https://arxiv.org/abs/2312.08852)][[project link](https://eraseai.github.io/ERASE-page/)][[code|official](https://github.com/eraseai/erase)][`Tsinghua University, Shenzhen`, first author [`Ling-Hao CHEN`](https://lhchen.top/)][for tackling `graph-related` tasks]
+
 
 ### ▶ for Detection
 
