@@ -7,7 +7,8 @@ also named `Sample Selection Learning`
 
 * **(NIPS2021)** Sample Selection for Fair and Robust Training [[paper link](https://proceedings.neurips.cc/paper/2021/hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14222)][`KAIST`]
 
-* **BARE(WACV2023)** Adaptive Sample Selection for Robust Learning under Label Noise [[paper link](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Adaptive_Sample_Selection_for_Robust_Learning_Under_Label_Noise_WACV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2106.15292)][[code|official](https://github.com/dbp1994/bare-wacv-2023)][`Indian Institute of Science`]
+* **BARE(WACV2023)** Adaptive Sample Selection for Robust Learning under Label Noise [[paper link](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Adaptive_Sample_Selection_for_Robust_Learning_Under_Label_Noise_WACV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2106.15292)][[code|official](https://github.com/dbp1994/bare-wacv-2023)][`Indian Institute of Science`, This algorithm is motivated
+by `curriculum learning` and can be thought of as a way to design an `adaptive curriculum`.]
 
 * **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis`]
 
