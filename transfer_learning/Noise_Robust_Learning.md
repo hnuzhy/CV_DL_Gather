@@ -12,5 +12,5 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis`]
 
-* 👍**MonoLSS(arxiv2023.12)** MonoLSS: Learnable Sample Selection For Monocular 3D Detection [[arxiv link](https://arxiv.org/abs/2312.14474)][`Baidu Inc.`, tested in datasets `Waymo` and `KITTI-nuScenes`][The proposed LSS module is largely based on [Gumbel-Softmax (ICLR2017)](https://openreview.net/forum?id=rkE3y85ee) and [top-k Gumbel-Softmax (ICML2019)](https://proceedings.mlr.press/v97/kool19a.html), which are useful and common theories.]
+* 👍**MonoLSS(arxiv2023.12)** MonoLSS: Learnable Sample Selection For Monocular 3D Detection [[arxiv link](https://arxiv.org/abs/2312.14474)][`Baidu Inc.`, tested in datasets `Waymo` and `KITTI-nuScenes`][2D detector is based on `CenterNet` + `DLANet-34`][The proposed LSS module is largely based on [Gumbel-Softmax (ICLR2017)](https://openreview.net/forum?id=rkE3y85ee) and [top-k Gumbel-Softmax (ICML2019)](https://proceedings.mlr.press/v97/kool19a.html), which are useful and common theories.]
 
