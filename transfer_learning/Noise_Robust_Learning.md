@@ -5,7 +5,7 @@ also named `Sample Selection Learning`
 
 ### ▶ for Classification
 
-* **(NIPS2019)** Gradient based sample selection for online continual learning [[paper link](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e562cd9c0768d5464b64cf61da7fc6bb-Abstract.html)][[arxiv link](https://arxiv.org/abs/1903.08671)][`Rahaf Aljundi` and `Yoshua Bengio`]
+* **(NIPS2019)** Gradient based sample selection for online continual learning [[paper link](https://proceedings.neurips.cc/paper_files/paper/2019/hash/e562cd9c0768d5464b64cf61da7fc6bb-Abstract.html)][[arxiv link](https://arxiv.org/abs/1903.08671)][[code|official](https://github.com/rahafaljundi/Gradient-based-Sample-Selection)][`Rahaf Aljundi` and `Yoshua Bengio`]
 
 * **(NIPS2021)** Sample Selection for Fair and Robust Training [[paper link](https://proceedings.neurips.cc/paper/2021/hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html)][[arxiv link](https://arxiv.org/abs/2110.14222)][[code|official](https://github.com/yuji-roh/fair-robust-selection)][`KAIST`, first author [`Yuji Roh`](https://www.yujiroh.com/)][Here, the `Fairness` aims to address the `biased distribution` of different samples in datasets, and the `Robustness` aims to train with using noisy labels which are `manually produced` by random flipping or adversarial attacks. This work mainly focuses on the former, rather than the latter.]
 
