@@ -532,6 +532,10 @@ also `2D/3D Hand Keypoints Detection` or `Hand Shape Estimation` or `3D Hand Sha
 
 #### Papers
 
+##### ▶Hand Related Survey
+
+* **Survey(IJCV2023)** Efficient Annotation and Learning for 3D Hand Pose Estimation: A Survey [[paper link](https://link.springer.com/article/10.1007/s11263-023-01856-0)][[arxiv link](https://arxiv.org/abs/2206.02257)][[slice link](https://drive.google.com/file/d/15gHEeyeCuzFyGYBMK971U_524M55iR1d/view)][`The code is not available`][`University of Tokyo + ETH`, the first author [`Take Ohkawa (大川 武彦)`](https://tkhkaeio.github.io/)]
+
 ##### ▶Hand Modeling Methods
 
 * **MANO (TOG2017, SIGGRAPH ASIA 2017)** Embodied Hands: Modeling and Capturing Hands and Bodies Together [[paper link](https://dl.acm.org/doi/abs/10.1145/3130800.3130883)][[arxiv link](https://arxiv.org/abs/2201.02610)][[project link (keep updating)](http://mano.is.tue.mpg.de/)][`MPII`, `It attempts to learn hand shape variation with Linear Blend Skinning (LBS)` [[SIGGRAPH 2000](https://dl.acm.org/doi/abs/10.1145/344779.344862)]][`it learns from a large variety of high-quality hand scans and represents the geometric changes in the low-dimensional pose and shape space`]
