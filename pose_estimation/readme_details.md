@@ -438,6 +438,10 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * 👍**MDAM, UDA-Animal-Pose(CVPR2021)** From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_From_Synthetic_to_Real_Unsupervised_Domain_Adaptation_for_Animal_Pose_CVPR_2021_paper.html)][[codes|PyTorch](https://github.com/chaneyddtt/UDA-Animal-Pose)][`Animal Pose`][`ResNet + Hourglass`][`It proposed a refinement module and a self-feedback loop to obtain reliable pseudo labels`; `It addresses the teacher-student paradigm alongside a novel pseudo-label strategy`]
 
+* ⚡**DeepLabCut (Nature Methods 2022)** Multi-animal pose estimation, identification and tracking with DeepLabCut [[paper link](https://www.nature.com/articles/s41592-022-01443-0)]
+
+* ⚡**Social LEAP Estimates Animal Poses (SLEAP) (Nature Methods 2022)** SLEAP: A deep learning system for multi-animal pose tracking [[paper link](https://www.nature.com/articles/s41592-022-01426-1)]
+
 * **SemiMultiPose(arxiv2022)** SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework [[paper link](https://arxiv.org/abs/2204.07072)][`Semi-Supervised Keypoint Localization`]
 
 * **AnimalKingdom (CVPR2022)** Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Ng_Animal_Kingdom_A_Large_and_Diverse_Dataset_for_Animal_Behavior_CVPR_2022_paper.html)][[project link](https://sutdcv.github.io/Animal-Kingdom)][[arxiv link](https://arxiv.org/abs/2204.08129)][[code|official](https://github.com/sutdcv/Animal-Kingdom)]
@@ -450,7 +454,7 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **Animal3D (ICCV2023)** Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Animal3D_A_Comprehensive_Dataset_of_3D_Animal_Pose_and_Shape_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2308.11737)][[project link](https://xujiacong.github.io/Animal3D/)][based on the `SMAL` model, Animal dataset]
 
-* 👍**Social Behavior Atlas (SBeA) (Nature Machine Intelligence 2024)** Multi-animal 3D social pose estimation, identification and behaviour embedding with a few-shot learning framework [[paper link](https://www.nature.com/articles/s42256-023-00776-5)]
+* ⚡**Social Behavior Atlas (SBeA) (Nature Machine Intelligence 2024)** Multi-animal 3D social pose estimation, identification and behaviour embedding with a few-shot learning framework [[paper link](https://www.nature.com/articles/s42256-023-00776-5)]
 
 
 #### ※ Hand Pose Estimation
