@@ -26,6 +26,10 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * **ERASE(arxiv2023.12)** ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance [[arxiv link](https://arxiv.org/abs/2312.08852)][[project link](https://eraseai.github.io/ERASE-page/)][[code|official](https://github.com/eraseai/erase)][`Tsinghua University, Shenzhen`, first author [`Ling-Hao CHEN`](https://lhchen.top/)][for tackling `graph-related` tasks; Essentially, ERASE is a semi-supervised framwork]
 
+* **NRAT(MachineLearning2024)** Nrat: towards adversarial training with inherent label noise [[paper link](https://link.springer.com/article/10.1007/s10994-023-06437-3)][[code|official](https://github.com/TrustAI/NRAT)][`Liverpool University`, proposed by the [`TrustAI`](https://github.com/TrustAI)]
+
+* **LNL-flywheel(arxiv2024.01)** Learning with Noisy Labels: Interconnection of Two Expectation-Maximizations [[arxiv link](https://arxiv.org/abs/2401.04390)][`Samsung Advanced Institute of Technology + Seoul National Univ`][with a given `noisy rate`]
+
 
 ### ▶ for Detection
 
