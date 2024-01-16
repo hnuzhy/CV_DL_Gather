@@ -450,6 +450,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **Animal3D (ICCV2023)** Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Animal3D_A_Comprehensive_Dataset_of_3D_Animal_Pose_and_Shape_ICCV_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2308.11737)][[project link](https://xujiacong.github.io/Animal3D/)][based on the `SMAL` model, Animal dataset]
 
+* 👍**Social Behavior Atlas (SBeA) (Nature Machine Intelligence 2024)** Multi-animal 3D social pose estimation, identification and behaviour embedding with a few-shot learning framework [[paper link](https://www.nature.com/articles/s42256-023-00776-5)]
+
 
 #### ※ Hand Pose Estimation
 
