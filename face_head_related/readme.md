@@ -668,6 +668,9 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **TokenHPE(TIP2023)** Orientation Cues-Aware Facial Relationship Representation for Head Pose Estimation via Transformer [[paper link](https://ieeexplore.ieee.org/abstract/document/10318055)][The journal version of the conference paper `TokenHPE(CVPR2023)`]
 
+* **SRHP+WRHP(PR2024)** On the representation and methodology for wide and short range head pose estimation [[paper link](https://www.sciencedirect.com/science/article/pii/S0031320324000141)][[arxiv link](https://arxiv.org/abs/2401.05807)][`Universidad Politécnica de Madrid`]
+
+
 #### Papers(Conference)
 
 * **(ITSC2014)** Head detection and orientation estimation for pedestrian safety [[paper link](https://www.mrt.kit.edu/z/publ/download/2014/RehderKloedenStiller2014itsc.pdf)]
