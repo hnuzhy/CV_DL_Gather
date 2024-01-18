@@ -13,6 +13,7 @@
   * **[▶ for 3D Reconstruction](#for-3d-reconstruction)**
   * **[▶ for Crowd Counting](#for-crowd-counting)**
   * **[▶ for 3D Hand-Object](#for-3d-hand-object)**
+  * **[▶ for Face Landmarks](#for-face-landmarks)**
 * **[2) Papers (Self-Supervised Learning or Unsupervised Learning)](#papers-self-supervised-learning-or-unsupervised-learning)**
   * **[▶ for Image Classification](#for-image-classification-1)**
 
@@ -324,6 +325,10 @@
 
 * **SHAR(CVPR2023)** Semi-supervised Hand Appearance Recovery via Structure Disentanglement and Dual Adversarial Discrimination [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Semi-Supervised_Hand_Appearance_Recovery_via_Structure_Disentanglement_and_Dual_Adversarial_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.06380)][[project link](https://www.yangangwang.com/papers/CVPR2023/ZHAO-SHAR-2023-03.html)][`Ynagang Wang`]
 
+
+### ▶for Face Landmarks
+
+* **PIPNet(IJCV2021)** Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild [[paper link](https://link.springer.com/article/10.1007/s11263-021-01521-4)][[arxiv link](https://arxiv.org/abs/2003.03771)][[code|official](https://github.com/jhb86253817/PIPNet)][`HKUST`, the first author [`Haibo Jin`](https://jhb86253817.github.io/)]
 
 ---
 
