@@ -1,4 +1,4 @@
-# Contents for Domain Adaptation
+ # Contents for Domain Adaptation
 
 * **[1) Defination](#1-Defination)**
 * **[2) Pioneers and Experts](#2-Pioneers-and-Experts)**
@@ -139,8 +139,6 @@
 * **DETR-GA(CVPR2023)** DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection [[paper link](https://arxiv.org/abs/2304.07082)][`cross-domain weakly supervised object detection (CDWSOD)`]
 
 * **2PCNet(CVPR2023)** 2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection [[arxiv link](https://arxiv.org/abs/2303.13853)][[code|official](https://github.com/mecarill/2pcnet)]
-
-* **Semi-DETR(CVPR2023)** Semi-DETR: Semi-Supervised Object Detection With Detection Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Semi-DETR_Semi-Supervised_Object_Detection_With_Detection_Transformers_CVPR_2023_paper.html)][[code is not available]()]
 
 * **Harmonious-Teacher(CVPR2023)** Harmonious Teacher for Cross-Domain Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Deng_Harmonious_Teacher_for_Cross-Domain_Object_Detection_CVPR_2023_paper.html)][[code|official](https://github.com/kinredon/Harmonious-Teacher)]
 
