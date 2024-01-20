@@ -148,6 +148,7 @@
 
 * **CIGAR(CVPR2023)** CIGAR: Cross-Modality Graph Reasoning for Domain Adaptive Object Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Optimal_Proposal_Learning_for_Deployable_End-to-End_Pedestrian_Detection_CVPR_2023_paper.html)][[code is not available]()]
 
+* 👍**BiADT(ICCV2023)** Bidirectional Alignment for Domain Adaptive Detection with Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/He_Bidirectional_Alignment_for_Domain_Adaptive_Detection_with_Transformers_ICCV_2023_paper.html)][[pdf link](https://web.engr.oregonstate.edu/~sinisa/research/publications/iccv23_biadt.pdf)][[code|official](https://github.com/helq2612/biADT)]
 
 
 `*********************************`
