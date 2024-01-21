@@ -275,11 +275,11 @@
 
 * **RotationNormFlow(CVPR2023)** Delving into Discrete Normalizing Flows on SO (3) Manifold for Probabilistic Rotation Modeling [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Delving_Into_Discrete_Normalizing_Flows_on_SO3_Manifold_for_Probabilistic_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.03937)][[project link](https://pku-epic.github.io/RotationNormFlow/)][[code|official](https://github.com/PKU-EPIC/RotationNormFlow)][`PKU`, the first author [`Yulin Liu 刘雨霖`](https://liuyulinn.github.io/), it is also proposed by the co-author of `FisherMatch`]
 
-* **Image2Sphere(ICLR2023)(notable-top-5%)** Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction [[openreview link](https://openreview.net/forum?id=_2bDpAtr7PI)][[arxiv link](https://arxiv.org/abs/2302.13926)][[project link](https://dmklee.github.io/image2sphere/)][[code|official](https://github.com/dmklee/image2sphere)][`Northeastern University`]
+* **Image2Sphere(ICLR2023)(notable-top-5%)** Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction [[openreview link](https://openreview.net/forum?id=_2bDpAtr7PI)][[arxiv link](https://arxiv.org/abs/2302.13926)][[project link](https://dmklee.github.io/image2sphere/)][[code|official](https://github.com/dmklee/image2sphere)][`Northeastern University`, the first author [`David M. Klee`](https://dmklee.github.io/)]
 
 * **RotationLaplace(ICLR2023)(notable-top-25%)** A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation [[openreview link](https://openreview.net/forum?id=Mvetq8DO05O)][[arxiv link](https://arxiv.org/abs/2303.01743)][[project link](https://pku-epic.github.io/RotationLaplace/)][[code|official](https://github.com/yd-yin/RotationLaplace)][`PKU`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
 
-* **RestrictedRepresentations(NIPS2023)(arxiv2023.06)** Equivariant Single View Pose Prediction Via Induced and Restricted Representations [[openreview link](https://openreview.net/forum?id=dxVN2fZjx6)][[arxiv link](https://arxiv.org/abs/2307.03704)][`Northeastern University`, the first author [Owen Howell](https://owenhowell20.github.io/), on datasets `PASCAL3D+` and `SYMSOL`, `Machine Learning, Group Theory`]
+* **RestrictedRepresentations(NIPS2023)(arxiv2023.06)** Equivariant Single View Pose Prediction Via Induced and Restricted Representations [[openreview link](https://openreview.net/forum?id=dxVN2fZjx6)][[arxiv link](https://arxiv.org/abs/2307.03704)][`Northeastern University`, the first author [`Owen Howell`](https://owenhowell20.github.io/), on datasets `PASCAL3D+` and `SYMSOL`, `Machine Learning, Group Theory`]
 
 
 #### Semi-Supervised Learning
