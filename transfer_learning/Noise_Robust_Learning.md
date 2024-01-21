@@ -1,5 +1,5 @@
 # Noise Robust Learning
-also named `Partial Label Learning` or `Sample Selection Learning` or `Label Noise Tolerance Learning`
+also named `Partial Label Learning` or `Sample Selection Learning`, `Label Noise Tolerance Learning` or `Label-Noise Learning (LNL)`
 
 ## Papers
 
@@ -31,6 +31,9 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 * **NRAT(MachineLearning2024)** Nrat: towards adversarial training with inherent label noise [[paper link](https://link.springer.com/article/10.1007/s10994-023-06437-3)][[code|official](https://github.com/TrustAI/NRAT)][`Liverpool University`, proposed by the [`TrustAI`](https://github.com/TrustAI)]
 
 * **LNL-flywheel(arxiv2024.01)** Learning with Noisy Labels: Interconnection of Two Expectation-Maximizations [[arxiv link](https://arxiv.org/abs/2401.04390)][`Samsung Advanced Institute of Technology + Seoul National Univ`][with a given `noisy rate`]
+
+* 👍**BadLabels(TPAMI2024)** BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning [[paper link](https://ieeexplore.ieee.org/document/10404058)][[arxiv link](https://arxiv.org/abs/2305.18377)][[code|official](https://github.com/zjfheart/BadLabels)][`University of Auckland`, the first author [`Jingfeng Zhang (张景锋)`](https://zjfheart.github.io/), `Label-Noise Learning (LNL)`][It introduced a novel label noise type called `BadLabel`. BadLabel is crafted based on the `label-flipping attack` against standard classification.]
+
 
 
 ### ▶ for Detection
