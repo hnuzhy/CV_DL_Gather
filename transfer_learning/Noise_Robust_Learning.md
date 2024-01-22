@@ -20,23 +20,26 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * 👍**RTME(TPAMI2023)** Regularly Truncated M-Estimators for Learning With Noisy Labels [[paper link](https://ieeexplore.ieee.org/document/10375792)][[arxiv link](https://arxiv.org/abs/2309.00894)][[code|official](https://github.com/xiaoboxia/RTM_LNL)][`University of Sydney`, first author [`Xiaobo Xia`](https://xiaoboxia.github.io/)][`label-noise-tolerant`]
 
-* **NPN(arxiv2023.12)(AAAI2024)** Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning [[arxiv link](https://arxiv.org/abs/2312.09505)][[code|official](https://github.com/NUST-Machine-Intelligence-Laboratory/NPN)]
+* **NPN(AAAI2024)(arxiv2023.12)** Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning [[arxiv link](https://arxiv.org/abs/2312.09505)][[code|official](https://github.com/NUST-Machine-Intelligence-Laboratory/NPN)]
 
 * **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis` (mainly focusing on `classification`)]
 
 * **ERASE(arxiv2023.12)** ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance [[arxiv link](https://arxiv.org/abs/2312.08852)][[project link](https://eraseai.github.io/ERASE-page/)][[code|official](https://github.com/eraseai/erase)][`Tsinghua University, Shenzhen`, first author [`Ling-Hao CHEN`](https://lhchen.top/)][for tackling `graph-related` tasks; Essentially, ERASE is a semi-supervised framwork]
 
-* 👍**NMTune(arxiv2023.09)(ICLR2024)** Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks [[openreview link](https://openreview.net/forum?id=TjhUtloBZU)][[arxiv link](https://arxiv.org/abs/2309.17002)][`Carnegie Mellon University + Microsoft Research Asia`]
+* 👍**NMTune(ICLR2024)(arxiv2023.09)** Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks [[openreview link](https://openreview.net/forum?id=TjhUtloBZU)][[arxiv link](https://arxiv.org/abs/2309.17002)][`Carnegie Mellon University + Microsoft Research Asia`]
 
 * **NRAT(MachineLearning2024)** Nrat: towards adversarial training with inherent label noise [[paper link](https://link.springer.com/article/10.1007/s10994-023-06437-3)][[code|official](https://github.com/TrustAI/NRAT)][`Liverpool University`, proposed by the [`TrustAI`](https://github.com/TrustAI)]
 
 * **LNL-flywheel(arxiv2024.01)** Learning with Noisy Labels: Interconnection of Two Expectation-Maximizations [[arxiv link](https://arxiv.org/abs/2401.04390)][`Samsung Advanced Institute of Technology + Seoul National Univ`][with a given `noisy rate`]
 
-* 👍**BadLabels(TPAMI2024)** BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning [[paper link](https://ieeexplore.ieee.org/document/10404058)][[arxiv link](https://arxiv.org/abs/2305.18377)][[code|official](https://github.com/zjfheart/BadLabels)][`University of Auckland`, the first author [`Jingfeng Zhang (张景锋)`](https://zjfheart.github.io/), `Label-Noise Learning (LNL)`][It introduced a novel label noise type called `BadLabel`. BadLabel is crafted based on the `label-flipping attack` against standard classification.]
+* 👍**BadLabels(TPAMI2024)(arxiv2023.05)** BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning [[paper link](https://ieeexplore.ieee.org/document/10404058)][[arxiv link](https://arxiv.org/abs/2305.18377)][[code|official](https://github.com/zjfheart/BadLabels)][`University of Auckland`, the first author [`Jingfeng Zhang (张景锋)`](https://zjfheart.github.io/), `Label-Noise Learning (LNL)`][It introduced a novel label noise type called `BadLabel`. BadLabel is crafted based on the `label-flipping attack` against standard classification.]
 
+* **(TMI2024)** Confidence Calibration of a Medical Imaging Classification System that is Robust to Label Noise
 
 
 ### ▶ for Detection
 
 * 👍**MonoLSS(arxiv2023.12)** MonoLSS: Learnable Sample Selection For Monocular 3D Detection [[arxiv link](https://arxiv.org/abs/2312.14474)][`Baidu Inc.`, tested in datasets `Waymo` and `KITTI-nuScenes`][2D detector is based on `CenterNet` + `DLANet-34`][The proposed LSS module is largely based on [Gumbel-Softmax (ICLR2017)](https://openreview.net/forum?id=rkE3y85ee) and [top-k Gumbel-Softmax (ICML2019)](https://proceedings.mlr.press/v97/kool19a.html), which are useful and common theories.]
+
+* **DN-TOD(arxiv2024.01)** Robust Tiny Object Detection in Aerial Images amidst Label Noise [[arxiv link](https://arxiv.org/abs/2401.08056)][`Wuhan University`, it proposed a DeNoising Tiny Object Detector (DN-TOD)]
 
