@@ -1,6 +1,12 @@
 # Noise Robust Learning
 also named `Partial Label Learning` or `Sample Selection Learning`, `Label Noise Tolerance Learning` or `Label-Noise Learning (LNL)`
 
+## Materials
+
+* [(github) Awesome Uncertainty in Deep learning.](https://github.com/ENSTA-U2IS/awesome-uncertainty-deeplearning) It contains a collection of surveys, datasets, papers, and codes, for predictive uncertainty estimation in deep learning models.
+* [(github) Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) A curated list of resources (e.g., Papers & Code, Survey and Github) for Learning with Noisy Labels.
+
+
 ## Papers
 
 ### ▶ for Classification
@@ -22,19 +28,22 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * **NPN(AAAI2024)(arxiv2023.12)** Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning [[arxiv link](https://arxiv.org/abs/2312.09505)][[code|official](https://github.com/NUST-Machine-Intelligence-Laboratory/NPN)]
 
-* **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis` (mainly focusing on `classification`)]
-
 * **ERASE(arxiv2023.12)** ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance [[arxiv link](https://arxiv.org/abs/2312.08852)][[project link](https://eraseai.github.io/ERASE-page/)][[code|official](https://github.com/eraseai/erase)][`Tsinghua University, Shenzhen`, first author [`Ling-Hao CHEN`](https://lhchen.top/)][for tackling `graph-related` tasks; Essentially, ERASE is a semi-supervised framwork]
 
 * 👍**NMTune(ICLR2024)(arxiv2023.09)** Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks [[openreview link](https://openreview.net/forum?id=TjhUtloBZU)][[arxiv link](https://arxiv.org/abs/2309.17002)][`Carnegie Mellon University + Microsoft Research Asia`]
 
 * **NRAT(MachineLearning2024)** Nrat: towards adversarial training with inherent label noise [[paper link](https://link.springer.com/article/10.1007/s10994-023-06437-3)][[code|official](https://github.com/TrustAI/NRAT)][`Liverpool University`, proposed by the [`TrustAI`](https://github.com/TrustAI)]
 
-* **LNL-flywheel(arxiv2024.01)** Learning with Noisy Labels: Interconnection of Two Expectation-Maximizations [[arxiv link](https://arxiv.org/abs/2401.04390)][`Samsung Advanced Institute of Technology + Seoul National Univ`][with a given `noisy rate`]
-
 * 👍**BadLabels(TPAMI2024)(arxiv2023.05)** BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning [[paper link](https://ieeexplore.ieee.org/document/10404058)][[arxiv link](https://arxiv.org/abs/2305.18377)][[code|official](https://github.com/zjfheart/BadLabels)][`University of Auckland`, the first author [`Jingfeng Zhang (张景锋)`](https://zjfheart.github.io/), `Label-Noise Learning (LNL)`][It introduced a novel label noise type called `BadLabel`. BadLabel is crafted based on the `label-flipping attack` against standard classification.]
 
-* **(TMI2024)** Confidence Calibration of a Medical Imaging Classification System that is Robust to Label Noise
+* **LNL-flywheel(arxiv2024.01)** Learning with Noisy Labels: Interconnection of Two Expectation-Maximizations [[arxiv link](https://arxiv.org/abs/2401.04390)][`Samsung Advanced Institute of Technology + Seoul National Univ`][with a given `noisy rate`]
+
+
+### ▶ for Classification (Medical Image)
+
+* **(arxiv2023.12)** Sample selection with noise rate estimation in noise learning of medical image analysis [[arxiv link](https://arxiv.org/abs/2312.15233)][`Medical Image Analysis` (mainly focusing on `classification`)]
+
+* **noisy-temperature-scaling(TMI2024)** Confidence Calibration of a Medical Imaging Classification System that is Robust to Label Noise [[paper link](https://ieeexplore.ieee.org/abstract/document/10399826)][[code|official](https://anonymous.4open.science/r/noisy-temperature-scaling)][`Bar-Ilan Univeristy, Israel`, `Medical Image Analysis`]
 
 
 ### ▶ for Detection
