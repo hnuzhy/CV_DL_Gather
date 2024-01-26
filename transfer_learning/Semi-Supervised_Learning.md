@@ -95,7 +95,7 @@
 
 * 👍**MixMatch (NIPS2019)** MixMatch: A Holistic Approach to Semi-Supervised Learning [[paper link](https://proceedings.neurips.cc/paper/2019/hash/1cd138d0499a68f4bb72bee04bbec2d7-Abstract.html)][[arxiv link](https://arxiv.org/abs/1905.02249)][[code|official](https://github.com/google-research/mixmatch)][`Google`, The first author is `David Berthelot`, `Combining Existing Useful SSL Techniques`]
 
-* 👍**ReMixMatch (NIPS2020)** ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring [[openreview link](https://openreview.net/forum?id=HklkeR4KPB)][[arxiv link](https://arxiv.org/abs/1911.09785)][[code|official](https://github.com/google-research/remixmatch)][`Google`, The first author is `David Berthelot`, `Applying Multiple Strong Augmentations for the Same Input Batch`]
+* 👍**ReMixMatch (ICLR2020)** ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring [[openreview link](https://openreview.net/forum?id=HklkeR4KPB)][[arxiv link](https://arxiv.org/abs/1911.09785)][[code|official](https://github.com/google-research/remixmatch)][`Google`, The first author is `David Berthelot`, `Applying Multiple Strong Augmentations for the Same Input Batch`]
 
 * 👍👍**FixMatch (NIPS2020)** FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[paper link](https://proceedings.neurips.cc/paper/2020/hash/06964dce9addb1c5cb5d6e3d9838f733-Abstract.html)][[arxiv link](https://arxiv.org/abs/2001.07685)][[code|official](https://github.com/google-research/fixmatch)][`Google`, The first author is `David Berthelot`, `Weak-Strong Augmentation Pairs`, `pseudo-labeling based (also called self-training)`]
 
