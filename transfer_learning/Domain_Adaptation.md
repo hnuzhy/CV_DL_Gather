@@ -16,8 +16,8 @@
     * ▶ [5.1 Image Classification](#51-Image-Classification)
     * ▶ [5.2 Object Detection](#52-Object-Detection)
     * ▶ [5.3 Semantic Segmentation](#53-Semantic-Segmentation)
-  * **[▶ ⑥ ⭐Domain Adaptation for Other Fields](#-Domain-Adaptation-for-Other-Fields)**
-
+  * **[▶ ⑥ ⭐Semi-supervised Domain Adaptation](#-Semi-supervised-Domain-Adaptation)**
+  * **[▶ ⑦ ⭐Domain Adaptation for Other Fields](#-Domain-Adaptation-for-Other-Fields)**
 
 ## 1) Defination
 
@@ -347,10 +347,17 @@
 
 `*********************************`
 
-### ⑥ ⭐Domain Adaptation for Other Fields
+### ⑥ ⭐ Semi-Supervised Domain Adaptation
+
+* **AdaEmbed(arxiv2024.01)** AdaEmbed: Semi-supervised Domain Adaptation in the Embedding Space [[arxiv link](https://arxiv.org/abs/2401.12421)][`Stanford University`]
+
+`*********************************`
+
+### ⑦ ⭐Domain Adaptation for Other Fields
 
 * **SSDA3D(AAAI2023)** SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud [[paper link](https://arxiv.org/abs/2212.02845)][[codes|official (not released)](https://github.com/yinjunbo/SSDA3D)][`Domain Adaptation for 3D Object Detection`]
 
 * **CMOM(WACV2023)** Domain Adaptive Video Semantic Segmentation via Cross-Domain Moving Object Mixing [[paper link](https://arxiv.org/abs/2211.02307)][`Domain Adaptation for Video Semantic Segmentation`]
 
 * **TTA-COPE(CVPR2023)** TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_TTA-COPE_Test-Time_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)][[]()]
+
