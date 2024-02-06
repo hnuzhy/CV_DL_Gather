@@ -43,8 +43,6 @@ Also named ***3D Human Pose and Shape Regression*** or ***3D Human Pose and Shap
 
 * **GTRS(ACMMM2021)** A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose [[paper link](https://arxiv.org/pdf/2111.12696.pdf)][[code|official](https://github.com/zczcwh/GTRS)]
 
-* **BMP(CVPR2021)** Body Meshes as Points [[paper link](https://arxiv.org/abs/2105.02467)][[code|official](https://github.com/jfzhang95/BMP)][[Jianfeng Zhang](https://jeff95.me/)]
-
 * **DetNet(CVPR2021)** Monocular Real-Time Full Body Capture With Inter-Part Correlations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.html)][`no official code`]
 
 * **(CVPR2021)** Monocular Real-time Full Body Capture with Inter-part Correlations [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2012.06087)][`Whole Body Recovery with Hands and Face`][[[Yuxiao Zhou](https://calciferzh.github.io/)] `THU + MPII`, `It is a real-time method that captures body, hands, and face with competitive accuracy by exploiting the interpart relationship between body and hands. SMPL+H and 3DMM are used to represent the body+hands and face.`]
