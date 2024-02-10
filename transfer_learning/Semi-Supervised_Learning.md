@@ -307,6 +307,7 @@
 
 * **SSP3D(ECCV2022)** Semi-supervised Single-View 3D Reconstruction via Prototype Shape Priors [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_31)][[arxiv link](https://arxiv.org/abs/2209.15383)][[code|official](https://github.com/ChenHsing/SSP3D)][[`Zhen Xing`](https://chenhsing.github.io/), on datasets `ShapeNet` and `Pix3D`][based on `mean-teacher` and proposed two modules namely `Prototype Attention Module` (using multi-head self-attention) and `Shape Naturalness Module` (a generative adversarial learning manner)]
 
+* **OF4HMR(TMLR2024)** Using Motion Cues to Supervise Single-frame Body Pose & Shape Estimation in Low Data Regimes [[openreview link](https://openreview.net/forum?id=fUhOb14sQv)][[arxiv link](https://arxiv.org/abs/2402.02736)][[code|official](https://github.com/cvlab-epfl/of4hmr)][`CVLab, EPFL` + `Meta AI`]
 
 ### ▶for Crowd Counting
 
