@@ -533,6 +533,7 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * 👍**3D-Pose-Transfer (ICCV2023)** Weakly-supervised 3D Pose Transfer with Keypoints [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Weakly-supervised_3D_Pose_Transfer_with_Keypoints_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.13459)][[project link](https://jinnan-chen.github.io/ws3dpt/)][[code|official](https://github.com/jinnan-chen/3D-Pose-Transfer)][`National University of Singapore`]
 
+* **UAO(arxiv2024.02)** Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2402.02339)][`Peking University, Shenzhen`]
 
 #### ※ 2D Human Pose Estimation (Single and Multiple)
 
