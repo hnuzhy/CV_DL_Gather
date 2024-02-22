@@ -40,7 +40,7 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * **ERASE(arxiv2023.12)** ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance [[arxiv link](https://arxiv.org/abs/2312.08852)][[project link](https://eraseai.github.io/ERASE-page/)][[code|official](https://github.com/eraseai/erase)][`Tsinghua University, Shenzhen`, first author [`Ling-Hao CHEN`](https://lhchen.top/)][for tackling `graph-related` tasks; Essentially, ERASE is a semi-supervised framwork]
 
-* 👍**NMTune(ICLR2024)(arxiv2023.09)** Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks [[openreview link](https://openreview.net/forum?id=TjhUtloBZU)][[arxiv link](https://arxiv.org/abs/2309.17002)][`Carnegie Mellon University + Microsoft Research Asia`]
+* 👍**NMTune(ICLR2024)(arxiv2023.09)** Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks [[openreview link](https://openreview.net/forum?id=TjhUtloBZU)][[arxiv link](https://arxiv.org/abs/2309.17002)][`Carnegie Mellon University + Microsoft Research Asia`][the `noisy labels` exist in the (usually black-box) pre-training data, and they do not make `noise assumptions` on the downstream data.]
 
 * **NRAT(MachineLearning2024)** Nrat: towards adversarial training with inherent label noise [[paper link](https://link.springer.com/article/10.1007/s10994-023-06437-3)][[code|official](https://github.com/TrustAI/NRAT)][`Liverpool University`, proposed by the [`TrustAI`](https://github.com/TrustAI)]
 
