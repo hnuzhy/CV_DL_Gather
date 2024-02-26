@@ -323,6 +323,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * 👍**GroupPose(ICCV2023)** Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Group_Pose_A_Simple_Baseline_for_End-to-End_Multi-Person_Pose_Estimation_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.07313)][[code|official Paddle](https://github.com/Michel-liu/GroupPose-Paddle)][[code|official PyTorch](https://github.com/Michel-liu/GroupPose)]
 
+* 👍**RTMO(arxiv2023.12)** RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2312.07526v1)][[code|official](https://github.com/open-mmlab/mmpose/tree/dev-1.x/projects/rtmo)][`Tsinghua Shenzhen International Graduate School` and `Shanghai AI Laboratory`; the code is released by `Open-MMLab`]
+
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
