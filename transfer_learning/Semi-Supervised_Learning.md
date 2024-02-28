@@ -48,6 +48,8 @@
 
 * **AutoAugment (CVPR2019)** AutoAugment: Learning Augmentation Policies from Data [[paper link]](https://openaccess.thecvf.com/content_CVPR_2019/html/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1805.09501)][[code|official](https://github.com/tensorflow/models/tree/master/research/autoaugment)][`google`]
 
+* **Fast AutoAugment (NIPS2019)** Fast AutoAugment [[paper link](https://proceedings.neurips.cc/paper_files/paper/2019/hash/6add07cf50424b14fdf649da87843d01-Abstract.html)][[openreview link](https://openreview.net/forum?id=B1xxUaqGpr)][[arxiv link](https://arxiv.org/abs/1905.00397)][[code|official](https://github.com/kakaobrain/fast-autoaugment)]
+
 * 👍**RandAugment (CVPRW2020)** Randaugment: Practical Automated Data Augmentation With a Reduced Search Space [[paper link](https://openaccess.thecvf.com/content_CVPRW_2020/html/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.html)][[arxiv link](https://arxiv.org/abs/1909.13719)][[code|official](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 
 * **PuzzleMix(ICML2020)** Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup [[paper link](https://proceedings.mlr.press/v119/kim20b.html)][[arxiv link](https://arxiv.org/abs/2009.06962)][[code|official](https://github.com/snu-mllab/PuzzleMix)]
