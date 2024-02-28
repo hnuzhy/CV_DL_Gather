@@ -54,9 +54,13 @@
 
 * **PuzzleMix(ICML2020)** Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup [[paper link](https://proceedings.mlr.press/v119/kim20b.html)][[arxiv link](https://arxiv.org/abs/2009.06962)][[code|official](https://github.com/snu-mllab/PuzzleMix)]
 
+* 👍**Adversarial AutoAugment** Adversarial AutoAugment [[openreview link](https://openreview.net/forum?id=ByxdUySKvS)][[arxiv link](https://arxiv.org/abs/1912.11188)][`Huawei`, code is not available.][It may produce `meaningless` or `difficult-to-recognize` images, such as `black and noise` images, if it is not constrained properly.]
+
 * **AugMix(ICLR2020)** AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty [[paper link](https://openreview.net/forum?id=S1gmrxHFvB)][[arxiv link](https://arxiv.org/abs/1912.02781)][[code|official](https://github.com/google-research/augmix)][for `improving robustness and uncertainty` and `domain generalization`]
 
 * **AugMax(NIPS2021)** AugMax: Adversarial Composition of Random Augmentations for Robust Training [[paper link](https://proceedings.neurips.cc/paper/2021/hash/01e9565cecc4e989123f9620c1d09c09-Abstract.html)][[openreview link](https://openreview.net/forum?id=P5MtdcVdFZ4)][[code|official](https://github.com/VITA-Group/AugMax)][`AugMax-DuBIN`, compared to `AugMix`]
+
+* 👍**NDA (ICLR2021)** Negative Data Augmentation [[openreview link](https://openreview.net/forum?id=Ovp8dvB8IBH)][[arxiv link](https://arxiv.org/abs/2102.05113)][[code|official](https://github.com/ermongroup/NDA)][It intentionally creates `out-of-distribution` samples; `GAN-based`][It proposes a framework to do `Negative Data Augmentation` for `generative` models and `self-supervised learning`]
 
 * **MixStyle(ICLR2021)** Domain Generalization with MixStyle [[openreview link](https://openreview.net/forum?id=6xHJ37MVxxp)][[arxiv link](https://arxiv.org/abs/2104.02008)][[slides link](https://iclr.cc/media/Slides/iclr/2021/virtual(03-08-00)-03-08-00UTC-2738-domain_generali.pdf)][[code}official](https://github.com/KaiyangZhou/mixstyle-release)][originally designed for `domain generalization`, inspired by `AdaIN (ICCV2017)`]
 
@@ -65,6 +69,8 @@
 * **KeepAugment(CVPR2021)** KeepAugment: A Simple Information-Preserving Data Augmentation Approach [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Gong_KeepAugment_A_Simple_Information-Preserving_Data_Augmentation_Approach_CVPR_2021_paper.html)][[arxiv link](http://arxiv.org/abs/2011.11778)]
 
 * **Augmentation-for-LNL(CVPR2021)** Augmentation Strategies for Learning With Noisy Labels [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Nishi_Augmentation_Strategies_for_Learning_With_Noisy_Labels_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.02130)][[code|official](https://github.com/KentoNishi/Augmentation-for-LNL)][Its repository is a fork of the official [DivideMix implementation](https://github.com/LiJunnan1992/DivideMix).]
+
+* **AutoDO(CVPR2021)** AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Gudovskiy_AutoDO_Robust_AutoAugment_for_Biased_Data_With_Label_Noise_via_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.05863)][[code|official](https://github.com/gudovskiy/autodo)]
 
 * **TrivialAugment(ICCV2021 oral)** TrivialAugment: Tuning-Free Yet State-of-the-Art Data Augmentation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Muller_TrivialAugment_Tuning-Free_Yet_State-of-the-Art_Data_Augmentation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.10158)][[code|official](https://github.com/automl/trivialaugment)]
 
@@ -80,7 +86,14 @@
 
 * **TransMix(CVPR2022)** TransMix: Attend To Mix for Vision Transformers [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.html)][[arxiv link](http://arxiv.org/abs/2111.09833)][[code|official](https://github.com/Beckschen/TransMix)]
 
+* **TeachAugment(CVPR2022 Oral)** TeachAugment: Data Augmentation Optimization Using Teacher Knowledge [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Suzuki_TeachAugment_Data_Augmentation_Optimization_Using_Teacher_Knowledge_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2202.12513)][[code|official](https://github.com/DensoITLab/TeachAugment)][It uses a teacher model to avoid `meaningless augmentations`. Although it makes reasonable improvements, it has a significant drawback: it involves alternative optimization that relies on an extra model, which significantly increases the training complexity]
+
 * 👍**YOCO(ICML2022)** You Only Cut Once: Boosting Data Augmentation with a Single Cut [[paper link](https://proceedings.mlr.press/v162/han22a.html)][[arxiv link](https://arxiv.org/abs/2201.12078)][[code|official](https://github.com/JunlinHan/YOCO)]
+
+* **Soft Augmentation (CVPR2023)** Soft Augmentation for Image Classification [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Soft_Augmentation_for_Image_Classification_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2211.04625)][[code|official](https://github.com/youngleox/soft_augmentation)]
+
+* **DualAug(arxiv2023.10)** DualAug: Exploiting Additional Heavy Augmentation with OOD Data Rejection [[arxiv link](https://arxiv.org/abs/2310.08139)][[openreview link (rejected)](https://openreview.net/forum?id=XgklTOdV4J)]
+
 
 
 ### ▶for Image Classification
