@@ -64,7 +64,7 @@
 
 * **KeepAugment(CVPR2021)** KeepAugment: A Simple Information-Preserving Data Augmentation Approach [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Gong_KeepAugment_A_Simple_Information-Preserving_Data_Augmentation_Approach_CVPR_2021_paper.html)][[arxiv link](http://arxiv.org/abs/2011.11778)]
 
-* **Augmentation-for-LNL(CVPR2021)** Augmentation Strategies for Learning With Noisy Labels [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Nishi_Augmentation_Strategies_for_Learning_With_Noisy_Labels_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.02130)][[code|official](https://github.com/KentoNishi/Augmentation-for-LNL)]
+* **Augmentation-for-LNL(CVPR2021)** Augmentation Strategies for Learning With Noisy Labels [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Nishi_Augmentation_Strategies_for_Learning_With_Noisy_Labels_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.02130)][[code|official](https://github.com/KentoNishi/Augmentation-for-LNL)][Its repository is a fork of the official [DivideMix implementation](https://github.com/LiJunnan1992/DivideMix).]
 
 * **TrivialAugment(ICCV2021 oral)** TrivialAugment: Tuning-Free Yet State-of-the-Art Data Augmentation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Muller_TrivialAugment_Tuning-Free_Yet_State-of-the-Art_Data_Augmentation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2103.10158)][[code|official](https://github.com/automl/trivialaugment)]
 
