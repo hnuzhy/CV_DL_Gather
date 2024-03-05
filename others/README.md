@@ -10,6 +10,7 @@
 * [⭐Automatic Speech Recognition](#automatic-speech-recognition)
 * [⭐⭐Camera Pose Estimation (SLAM)](#camera-pose-estimation-slam)
 * [⭐⭐Deep Neural Networks](#deep-neural-networks)
+* [⭐⭐Embody Artificial Intelligence](#embody-artificial-intelligence)
 * [⭐⭐Generative Adversarial Network](#generative-adversarial-network)
 * [⭐⭐Human Object Interaction Detection](#human-object-interaction-detection)
 * [⭐Image Mosaic](#image-mosaic)
@@ -123,6 +124,12 @@
 ### Papers
 
 * **FFA(Hinton 2022)** The Forward-Forward Algorithm: Some Preliminary Investigations [[paper link](https://www.cs.toronto.edu/~hinton/FFA13.pdf)]
+
+**-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
+
+## ⭐⭐Embody Artificial Intelligence
+
+* Please refer [Embody_Artificial_Intelligence.md](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/Embody_Artificial_Intelligence.md)
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
