@@ -50,6 +50,8 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 
 * 👍**BadLabels(TPAMI2024)(arxiv2023.05)** BadLabel: A Robust Perspective on Evaluating and Enhancing Label-Noise Learning [[paper link](https://ieeexplore.ieee.org/document/10404058)][[arxiv link](https://arxiv.org/abs/2305.18377)][[code|official](https://github.com/zjfheart/BadLabels)][`University of Auckland`, the first author [`Jingfeng Zhang (张景锋)`](https://zjfheart.github.io/), `Label-Noise Learning (LNL)`][It introduced a novel label noise type called `BadLabel`. BadLabel is crafted based on the `label-flipping attack` against standard classification.]
 
+* **IDNL(TPAMI2024)** A Time-Consistency Curriculum for Learning from Instance-Dependent Noisy Labels [[paper link](https://ieeexplore.ieee.org/abstract/document/10418893)][[openreview link (rejected by ICLR2023)](https://openreview.net/forum?id=4RwkbKZhGV)][`University of Sydney`]
+
 * **LNL-flywheel(arxiv2024.01)** Learning with Noisy Labels: Interconnection of Two Expectation-Maximizations [[arxiv link](https://arxiv.org/abs/2401.04390)][`Samsung Advanced Institute of Technology + Seoul National Univ`][with a given `noisy rate`]
 
 
@@ -65,4 +67,11 @@ by [`curriculum learning` (ICML2009, Yoshua Bengio)](https://dl.acm.org/doi/abs/
 * 👍**MonoLSS(arxiv2023.12)** MonoLSS: Learnable Sample Selection For Monocular 3D Detection [[arxiv link](https://arxiv.org/abs/2312.14474)][`Baidu Inc.`, tested in datasets `Waymo` and `KITTI-nuScenes`][2D detector is based on `CenterNet` + `DLANet-34`][The proposed LSS module is largely based on [Gumbel-Softmax (ICLR2017)](https://openreview.net/forum?id=rkE3y85ee) and [top-k Gumbel-Softmax (ICML2019)](https://proceedings.mlr.press/v97/kool19a.html), which are useful and common theories.]
 
 * **DN-TOD(arxiv2024.01)** Robust Tiny Object Detection in Aerial Images amidst Label Noise [[arxiv link](https://arxiv.org/abs/2401.08056)][`Wuhan University`, it proposed a DeNoising Tiny Object Detector (DN-TOD)]
+
+
+### ▶ for Person Re-identification
+
+* **TSNT(TPAMI2024)** A Two-stage Noise-tolerant Paradigm for Label Corrupted Person Re-identification [[paper link](https://ieeexplore.ieee.org/abstract/document/10419038)][by `Hunan University`]
+
+
 
