@@ -599,6 +599,8 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * **UniPose(arxiv2023.10)(under review in ICLR2024)** UniPose: Detecting Any Keypoints [[openreview link](https://openreview.net/forum?id=v2J205zwlu)][[arxiv link](https://arxiv.org/abs/2310.08530)][[project link](https://yangjie-cv.github.io/UniPose/)][[code|official](https://github.com/IDEA-Research/UniPose)][`IDEA-Research`, `using visual or textual prompts`]
 
+* **VLPosee(arxiv2024.02)** VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning [[arxiv link](https://arxiv.org/abs/2402.14456)][by `CUHK`, `Language-Vision Model`, on datasets `COCO` and `HumanArt`][VLPose leverages the synergy between `language` and `vision` to extend the `generalization` and `robustness` of pose estimation models beyond the traditional domains.]
+
 
 ### ▶ Keypoints for Human Motion Generation
 **Motion Synthesis / Motion Diffusion Model**
