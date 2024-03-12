@@ -672,6 +672,7 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **SRHP+WRHP(PR2024)** On the representation and methodology for wide and short range head pose estimation [[paper link](https://www.sciencedirect.com/science/article/pii/S0031320324000141)][[arxiv link](https://arxiv.org/abs/2401.05807)][`Universidad Politécnica de Madrid`]
 
+* **HeadDiff(TIP2024)** HeadDiff: Exploring Rotation Uncertainty with Diffusion Models for Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/document/10462910)][`Ningxia University`]
 
 #### Papers(Conference)
 
