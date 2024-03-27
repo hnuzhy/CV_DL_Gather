@@ -64,6 +64,8 @@
 
 * **Semantic-SAM(arxiv2023.07)** Semantic-SAM: Segment and Recognize Anything at Any Granularity [[arxiv link](https://arxiv.org/abs/2307.04767)][[code|official](https://github.com/UX-Decoder/Semantic-SAM)][`HKUST`,  It introduces a universal image segmentation model to enable segment and recognize anything at any desired granularity. The authors have `trained on the whole SA-1B dataset` and the model can reproduce SAM and beyond it.]
 
+* **PseCo(CVPR2024)(arxiv2023.11)** Point, Segment and Count: A Generalized Framework for Object Counting [[arxiv link](https://arxiv.org/abs/2311.12386)][[code|official](https://github.com/Hzzone/PseCo)][`Fudan University`, `few-shot/zero-shot object counting/detection`]
+
 * **SAM-6D(CVPR2024)(arxiv2023.11)** SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2311.15707)][[code|official](https://github.com/JiehongLin/SAM-6D)][`South China University of Technology`, the first author [`Jiehong Lin (林杰鸿)`](https://jiehonglin.github.io/)]
 
 * **SAI3D(CVPR2024)(arxiv2023.12)** SAI3D: Segment Any Instance in 3D Scenes [[arxiv link](https://arxiv.org/abs/2312.11557)][[project link](https://yd-yin.github.io/SAI3D/)][[code|official](https://github.com/yd-yin/SAI3D)][`Peking University`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
