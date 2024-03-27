@@ -60,6 +60,10 @@
 
 * **SAM3D(ICCVW2023)(arxiv2023.06)** SAM3D: Segment Anything in 3D Scenes [[arxiv link](https://arxiv.org/abs/2306.03908)][[code|official](https://github.com/Pointcept/SegmentAnything3D)][`University of Hong Kong`]
 
+* **HQ-SAM(NIPS2023)(arxiv2023.06)** Segment Anything in High Quality [[paper link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5f828e38160f31935cfe9f67503ad17c-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2306.01567)][[code|official](https://github.com/SysCV/SAM-HQ)][`ETH Zurich & HKUST`, it proposes HQ-SAM to upgrade SAM for high-quality zero-shot segmentation.]
+
+* **Semantic-SAM(arxiv2023.07)** Semantic-SAM: Segment and Recognize Anything at Any Granularity [[arxiv link](https://arxiv.org/abs/2307.04767)][[code|official](https://github.com/UX-Decoder/Semantic-SAM)][`HKUST`,  It introduces a universal image segmentation model to enable segment and recognize anything at any desired granularity. The authors have `trained on the whole SA-1B dataset` and the model can reproduce SAM and beyond it.]
+
 * **SAM-6D(CVPR2024)(arxiv2023.11)** SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2311.15707)][[code|official](https://github.com/JiehongLin/SAM-6D)][`South China University of Technology`, the first author [`Jiehong Lin (林杰鸿)`](https://jiehonglin.github.io/)]
 
 * **SAI3D(CVPR2024)(arxiv2023.12)** SAI3D: Segment Any Instance in 3D Scenes [[arxiv link](https://arxiv.org/abs/2312.11557)][[project link](https://yd-yin.github.io/SAI3D/)][[code|official](https://github.com/yd-yin/SAI3D)][`Peking University`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
