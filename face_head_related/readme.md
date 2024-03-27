@@ -591,6 +591,8 @@ also `3D Hand Shape and Pose Regression`
 
 * **Ev2Hands(3DV2024)** 3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera [[arxiv link](https://arxiv.org/abs/2312.14157)][[project link](https://4dqv.mpi-inf.mpg.de/Ev2Hands/)][[code|official](https://github.com/Chris10M/Ev2Hands)][`MPII`, a new `synthetic` large-scale dataset of two interacting hands, `Ev2Hands-S`, and a new real benchmark with real event streams and ground-truth 3D annotations, `Ev2Hands-R`.]
 
+* **OHTA(CVPR2024)(arxiv2024.02)** OHTA: One-shot Hand Avatar via Data-driven Implicit Priors [[arxiv link](https://arxiv.org/abs/2402.18969)][[project link](https://zxz267.github.io/OHTA/)][[code|official](https://github.com/zxz267/OHTA)][`ByteDance`][To test OHTA’s performance for the challenging `in-the-wild` images, they take the whole-body version of `MSCOCO` for experiments. They utilize the pose estimation results provided by `InterWild` and generate the masks using `SAM`]
+
 
 ##### ▶Sign Language Understanding
 including `Sign Language Recognition` and `Sign Language Translation`
