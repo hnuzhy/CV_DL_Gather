@@ -676,6 +676,9 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **HeadDiff(TIP2024)** HeadDiff: Exploring Rotation Uncertainty with Diffusion Models for Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/document/10462910)][`Ningxia University`]
 
+* **HHP-Net-Plus(CVIU2024)** Head pose estimation with uncertainty and an application to dyadic interaction detection [[paper link](https://www.sciencedirect.com/science/article/pii/S1077314224000808)][[code|official](https://github.com/Malga-Vision/HHP-Net)][`Università degli Studi di Genova, Italy`, the extended journal of `HHP-Net(WACV2022)`]
+
+
 #### Papers(Conference)
 
 * **(ITSC2014)** Head detection and orientation estimation for pedestrian safety [[paper link](https://www.mrt.kit.edu/z/publ/download/2014/RehderKloedenStiller2014itsc.pdf)]
@@ -746,5 +749,9 @@ including `Sign Language Recognition` and `Sign Language Translation`
 * ⭐**DSFNet(CVPR2023)** DSFNet: Dual Space Fusion Network for Occlusion-Robust Dense 3D Face Alignment [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.11522)][[paperwithcode link](https://paperswithcode.com/paper/dsfnet-dual-space-fusion-network-for-1)][[code|official](https://github.com/lhyfst/DSFNet)][`Head Pose Estimation` + `Face Alignment` + `3D Face Reconstruction`]
 
 * **PFA(arxiv2023.08)** 3D Face Alignment Through Fusion of Head Pose Information and Features [[arxiv link](https://arxiv.org/abs/2308.13327)][`Soongsil University`]
+
+* **OrdinalRegression(ICASSP2024)** Language-Driven Ordinal Learning for Imbalanced Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10448404)][`Ningxia University`]
+
+* **StructuredLight(ICASSP2024)** Adaptive Head Pose Estimation with Real-Time Structured Light [[paper link](https://ieeexplore.ieee.org/abstract/document/10446561)][`Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China`]
 
 
