@@ -350,7 +350,7 @@
 
 * **SIRA++(arxiv2023.10)** Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction [[arxiv link](https://arxiv.org/abs/2310.08784)][`few-shot learning`][extended journal on `SIRA(WACV2023)` --> SIRA: Relightable Avatars From a Single Image [[paper link](https://openaccess.thecvf.com/content/WACV2023/html/Caselles_SIRA_Relightable_Avatars_From_a_Single_Image_WACV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2209.03027)]]
 
-* **PRDL(arxiv2023.12)** 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation [[arxiv link](https://arxiv.org/abs/2312.00311)][tested on the dataset `REALY`]
+* **3DDFA-V3(arxiv2023.12)(CVPR2024)** 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation [[arxiv link](https://arxiv.org/abs/2312.00311)][[code|official](https://github.com/wang-zidu/3DDFA-V3)][tested on the dataset `REALY`]
 
 * **PPR-CNet(Computers & Graphics 2023)(CCF C)** 3D face reconstruction from a single image based on hybrid-level contextual information with weak supervision [[paper link](https://www.sciencedirect.com/science/article/pii/S0097849323002881)][`no code is available`, `Xinjiang University`]
 
