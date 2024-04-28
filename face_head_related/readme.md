@@ -328,6 +328,8 @@
 
 * ⭐**DAD-3DNet(CVPR2022)** DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)][[project link👍](https://www.pinatafarm.com/research/dad-3dheads)][[codes|official PyTorch](https://github.com/PinataFarms/DAD-3DHeads)][[benchmark challenge👍](https://github.com/PinataFarms/DAD-3DHeads/tree/main/dad_3dheads_benchmark)][`DAD-3DHeads dataset`][By `pinatafarm`]
 
+* **ImFace(CVPR2022)** ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_ImFace_A_Nonlinear_3D_Morphable_Face_Model_With_Implicit_Neural_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.14510)][[code | official](https://github.com/MingwuZheng/ImFace)][`Beihang University`]
+
 * **REALY(ECCV2022)** REALY: Rethinking the Evaluation of 3D Face Reconstruction [[paper link](https://arxiv.org/abs/2203.09729)][[project link](https://www.realy3dface.com/)][[codes|official](https://github.com/czh-98/REALY)][[blogs|zhihu](https://zhuanlan.zhihu.com/p/549704170)][`3DMM of face/head (HIFI3D++)` and `3D face dataset (REALY)`][By `Tsinghua`]
 
 * **DenseLandmarks(ECCV2022)** 3D Face Reconstruction with Dense Landmarks [[paper link](https://arxiv.org/abs/2204.02776)][[project link](https://microsoft.github.io/DenseLandmarks/)][`Microsoft`]
@@ -353,6 +355,9 @@
 * **3DDFA-V3(arxiv2023.12)(CVPR2024)** 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation [[arxiv link](https://arxiv.org/abs/2312.00311)][[code|official](https://github.com/wang-zidu/3DDFA-V3)][tested on the dataset `REALY`]
 
 * **PPR-CNet(Computers & Graphics 2023)(CCF C)** 3D face reconstruction from a single image based on hybrid-level contextual information with weak supervision [[paper link](https://www.sciencedirect.com/science/article/pii/S0097849323002881)][`no code is available`, `Xinjiang University`]
+
+* **ImFace++(arxiv2023.12)** ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations [[arxiv link](https://arxiv.org/abs/2312.04028)][[code|official](https://github.com/MingwuZheng/ImFace/tree/imface%2B%2B)][`Beihang University`, the extended journal version of `ImFace`]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
