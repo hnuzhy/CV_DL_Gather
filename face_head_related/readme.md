@@ -568,11 +568,15 @@ also `3D Hand Shape and Pose Regression`
 
 * 👍**MobileHand(ICONIP2020)** MobileHand: Real-time 3D Hand Shape and Pose Estimation from Color Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_52)][[project link](https://gmntu.github.io/mobilehand/)][[code|official](https://github.com/gmntu/mobilehand)][`anyang Technological University`][based on `MANO`, `2D/3D Hand Keypoints Detection` + `3D Hand Mesh`]
 
+* **I2L-MeshNet(ECCV2020)** I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_44)][[arxiv link](https://arxiv.org/abs/2008.03713)][[code|official](https://github.com/mks0601/I2L-MeshNet_RELEASE)][`Seoul National University`, `whole body and related hands`]
+
 * **mesh_hands(CVPR2020)** Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2004.01946)][[project link](https://arielai.com/mesh_hands)][based on `MANO`]
 
 * **RGB2Hands(SIGGRAPH Asia 2020)** RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video [[paper link](https://dl.acm.org/doi/abs/10.1145/3414685.3417852)][[arxiv link](https://arxiv.org/abs/2106.11725)][[project link](https://handtracker.mpi-inf.mpg.de/projects/RGB2Hands/)][new dataset `RGB2Hands`, based on `MANO`]
 
 * **InterShape(ICCV2021)** Interacting Two-Hand 3D Pose and Shape Reconstruction From Single Color Image [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Interacting_Two-Hand_3D_Pose_and_Shape_Reconstruction_From_Single_Color_ICCV_2021_paper.html)][[pdf link](https://www.yangangwang.com/papers/ZHANG-ITH-2021-08.pdf)][[project link](https://baowenz.github.io/Intershape/)][[code|official](https://github.com/BaowenZ/Two-Hand-Shape-Pose)][`Yangang Wang`, based on `MANO`, using the dataset `InterHand2.6M`]
+
+* 👍**MobRecon(CVPR2022)** MobRecon: Mobile-Friendly Hand Mesh Reconstruction From Monocular Image [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_MobRecon_Mobile-Friendly_Hand_Mesh_Reconstruction_From_Monocular_Image_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2112.02753)][[code|official](https://github.com/SeanChenxy/HandMesh)][`Kuaishou Technology`]
 
 * **IntagHand(CVPR2022)** Interacting Attention Graph for Single Image Two-Hand Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Interacting_Attention_Graph_for_Single_Image_Two-Hand_Reconstruction_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.09364)][[code|official](https://github.com/Dw1010/IntagHand)][based on `MANO`, using the dataset `InterHand2.6M`]
 
