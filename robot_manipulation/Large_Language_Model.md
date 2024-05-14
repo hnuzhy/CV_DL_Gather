@@ -36,6 +36,13 @@
 * **ViTAEv2(IJCV2023)** ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond [[paper link](https://link.springer.com/article/10.1007/s11263-022-01739-w)][[arxiv link](https://arxiv.org/abs/2202.10108)][`ViT-based`, `self-supervised pre-training`, `Tao Dacheng`]
 
 
+### ▶ AIGC (Artificial Intelligence Generated Content) 
+
+* **Survey(arxiv2023.03)** A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT [[arxiv link](https://arxiv.org/abs/2303.04226)][[blog|zhihu](https://zhuanlan.zhihu.com/p/615522634)][`CMU`]
+
+* **Survey(arxiv2023.01)** ChatGPT is not all you need. A State of the Art Review of large Generative AI models [[arxiv link](https://arxiv.org/abs/2301.04655)]
+
+
 ## ▶ Super Stars
 
 ### ⭐Segment Anything
