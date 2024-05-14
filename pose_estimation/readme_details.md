@@ -461,6 +461,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 #### ※ Hand Pose Estimation
 
+* **(CVIU2017)** Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S1077314217301686)][[arxiv link](https://arxiv.org/abs/1511.06728)][`Universite de Lyon`; using the `depth` input]
+
 * **(ECCV2018)** Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images [[paper link](https://openaccess.thecvf.com/content_ECCV_2018/html/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.html)][`No code is available`, `Nanyang Technological University`, `a weakly-supervised method with the aid of depth images`, `3D Hand Pose Estimation`, `Keypoints`]
 
 * **SO-HandNet(ICCV2019)** SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation With Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_SO-HandNet_Self-Organizing_Network_for_3D_Hand_Pose_Estimation_With_Semi-Supervised_ICCV_2019_paper.html)][`No code is available`, `Wuhan University`, `3D Hand Pose Estimation`, `Keypoints`, based on [`SO-Net`](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.html) and 3D point clouds]
