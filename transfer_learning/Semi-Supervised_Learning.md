@@ -33,7 +33,9 @@
 
 ## Papers (Semi-Supervised_Learning)
 
-### ▶for Considering Domain Adaptation
+### ▶for Considering Domain Adaptation 
+
+* **(TPAMI2018)** Semi-Supervised Domain Adaptation by Covariance Matching [[paper link](https://ieeexplore.ieee.org/abstract/document/8444719)][`Xi’an Jiaotong University`]
 
 * 👍**SSDA_MME(ICCV2019)** Semi-supervised Domain Adaptation via Minimax Entropy [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Saito_Semi-Supervised_Domain_Adaptation_via_Minimax_Entropy_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1904.06487)][[project link](https://cs-people.bu.edu/keisaito/research/MME.html)][[code|official](https://github.com/VisionLearningGroup/SSDA_MME)][`Boston University` and `University of California, Berkeley`]
 
@@ -102,7 +104,7 @@
 
 * **DualAug(arxiv2023.10)** DualAug: Exploiting Additional Heavy Augmentation with OOD Data Rejection [[arxiv link](https://arxiv.org/abs/2310.08139)][[openreview link (rejected)](https://openreview.net/forum?id=XgklTOdV4J)]
 
-
+* **FeatAug-DETR & DataAug-DETR(TPAMI2024)** FeatAug-DETR: Enriching One-to-Many Matching for DETRs With Feature Augmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/10480276/)][[arxiv link](https://arxiv.org/abs/2303.01503)][[code|official](https://github.com/rongyaofang/FeatAug-DETR)][`CUHK`, the augmentation of `data` and `feature` in `DETRs` (such as `DAB-DETR`, `Deformable-DETR`, and `H-Deformable-DETR`) is very useful for further designing `SSL` methods]
 
 ### ▶for Image Classification
 
