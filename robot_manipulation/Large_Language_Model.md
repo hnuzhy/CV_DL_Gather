@@ -1,4 +1,4 @@
-# ⭐Large Language Model (LLM) or Large Model
+# ⭐Large Language Model (LLM)
 
 ## Materials
 
