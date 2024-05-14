@@ -2,6 +2,7 @@
 ## Contents
 
 * **[1) Papers (Semi-Supervised_Learning)](#papers-semi-supervised_learning)**
+  * **[▶ for Considering Domain Adaptation](#for-considering-domain-adaptation)**
   * **[▶ for Data Augmentation](#for-data-augmentation)**
   * **[▶ for Image Classification](#for-image-classification)**
   * **[▶ for Object Detection](#for-object-detection)**
@@ -31,6 +32,13 @@
 ---
 
 ## Papers (Semi-Supervised_Learning)
+
+### ▶for Considering Domain Adaptation
+
+* 👍**SSDA_MME(ICCV2019)** Semi-supervised Domain Adaptation via Minimax Entropy [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Saito_Semi-Supervised_Domain_Adaptation_via_Minimax_Entropy_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1904.06487)][[project link](https://cs-people.bu.edu/keisaito/research/MME.html)][[code|official](https://github.com/VisionLearningGroup/SSDA_MME)][`Boston University` and `University of California, Berkeley`]
+
+* **ECACL(ICCV2021)** ECACL: A Holistic Framework for Semi-Supervised Domain Adaptation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Li_ECACL_A_Holistic_Framework_for_Semi-Supervised_Domain_Adaptation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.09136)][[code|official](https://github.com/kailigo/pacl)][`NEC Laboratories, America` and `Northeastern University`][the code is based on `SSDA_MME`]
+
 
 ### ▶for Data Augmentation
 
@@ -368,7 +376,15 @@
 
 ### ▶for Face Landmarks
 
+* **(CVPR2018)** Improving Landmark Localization With Semi-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Honari_Improving_Landmark_Localization_CVPR_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1709.01591v7)][`MILA-University of Montrea` and `NVIDIA`]
+
+* **TS3(Teacher Supervises StudentS)(ICCV2019)** Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Dong_Teacher_Supervises_Students_How_to_Learn_From_Partially_Labeled_Images_ICCV_2019_paper.html)][`Southern China University of Science and Technology` and `Baidu`]
+
+* **LaplaceKL(ICCV2019)** Laplace Landmark Localization [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Robinson_Laplace_Landmark_Localization_ICCV_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1903.11633)][`Northeastern University`, It proposes a new loss `LaplaceKL`; this method can be trained under the SSL setting]
+
 * **PIPNet(IJCV2021)** Pixel-in-Pixel Net: Towards Efficient Facial Landmark Detection in the Wild [[paper link](https://link.springer.com/article/10.1007/s11263-021-01521-4)][[arxiv link](https://arxiv.org/abs/2003.03771)][[code|official](https://github.com/jhb86253817/PIPNet)][`HKUST`, the first author [`Haibo Jin`](https://jhb86253817.github.io/)]
+
+* **(CVPR2022)** Which Images To Label for Few-Shot Medical Landmark Detection? [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Quan_Which_Images_To_Label_for_Few-Shot_Medical_Landmark_Detection_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2112.04386)][`CAS`, `Medical Image`]
 
 ---
 
