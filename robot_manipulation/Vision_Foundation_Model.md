@@ -1,5 +1,5 @@
 # ⭐Vision Foundation Model
-`currently, we treat SAM as the only Vision Foundation Model and collect related works`
+*currently, we treat `SAM` as the only Vision Foundation Model and collect related works*
 
 ## ⭐Segment Anything
 
