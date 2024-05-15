@@ -1,5 +1,5 @@
 # ⭐Vision Language Pretraining
-*also konwn as `Large Multimodal Models`*
+*also known as `Vision Language Models` and `Large Multimodal Models`*
 
 ## Materials
 
