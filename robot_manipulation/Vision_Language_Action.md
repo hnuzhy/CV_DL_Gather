@@ -1,5 +1,5 @@
 # ⭐Vision Language Action
-*this is the most popluar paradigm for achieving `robot manipulation`*
+*this is the most popluar paradigm for achieving `robot manipulation`, also similar to `state-to-action mappings`*
 
 ## ▶Materials
 
