@@ -21,7 +21,50 @@
 
 ## Papers
 
+### ▶ Hand Object Contact/Interaction
+
+* **ContactDB(CVPR2019 Oral, Best Paper Finalist)** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging [[arxiv link](https://arxiv.org/abs/1904.06830)][[project link](https://contactdb.cc.gatech.edu/)][`Georgia Tech Robotics`][`the first large-scale dataset that records detailed contact maps for functional human grasps`]
+
+* 👍**100DOH(CVPR2020)** Understanding Human Hands in Contact at Internet Scale [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.html)][[project link](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)][`hand-contact understanding`][`100DOH` dataset]
+
+* 👍**ContactHands(NIPS2020)** Detecting Hands and Recognizing Physical Contact in the Wild [[paper link](https://proceedings.neurips.cc/paper/2020/hash/595373f017b659cb7743291e920a8857-Abstract.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/ContactHands_data_website/)][[code|official](https://github.com/cvlab-stonybrook/ContactHands)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`ContactHands` dataset][`hand contact estimation`]
+
+* **ContactPose(ECCV2020)** ContactPose: A Dataset of Grasps with Object Contact and Hand Pose [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_22)][[arxiv link](https://arxiv.org/abs/2007.09545)][[project link](https://contactpose.cc.gatech.edu/)][`hand contact estimation`][`ContactPose` dataset][the first dataset of hand-object contact paired with hand pose, object pose, and RGB-D images]
+
+* **Hand-Object Contact Prediction(BMVC2021)** Hand-Object Contact Prediction via Motion-Based Pseudo-Labeling and Guided Progressive Label Correction [[arxiv link](https://arxiv.org/abs/2110.10174)][[code|official](https://github.com/takumayagi/hand_object_contact_prediction)][`Hand-Object Contact Prediction`]
+
+* **ContactOpt(CVPR2021)** ContactOpt: Optimizing Contact To Improve Grasps [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Grady_ContactOpt_Optimizing_Contact_To_Improve_Grasps_CVPR_2021_paper.html)][[code|official](https://github.com/facebookresearch/contactopt)][`hand contact`, `grasp`]
+
+* **TUCH(Towards Understanding Contact in Humans)(CVPR2021)** On Self-Contact and Human Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Muller_On_Self-Contact_and_Human_Pose_CVPR_2021_paper.html)][[project link](https://tuch.is.tue.mpg.de)][A dataset of `3D Contact Poses (3DCP)`, `hand contact estimation`, `MPII`, `single-person`]
+
+* **GraspTTA&GraspNet(ICCV2021 Oral)(arxiv2021.04)** Hand-Object Contact Consistency Reasoning for Human Grasps Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Jiang_Hand-Object_Contact_Consistency_Reasoning_for_Human_Grasps_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.03304)][[project link](https://hwjiang1510.github.io/GraspTTA/)][[code|official](https://github.com/hwjiang1510/GraspTTA)][`UC San Diego`]
+
+* **PressureVision(ECCV2022)** PressureVision: Estimating Hand Pressure from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_19)][[code|official](https://github.com/facebookresearch/pressurevision)][`facebookresearch`, `Hand Pressure`]
+
+* 👍**EgoHOS(ECCV2022)** Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_8)][[project link](https://www.seas.upenn.edu/~shzhou2/projects/eos_dataset/)][[code|official](https://github.com/owenzlz/EgoHOS)][`Hand-Object Segmentation`]
+
+* **SOS(ECCV2022)** SOS! Self-supervised Learning over Sets of Handled Objects in Egocentric Action Recognition [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_35)][[arxiv link](https://arxiv.org/abs/2204.04796)][`Self-Supervised Learning Over Sets (SOS)`]
+
+* **VISOR(NIPS2022)** EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/590a7ebe0da1f262c80d0188f5c4c222-Abstract-Datasets_and_Benchmarks.html)][[project link](https://epic-kitchens.github.io/VISOR/)][`EPIC-KITCHENS`, a new set of `challenges` not encountered in current `video segmentation datasets`]
+
+* 👍**HOIG or HOGAN(NIPS2022 spotlight)** Hand-Object Interaction Image Generation [[openreview link](https://openreview.net/forum?id=DDEwoD608_l)][[arxiv link](https://arxiv.org/abs/2211.15663)][[project link](https://play-with-hoi-generation.github.io/)][[code|official](https://github.com/play-with-HOI-generation/HOIG)]
+
+* 👍**SCR(CVPR2022)** Stability-Driven Contact Reconstruction From Monocular Color Images [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Stability-Driven_Contact_Reconstruction_From_Monocular_Color_Images_CVPR_2022_paper.html)][[project link](https://www.yangangwang.com/papers/ZZM-SCR-2022-03.html)][[Corresponding Author](https://www.yangangwang.com/)][`Southeast University`, `CBF dataset` (hand-object Contact with Balancing Force recording, version 0.1)]
+
 * **OakInk(CVPR2022)(arxiv2022.03)** OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_OakInk_A_Large-Scale_Knowledge_Repository_for_Understanding_Hand-Object_Interaction_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.15709)][[project link](https://oakink.net/)][[code|official](https://github.com/oakink/OakInk)][`SJTU`]
+
+* **ARCTIC(CVPR2023)** ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation [[arxiv link](https://arxiv.org/abs/2204.13662)][[project link](https://arctic.is.tue.mpg.de/)][[code|official](https://github.com/zc-alexfan/arctic)][`MPII`, `Hand-Object Manipulation`]
+
+* **RUFormer(ICCV2023)** Nonrigid Object Contact Estimation With Regional Unwrapping Transformer [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.14074)][`Southeast University`, `Nonrigid Object Hand Contact`]
+
+* **HO-NeRF(ICCV2023)** Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.11198)][[project link](https://iscas3dv.github.io/HO-NeRF/)][`Hand-Object Interaction`, `NeRF`]
+
+* **USST(ICCV2023)** Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08243)][[project link](https://actionlab-cv.github.io/EgoHandTrajPred/)][[code|official](https://github.com/oppo-us-research/USST)][`3D Ego-Hand Trajectory Forecasting`]
+
+
+### ▶ Dexterous Hand Grasp/Manipulation
+
+* **(ICCV2021)** Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.html)][`Dalian University of Technology`]
 
 * **ImplicitAugmentation(CoRL2022)(arxiv2022.10)** Learning Robust Real-World Dexterous Grasping Policies via Implicit Shape Augmentation [[paper link](https://proceedings.mlr.press/v205/chen23b.html)][[arxiv link](https://arxiv.org/abs/2210.13638)][[project link](https://sites.google.com/view/implicitaugmentation/home)][`University of Washington + NVIDIA`]
 
