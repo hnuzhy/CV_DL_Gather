@@ -3,6 +3,8 @@
 
 ## Materials
 
+* 👍 **(github)(Hand3DResearch) Recent Progress in 3D Hand Tasks** [[github link](https://github.com/SeanChenxy/Hand3DResearch)]
+
 ## Datasets
 
 ## Papers
