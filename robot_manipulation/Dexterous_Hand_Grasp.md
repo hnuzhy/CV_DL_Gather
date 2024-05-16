@@ -15,6 +15,7 @@
 
 ## Datasets
 
+* **DFCData (UniDexGrasp CVPR2023)** [UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://mirrors.pku.edu.cn/dl-release/) [[project link](https://pku-epic.github.io/UniDexGrasp/)][`PKU`]
 
 ***
 
@@ -28,9 +29,9 @@
 
 * **VideoDex(CoRL2022)(arxiv2022.12)** VideoDex: Learning Dexterity from Internet Videos [[paper link](https://proceedings.mlr.press/v205/shaw23a.html)][[arxiv link](https://arxiv.org/abs/2212.04498)][[openreview link](https://openreview.net/forum?id=qUhkhHw8Dz)][[project link](https://video-dex.github.io/)][`CMU`, The journal verison in [IJRR2024](https://journals.sagepub.com/doi/abs/10.1177/02783649241227559)]
 
-* **UniDexGrasp(CVPR2023)(arxiv2023.03)** UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Xu_UniDexGrasp_Universal_Robotic_Dexterous_Grasping_via_Learning_Diverse_Proposal_Generation_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.00938)][[project link](https://pku-epic.github.io/UniDexGrasp/)][[code|official](https://github.com/PKU-EPIC/UniDexGrasp)][[dataset|DFCData](https://mirrors.pku.edu.cn/dl-release/UniDexGrasp_CVPR2023)][`PKU`][The first work that can demonstrate `universal` and `diverse dexterous grasping` that can well `generalize` to unseen objects.]
+* 👍**UniDexGrasp(CVPR2023)(arxiv2023.03)** UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Xu_UniDexGrasp_Universal_Robotic_Dexterous_Grasping_via_Learning_Diverse_Proposal_Generation_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2303.00938)][[project link](https://pku-epic.github.io/UniDexGrasp/)][[code|official](https://github.com/PKU-EPIC/UniDexGrasp)][[dataset|DFCData](https://mirrors.pku.edu.cn/dl-release/UniDexGrasp_CVPR2023)][`PKU`][it executes the grasp step in the `Isaac Gym simulator`][The first work that can demonstrate `universal` and `diverse dexterous grasping` that can well `generalize` to unseen objects.]
 
-* **UniDexGrasp++(ICCV2023 Best Paper Finalist)(arxiv2023.04)** UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning [[paper link](http://openaccess.thecvf.com/content/ICCV2023/html/Wan_UniDexGrasp_Improving_Dexterous_Grasping_Policy_Learning_via_Geometry-Aware_Curriculum_and_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.00464)][[project link](https://pku-epic.github.io/UniDexGrasp++/)][[code|official](https://github.com/PKU-EPIC/UniDexGrasp2)][`PKU`]
+* 👍**UniDexGrasp++(ICCV2023 Best Paper Finalist)(arxiv2023.04)** UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning [[paper link](http://openaccess.thecvf.com/content/ICCV2023/html/Wan_UniDexGrasp_Improving_Dexterous_Grasping_Policy_Learning_via_Geometry-Aware_Curriculum_and_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.00464)][[project link](https://pku-epic.github.io/UniDexGrasp++/)][[code|official](https://github.com/PKU-EPIC/UniDexGrasp2)][`PKU`]
 
 * **GraspGF(NIPS2023)(arxiv2023.09)** GraspGF: Learning Score-based Grasping Primitive for Human-assisting Dexterous Grasping [[paper link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/464012c83279e19be4cd42c25f341c92-Abstract-Conference.html)][[arxiv link](https://openreview.net/forum?id=fwvfxDbUFw)][[arxiv link](https://arxiv.org/abs/2309.06038)][[project link](https://sites.google.com/view/graspgf)][[code|official](https://github.com/tianhaowuhz/human-assisting-dex-grasp/)][`PKU + Beijing Academy of Artificial Intelligence`]
 
@@ -44,7 +45,7 @@
 
 * **ArtiGrasp(3DV2024)(arxiv2023.09)** ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation [[arxiv link](https://arxiv.org/abs/2309.03891)][[project link](https://eth-ait.github.io/artigrasp/)][[code|official](https://github.com/zdchan/artigrasp)][`ETH Zurich + MPII Germany`]
 
-* **OAKINK2(CVPR2024)(arxiv2024.03)** OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[arxiv link](https://arxiv.org/abs/2403.19417)][[project link](https://oakink.net/v2/)][`SJTU`]
+* 👍**OAKINK2(CVPR2024)(arxiv2024.03)** OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[arxiv link](https://arxiv.org/abs/2403.19417)][[project link](https://oakink.net/v2/)][`SJTU`]
 
 * **CyberDemo(CVPR2024)(arxiv2024.02)** CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2402.14795)][[project link](https://cyber-demo.github.io/)][`UC San Diego + USC`]
 
