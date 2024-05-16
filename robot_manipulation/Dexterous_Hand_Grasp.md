@@ -3,7 +3,7 @@
 
 ## Hardwares
 
-* [**ShadowHand** Shadow Dexterous Hand Series - Research and Development Tool](https://www.shadowrobot.com/dexterous-hand-series/) [As a widely used five-finger robotic dexterous hand, `ShadowHand` amounts to `26 degrees of freedom (DoF)`, in contrast with `7 DoF` for a typical `parallel gripper`. Such high dimensionality magnifies the difficulty in both generating valid grasp poses and planning the execution trajectories, and thus distinguishes the dexterous grasping task from its counterpart for parallel grippers.]
+* [**ShadowHand** Shadow Dexterous Hand Series - Research and Development Tool](https://www.shadowrobot.com/dexterous-hand-series/) [As a widely used five-finger robotic dexterous hand, `ShadowHand` amounts to `26 degrees of freedom (DoF)`, in contrast with `7 DoF` for a typical `parallel gripper`. Such high dimensionality magnifies the difficulty in both generating valid grasp poses and planning the execution trajectories, and thus distinguishes the dexterous grasping task from its counterpart for parallel grippers.]
 
 
 ## Materials
