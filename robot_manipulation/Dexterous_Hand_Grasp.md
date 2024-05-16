@@ -4,6 +4,7 @@
 ## Materials
 
 * 👍 **(github)(Hand3DResearch) Recent Progress in 3D Hand Tasks** [[github link](https://github.com/SeanChenxy/Hand3DResearch)]
+* **(Website) GraspNet通用物体抓取(GraspNet-1Billion + AnyGrasp + SuctionNet-1Billion + TransCG)**  [[Homepage link](https://graspnet.net/index.html)]
 
 ## Datasets
 
