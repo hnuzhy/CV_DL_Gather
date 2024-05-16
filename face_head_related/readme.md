@@ -417,43 +417,9 @@ including `Hand Detection`, `Hand Tracking`, `Hand-Object Contact`, `Hand Pressu
 
 * **Hand-CNN(hand_det_attention)(ICCV2019)** Contextual Attention for Hand Detection in the Wild [[paper link](https://openaccess.thecvf.com/content_ICCV_2019/html/Narasimhaswamy_Contextual_Attention_for_Hand_Detection_in_the_Wild_ICCV_2019_paper.html)][[project](https://www3.cs.stonybrook.edu/~cvl/projects/hand_det_attention/)][[code|official](https://github.com/SupreethN/Hand-CNN)]
 
-* **ContactDB(CVPR2019 Oral, Best Paper Finalist)** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging [[arxiv link](https://arxiv.org/abs/1904.06830)][[project link](https://contactdb.cc.gatech.edu/)][`Georgia Tech Robotics`][`the first large-scale dataset that records detailed contact maps for functional human grasps`]
-
-* 👍**100DOH(CVPR2020)** Understanding Human Hands in Contact at Internet Scale [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.html)][[project link](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)][`hand-contact understanding`][`100DOH` dataset]
-
-* 👍**ContactHands(NIPS2020)** Detecting Hands and Recognizing Physical Contact in the Wild [[paper link](https://proceedings.neurips.cc/paper/2020/hash/595373f017b659cb7743291e920a8857-Abstract.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/ContactHands_data_website/)][[code|official](https://github.com/cvlab-stonybrook/ContactHands)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`ContactHands` dataset][`hand contact estimation`]
-
-* **ContactPose(ECCV2020)** ContactPose: A Dataset of Grasps with Object Contact and Hand Pose [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_22)][[arxiv link](https://arxiv.org/abs/2007.09545)][[project link](https://contactpose.cc.gatech.edu/)][`hand contact estimation`][`ContactPose` dataset][the first dataset of hand-object contact paired with hand pose, object pose, and RGB-D images]
-
-* **Hand-Object Contact Prediction(BMVC2021)** Hand-Object Contact Prediction via Motion-Based Pseudo-Labeling and Guided Progressive Label Correction [[arxiv link](https://arxiv.org/abs/2110.10174)][[code|official](https://github.com/takumayagi/hand_object_contact_prediction)][`Hand-Object Contact Prediction`]
-
-* **ContactOpt(CVPR2021)** ContactOpt: Optimizing Contact To Improve Grasps [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Grady_ContactOpt_Optimizing_Contact_To_Improve_Grasps_CVPR_2021_paper.html)][[code|official](https://github.com/facebookresearch/contactopt)][`hand contact`, `grasp`]
-
-* **TUCH(Towards Understanding Contact in Humans)(CVPR2021)** On Self-Contact and Human Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Muller_On_Self-Contact_and_Human_Pose_CVPR_2021_paper.html)][[project link](https://tuch.is.tue.mpg.de)][A dataset of `3D Contact Poses (3DCP)`, `hand contact estimation`, `MPII`, `single-person`]
-
-* **PressureVision(ECCV2022)** PressureVision: Estimating Hand Pressure from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_19)][[code|official](https://github.com/facebookresearch/pressurevision)][`facebookresearch`, `Hand Pressure`]
-
-* 👍**EgoHOS(ECCV2022)** Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_8)][[project link](https://www.seas.upenn.edu/~shzhou2/projects/eos_dataset/)][[code|official](https://github.com/owenzlz/EgoHOS)][`Hand-Object Segmentation`]
-
-* **SOS(ECCV2022)** SOS! Self-supervised Learning over Sets of Handled Objects in Egocentric Action Recognition [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_35)][[arxiv link](https://arxiv.org/abs/2204.04796)][`Self-Supervised Learning Over Sets (SOS)`]
-
-* **VISOR(NIPS2022)** EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/590a7ebe0da1f262c80d0188f5c4c222-Abstract-Datasets_and_Benchmarks.html)][[project link](https://epic-kitchens.github.io/VISOR/)][`EPIC-KITCHENS`, a new set of `challenges` not encountered in current `video segmentation datasets`]
-
-* 👍**HOIG or HOGAN(NIPS2022 spotlight)** Hand-Object Interaction Image Generation [[openreview link](https://openreview.net/forum?id=DDEwoD608_l)][[arxiv link](https://arxiv.org/abs/2211.15663)][[project link](https://play-with-hoi-generation.github.io/)][[code|official](https://github.com/play-with-HOI-generation/HOIG)]
-
-* 👍**SCR(CVPR2022)** Stability-Driven Contact Reconstruction From Monocular Color Images [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Stability-Driven_Contact_Reconstruction_From_Monocular_Color_Images_CVPR_2022_paper.html)][[project link](https://www.yangangwang.com/papers/ZZM-SCR-2022-03.html)][[Corresponding Author](https://www.yangangwang.com/)][`Southeast University`, `CBF dataset` (hand-object Contact with Balancing Force recording, version 0.1)]
-
 * ⭐**BodyHands(CVPR2022)** Whose Hands Are These? Hand Detection and Hand-Body Association in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Narasimhaswamy_Whose_Hands_Are_These_Hand_Detection_and_Hand-Body_Association_in_CVPR_2022_paper.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/BodyHands/)][[code|official](https://github.com/cvlab-stonybrook/BodyHands)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`joint detection of person body and hands`][`BodyHands` dataset]
 
 * ⭐**HandLer(CVPR2022)** Forward Propagation, Backward Regression, and Pose Association for Hand Tracking in the Wild [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.html)][[project link](https://vision.cs.stonybrook.edu/~mingzhen/handler/)][[code|official](https://github.com/cvlab-stonybrook/HandLer)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`YoutubeHands` dataset, Hand-tracking]
-
-* **ARCTIC(CVPR2023)** ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation [[arxiv link](https://arxiv.org/abs/2204.13662)][[project link](https://arctic.is.tue.mpg.de/)][[code|official](https://github.com/zc-alexfan/arctic)][`MPII`, `Hand-Object Manipulation`]
-
-* **RUFormer(ICCV2023)** Nonrigid Object Contact Estimation With Regional Unwrapping Transformer [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.14074)][`Southeast University`, `Nonrigid Object Hand Contact`]
-
-* **HO-NeRF(ICCV2023)** Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.11198)][[project link](https://iscas3dv.github.io/HO-NeRF/)][`Hand-Object Interaction`, `NeRF`]
-
-* **USST(ICCV2023)** Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08243)][[project link](https://actionlab-cv.github.io/EgoHandTrajPred/)][[code|official](https://github.com/oppo-us-research/USST)][`3D Ego-Hand Trajectory Forecasting`]
 
 #### ▶Head Part
 including `Head Detection`, `Head Counting`
@@ -479,7 +445,6 @@ including `Head Detection`, `Head Counting`
 * 👍**Head-body-Tracking(arxiv2023.04)** Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads [[arxiv link](https://arxiv.org/abs/2304.07705)]
 
 * 👍👍**PanoHead(CVPR2023)** PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘ [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/An_PanoHead_Geometry-Aware_3D_Full-Head_Synthesis_in_360deg_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13071)][[project link](https://sizhean.github.io/panohead)][[code|official](https://github.com/SizheAn/PanoHead)]
-
 
 
 #### ▶Human Parts
