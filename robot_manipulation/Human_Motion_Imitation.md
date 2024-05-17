@@ -33,6 +33,8 @@
 
 * **PhysReaction(arxiv2024.04)** PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation [[arxiv link](https://arxiv.org/abs/2404.01081)][[project link](https://yunzeliu.github.io/PhysReaction/)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
 
+* **LMM(arxiv2024.04)** Large Motion Model for Unified Multi-Modal Motion Generation [[arxiv link](https://arxiv.org/abs/2404.01284)][[](https://mingyuan-zhang.github.io/projects/LMM.html)][[code|official](https://github.com/mingyuan-zhang/LMM)][`S-Lab + SenseTime`]
+
 * 👍**Humanoid-Gym(arxiv2024.04)** Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer [[arxiv link](https://arxiv.org/abs/2404.05695)][[project link](https://sites.google.com/view/humanoid-gym/)][[code|official](https://github.com/roboterax/humanoid-gym)][`Shanghai Qi Zhi + Robot Era + THU`][The implementation of `Humanoid-Gym` relies on resources from [`legged_gym`](https://github.com/leggedrobotics/legged_gym) and [`rsl_rl`](https://github.com/leggedrobotics/rsl_rl) projects][This codebase is verified by `RobotEra's XBot-S (1.2 meter tall humanoid robot)` and `XBot-L (1.65 meter tall humanoid robot)` in real-world environment with `zero-shot sim-to-real transfer`.]
 
 * **I-CTRL(arxiv2024.05)** I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2405.08726)][`Technische Universitat Wien (TU Wien), Vienna, Austria`]
