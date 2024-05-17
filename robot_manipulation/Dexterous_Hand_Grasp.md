@@ -15,9 +15,11 @@
 
 ## Datasets
 
-* **DFCData (UniDexGrasp CVPR2023)** [UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://mirrors.pku.edu.cn/dl-release/) [[project link](https://pku-epic.github.io/UniDexGrasp/)][`PKU`]
+* ** (DexGraspNet ICRA2023)** [DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation](https://mirrors.pku.edu.cn/dl-release/DexGraspNet-ICRA2023/) [[paper link](https://ieeexplore.ieee.org/abstract/document/10160982)][[project link](https://pku-epic.github.io/DexGraspNet/)][`PKU`; `He Wang` group]
 
-***
+* **DFCData (UniDexGrasp CVPR2023)** [UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://mirrors.pku.edu.cn/dl-release/) [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Xu_UniDexGrasp_Universal_Robotic_Dexterous_Grasping_via_Learning_Diverse_Proposal_Generation_CVPR_2023_paper.html)][[project link](https://pku-epic.github.io/UniDexGrasp/)][`PKU`; `He Wang` group]
+
+
 
 ## Papers
 
