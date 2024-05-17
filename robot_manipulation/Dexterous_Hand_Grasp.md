@@ -39,7 +39,7 @@
 
 * **TUCH(Towards Understanding Contact in Humans)(CVPR2021)** On Self-Contact and Human Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Muller_On_Self-Contact_and_Human_Pose_CVPR_2021_paper.html)][[project link](https://tuch.is.tue.mpg.de)][A dataset of `3D Contact Poses (3DCP)`, `hand contact estimation`, `MPII`, `single-person`]
 
-* **GraspTTA&GraspNet(ICCV2021 Oral)(arxiv2021.04)** Hand-Object Contact Consistency Reasoning for Human Grasps Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Jiang_Hand-Object_Contact_Consistency_Reasoning_for_Human_Grasps_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.03304)][[project link](https://hwjiang1510.github.io/GraspTTA/)][[code|official](https://github.com/hwjiang1510/GraspTTA)][`UC San Diego`]
+* **GraspTTA&GraspNet(ICCV2021 Oral)(arxiv2021.04)** Hand-Object Contact Consistency Reasoning for Human Grasps Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Jiang_Hand-Object_Contact_Consistency_Reasoning_for_Human_Grasps_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.03304)][[project link](https://hwjiang1510.github.io/GraspTTA/)][[code|official](https://github.com/hwjiang1510/GraspTTA)][`UC San Diego`; [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
 
 * **PressureVision(ECCV2022)** PressureVision: Estimating Hand Pressure from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_19)][[code|official](https://github.com/facebookresearch/pressurevision)][`facebookresearch`, `Hand Pressure`]
 
@@ -63,6 +63,8 @@
 
 * **USST(ICCV2023)** Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08243)][[project link](https://actionlab-cv.github.io/EgoHandTrajPred/)][[code|official](https://github.com/oppo-us-research/USST)][`3D Ego-Hand Trajectory Forecasting`]
 
+* **HOIDiffusion(CVPR2024)(arxiv2024.03)** HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [[arxiv link](https://arxiv.org/abs/2403.12011)][[project link](https://mq-zhang1.github.io/HOIDiffusion/)][`UC San Diego + HKUST`; [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
+
 
 ### ▶ Dexterous Hand Grasp/Manipulation
 
@@ -70,7 +72,7 @@
 
 * **ImplicitAugmentation(CoRL2022)(arxiv2022.10)** Learning Robust Real-World Dexterous Grasping Policies via Implicit Shape Augmentation [[paper link](https://proceedings.mlr.press/v205/chen23b.html)][[arxiv link](https://arxiv.org/abs/2210.13638)][[project link](https://sites.google.com/view/implicitaugmentation/home)][`University of Washington + NVIDIA`]
 
-* **DexPoint(CoRL2022)(arxiv2022.11)** DexPoint: Generalizable Point Cloud Reinforcement Learning for Sim-to-Real Dexterous Manipulation [[paper link](https://proceedings.mlr.press/v205/qin23a.html)][[arxiv link](https://arxiv.org/abs/2211.09423)][[project link](https://yzqin.github.io/dexpoint)][[code|official](https://github.com/yzqin/dexpoint_sim)][`UC San Diego + HKUST`]
+* **DexPoint(CoRL2022)(arxiv2022.11)** DexPoint: Generalizable Point Cloud Reinforcement Learning for Sim-to-Real Dexterous Manipulation [[paper link](https://proceedings.mlr.press/v205/qin23a.html)][[arxiv link](https://arxiv.org/abs/2211.09423)][[project link](https://yzqin.github.io/dexpoint)][[code|official](https://github.com/yzqin/dexpoint_sim)][`UC San Diego + HKUST`; [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
 
 * **VideoDex(CoRL2022)(arxiv2022.12)** VideoDex: Learning Dexterity from Internet Videos [[paper link](https://proceedings.mlr.press/v205/shaw23a.html)][[arxiv link](https://arxiv.org/abs/2212.04498)][[openreview link](https://openreview.net/forum?id=qUhkhHw8Dz)][[project link](https://video-dex.github.io/)][`CMU`, The journal verison in [IJRR2024](https://journals.sagepub.com/doi/abs/10.1177/02783649241227559)]
 
@@ -94,7 +96,7 @@
 
 * 👍**OAKINK2(CVPR2024)(arxiv2024.03)** OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[arxiv link](https://arxiv.org/abs/2403.19417)][[project link](https://oakink.net/v2/)][`SJTU`]
 
-* **CyberDemo(CVPR2024)(arxiv2024.02)** CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2402.14795)][[project link](https://cyber-demo.github.io/)][`UC San Diego + USC`]
+* **CyberDemo(CVPR2024)(arxiv2024.02)** CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2402.14795)][[project link](https://cyber-demo.github.io/)][`UC San Diego + USC`; [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
 
 * **GeneralFlow(arxiv2024.01)** General Flow as Foundation Affordance for Scalable Robot Learning [[arxiv link](https://arxiv.org/abs/2401.11439)][[project link](https://general-flow.github.io/)][[code|official](https://github.com/michaelyuancb/general_flow)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
 
