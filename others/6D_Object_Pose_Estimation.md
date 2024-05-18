@@ -136,6 +136,8 @@ Also named ***3D Object Detection***
 
 * **SAM-6D(CVPR2024)(arxiv2023.11)** SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2311.15707)][[code|official](https://github.com/JiehongLin/SAM-6D)]
 
-* **GS-Pose(arxiv2024.03)** GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2403.10683)][[project link](https://dingdingcai.github.io/gs-pose/)][[code|official](https://github.com/dingdingcai/GSPose)][`Tampere University` + `University of Oulu`]
+* 👍**FoundationPose(CVPR2024 Highlight)(arxiv2023.12)** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[arxiv link](https://arxiv.org/abs/2312.08344)][[project link](https://nvlabs.github.io/FoundationPose/)][[code|official](https://github.com/NVlabs/FoundationPose)]
+
+* 👍**GS-Pose(arxiv2024.03)** GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2403.10683)][[project link](https://dingdingcai.github.io/gs-pose/)][[code|official](https://github.com/dingdingcai/GSPose)][`Tampere University` + `University of Oulu`]
 
 
