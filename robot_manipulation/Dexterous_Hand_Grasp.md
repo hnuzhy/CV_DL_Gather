@@ -1,5 +1,5 @@
 # ⭐Dexterous Hand Grasp
-*also closely related to `Dexterous (Bimanual) Hand Manipulation` and `Contact-Rich Articulated Object Manipulation`*
+*also closely related to `Dexterous Manipulation`, `Dexterous (Bimanual) Hand Manipulation`, `Long-Horizon Robotic Manipulation` and `Contact-Rich Articulated Object Manipulation`*
 
 ## Softwares / Hardwares
 
