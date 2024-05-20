@@ -104,7 +104,7 @@
 
 * **RealDex(arxiv2024.02)** RealDex: Towards Human-like Grasping for Robotic Dexterous Hand [[arxiv link](https://arxiv.org/abs/2402.13853)][`ShanghaiTech University + The University of Hong Kong`; using the `Shadow Hand` to conduct their real robot experiments and build the proposed dataset.]
 
-* **UniDexFPM(arxiv2024.03)** Dexterous Functional Pre-Grasp Manipulation with Diffusion Policy [[arxiv link](https://arxiv.org/abs/2403.12421)][[project link](https://unidexfpm.github.io/)][`PKU`]
+* **UniDexFPM(arxiv2024.03)** Dexterous Functional Pre-Grasp Manipulation with Diffusion Policy [[arxiv link](https://arxiv.org/abs/2403.12421)][[project link](https://unidexfpm.github.io/)][`PKU`; It created a simulation environment based on `Isaac Gym` using `Shadow Hand` and `UR10e robots`.]
 
 * **ShapeGrasp(arxiv2024.03)** ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition [[arxiv link](https://arxiv.org/abs/2403.18062)][[project link](https://shapegrasp.github.io/)][`CMU`]
 
