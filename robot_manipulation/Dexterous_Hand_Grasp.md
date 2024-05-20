@@ -92,7 +92,7 @@
 
 * **DexFunc(CoRL2023)(arxiv2023.12)** Dexterous Functional Grasping [[paper link](https://proceedings.mlr.press/v229/agarwal23a.html)][[openreview link](https://openreview.net/forum?id=93qz1k6_6h)][[arxiv link](https://arxiv.org/abs/2312.02975)][[project link](https://dexfunc.github.io/)][`CMU`; the real robot experiments are based on their self-designed [`LEAP Hand`](https://leaphand.com/) which is proposed and presented in [`(RSS2023) LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning`](https://leap-hand.github.io/) ]
 
-* **MultiGrasp(R-AL2024)(arxiv2023.10)** Grasp Multiple Objects with One Hand [[paper link](https://ieeexplore.ieee.org/abstract/document/10460998)][[arxiv link](https://arxiv.org/abs/2310.15599)][[project link](https://multigrasp.github.io/)][[code|official](https://github.com/MultiGrasp/MultiGrasp)][`BIGAI + THU + PKU`]
+* **MultiGrasp(R-AL2024)(arxiv2023.10)** Grasp Multiple Objects with One Hand [[paper link](https://ieeexplore.ieee.org/abstract/document/10460998)][[arxiv link](https://arxiv.org/abs/2310.15599)][[project link](https://multigrasp.github.io/)][[code|official](https://github.com/MultiGrasp/MultiGrasp)][`BIGAI + THU + PKU`; using the `Shadow Hand` to conduct their real robot experiments.]
 
 * **ArtiGrasp(3DV2024)(arxiv2023.09)** ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation [[arxiv link](https://arxiv.org/abs/2309.03891)][[project link](https://eth-ait.github.io/artigrasp/)][[code|official](https://github.com/zdchan/artigrasp)][`ETH Zurich + MPII Germany`]
 
