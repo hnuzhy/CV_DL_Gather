@@ -100,7 +100,7 @@
 
 * 👍**OAKINK2(CVPR2024)(arxiv2024.03)** OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[arxiv link](https://arxiv.org/abs/2403.19417)][[project link](https://oakink.net/v2/)][`SJTU`][They propose a task-oriented framework, `CTC`, for `complex task and motion planning`. CTC consists of a `LLM-based task interpreter` for Complex Task `decomposition` and a `diffusion-based motion generator` for Primitive `fulfillment`.][The authors expect OAKINK2 to support `large-scale language-manipulation pre-training`, improving the performance of `multi-modal` (e.g. `vision-language-action`) models for `Complex Task Completion`.]
 
-* **GeneralFlow(arxiv2024.01)** General Flow as Foundation Affordance for Scalable Robot Learning [[arxiv link](https://arxiv.org/abs/2401.11439)][[project link](https://general-flow.github.io/)][[code|official](https://github.com/michaelyuancb/general_flow)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
+* **GeneralFlow(arxiv2024.01)** General Flow as Foundation Affordance for Scalable Robot Learning [[arxiv link](https://arxiv.org/abs/2401.11439)][[project link](https://general-flow.github.io/)][[code|official](https://github.com/michaelyuancb/general_flow)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`; using the traditional `parallel grippers`]
 
 * **RealDex(arxiv2024.02)** RealDex: Towards Human-like Grasping for Robotic Dexterous Hand [[arxiv link](https://arxiv.org/abs/2402.13853)][`ShanghaiTech University + The University of Hong Kong`]
 
