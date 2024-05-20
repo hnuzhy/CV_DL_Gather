@@ -45,5 +45,7 @@
 
 * **CQL(CVPR2023)** Category Query Learning for Human-Object Interaction Classification [[paper link](https://arxiv.org/abs/2303.14005v1)][[code|official](https://github.com/charles-xie/CQL)][[paperswithcode](https://paperswithcode.com/paper/category-query-learning-for-human-object)]
 
+* 👍**GeneOH-Diffusion(ICLR2024)(arxiv2024.02)** GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion [[openreview link](https://openreview.net/forum?id=FvK2noilxT)][[arxiv link](https://arxiv.org/abs/2402.14810)][[project link](https://meowuu7.github.io/GeneOH-Diffusion/)][[code|official](https://github.com/Meowuu7/GeneOH-Diffusion)][[blog|weixin](https://mp.weixin.qq.com/s/9LOUNGHYCSuHk-bTq1veUQ)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
+
 * **InterDreamer(arxiv2024.03)** InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction [[arxiv link](https://arxiv.org/abs/2403.19652)][[project link](https://sirui-xu.github.io/InterDreamer/)][`UIUC + FDU`; the human mesh textures of this method are from [`SMPLitex`](https://dancasas.github.io/projects/SMPLitex/index.html) which is published in `BMVC2023`]
 
