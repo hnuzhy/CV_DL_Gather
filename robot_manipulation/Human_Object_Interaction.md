@@ -45,3 +45,5 @@
 
 * **CQL(CVPR2023)** Category Query Learning for Human-Object Interaction Classification [[paper link](https://arxiv.org/abs/2303.14005v1)][[code|official](https://github.com/charles-xie/CQL)][[paperswithcode](https://paperswithcode.com/paper/category-query-learning-for-human-object)]
 
+* **InterDreamer(arxiv2024.03)** InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction [[arxiv link](https://arxiv.org/abs/2403.19652)][[project link](https://sirui-xu.github.io/InterDreamer/)][`UIUC + FDU`; the human mesh textures of this method are from [`SMPLitex`](https://dancasas.github.io/projects/SMPLitex/index.html) which is published in `BMVC2023`]
+
