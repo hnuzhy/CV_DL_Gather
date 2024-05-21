@@ -65,6 +65,8 @@
 
 * **HOIDiffusion(CVPR2024)(arxiv2024.03)** HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [[arxiv link](https://arxiv.org/abs/2403.12011)][[project link](https://mq-zhang1.github.io/HOIDiffusion/)][`UC San Diego + HKUST`; [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
 
+* 👍**GeneOH-Diffusion(ICLR2024)(arxiv2024.02)** GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion [[openreview link](https://openreview.net/forum?id=FvK2noilxT)][[arxiv link](https://arxiv.org/abs/2402.14810)][[project link](https://meowuu7.github.io/GeneOH-Diffusion/)][[code|official](https://github.com/Meowuu7/GeneOH-Diffusion)][[blog|weixin](https://mp.weixin.qq.com/s/9LOUNGHYCSuHk-bTq1veUQ)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
+
 
 ### ▶ Dexterous Hand Grasp/Manipulation
 
