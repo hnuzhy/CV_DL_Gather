@@ -23,11 +23,11 @@
 
 * **FlowMDM(CVPR2024)(arxiv2024.02)** Seamless Human Motion Composition with Blended Positional Encodings [[arxiv link](https://arxiv.org/abs/2402.15509)][[project link](https://barquerogerman.github.io/FlowMDM/)][[code|official](https://github.com/BarqueroGerman/FlowMDM)][`University of Barcelona, Spain`]
 
-* **SimXR(CVPR2024)(arxiv2024.03)** Real-Time Simulated Avatar from Head-Mounted Sensors [[arxiv link](https://arxiv.org/abs/2403.06862)][[project link](https://www.zhengyiluo.com/SimXR-Site/)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/) and [`Jinkun Cao (曹金坤)`](https://www.jinkuncao.com/)]
+* **SimXR(CVPR2024)(arxiv2024.03)** Real-Time Simulated Avatar from Head-Mounted Sensors [[arxiv link](https://arxiv.org/abs/2403.06862)][[project link](https://www.zhengyiluo.com/SimXR-Site/)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
 
-* **PACER+(CVPR2024)(arxiv2024.04)** PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios [[arxiv link](https://arxiv.org/abs/2404.19722)][[project link](https://wangjingbo1219.github.io/papers/CVPR2024_PACER_PLUS/PACERPLUSPage.html)][[code|official](https://github.com/IDC-Flash/PacerPlus)][`Shanghai AI LAB + CMU + Nvidia + CUHK`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+* **PACER+(CVPR2024)(arxiv2024.04)** PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios [[arxiv link](https://arxiv.org/abs/2404.19722)][[project link](https://wangjingbo1219.github.io/papers/CVPR2024_PACER_PLUS/PACERPLUSPage.html)][[code|official](https://github.com/IDC-Flash/PacerPlus)][`Shanghai AI LAB + CMU + Nvidia + CUHK`; the first author [`Jingbo Wang`](http://wangjingbo.top/) and [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
 
-* 👍**H2O(arxiv2024.03)** Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[arxiv link](https://arxiv.org/abs/2403.04436)][[project link](https://human2humanoid.com/)][`CMU`, using the `Unitree H1 humanoid`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+* 👍**H2O(arxiv2024.03)** Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[arxiv link](https://arxiv.org/abs/2403.04436)][[project link](https://human2humanoid.com/)][`CMU`, using the `Unitree H1 humanoid`; the first author [`Tairan He 何泰然`](https://tairanhe.com/) and [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
 
 * **LDP(arxiv2024.03)** Human Motion Prediction under Unexpected Perturbation [[arxiv link](https://arxiv.org/abs/2403.15891)][`University of Leeds, United Kingdom + INRIA, France`]
 
