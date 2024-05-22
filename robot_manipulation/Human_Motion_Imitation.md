@@ -1,5 +1,5 @@
 # Human Motion Imitation
-*also closely related to `Humanoid Reaction Synthesis`, `Physics-based Motion Imitation` and `Humanoid Robot Control`*
+*also closely related to `Humanoid Reaction Synthesis`, `Physically Simulated Humanoids`, `Physics-based Motion Imitation` and `Humanoid Robot Control`*
 
 ## ▶Materials
 
