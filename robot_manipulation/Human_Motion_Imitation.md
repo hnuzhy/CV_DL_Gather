@@ -13,6 +13,8 @@
 
 ## ▶Papers
 
+* **PACER(CVPR2023)(arxiv2023.04)** Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Rempe_Trace_and_Pace_Controllable_Pedestrian_Animation_via_Guided_Trajectory_Diffusion_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.01893)][[project link](https://research.nvidia.com/labs/toronto-ai/trace-pace/)][[code|official](https://github.com/nv-tlabs/pacer)][`NVIDIA + Stanford`; the first authors are [`Davis Rempe`](https://davrempe.github.io/) and [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
 * **PHC(PerpetualHumanoidControl)(ICCV2023)(arxiv2023.05)** Perpetual Humanoid Control for Real-time Simulated Avatars [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Perpetual_Humanoid_Control_for_Real-time_Simulated_Avatars_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.06456)][[project link](https://www.zhengyiluo.com/PHC-Site/)][[code|official](https://github.com/ZhengyiLuo/PerpetualHumanoidControl)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
 
 * **MoConVQ(arxiv2023.10)** MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations [[arxiv link](https://arxiv.org/abs/2310.10198)][[project link](https://moconvq.github.io/)][`PKU`]
