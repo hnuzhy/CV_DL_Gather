@@ -111,6 +111,10 @@ also named ***Deep Generative Model***
 
 * **Score-based Diffusion(ICLR2021 oral)** Score-Based Generative Modeling through Stochastic Differential Equations [[paper link](https://arxiv.org/abs/2011.13456)][`improved DPM`]
 
+* **DPS(ICLR2023 spotlight)(arxiv2022.09)** Diffusion Posterior Sampling for General Noisy Inverse Problems [[openreview link](https://openreview.net/forum?id=OnD9zGAGT0k)][[arxiv link](https://arxiv.org/abs/2209.14687)][[project link](https://dps2022.github.io/diffusion-posterior-sampling-page/)][[code|official](https://github.com/DPS2022/diffusion-posterior-sampling)][`KAIST`]
+
+* **DSG(ICML2024)(arxiv2024.02)** Guidance with Spherical Gaussian Constraint for Conditional Diffusion [[arxiv link](https://arxiv.org/abs/2402.03201)][[zhihu blog](https://zhuanlan.zhihu.com/p/699578899)][[code|official](https://github.com/LingxiaoYang2023/DSG2024)][`ShanghaiTech University`, based on the method `DPS(ICLR2023 spotlight)`][Diffusion with Spherical Gaussian constraint `(DSG)`; This work belongs to  `training-free CDMs (conditional diffusion models)`]
+
 
 #### ▶ Direct Image Diffusion
 `Image diffusion methods can directly use pixel colors as training data`.
