@@ -13,4 +13,4 @@
 
 * **TiC-CLIP(ICLR2024)(arxiv2023.10)** TiC-CLIP: Continual Training of CLIP Models [[openreview link](https://openreview.net/forum?id=TLADT8Wrhn)][[arxiv link](https://arxiv.org/abs/2310.16226)][[code|official](https://github.com/apple/ml-tic-clip)][`Apple`, based on the code of [`OpenCLIP`](https://github.com/mlfoundations/open_clip)]
 
-
+* **Cluster Masking(CVPR2024)(arxiv2024.05)** Efficient Vision-Language Pre-training by Cluster Masking [[paper link]()][[arxiv link](https://arxiv.org/abs/2405.08815)][[project link](https://zxp46.github.io/cluster-masking/)][[code|official](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)][`University of Michigan`]
