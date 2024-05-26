@@ -19,7 +19,9 @@
 
 * **MoConVQ(arxiv2023.10)** MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations [[arxiv link](https://arxiv.org/abs/2310.10198)][[project link](https://moconvq.github.io/)][`PKU`]
 
-* **PULSE(ICLR2024 splotlight)(arxiv2023.10)** Universal Humanoid Motion Representations for Physics-Based Control [[openreview link](https://openreview.net/forum?id=OrOd8PxOO2)][[arxiv link](https://arxiv.org/abs/2310.04582)][[project link](https://www.zhengyiluo.com/PULSE-Site/)][[code|official](https://github.com/ZhengyiLuo/PULSE)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+* **PULSE(ICLR2024 spotlight)(arxiv2023.10)** Universal Humanoid Motion Representations for Physics-Based Control [[openreview link](https://openreview.net/forum?id=OrOd8PxOO2)][[arxiv link](https://arxiv.org/abs/2310.04582)][[project link](https://www.zhengyiluo.com/PULSE-Site/)][[code|official](https://github.com/ZhengyiLuo/PULSE)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
+
+* ❤**FLD(ICLR2024 spotlight)(arxiv2024.02)** FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning [[openreview link](https://openreview.net/forum?id=xsd2llWYSA)][[arxiv link](https://arxiv.org/abs/2402.13820)][[project link](https://sites.google.com/view/iclr2024-fld/home)][[weixin blog](https://mp.weixin.qq.com/s/0FR9Tu-91GfFkUU-4YR0dA)][[code|official](https://github.com/mit-biomimetics/fld)][`MIT`, `RL-based` Policy][It demonstrates its representation and generation capability with a `robotic motion tracking` task on [`MIT Humanoid`](https://spectrum.ieee.org/mit-dynamic-acrobatic-humanoid-robot) using [`NVIDIA Isaac Gym`](https://developer.nvidia.com/isaac-gym).]
 
 * **ExBody(RSS2024)(arxiv2024.02)** Expressive Whole-Body Control for Humanoid Robots [[arxiv link](https://arxiv.org/abs/2402.16796)][[project link](https://expressive-humanoid.github.io/)][`UC San Diego + HKUST`; related to [`Xiaolong Wang`](https://xiaolonw.github.io/) group; using the `Unitree H1 humanoid`]
 
