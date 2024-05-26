@@ -1,6 +1,5 @@
 # Vision Transformer
 
-
 ## Materials
 
 ## Papers
@@ -9,15 +8,15 @@
 
 * **(ICCV2019)** Local Relation Networks for Image Recognition [[arxiv link](https://arxiv.org/abs/1904.11491)][[code|official](https://github.com/microsoft/Swin-Transformer/tree/LR-Net)][`Microsoft`, `the first full-attention visual backbone`]
 
-* **LeViT (ICCV2021)** LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Graham_LeViT_A_Vision_Transformer_in_ConvNets_Clothing_for_Faster_Inference_ICCV_2021_paper.html)][[code|offficial](https://github.com/facebookresearch/LeViT)][`facebookresearch`]
+* **LeViT (ICCV2021)** LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Graham_LeViT_A_Vision_Transformer_in_ConvNets_Clothing_for_Faster_Inference_ICCV_2021_paper.html)][[code|official](https://github.com/facebookresearch/LeViT)][`facebookresearch`]
 
-* 👍 **Swin-Transformer (Shifted Window)(ICCV2021)** Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[arxiv link](https://arxiv.org/abs/2103.14030)][[code|offficial](https://github.com/microsoft/swin-transformer)][[Swin Transformers inference implemented in FasterTransformer by Nvidia](https://github.com/NVIDIA/FasterTransformer/blob/main/docs/swin_guide.md)][`Microsoft`]
+* 👍 **Swin-Transformer (Shifted Window)(ICCV2021)** Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[arxiv link](https://arxiv.org/abs/2103.14030)][[code|official](https://github.com/microsoft/swin-transformer)][[Swin Transformers inference implemented in FasterTransformer by Nvidia](https://github.com/NVIDIA/FasterTransformer/blob/main/docs/swin_guide.md)][`Microsoft`]
 
-* **Swin-Transformer-V2 (CVPR2022)** Swin Transformer V2: Scaling Up Capacity and Resolution [[arxiv link](https://arxiv.org/abs/2111.09883)][[code|offficial](https://github.com/microsoft/swin-transformer)][`Microsoft`]
+* **Swin-Transformer-V2 (CVPR2022)** Swin Transformer V2: Scaling Up Capacity and Resolution [[arxiv link](https://arxiv.org/abs/2111.09883)][[code|official](https://github.com/microsoft/swin-transformer)][`Microsoft`]
 
-* **SimMIM (CVPR2022)** SimMIM: A Simple Framework for Masked Image Modeling [[arxiv link](https://arxiv.org/abs/2111.09886)][[code|offficial](https://github.com/microsoft/SimMIM)][`Microsoft`, `a self-supervised approach that enables SwinV2-G`]
+* **EfficientViT (CVPR2023)(arxiv2023.05)** EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention [[arxiv link](https://arxiv.org/abs/2305.07027)][[code|official](https://github.com/microsoft/Cream/tree/main/EfficientViT)][`Microsoft`]
 
-* **EfficientViT (CVPR2023)** EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention [[arxiv link](https://arxiv.org/abs/2305.07027)][[code|official](https://github.com/microsoft/Cream/tree/main/EfficientViT)][`Microsoft`]
+* **YOCO(arxiv2024.05)** You Only Cache Once: Decoder-Decoder Architectures for Language Models [[arxiv link](https://arxiv.org/abs/2405.05254)][[weixin blog](https://mp.weixin.qq.com/s/X4HSyEreN4L4xTizC-_mow)][[code|official](https://github.com/microsoft/unilm/tree/master/YOCO)][`microsoft`; partially based on [`Flash-Attention`](https://github.com/Dao-AILab/flash-attention)]
 
 
 ### Self-Supervsied Learning
@@ -38,6 +37,8 @@
 * **MoCo-v3(ICCV2021)** An Empirical Study of Training Self-Supervised Vision Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.html)][`ViT-based`, `self-supervised pre-training`]
 
 * 👍**SimSiam (CVPR2021)** Exploring Simple Siamese Representation Learning [[paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2011.10566)][[code|official](https://github.com/facebookresearch/simsiam)][`Kaiming He`, `Contrastive Learning`, `Pre-training`, `Self-Supervised Learning`]
+
+* **SimMIM (CVPR2022)(arxiv2021.11)** SimMIM: A Simple Framework for Masked Image Modeling [[arxiv link](https://arxiv.org/abs/2111.09886)][[code|official](https://github.com/microsoft/SimMIM)][`Microsoft`, `a self-supervised approach that enables SwinV2-G`]
 
 * 👍**MAE (CVPR2022)** Masked Autoencoders Are Scalable Vision Learners [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.html)][`ViT-based`, `FAIR`, `He Kaiming`， `It reconstructs the original signal given its partial observation`, `self-supervised pre-training`]
 
