@@ -16,7 +16,9 @@
 
 * **EfficientViT (CVPR2023)(arxiv2023.05)** EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention [[arxiv link](https://arxiv.org/abs/2305.07027)][[code|official](https://github.com/microsoft/Cream/tree/main/EfficientViT)][`Microsoft`]
 
-* **YOCO(arxiv2024.05)** You Only Cache Once: Decoder-Decoder Architectures for Language Models [[arxiv link](https://arxiv.org/abs/2405.05254)][[weixin blog](https://mp.weixin.qq.com/s/X4HSyEreN4L4xTizC-_mow)][[code|official](https://github.com/microsoft/unilm/tree/master/YOCO)][`microsoft`; partially based on [`Flash-Attention`](https://github.com/Dao-AILab/flash-attention)]
+* 👍**StarNet(CVPR2024)(arxiv2024.03)** Rewrite the Stars [[arxiv link](https://arxiv.org/abs/2403.19967)][[weixin blog](https://mp.weixin.qq.com/s/SemsRFsrGQ0WJf_yQN6p4A)][[code|official](https://github.com/ma-xu/Rewrite-the-Stars)][`microsoft`; superior than transformer-based conunterparts `FasterViT`, `EdgeViT`, and `Mobile-Former`]
+
+* 👍**YOCO(arxiv2024.05)** You Only Cache Once: Decoder-Decoder Architectures for Language Models [[arxiv link](https://arxiv.org/abs/2405.05254)][[weixin blog](https://mp.weixin.qq.com/s/X4HSyEreN4L4xTizC-_mow)][[code|official](https://github.com/microsoft/unilm/tree/master/YOCO)][`microsoft`; partially based on [`Flash-Attention`](https://github.com/Dao-AILab/flash-attention)]
 
 
 ### Self-Supervsied Learning
