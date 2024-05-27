@@ -47,3 +47,6 @@
 
 * **InterDreamer(arxiv2024.03)** InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction [[arxiv link](https://arxiv.org/abs/2403.19652)][[project link](https://sirui-xu.github.io/InterDreamer/)][`UIUC + FDU`; the human mesh textures of this method are from [`SMPLitex`](https://dancasas.github.io/projects/SMPLitex/index.html) which is published in `BMVC2023`]
 
+* **EgoChoir(arxiv2024.05)** EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views [[arxiv link](https://arxiv.org/abs/2405.13659)][[project link](https://yyvhang.github.io/EgoChoir/)][[code|official](https://github.com/yyvhang/EgoChoir_release)][`University of Science and Technology of China`]
+
+
