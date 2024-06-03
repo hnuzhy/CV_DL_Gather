@@ -386,4 +386,5 @@
 
 * **(CVPR2022)** Which Images To Label for Few-Shot Medical Landmark Detection? [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Quan_Which_Images_To_Label_for_Few-Shot_Medical_Landmark_Detection_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2112.04386)][`CAS`, `Medical Image`]
 
+* **FaceLift(CVPR2024)(arxiv2024.05)** FaceLift: Semi-supervised 3D Facial Landmark Localization [[paper link]()][[arxiv link](https://arxiv.org/abs/2405.19646)][[project link](https://davidcferman.github.io/FaceLift/)][`Flawless AI`]
 
