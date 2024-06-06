@@ -15,10 +15,11 @@
 
 ## Datasets
 
+* **Bi-DexHands(NIPS2022 Datasets and Benchmarks Track)(arxiv2022.06)** Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/217a2a387f52c30755c37b0a73430291-Abstract-Datasets_and_Benchmarks.html)][[arxiv link](https://arxiv.org/abs/2206.08686)][[project link](https://bi-dexhands.ai/)][[code|official](https://github.com/PKU-MARL/DexterousHands)][`PKU-MARL`]
+
 * **DexGraspNet (ICRA2023)** [DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation](https://mirrors.pku.edu.cn/dl-release/DexGraspNet-ICRA2023/) [[paper link](https://ieeexplore.ieee.org/abstract/document/10160982)][[project link](https://pku-epic.github.io/DexGraspNet/)][`PKU`; related to [`He Wang`](https://hughw19.github.io/) group]
 
 * **DFCData (UniDexGrasp CVPR2023)** [UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://mirrors.pku.edu.cn/dl-release/) [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Xu_UniDexGrasp_Universal_Robotic_Dexterous_Grasping_via_Learning_Diverse_Proposal_Generation_CVPR_2023_paper.html)][[project link](https://pku-epic.github.io/UniDexGrasp/)][`PKU`; related to [`He Wang`](https://hughw19.github.io/) group]
-
 
 
 ## Papers
