@@ -16,9 +16,13 @@
 
 * **EfficientViT (CVPR2023)(arxiv2023.05)** EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention [[arxiv link](https://arxiv.org/abs/2305.07027)][[code|official](https://github.com/microsoft/Cream/tree/main/EfficientViT)][`Microsoft`]
 
+* **RoFormer / RoPE (Neurocomputing2024)(arxiv2021.04)(with very high influence)** RoFormer: Enhanced transformer with Rotary Position Embedding [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011864)][[arxiv link](https://arxiv.org/abs/2104.09864)][[code|official](https://huggingface.co/docs/transformers/model_doc/roformer)][`Zhuiyi Technology`; It is widely used in modern `transformer` designs, for example using `RoPE` to get the reformed [`RoPE-ViT`](https://github.com/naver-ai/rope-vit) by the work [`(arxiv2024.03) Rotary Position Embedding for Vision Transformer`](https://arxiv.org/abs/2403.13298)]
+
 * 👍**StarNet(CVPR2024)(arxiv2024.03)** Rewrite the Stars [[arxiv link](https://arxiv.org/abs/2403.19967)][[weixin blog](https://mp.weixin.qq.com/s/SemsRFsrGQ0WJf_yQN6p4A)][[code|official](https://github.com/ma-xu/Rewrite-the-Stars)][`microsoft`; superior than transformer-based conunterparts `FasterViT`, `EdgeViT`, and `Mobile-Former`]
 
 * 👍**YOCO(arxiv2024.05)** You Only Cache Once: Decoder-Decoder Architectures for Language Models [[arxiv link](https://arxiv.org/abs/2405.05254)][[weixin blog](https://mp.weixin.qq.com/s/X4HSyEreN4L4xTizC-_mow)][[code|official](https://github.com/microsoft/unilm/tree/master/YOCO)][`microsoft`; partially based on [`Flash-Attention`](https://github.com/Dao-AILab/flash-attention)]
+
+* **CoPE(arxiv2024.05)** Contextual Position Encoding: Learning to Count What's Important [[arxiv link](https://arxiv.org/abs/2405.18719)][`FAIR at Meta`; It aims to enhance the performance of `RoPE`]
 
 
 ### Self-Supervsied Learning
