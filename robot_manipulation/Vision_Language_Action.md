@@ -18,6 +18,38 @@
 
 ## ▶Datasets
 
+### ※ For Robot Grasp Pose
+
+* 👍**GraspNet-1Billion(CVPR2020)** GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.html)][[project link](www.graspnet.net)][[code|official](https://github.com/graspnet/graspnet-baseline)][`SJTU`]
+
+* 👍**ACRONYM(ICRA2021)(arxiv2020.11)** ACRONYM: A Large-Scale Grasp Dataset Based on Simulation [[paper link](https://ieeexplore.ieee.org/abstract/document/9560844/)][[arxiv link](https://arxiv.org/abs/2011.09584)][[project link](https://sites.google.com/nvidia.com/graspdataset)][[code|official](https://github.com/NVlabs/acronym)][`NVIDIA + University of Washington`]
+ 
+* **SuctionNet-1Billion(RAL2021)(arxiv2021.03)** SuctionNet-1Billion: A Large-Scale Benchmark for Suction Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/9547830/)][[arxiv link](https://arxiv.org/abs/2103.12311)][[project link](https://graspnet.net/suction)][[code|official](https://github.com/graspnet/suctionnet-baseline)][`SJTU`]
+   
+* **REGRAD(RAL2022)(arxiv2021.04)** REGRAD: A Large-Scale Relational Grasp Dataset for Safe and Object-Specific Robotic Grasping in Clutter
+  [[paper link](https://ieeexplore.ieee.org/abstract/document/9681218/)][[arxiv link](https://arxiv.org/abs/2104.14118)][[dataset link](https://stuxjtueducn-my.sharepoint.com/personal/chaser123_stu_xjtu_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchaser123%5Fstu%5Fxjtu%5Fedu%5Fcn%2FDocuments%2FREGRAD%5Fv1&ga=1)][[code|official](https://github.com/poisonwine/REGRAD)][`XJTU`; `RElational GRAsps Dataset (REGRAD)`]
+
+* **TransCG(RAL2022)(arxiv2022.02)** TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and a Grasping Baseline [[paper link](https://ieeexplore.ieee.org/abstract/document/9796631)][[arxiv link](https://arxiv.org/abs/2202.08471)][[project link](http://www.graspnet.net/transcg)][[code|official](https://github.com/galaxies99/TransCG)][`SJTU`]
+
+* **DA2-Dataset(RAL2022)(arxiv2022.08)** DA2 Dataset: Toward Dexterity-Aware Dual-Arm Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/9826816/)][[arxiv link](https://arxiv.org/abs/2208.00408)][[project link](https://sites.google.com/view/da2dataset)][[dataset link](https://sites.google.com/view/da2dataset/dataset)][[code|official](https://sites.google.com/view/da2dataset/code)][`Technical University of Munich +  Tencent Robotics X + Imperial College London + ZJU + JHU`]
+ 
+* 👍**OCRTOC(RAL2022)(arxiv2021.04)** OCRTOC: A Cloud-Based Competition and Benchmark for Robotic Grasping and Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/9619915/)][[arxiv link](https://arxiv.org/abs/2104.11446)][[project link](https://www.ocrtoc.org/)][[code|official](https://github.com/OCRTOC/OCRTOC_software_package)][`Alibaba AI Labs + UC San Diego + University of Edinburgh + German Aerospace Center`]
+   
+* **ClothObjectSet(RAL2022)(arxiv2021.11)** Household Cloth Object Set: Fostering Benchmarking in Deformable Object Manipulation [[paper link](https://ieeexplore.ieee.org/abstract/document/9732698/)][[arxiv link](https://arxiv.org/abs/2111.01527)][[project link](https://www.iri.upc.edu/groups/perception/ClothObjectSet/)][`Spain`]
+
+* 👍**DexGraspNet(ICRA2023)(arxiv2022.10)** DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10160982/)][[arxiv link](https://arxiv.org/abs/2210.02697)][[project link](https://pku-epic.github.io/DexGraspNet/)][[code|official](https://github.com/PKU-EPIC/DexGraspNet)][`PKU`]
+
+* **MetaGraspNetV2(TASE2023)** MetaGraspNetV2: All-in-One Dataset Enabling Fast and Reliable Robotic Bin Picking via Object Relationship Reasoning and Dexterous Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10309974/)][[code|official](https://github.com/maximiliangilles/MetaGraspNet)][`Karlsruher Institut für Technologie (KIT)`]
+ 
+* 👍**Sim-Suction(TRO2023)(arxiv2023.05)** Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/10314015)][[arxiv link](https://arxiv.org/abs/2305.16378)][[project link](https://junchengli1.github.io/Sim-Suction/)][[code|official](https://github.com/junchengli1/Sim-Suction-API)][`Purdue University`]
+   
+* **CoAS-Net(RAL2024)** CoAS-Net: Context-Aware Suction Network With a Large-Scale Domain Randomized Synthetic Dataset [[paper link](https://ieeexplore.ieee.org/abstract/document/10333337)][[code|official](https://github.com/SonYeongGwang/CoAS-Net.git)][`Sungkyunkwan University`]
+
+* 👍**Grasp-Anything(ICRA2024)(arxiv2023.09)** Grasp-Anything: Large-scale Grasp Dataset from Foundation Models [[arxiv link](https://arxiv.org/abs/2309.09818)][[project link](https://grasp-anything-2023.github.io/)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
+
+
+### ※ For Robot Manipulation
+
 * 👍**RLBench(RAL2020)(arxiv2019.09)** RLBench: The Robot Learning Benchmark & Learning Environment [[paper link](https://ieeexplore.ieee.org/abstract/document/9001253)][[arxiv link](https://arxiv.org/abs/1909.12271)][[project link](https://sites.google.com/view/rlbench)][[code|official](https://github.com/stepjam/RLBench)][`Dyson Robotics Lab, Imperial College London`]
 
 * **Ravens(TransporterNets)(CoRL2020)(arxiv2020.10)** Transporter Networks: Rearranging the Visual World for Robotic Manipulation [[paper link](https://proceedings.mlr.press/v155/zeng21a.html)][[arxiv link](https://arxiv.org/abs/2010.14406)][[project link](https://transporternets.github.io/)][[code|official](https://github.com/google-research/ravens)][`Robotics at Google`][It trained robotic agents to learn `pick` and `place` with deep learning for `vision-based manipulation` in `PyBullet`.]
@@ -39,7 +71,6 @@
 * **D4PAS(arxiv2023.12)** Multi-level Reasoning for Robotic Assembly: From Sequence Inference to Contact Selection [[arxiv link](https://arxiv.org/abs/2312.10571)][`UC Berkeley`; It is a large-scale `Dataset for Part Assembly Sequences (D4PAS)`]
 
 * **Safety-Gymnasium(NIPS2023 Datasets and Benchmarks)(arxiv2023.10)** Safety-Gymnasium: A Unified Safe Reinforcement Learning Benchmark [[openreview link](https://openreview.net/forum?id=WZmlxIuIGR)][[paper link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c557a3d6a48cc99444f85e924c66753-Abstract-Datasets_and_Benchmarks.html)][[arxiv link](https://arxiv.org/abs/2310.12567)][[project link](https://sites.google.com/view/safety-gymnasium)][[code|official](https://github.com/PKU-Alignment/safety-gymnasium)][`PKU`, Safety-Gymnasium is a `highly scalable` and `customizable` Safe Reinforcement Learning (`SafeRL`) library.]
-
 
 * 👍**DROID(arxiv2024.03)** DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset [[arxiv link](https://arxiv.org/abs/2403.12945)][[project link](https://droid-dataset.github.io/)][[dataset visualizer](https://droid-dataset.github.io/visualizer/)][[code|official](https://github.com/droid-dataset/droid_policy_learning)][`Stanford + Berkeley + Toyota` and many other universities; It used the [`diffusion policy`](https://diffusion-policy.cs.columbia.edu/) for policy learning]
 
