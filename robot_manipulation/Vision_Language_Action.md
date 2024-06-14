@@ -45,7 +45,7 @@
 * **MetaGraspNetV2(TASE2023)** MetaGraspNetV2: All-in-One Dataset Enabling Fast and Reliable Robotic Bin Picking via Object Relationship Reasoning and Dexterous Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10309974/)][[code|official](https://github.com/maximiliangilles/MetaGraspNet)][`Karlsruher Institut für Technologie (KIT)`]
  
 * 👍**Sim-Suction(TRO2023)(arxiv2023.05)** Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/10314015)][[arxiv link](https://arxiv.org/abs/2305.16378)][[project link](https://junchengli1.github.io/Sim-Suction/)][[code|official](https://github.com/junchengli1/Sim-Suction-API)][`Purdue University`]
-   
+
 * **CoAS-Net(RAL2024)** CoAS-Net: Context-Aware Suction Network With a Large-Scale Domain Randomized Synthetic Dataset [[paper link](https://ieeexplore.ieee.org/abstract/document/10333337)][[code|official](https://github.com/SonYeongGwang/CoAS-Net.git)][`Sungkyunkwan University`]
 
 * 👍**Grasp-Anything(ICRA2024)(arxiv2023.09)** Grasp-Anything: Large-scale Grasp Dataset from Foundation Models [[arxiv link](https://arxiv.org/abs/2309.09818)][[project link](https://grasp-anything-2023.github.io/)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
@@ -70,6 +70,8 @@
 * 👍**BridgeData-V2(CoRL2023)(arxiv2023.08)** BridgeData V2: A Dataset for Robot Learning at Scale [[openreview link](https://openreview.net/forum?id=f55MlAT1Lu)][[paper link](https://proceedings.mlr.press/v229/walke23a.html)][[arxiv link](https://arxiv.org/abs/2308.12952)][[project link](https://rail-berkeley.github.io/bridgedata/)][[code|official](https://github.com/rail-berkeley/bridge_data_v2)][`UC Berkeley + Stanford + Google DeepMind + CMU`][It is based on the `(arxiv2021.09) Bridge data: Boosting generalization of robotic skills with cross-domain datasets` with [[arxiv link](https://arxiv.org/abs/2109.13396)] and [[project link](https://sites.google.com/view/bridgedata)]]
 
 * **LoHoRavens(arxiv2023.10)** LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation [[arxiv link](https://arxiv.org/abs/2310.12020)][[project link](https://cisnlp.github.io/lohoravens-webpage/)][[code|official](https://github.com/Shengqiang-Zhang/LoHo-Ravens)][`LMU Munich + TUM`][The code is largely based on method `CLIPort-batchify(CoRL2021)(arxiv2021.09)` and dataset `Ravens(TransporterNets)(CoRL2020)`]
+
+* **MimicGen(CoRL2023)(arxiv2023.10)** MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations [[openreview link](https://openreview.net/forum?id=dk-2R1f_LR)][[paper link](https://proceedings.mlr.press/v229/mandlekar23a.html)][[arxiv link](https://arxiv.org/abs/2310.17596)][[project link](https://mimicgen.github.io/)][[code|official](https://github.com/NVlabs/mimicgen_environments)][`NVIDIA + The University of Texas at Austin`]
 
 * **D4PAS(arxiv2023.12)** Multi-level Reasoning for Robotic Assembly: From Sequence Inference to Contact Selection [[arxiv link](https://arxiv.org/abs/2312.10571)][`UC Berkeley`; It is a large-scale `Dataset for Part Assembly Sequences (D4PAS)`]
 
