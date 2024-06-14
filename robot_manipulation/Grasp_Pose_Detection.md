@@ -97,7 +97,7 @@
 
 * **(RAL2023)(arxiv2023.11)** Anthropomorphic Grasping with Neural Object Shape Completion [[paper link](https://ieeexplore.ieee.org/abstract/document/10271524)][[arxiv link](https://arxiv.org/abs/2311.02510)][`TUM`][using the `NeRF`][`Completion of Shape`]
 
-* 👍**HGGD(RAL2023)(arxiv2024.03)** [[paper link](https://ieeexplore.ieee.org/document/10168242)][[arxiv link](https://arxiv.org/pdf/2403.18546)][[bilibili link](https://www.bilibili.com/video/BV1hH4y1H7qv/)][[code|official](https://github.com/THU-VCLab/HGGD)][`THU`][`Attention`: HGGD detects grasps only from `heatmap guidance`, without `any workspace mask` (adopted in [`Graspness`](https://github.com/rhett-chen/graspness_implementation)) or `object/foreground segmentation` method (adopted in [`Scale-balanced Grasp`](https://github.com/mahaoxiang822/scale-balanced-grasp)). It may be useful to add some of this prior information to get better results.]
+* 👍👍**HGGD(RAL2023)(arxiv2024.03)** [[paper link](https://ieeexplore.ieee.org/document/10168242)][[arxiv link](https://arxiv.org/pdf/2403.18546)][[bilibili link](https://www.bilibili.com/video/BV1hH4y1H7qv/)][[code|official](https://github.com/THU-VCLab/HGGD)][`THU`][`Attention`: HGGD detects grasps only from `heatmap guidance`, without `any workspace mask` (adopted in [`Graspness`](https://github.com/rhett-chen/graspness_implementation)) or `object/foreground segmentation` method (adopted in [`Scale-balanced Grasp`](https://github.com/mahaoxiang822/scale-balanced-grasp)). It may be useful to add some of this prior information to get better results.]
 
 * **RGBGrasp(RAL2024)(arxiv2023.11)** RGBGrasp: Image-Based Object Grasping by Capturing Multiple Views During Robot arm Movement With Neural Radiance Fields[[paper link](https://ieeexplore.ieee.org/abstract/document/10517376)][[arxiv link](https://arxiv.org/abs/2311.16592)][[project link](https://sites.google.com/view/rgbgrasp)][`PKU + Imperial College London + Oxford University`][using the `NeRF`]
 
@@ -111,15 +111,15 @@
 
 * **GL-MSDA(ICRA2024)(arxiv2024.03)** Sim-to-Real Grasp Detection with Global-to-Local RGB-D Adaptation [[arxiv link](https://arxiv.org/abs/2403.11511)][[code|official](https://github.com/mahaoxiang822/GL-MSDA)][`Beihang University + HIT`][`RGB-D Adaptation`]
 
+* **APEX(IROS2024)(arxiv2024.04)** APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models [[arxiv link](https://arxiv.org/abs/2404.02284)][[project link](https://sites.google.com/view/apex-dual-arm/home)][`University of Central Florida`][It designed and used the `Collision-Free Generative Diffusion Models`; Dual-Arm Manipulation]
+
 * **PhyGrasp(arxiv2024.02)** PhyGrasp: Generalizing Robotic Grasping with Physics-informed Large Multimodal Models [[arxiv link](https://arxiv.org/abs/2402.16836)][[project link](https://sites.google.com/view/phygrasp)][[code|official](https://github.com/dkguo/PhyGrasp)][`Mechanical Engineering + University of California + Berkeley`]
 
-* **FlexLoG(arxiv2024.03)** Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping [[arxiv link](https://arxiv.org/abs/2403.15054)][`THU + 3Shanghai AI Lab`]
+* 👍**FlexLoG(arxiv2024.03)** Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping [[arxiv link](https://arxiv.org/abs/2403.15054)][`THU + 3Shanghai AI Lab`]
 
 * 👍**GaussianGrasper(arxiv2024.03)** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping [[paper link]()][[arxiv link](https://arxiv.org/abs/2403.09637)][[project link](https://mrsecant.github.io/GaussianGrasper/)][[dataset link](https://drive.google.com/file/d/1Zsl0yCXezqwLrAYzOb-u33q8gdjvRfAC/view?usp=drive_link)][[code|official](https://github.com/MrSecant/GaussianGrasper)][`Beihang University + EncoSmart + HKU + CASIA + Tsinghua AIR + Imperial College London`]
 
 * 👍**CGDF(arxiv2024.04)** Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation [[arxiv link](https://arxiv.org/abs/2404.04643)][[project link](https://constrained-grasp-diffusion.github.io/)][`IIIT Hyderabad + MIT + Brown University`][`CGDF: Constrained Grasp Diffusion Fields`; Dual-Arm Manipulation]
-
-* **APEX(IROS2024)(arxiv2024.04)** APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models [[arxiv link](https://arxiv.org/abs/2404.02284)][[project link](https://sites.google.com/view/apex-dual-arm/home)][`University of Central Florida`][It designed and used the `Collision-Free Generative Diffusion Models`; Dual-Arm Manipulation]
 
 * **SemGrasp(arxiv2024.04)** SemGrasp: Semantic Grasp Generation via Language Aligned Discretization [[arxiv link](https://arxiv.org/abs/2404.03590)][[project link](https://kailinli.github.io/SemGrasp/)][`SJTU + Shanghai AI Lab`]
 
