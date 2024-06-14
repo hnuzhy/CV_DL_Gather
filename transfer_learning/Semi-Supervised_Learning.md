@@ -104,6 +104,9 @@
 
 * **FeatAug-DETR & DataAug-DETR(TPAMI2024)** FeatAug-DETR: Enriching One-to-Many Matching for DETRs With Feature Augmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/10480276/)][[arxiv link](https://arxiv.org/abs/2303.01503)][[code|official](https://github.com/rongyaofang/FeatAug-DETR)][`CUHK`, the augmentation of `data` and `feature` in `DETRs` (such as `DAB-DETR`, `Deformable-DETR`, and `H-Deformable-DETR`) is very useful for further designing `SSL` methods]
 
+* 👍**instance_augmentation(arxiv2024.06)** Dataset Enhancement with Instance-Level Augmentations [[arxiv link](https://arxiv.org/abs/2406.08249)][[code|official](github.com/KupynOrest/instance_augmentation)][`VGG, University of Oxford + PiñataFarms AI`]
+
+
 ### ▶for Image Classification
 
 * **Π-model (ICLR2017)** Temporal Ensembling for Semi-Supervised Learning [[openreview link](https://openreview.net/forum?id=BJ6oOfqge)][[arxiv link](https://arxiv.org/abs/1610.02242)][`It proposes a temporal ensemble strategy for the pseudo-label to reduce the noise in the target`]
