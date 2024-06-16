@@ -325,6 +325,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * 👍**RTMO(arxiv2023.12)** RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation [[arxiv link](https://arxiv.org/abs/2312.07526v1)][[code|official](https://github.com/open-mmlab/mmpose/tree/dev-1.x/projects/rtmo)][`Tsinghua Shenzhen International Graduate School` and `Shanghai AI Laboratory`; the code is released by `Open-MMLab`]
 
+* **DiffusionRegPose(CVPR2024)** DiffusionRegPose: Enhancing Multi-Person Pose Estimation using a Diffusion-Based End-to-End Regression Approach
+[[](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_DiffusionRegPose_Enhancing_Multi-Person_Pose_Estimation_using_a_Diffusion-Based_End-to-End_Regression_CVPR_2024_paper.html)][[code|official](https://github.com/cici203/DiffusionRegPose)][`Tongji University + Stanford University`]
 
 ### ▶ Simultaneous Multiple Person Pose Estimation and Instance Segmentation
 
@@ -363,12 +365,17 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **MVP(NIPS2021)** Direct Multi-view Multi-person 3D Pose Estimation [[paper link](https://proceedings.neurips.cc/paper/2021/hash/6da9003b743b65f4c0ccd295cc484e57-Abstract.html)][[codes|official PyTorch](https://github.com/sail-sg/mvp)]
 
-* **InverseKinematics(ECCV2022)** Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement [[paper link](https://arxiv.org/abs/2210.13529)][datasets `3DPW`, `MuCo-3DHP` and `AGORA`][`transformer`]
+* **InverseKinematics(ECCV2022)** Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_38)][[arxiv link](https://arxiv.org/abs/2210.13529)][datasets `3DPW`, `MuCo-3DHP` and `AGORA`][`transformer`]
 
 * **HUPOR(ECCV2022)** Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2208.00090)][[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20065-6_29)][[code|official](https://github.com/qihao067/HUPOR)] 
 
-* **POTR3D(ICCV2023)** Towards Robust and Smooth 3D Multi-Person Pose Estimation from Monocular Videos in the Wild [[paper link]()][[arxiv link](https://arxiv.org/abs/2309.08644)][`Seoul National University`]
+* **POTR3D(ICCV2023)** Towards Robust and Smooth 3D Multi-Person Pose Estimation from Monocular Videos in the Wild [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Park_Towards_Robust_and_Smooth_3D_Multi-Person_Pose_Estimation_from_Monocular_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2309.08644)][`Seoul National University`]
 
+* **Person-in-WiFi-3D(CVPR2024)** Person-in-WiFi 3D: End-to-End Multi-Person 3D Pose Estimation with Wi-Fi [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_Person-in-WiFi_3D_End-to-End_Multi-Person_3D_Pose_Estimation_with_Wi-Fi_CVPR_2024_paper.html)][[project link](https://aiotgroup.github.io/Person-in-WiFi-3D/)][[code|official](https://github.com/aiotgroup/Person-in-WiFi-3D-repo)][`Xi’an Jiaotong University + Zhejiang University`]
+
+* **FreeMan(CVPR2024)** FreeMan: Towards Benchmarking 3D Human Pose Estimation under Real-World Conditions [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_FreeMan_Towards_Benchmarking_3D_Human_Pose_Estimation_under_Real-World_Conditions_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2309.05073)][[project link](https://wangjiongw.github.io/freeman/)][[code|official](https://github.com/wangjiongw/FreeMan_API)][`CUHK-SZ + Tencent + IDEA`]
+
+* **HoT(CVPR2024)** Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Hourglass_Tokenizer_for_Efficient_Transformer-Based_3D_Human_Pose_Estimation_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2311.12028)][[code|official](https://github.com/NationalGAILab/HoT)][`PKU-SZ + Amazon Prime Video  + University of Trento`]
 
 ### ▶ Special Multiple Person Pose Estimation
 
@@ -605,6 +612,7 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * **VLPosee(arxiv2024.02)** VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning [[arxiv link](https://arxiv.org/abs/2402.14456)][by `CUHK`, `Language-Vision Model`, on datasets `COCO` and `HumanArt`][VLPose leverages the synergy between `language` and `vision` to extend the `generalization` and `robustness` of pose estimation models beyond the traditional domains.]
 
+* **ESCAPE-TGT(CVPR2024)** ESCAPE: Encoding Super-keypoints for Category-Agnostic Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Nguyen_ESCAPE_Encoding_Super-keypoints_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.html)][[code|official](https://github.com/khoiucd/escape-tgt)][`University of Wisconsin-Madison + National University of Singapore`]
 
 ### ▶ Keypoints for Human Motion Generation
 **Motion Synthesis / Motion Diffusion Model**
