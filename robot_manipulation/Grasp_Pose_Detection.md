@@ -38,7 +38,7 @@
 
 * **CoAS-Net(RAL2024)** CoAS-Net: Context-Aware Suction Network With a Large-Scale Domain Randomized Synthetic Dataset [[paper link](https://ieeexplore.ieee.org/abstract/document/10333337)][[code|official](https://github.com/SonYeongGwang/CoAS-Net.git)][`Sungkyunkwan University`]
 
-* 👍**Grasp-Anything(ICRA2024)(arxiv2023.09)** Grasp-Anything: Large-scale Grasp Dataset from Foundation Models [[arxiv link](https://arxiv.org/abs/2309.09818)][[project link](https://grasp-anything-2023.github.io/)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
+* 👍👍**Grasp-Anything(ICRA2024)(arxiv2023.09)** Grasp-Anything: Large-scale Grasp Dataset from Foundation Models [[arxiv link](https://arxiv.org/abs/2309.09818)][[project link](https://grasp-anything-2023.github.io/)][[code|official](https://github.com/andvg3/Grasp-Anything)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
 
 ### ※ Datasets Closely Related to the Grasp Task
 
