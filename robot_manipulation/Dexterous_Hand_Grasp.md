@@ -21,6 +21,8 @@
 
 * **DFCData (UniDexGrasp CVPR2023)** [UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://mirrors.pku.edu.cn/dl-release/) [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Xu_UniDexGrasp_Universal_Robotic_Dexterous_Grasping_via_Learning_Diverse_Proposal_Generation_CVPR_2023_paper.html)][[project link](https://pku-epic.github.io/UniDexGrasp/)][`PKU`; related to [`He Wang`](https://hughw19.github.io/) group]
 
+* **TACO (CVPR2024)(arxiv2024.01)** [TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding](https://taco2024.github.io/) [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_TACO_Benchmarking_Generalizable_Bimanual_Tool-ACtion-Object_Understanding_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2401.08399)][[weixin blog](https://mp.weixin.qq.com/s/WdbK93Z3T4a9_AfPuo0WOQ)][[code|official](https://github.com/leolyliu/TACO-Instructions)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
+
 
 ## Papers
 
