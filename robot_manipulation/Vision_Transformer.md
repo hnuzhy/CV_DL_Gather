@@ -48,6 +48,7 @@
 
 * 👍**MAE (CVPR2022)** Masked Autoencoders Are Scalable Vision Learners [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.html)][`ViT-based`, `FAIR`, `He Kaiming`， `It reconstructs the original signal given its partial observation`, `self-supervised pre-training`]
 
+* **RSP(ICML2024)(arxiv2024.06)** Visual Representation Learning with Stochastic Frame Prediction [[arxiv link](https://arxiv.org/abs/2406.07398)][[project link](https://sites.google.com/view/2024rsp)][[code|official](https://github.com/huiwon-jang/RSP)][`KAIST + UC Berkeley + Dyson Robot Learning Lab`][It can be used for `Vision-based Robot Learning` inlcuding the `RLBench`]
 
 ### Lightweight and Efficient Training 
 
