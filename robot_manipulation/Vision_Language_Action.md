@@ -194,7 +194,7 @@
 
 * **VKT(arxiv2024.06)** Scaling Manipulation Learning with Visual Kinematic Chain Prediction [[arxiv link](https://arxiv.org/abs/2406.07837)][[project link](https://mlzxy.github.io/visual-kinetic-chain/)][[code|official](https://github.com/mlzxy/visual-kinetic-chain)][`Rutgers University`][The proposed `Visual Kinematics Transformer (VKT)` is a `convolution-free` architecture that supports an `arbitrary number of camera viewpoints`, and that is trained with a single objective of `forecasting kinematic structures` through optimal `point-set matching`.]
 
-* **RoboPoint(arxiv2024.06)** RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[arxiv link](https://arxiv.org/abs/2406.10721)][[project link](https://robo-point.github.io/)][`University of Washington + NVIDIA`; `Dieter Fox`]
+* **RoboPoint(arxiv2024.06)** RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[arxiv link](https://arxiv.org/abs/2406.10721)][[project link](https://robo-point.github.io/)][`University of Washington + NVIDIA`; `Dieter Fox`][ROBOPOINT is a `VLM` that predicts `image keypoint affordances` given `language instruction`s.]
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
