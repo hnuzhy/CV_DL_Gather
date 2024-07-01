@@ -225,6 +225,10 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **SigmaAgent(arxiv2024.06)** Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2406.09738)][[project link](https://teleema.github.io/projects/Sigma_Agent/)][`HKUST-GZ`][This work is partly based on the `RVT`; Sigma-Agent incorporates `contrastive Imitation Learning (contrastive IL)` modules to strengthen `vision-language` and `current-future` representations.]
 
+* **Dreamitate(arxiv2024.06)** Dreamitate: Real-World Visuomotor Policy Learning via Video Generation [[arxiv link](https://arxiv.org/abs/2406.16862)][[project link](https://dreamitate.cs.columbia.edu/)][[code|official](https://github.com/cvlab-columbia/dreamitate)][`Columbia University + Toyota Research Institute + Stanford University`]
+
+* **Manipulate-Anything(arxiv2024.06)** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[arxiv link](https://arxiv.org/abs/2406.18915)][[project link](https://robot-ma.github.io/)][`University of Washington + NVIDIA + Allen Institute for Artifical Intelligence + Universidad Católica San Pablo`]
+
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
