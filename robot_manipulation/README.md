@@ -7,6 +7,10 @@ This is a mixed collection of many different fields including `Dexterous Hand Gr
 
 ***
 
+## Other References
+
+* [The Roadmap and Technical Challenges of Sim2Real Embodied AI (with a focus on generalist robotic manipulation)](https://dexforce.feishu.cn/wiki/Zsubw2FIriW8gRkpesFcwiCvnpA) [authored by [`Kui Jia`](http://kuijia.site/)]
+
 
 
 
