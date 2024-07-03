@@ -321,6 +321,8 @@
 
 * **RestrictedRepresentations(NIPS2023)(arxiv2023.06)** Equivariant Single View Pose Prediction Via Induced and Restricted Representations [[openreview link](https://openreview.net/forum?id=dxVN2fZjx6)][[arxiv link](https://arxiv.org/abs/2307.03704)][`Northeastern University`, the first author [`Owen Howell`](https://owenhowell20.github.io/), on datasets `PASCAL3D+` and `SYMSOL`, `Machine Learning, Group Theory`]
 
+* **(arxiv2024.04)** Learning a Category-level Object Pose Estimator without Pose Annotations [[arxiv link](https://arxiv.org/abs/2404.05626)][`Xi’an Jiaotong Univeristy + Johns Hopkins University + Tsinghua University + University of Freiburg + MPII`][based on `Zero-1-to-3`; tested on datasets `PASCAL3D+` and `KITTI`]
+
 #### Few-Shot Learning
 
 * **FSDetView(ECCV2020)** Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58520-4_12)][[arxiv link](https://arxiv.org/abs/2007.12107v1)][[project link](https://imagine.enpc.fr/~xiaoy/FSDetView/)][tested on datasets `ObjectNet3D` and `Pascal3D+`]
