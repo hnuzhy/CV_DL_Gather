@@ -21,4 +21,4 @@
 
 ### ▶ Vision Language Application
 
-* **LQMFormer(CVPR2024)** LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Shah_LQMFormer_Language-aware_Query_Mask_Transformer_for_Referring_Image_Segmentation_CVPR_2024_paper.html)][[code|(not available)]()][`Johns Hopkins University`; `Referring Image Segmentation`]
+* **LQMFormer(CVPR2024)** LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Shah_LQMFormer_Language-aware_Query_Mask_Transformer_for_Referring_Image_Segmentation_CVPR_2024_paper.html)][[code|(not available)]()][`Johns Hopkins University`; `Referring Image Segmentation (RIS)` aims to segment objects from an image based on a language description.]
