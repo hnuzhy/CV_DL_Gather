@@ -646,7 +646,7 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **TokenHPE(TIP2023)** Orientation Cues-Aware Facial Relationship Representation for Head Pose Estimation via Transformer [[paper link](https://ieeexplore.ieee.org/abstract/document/10318055)][The journal version of the conference paper `TokenHPE(CVPR2023)`]
 
-* **SRHP+WRHP(PR2024)** On the representation and methodology for wide and short range head pose estimation [[paper link](https://www.sciencedirect.com/science/article/pii/S0031320324000141)][[arxiv link](https://arxiv.org/abs/2401.05807)][`Universidad Politécnica de Madrid`]
+* **OPAL(SRHP+WRHP)(PR2024)** On the representation and methodology for wide and short range head pose estimation [[paper link](https://www.sciencedirect.com/science/article/pii/S0031320324000141)][[arxiv link](https://arxiv.org/abs/2401.05807)][`Universidad Politécnica de Madrid`]
 
 * **HeadDiff(TIP2024)** HeadDiff: Exploring Rotation Uncertainty with Diffusion Models for Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/document/10462910)][`Ningxia University`]
 
