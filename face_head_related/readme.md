@@ -728,4 +728,6 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **StructuredLight(ICASSP2024)** Adaptive Head Pose Estimation with Real-Time Structured Light [[paper link](https://ieeexplore.ieee.org/abstract/document/10446561)][`Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China`]
 
+* **FaceXFormer(arxiv2024.03)** FaceXFormer: A Unified Transformer for Facial Analysis [[arxiv link](https://arxiv.org/abs/2403.12960)][[project link](https://kartik-3004.github.io/facexformer_web/)][`Johns Hopkins University`]
+
 
