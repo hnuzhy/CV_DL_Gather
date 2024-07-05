@@ -229,6 +229,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **Manipulate-Anything(arxiv2024.06)** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[arxiv link](https://arxiv.org/abs/2406.18915)][[project link](https://robot-ma.github.io/)][`University of Washington + NVIDIA + Allen Institute for Artifical Intelligence + Universidad Católica San Pablo`]
 
+* **LLaRA(arxiv2024.06)** LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[arxiv link](https://arxiv.org/abs/2406.20095)][[code|official](https://github.com/LostXine/LLaRA)][`Stony Brook University + University of Wisconsin-Madison`]
+
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
