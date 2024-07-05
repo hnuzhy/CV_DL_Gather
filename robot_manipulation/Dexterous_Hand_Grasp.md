@@ -134,6 +134,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **CIMER(arxiv2024.04)(Under review by RA-L)** Learning Prehensile Dexterity by Imitating and Emulating State-only Observations [[arxiv link](https://arxiv.org/abs/2404.05582)][[project link](https://sites.google.com/view/cimer-2024/)][[code|official](https://github.com/GT-STAR-Lab/CIMER)][`Georgia Institute of Technology`; based on their previous work `KODex`; they did not conduct real robot experiments.]
 
+* **Bi-VLA((arxiv2024.05)** Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations [[arxiv link](https://arxiv.org/abs/2405.06039)][`Intelligent Space Robotics Laboratory, Moscow, Russia`]
+
 * **(TASE2024)** LLM-Enabled Incremental Learning Framework for Hand Exoskeleton Control [[paper link](https://ieeexplore.ieee.org/abstract/document/10489910)][`Chinese Academy of Sciences`, 'IEEE Transactions on Automation Science and Engineering']
 
 * **(TRO2024)** Learning Human-like Functional Grasping for Multi-finger Hands from Few Demonstrations [[paper link](https://ieeexplore.ieee.org/abstract/document/10577462)][[project link](https://v-wewei.github.io/sr_dexgrasp/)][`Chinese Academy of Sciences`]
