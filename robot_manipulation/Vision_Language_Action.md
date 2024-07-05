@@ -169,6 +169,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **DINOBot(ICRA2024)(arxiv2024.02)** DINOBot: Robot Manipulation via Retrieval and Alignment with Vision Foundation Models [[arxiv link](https://arxiv.org/abs/2402.13181)][[project link](https://sites.google.com/view/dinobot)][[project link2](https://www.robot-learning.uk/dinobot)][[code|official](https://gist.github.com/normandipalo/fbc21f23606fbe3d407e22c363cb134e)][`The Robot Learning Lab at Imperial College London`; the [homepage](https://www.robot-learning.uk/)]
 
+* **PCWM(ICRA2024)(arxiv2024.04)** Point Cloud Models Improve Visual Robustness in Robotic Learners [[arxiv link](https://arxiv.org/abs/2404.18926)][[project link](https://pvskand.github.io/projects/PCWM)][`Oregon State University + University of Utah + NVIDIA`; RL-based method]
+
 * **RT-H(arxiv2024.03)** RT-H: Action Hierarchies using Language [[arxiv link](https://arxiv.org/abs/2403.01823)][[project link](https://rt-hierarchy.github.io/)][[blog|weixin](https://mp.weixin.qq.com/s/4eXibz3dOSec1jtaJzP3Mw )][by `Google DeepMind` and `Stanford University`][Its insight is to teach the robot the `language of actions`]
 
 * **VIHE(arxiv2024.03)** VIHE: Virtual In-Hand Eye Transformer for 3D Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2403.11461)][[project link](https://vihe-3d.github.io/)][[code|official](https://github.com/doublelei/VIHE)][`Baidu RAL + Johns Hopkins University`; It has cited `3D Diffuser Actor`, but not compared with it in `RLBench`]
