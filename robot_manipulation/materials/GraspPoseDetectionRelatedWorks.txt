@@ -1,0 +1,455 @@
+
+Grasp Pose Detection Related Works:
+==================================================================
+CVPR2020, GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping
+http://openaccess.thecvf.com/content_CVPR_2020/html/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.html
+https://graspnet.net/
+==================================================================
+(survey)TRO2023, Deep Learning Approaches to Grasp Synthesis: A Review
+https://arxiv.org/abs/2207.02556
+https://ieeexplore.ieee.org/abstract/document/10149823
+https://rhys-newbury.github.io/projects/6dof/
+==================================================================
+arxiv2023.10, AO-Grasp: Articulated Object Grasp Generation
+https://arxiv.org/abs/2310.15928
+https://stanford-iprl-lab.github.io/ao-grasp/
+arxiv2024.02, PhyGrasp: Generalizing Robotic Grasping with Physics-informed Large Multimodal Models
+https://arxiv.org/abs/2402.16836
+https://sites.google.com/view/phygrasp
+arxiv2024.02, A Collision-Aware Cable Grasping Method in Cluttered Environment
+https://arxiv.org/abs/2402.14498
+https://leizhang-public.github.io/cg-cnn/
+arxiv2024.03, GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping
+https://arxiv.org/abs/2403.09637
+https://github.com/MrSecant/GaussianGrasper
+arxiv2024.03, Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping
+https://arxiv.org/abs/2403.15054
+arxiv2024.04, SemGrasp: Semantic Grasp Generation via Language Aligned Discretization
+https://arxiv.org/abs/2404.03590
+https://kailinli.github.io/SemGrasp/
+arxiv2024.04, Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations
+https://arxiv.org/abs/2404.17521
+https://xiaoyao-li.github.io/research/ag2manip/
+arxiv2024.04, Show and Grasp: Few-shot Semantic Segmentation for Robot Grasping through Zero-shot Foundation Models
+https://arxiv.org/abs/2404.12717
+https://leobarcellona.github.io/showandgrasp.github.io/
+arxiv2024.04, Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation
+https://arxiv.org/abs/2404.04643
+https://constrained-grasp-diffusion.github.io/
+arxiv2024.04, Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping
+https://arxiv.org/abs/2404.08844
+https://sites.google.com/view/ffh-cluttered-grasping
+arxiv2024.05, Efficient End-to-End Detection of 6-DoF Grasps for Robotic Bin Picking
+https://arxiv.org/abs/2405.06336
+arxiv2024.05, Evaluating Real-World Robot Manipulation Policies in Simulation
+https://arxiv.org/abs/2405.05941
+https://simpler-env.github.io/
+arxiv2024.05, Grasp as You Say: Language-guided Dexterous Grasp Generation
+https://arxiv.org/abs/2405.19291
+https://sites.google.com/stanford.edu/dexgys
+https://mp.weixin.qq.com/s/vxOl-P1Xxn8-9g_FkC1hDg
+arxiv2024.06, Region-aware Grasp Framework with Normalized Grasp Space for 6-DoF Grasping in Cluttered Scene
+https://arxiv.org/abs/2406.01767
+==================================================================
+ICRA2021, Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes
+https://arxiv.org/abs/2103.14127
+https://ieeexplore.ieee.org/abstract/document/9561877
+https://research.nvidia.com/publication/2021-03_contact-graspnet-efficient-6-dof-grasp-generation-cluttered-scenes
+ICRA2021, ACRONYM: A Large-Scale Grasp Dataset Based on Simulation
+https://arxiv.org/abs/2011.09584
+https://ieeexplore.ieee.org/abstract/document/9560844
+https://sites.google.com/nvidia.com/graspdataset
+ICRA2021, RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images
+https://arxiv.org/abs/2103.02184
+https://ieeexplore.ieee.org/abstract/document/9561409
+https://graspnet.net/
+ICRA2021, GPR: Grasp Pose Refinement Network for Cluttered Scenes
+https://arxiv.org/abs/2105.08502
+https://ieeexplore.ieee.org/abstract/document/9561868
+ICRA2021, Learning Reachable Manifold and Inverse Mapping for a Redundant Robot manipulator
+https://ieeexplore.ieee.org/abstract/document/9561589
+ICRA2021, Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction
+https://arxiv.org/abs/2003.01649
+https://ieeexplore.ieee.org/abstract/document/9562046
+ICRA2021, REGNet: REgion-based Grasp Network for End-to-end Grasp Detection in Point Clouds
+https://arxiv.org/abs/2002.12647
+https://ieeexplore.ieee.org/abstract/document/9561920
+https://github.com/zhaobinglei/REGNet_for_3D_Grasping
+ICRA2021, Collision-Aware Target-Driven Object Grasping in Constrained Environments
+https://arxiv.org/abs/2104.00776
+https://ieeexplore.ieee.org/abstract/document/9561473
+ICRA2022, CaTGrasp: Learning Category-Level Task-Relevant Grasping in Clutter from Simulation
+https://arxiv.org/abs/2109.09163
+https://ieeexplore.ieee.org/abstract/document/9811568
+https://sites.google.com/view/catgrasp
+ICRA2022, TransGrasp: A Multi-Scale Hierarchical Point Transformer for 7-DoF Grasp Detection
+https://ieeexplore.ieee.org/abstract/document/9812001
+ICRA2022, Context-Aware Grasp Generation in Cluttered Scenes
+https://ieeexplore.ieee.org/abstract/document/9811371
+ICRA2022, Hybrid Physical Metric For 6-DoF Grasp Pose Detection
+https://arxiv.org/abs/2206.11141
+https://ieeexplore.ieee.org/abstract/document/9811961
+https://github.com/luyh20/FGC-GraspNet
+ICRA2022, IPC-GraspSim: Reducing the Sim2Real Gap for Parallel-Jaw Grasping with the Incremental Potential Contact Model
+https://arxiv.org/abs/2111.01391
+https://ieeexplore.ieee.org/abstract/document/9811777
+https://sites.google.com/berkeley.edu/ipcgraspsim
+ICRA2022, A Hybrid Approach for Learning to Shift and Grasp with Elaborate Motion Primitives
+https://arxiv.org/abs/2111.01510
+https://ieeexplore.ieee.org/abstract/document/9811735
+ICRA2022, Efficient Object Manipulation to an Arbitrary Goal Pose: Learning-Based Anytime Prioritized Planning
+https://arxiv.org/abs/2109.10583
+https://ieeexplore.ieee.org/abstract/document/9811547
+ICRA2022, Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation
+https://arxiv.org/abs/2112.05124
+https://ieeexplore.ieee.org/abstract/document/9812146
+https://yilundu.github.io/ndf/
+ICRA2023, GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF
+https://arxiv.org/abs/2210.06575
+https://ieeexplore.ieee.org/abstract/document/10160842
+https://pku-epic.github.io/GraspNeRF/
+ICRA2023, DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation
+https://arxiv.org/abs/2210.02697
+https://ieeexplore.ieee.org/abstract/document/10160982
+https://pku-epic.github.io/DexGraspNet/
+ICRA2023, Neural Grasp Distance Fields for Robot Manipulation
+https://arxiv.org/abs/2211.02647
+https://ieeexplore.ieee.org/abstract/document/10160217
+https://sites.google.com/view/neural-grasp-distance-fields
+ICRA2023, MonoGraspNet: 6-DoF Grasping with a Single RGB Image
+https://arxiv.org/abs/2209.13036
+https://ieeexplore.ieee.org/abstract/document/10160779
+https://sites.google.com/view/monograsp
+ICRA2023, 3D-DAT: 3D-Dataset Annotation Toolkit for Robotic Vision
+https://ieeexplore.ieee.org/abstract/document/10160669
+https://github.com/markus-suchi/3D-DAT
+ICRA2023, A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter
+https://arxiv.org/abs/2302.12610
+https://ieeexplore.ieee.org/abstract/document/10161041
+https://github.com/xukechun/Vision-Language-Grasping
+ICRA2023, Two-Stage Grasping: A New Bin Picking Framework for Small Objects
+https://arxiv.org/abs/2303.02604
+https://ieeexplore.ieee.org/abstract/document/10160608
+ICRA2023, Keypoint-GraspNet: Keypoint-based 6-DoF Grasp Generation from the Monocular RGB-D input
+https://arxiv.org/abs/2209.08752
+https://ieeexplore.ieee.org/abstract/document/10161284
+https://github.com/ivalab/KGN
+ICRA2023, GraspAda: Deep Grasp Adaptation through Domain Transfer
+https://ieeexplore.ieee.org/abstract/document/10160213/
+ICRA2023, 3DSGrasp: 3D Shape-Completion for Robotic Grasp
+https://arxiv.org/abs/2301.00866
+https://ieeexplore.ieee.org/abstract/document/10160350
+https://github.com/NunoDuarte/3DSGrasp
+ICRA2023, Perceiving Unseen 3D Objects by Poking the Objects
+https://arxiv.org/abs/2302.13375
+https://ieeexplore.ieee.org/abstract/document/10160338
+https://zju3dv.github.io/poking_perception/
+ICRA2023, FSG-Net: a Deep Learning model for Semantic Robot Grasping through Few-Shot Learning
+https://ieeexplore.ieee.org/abstract/document/10160618/
+ICRA2023, CoGrasp: 6-DoF Grasp Generation for Human-Robot Collaboration
+https://arxiv.org/abs/2210.03173
+https://ieeexplore.ieee.org/abstract/document/10160623
+ICRA2023, RGB-D Grasp Detection via Depth Guided Learning with Cross-modal Attention
+https://arxiv.org/abs/2302.14264
+https://ieeexplore.ieee.org/abstract/document/10161319
+ICRA2023, CMG-Net: An End-to-End Contact-Based Multi-Finger Dexterous Grasping Network
+https://arxiv.org/abs/2303.13182
+https://ieeexplore.ieee.org/abstract/document/10161481
+ICRA2023, Joint Segmentation and Grasp Pose Detection with Multi-Modal Feature Fusion Network
+https://ieeexplore.ieee.org/abstract/document/10160253
+ICRA2023, Learning Sim-to-Real Dense Object Descriptors for Robotic Manipulation
+https://arxiv.org/abs/2304.08703
+https://ieeexplore.ieee.org/abstract/document/10161477
+ICRA2023, DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets
+https://arxiv.org/abs/2303.16138
+https://ieeexplore.ieee.org/abstract/document/10160986/
+https://sites.google.com/view/defgraspnets
+ICRA2024, GAMMA: Generalizable Articulation Modeling and Manipulation for Articulated Objects
+https://arxiv.org/abs/2309.16264
+https://sites.google.com/view/gamma-articulation
+ICRA2024, DINOBot: Robot Manipulation via Retrieval and Alignment with Vision Foundation Models
+https://arxiv.org/abs/2402.13181
+https://www.robot-learning.uk/dinobot
+ICRA2024, Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise
+https://arxiv.org/abs/2402.18699
+ICRA2024, Uncertainty-driven Exploration Strategies for Online Grasp Learning
+https://arxiv.org/abs/2309.12038
+ICRA2024, Pseudo-Labeling and Contextual Curriculum Learning for Online Grasp Learning in Robotic Bin Picking
+https://arxiv.org/abs/2403.02495
+ICRA2024, Sim-to-Real Grasp Detection with Global-to-Local RGB-D Adaptation
+https://arxiv.org/abs/2403.11511
+https://github.com/mahaoxiang822/GL-MSDA
+ICRA2024, STOPNet: Multiview-based 6-DoF Suction Detection for Transparent Objects on Production Lines
+https://arxiv.org/abs/2310.05717
+ICRA2024, Learning Extrinsic Dexterity with Parameterized Manipulation Primitives
+https://arxiv.org/abs/2310.17785
+https://shihminyang.github.io/ED-PMP/
+ICRA2024, GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion
+https://arxiv.org/abs/2309.15459
+https://pku-epic.github.io/GAMMA/
+ICRA2024, ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera
+https://arxiv.org/abs/2405.05648
+https://pku-epic.github.io/ASGrasp/
+ICRA2024, You Only Scan Once: A Dynamic Scene Reconstruction Pipeline for 6-DoF Robotic Grasping of Novel Objects
+https://arxiv.org/abs/2404.03462
+ICRA2024, Grasp-Anything: Large-scale Grasp Dataset from Foundation Models
+https://arxiv.org/abs/2309.09818
+https://airvlab.github.io/grasp-anything/
+==================================================================
+CVPR2022, Domain Adaptation on Point Clouds via Geometry-Aware Implicits
+https://arxiv.org/abs/2112.09343
+https://openaccess.thecvf.com/content/CVPR2022/html/Shen_Domain_Adaptation_on_Point_Clouds_via_Geometry-Aware_Implicits_CVPR_2022_paper.html
+https://github.com/Jhonve/ImplicitPCDA
+CVPR2022, PhoCaL: A Multi-Modal Dataset for Category-Level Object Pose Estimation with Photometrically Challenging Objects
+https://arxiv.org/abs/2205.08811
+https://openaccess.thecvf.com/content/CVPR2022/html/Wang_PhoCaL_A_Multi-Modal_Dataset_for_Category-Level_Object_Pose_Estimation_With_CVPR_2022_paper.html
+https://www.campar.in.tum.de/public_datasets/2022_cvpr_wang/
+CVPR2023, GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts
+https://arxiv.org/abs/2211.05272
+https://openaccess.thecvf.com/content/CVPR2023/html/Geng_GAPartNet_Cross-Category_Domain-Generalizable_Object_Perception_and_Manipulation_via_Generalizable_and_CVPR_2023_paper.html
+https://pku-epic.github.io/GAPartNet/
+CVPR2023, NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis
+https://arxiv.org/abs/2301.08556
+https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_NeRF_in_the_Palm_of_Your_Hand_Corrective_Augmentation_for_CVPR_2023_paper.html
+https://bland.website/spartn/
+CVPR2023, PartManip: Learning Cross-Category Generalizable Part Manipulation Policy From Point Cloud Observations
+https://arxiv.org/abs/2303.16958
+https://openaccess.thecvf.com/content/CVPR2023/html/Geng_PartManip_Learning_Cross-Category_Generalizable_Part_Manipulation_Policy_From_Point_Cloud_CVPR_2023_paper.html
+https://pku-epic.github.io/PartManip/
+CVPR2023, On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks
+https://arxiv.org/abs/2303.14840
+https://openaccess.thecvf.com/content/CVPR2023/html/Jung_On_the_Importance_of_Accurate_Geometry_Data_for_Dense_3D_CVPR_2023_paper.html
+https://github.com/Junggy/HAMMER-dataset
+CVPR2023, Target-Referenced Reactive Grasping for Dynamic Objects
+http://openaccess.thecvf.com/content/CVPR2023/html/Liu_Target-Referenced_Reactive_Grasping_for_Dynamic_Objects_CVPR_2023_paper.html
+https://graspnet.net/reactive
+CVPR2023, Hyperspherical Embedding for Point Cloud Completion
+https://arxiv.org/abs/2307.05634
+https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Hyperspherical_Embedding_for_Point_Cloud_Completion_CVPR_2023_paper.html
+https://haomengz.github.io/hyperpc/index.html
+CVPR2023, Fantastic Breaks: A Dataset of Paired 3D Scans of Real-World Broken Objects and Their Complete Counterparts
+https://arxiv.org/abs/2303.14152
+https://openaccess.thecvf.com/content/CVPR2023/html/Lamb_Fantastic_Breaks_A_Dataset_of_Paired_3D_Scans_of_Real-World_CVPR_2023_paper.html
+https://terascale-all-sensing-research-studio.github.io/FantasticBreaks/
+CVPR2023, Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation From Image Sequence
+https://arxiv.org/abs/2307.12106
+https://openaccess.thecvf.com/content/CVPR2023/html/Tian_Robot_Structure_Prior_Guided_Temporal_Attention_for_Camera-to-Robot_Pose_Estimation_CVPR_2023_paper.html
+https://sites.google.com/view/sgtapose
+CVPR2024, Retrieval-Augmented Embodied Agents
+https://arxiv.org/abs/2404.11699
+CVPR2024, Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge
+https://arxiv.org/abs/2404.01727
+https://github.com/mahaoxiang822/Generalizing-Grasp
+==================================================================
+ICCV2021, StereOBJ-1M: Large-Scale Stereo Image Dataset for 6D Object Pose Estimation
+https://arxiv.org/abs/2109.10115
+https://openaccess.thecvf.com/content/ICCV2021/html/Liu_StereOBJ-1M_Large-Scale_Stereo_Image_Dataset_for_6D_Object_Pose_Estimation_ICCV_2021_paper.html
+https://sites.google.com/view/stereobj-1m
+ICCV2021, Graspness Discovery in Clutters for Fast and Accurate Grasp Detection
+https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.html
+https://graspnet.net/
+https://github.com/rhett-chen/graspness_implementation
+ICCV2023, Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation
+https://arxiv.org/abs/2303.11057
+https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Learning_Foresightful_Dense_Visual_Affordance_for_Deformable_Object_Manipulation_ICCV_2023_paper.html
+https://hyperplane-lab.github.io/DeformableAffordance/
+==================================================================
+ECCV2022, Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects
+https://arxiv.org/abs/2208.03792
+https://link.springer.com/chapter/10.1007/978-3-031-19842-7_22
+https://pku-epic.github.io/DREDS/
+ECCV2022, Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin Picking
+https://arxiv.org/abs/2204.07049
+https://link.springer.com/chapter/10.1007/978-3-031-19842-7_31
+https://appsrv.cse.cuhk.edu.hk/~kaichen/sim2real_pose.html
+ECCV2022, TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance
+https://arxiv.org/abs/2207.07861
+https://link.springer.com/chapter/10.1007/978-3-031-19842-7_26
+https://sites.google.com/view/transgrasp
+ECCV2022, TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes
+https://arxiv.org/abs/2203.09440
+https://link.springer.com/chapter/10.1007/978-3-031-19812-0_20
+https://github.com/GAP-LAB-CUHK-SZ/TO-Scene
+==================================================================
+CoRL2021, Dex-NeRF: Using a Neural Radiance field to Grasp Transparent Objects
+https://arxiv.org/abs/2110.14217
+https://proceedings.mlr.press/v164/ichnowski22a.html
+https://sites.google.com/view/dex-nerf
+CoRL2022,Towards Scale Balanced 6-DoF Grasp Detection in Cluttered Scenes
+https://arxiv.org/abs/2212.05275
+https://proceedings.mlr.press/v205/ma23a.html
+https://github.com/mahaoxiang822/Scale-Balanced-Grasp
+CoRL2022, Volumetric-based Contact Point Detection for 7-DoF Grasping
+https://arxiv.org/abs/2209.06675
+https://proceedings.mlr.press/v205/cai23a.html
+https://github.com/caijunhao/vcpd
+CoRL2022, NeuralGrasps: Learning Implicit Representations for Grasps of Multiple Robotic Hands
+https://arxiv.org/abs/2207.02959
+https://proceedings.mlr.press/v205/khargonkar23a.html
+https://irvlutd.github.io/NeuralGrasps
+CoRL2023, A Universal Semantic-Geometric Representation for Robotic Manipulation
+https://arxiv.org/abs/2306.10474
+https://proceedings.mlr.press/v229/zhang23j.html
+https://semantic-geometric-representation.github.io/
+CoRL2023, Geometry Matching for Multi-Embodiment Grasping
+https://arxiv.org/abs/2312.03864
+https://proceedings.mlr.press/v229/attarian23a
+https://geo-match.github.io/
+CoRL2023, Affordance-Driven Next-Best-View Planning for Robotic Grasping
+https://arxiv.org/abs/2309.09556
+https://proceedings.mlr.press/v229/zhang23i.html
+https://sszxc.net/ace-nbv/
+CoRL2023, Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter
+https://arxiv.org/abs/2311.05779
+https://proceedings.mlr.press/v229/tziafas23a.html
+https://github.com/gtziafas/OCID-VLG
+CoRL2023, M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place
+https://arxiv.org/abs/2311.00926
+https://proceedings.mlr.press/v229/yuan23a.html
+https://m2-t2.github.io/
+==================================================================
+RSS2021, Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations
+https://arxiv.org/abs/2104.01542
+https://www.roboticsproceedings.org/rss17/p024.pdf
+https://sites.google.com/view/rpl-giga2021
+RSS2022, Sample Efficient Grasp Learning Using Equivariant Models
+https://arxiv.org/abs/2202.09468
+https://par.nsf.gov/servlets/purl/10392244
+https://zxp-s-works.github.io/equivariant_grasp_site/
+RSS2023, Learning-Free Grasping of Unknown Objects Using Hidden Superquadrics
+https://arxiv.org/abs/2305.06591
+https://roboticsproceedings.org/rss19/p042.pdf
+RSS2024, Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering
+https://arxiv.org/abs/2306.07392
+https://sites.google.com/view/neugraspnet
+==================================================================
+IROS2023, Constrained Generative Sampling of 6-DoF Grasps
+https://arxiv.org/abs/2302.10745
+https://ieeexplore.ieee.org/abstract/document/10341344/
+https://constrained-generative-sampling.github.io/exp/
+IROS2023, Multi-Source Fusion for Voxel-Based 7-DoF Grasping Pose Estimation
+https://ieeexplore.ieee.org/abstract/document/10341840/
+==================================================================
+WACV2024, Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation
+https://arxiv.org/abs/2308.14126
+https://openaccess.thecvf.com/content/WACV2024/html/Katageri_Synergizing_Contrastive_Learning_and_Optimal_Transport_for_3D_Point_Cloud_WACV_2024_paper.html
+https://siddharthkatageri.github.io/COT/
+==================================================================
+RAL2021, SuctionNet-1Billion: A Large-Scale Benchmark for Suction Grasping
+https://arxiv.org/abs/2103.12311
+https://ieeexplore.ieee.org/document/9547830
+https://graspnet.net/
+RAL2022, DVGG: Deep Variational Grasp Generation for Dextrous Manipulation
+https://arxiv.org/abs/2211.11154
+https://ieeexplore.ieee.org/abstract/document/9670681
+RAL2022, TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and a Grasping Baseline
+https://arxiv.org/abs/2202.08471
+https://ieeexplore.ieee.org/abstract/document/9796631
+https://graspnet.net/transcg
+RAL2022, OCRTOC: A Cloud-Based Competition and Benchmark for Robotic Grasping and Manipulation
+https://arxiv.org/abs/2104.11446
+https://ieeexplore.ieee.org/abstract/document/9619915
+https://github.com/OCRTOC/OCRTOC_software_package
+RAL2022, Visual Foresight Trees for Object Retrieval From Clutter With Nonprehensile Rearrangement
+https://arxiv.org/abs/2105.02857
+https://ieeexplore.ieee.org/abstract/document/9591286
+https://github.com/arc-l/vft
+RAL2022, Real-Time Collision-Free Grasp Pose Detection With Geometry-Aware Refinement Using High-Resolution Volume
+https://ieeexplore.ieee.org/abstract/document/9681231
+https://sites.google.com/view/vpn-icra2022
+RAL2022, Household Cloth Object Set: Fostering Benchmarking in Deformable Object Manipulation
+https://arxiv.org/abs/2111.01527
+https://ieeexplore.ieee.org/abstract/document/9732698
+http://www.iri.upc.edu/groups/perception/ClothObjectSet/
+RAL2022, REGRAD: A Large-Scale Relational Grasp Dataset for Safe and Object-Specific Robotic Grasping in Clutter
+https://arxiv.org/abs/2104.14118
+https://ieeexplore.ieee.org/abstract/document/9681218
+https://github.com/poisonwine/REGRAD
+RAL2022, When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasping Detection
+https://arxiv.org/abs/2202.11911
+https://ieeexplore.ieee.org/abstract/document/9810182
+https://github.com/WangShaoSUN/grasp-transformer
+RAL2022, DA2 Dataset: Toward Dexterity-Aware Dual-Arm Grasping
+https://arxiv.org/abs/2208.00408
+https://ieeexplore.ieee.org/abstract/document/9826816
+https://sites.google.com/view/da2dataset
+RAL2022, Grasping as Inference: Reactive Grasping in Heavily Cluttered Environment
+https://arxiv.org/abs/2205.13146
+https://ieeexplore.ieee.org/abstract/document/9794590
+RAL2022, Unseen Object Few-Shot Semantic Segmentation for Robotic Grasping
+https://ieeexplore.ieee.org/abstract/document/9968085
+RAL2022, BIG-Net: Deep Learning for Grasping With a Bio-Inspired Soft Gripper
+https://ieeexplore.ieee.org/abstract/document/9984196
+https://github.com/huikul/BioInspiredGrasping
+RAL2022, Learning Target-Oriented Push-Grasping Synergy in Clutter With Action Space Decoupling
+https://ieeexplore.ieee.org/abstract/document/9880518
+RAL2022, End-to-End Learning to Grasp from Object Point Clouds
+https://arxiv.org/abs/2203.05585
+https://ieeexplore.ieee.org/abstract/document/9830843
+https://github.com/antoalli/L2G
+RAL2022, EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for Multi-Fingered Robot Hands
+https://arxiv.org/abs/2206.15159
+https://ieeexplore.ieee.org/abstract/document/9813387
+RAL2022, SymmetryGrasp: Symmetry-Aware Antipodal Grasp Detection From Single-View RGB-D Images
+https://ieeexplore.ieee.org/abstract/document/9919329
+RAL2023, Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes
+https://ieeexplore.ieee.org/abstract/document/10168242/
+https://github.com/THU-VCLab/HGGD
+RAL2023, GPDAN: Grasp Pose Domain Adaptation Network for Sim-to-Real 6-DoF Object Grasping
+https://ieeexplore.ieee.org/abstract/document/10153686
+RAL2023, Anthropomorphic Grasping with Neural Object Shape Completion
+https://arxiv.org/abs/2311.02510
+https://ieeexplore.ieee.org/abstract/document/10271524
+RAL2023, HybGrasp: A Hybrid Learning-to-Adapt Architecture for Efficient Robot Grasping
+https://ieeexplore.ieee.org/abstract/document/10305261/
+RAL2024, CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation
+https://arxiv.org/abs/2312.08240
+https://ieeexplore.ieee.org/abstract/document/10499443
+http://centergrasp.cs.uni-freiburg.de/
+RAL2024, DSNet: Double Strand Robotic Grasp Detection Network Based on Cross Attention
+https://ieeexplore.ieee.org/abstract/document/10478148/
+https://github.com/VoryKwin/DSNet
+RAL2024, RGBGrasp: Image-Based Object Grasping by Capturing Multiple Views During Robot arm Movement With Neural Radiance Fields
+https://arxiv.org/abs/2311.16592
+https://ieeexplore.ieee.org/abstract/document/10517376
+https://sites.google.com/view/rgbgrasp
+RAL2024, CoAS-Net: Context-Aware Suction Network With a Large-Scale Domain Randomized Synthetic Dataset
+https://ieeexplore.ieee.org/abstract/document/10333337
+https://github.com/SonYeongGwang/CoAS-Net
+RAL2024, Graspability-Aware Object Pose Estimation in Cluttered Scenes
+https://ieeexplore.ieee.org/abstract/document/10430220
+RAL2024, Enabling Grasp Synthesis Approaches to Task-Oriented Grasping Considering the End-State Comfort and Confidence Effects
+https://ieeexplore.ieee.org/abstract/document/10517382/
+RAL2024, Robot Grasp in Cluttered Scene Using a Multi-Stage Deep Learning Model
+https://ieeexplore.ieee.org/abstract/document/10540296
+RAL2024, Simulating Complete Points Representations for Single-View 6-DoF Grasp Detection
+https://ieeexplore.ieee.org/abstract/document/10414109
+RAL2024, High Precision 6-DoF Grasp Detection in Cluttered Scenes Based on Network Optimization and Pose Propagation
+https://ieeexplore.ieee.org/abstract/document/10473147
+==================================================================
+TRO2023, AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains
+https://arxiv.org/abs/2212.08333
+https://ieeexplore.ieee.org/abstract/document/10167687
+https://graspnet.net/anygrasp.html
+TRO2023, Close the Optical Sensing Domain Gap by Physics-Grounded Active Stereo Sensor Simulation
+https://arxiv.org/abs/2201.11924
+https://ieeexplore.ieee.org/abstract/document/10027470
+https://github.com/haosulab/SAPIEN
+TRO2023, Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark
+https://arxiv.org/abs/2305.16378
+https://ieeexplore.ieee.org/abstract/document/10314015
+https://junchengli1.github.io/Sim-Suction/
+TRO2023, Statistical Stratification and Benchmarking of Robotic Grasping Performance
+https://ieeexplore.ieee.org/abstract/document/10242148
+==================================================================
+TASE2023, MetaGraspNetV2: All-in-One Dataset Enabling Fast and Reliable Robotic Bin Picking via Object Relationship Reasoning and Dexterous Grasping
+https://ieeexplore.ieee.org/abstract/document/10309974
+https://github.com/maximiliangilles/MetaGraspNet
+TASE2024, TCRNet: Transparent Object Depth Completion With Cascade Refinements
+https://ieeexplore.ieee.org/abstract/document/10464368
+==================================================================
+IJRR2023, Simple Kinesthetic Haptics for Object Recognition
+https://arxiv.org/abs/2206.05601
+https://journals.sagepub.com/doi/abs/10.1177/02783649231182486
+IJRR2023, Robust grasping across diverse sensor qualities: The GraspNet-1Billion dataset
+https://journals.sagepub.com/doi/abs/10.1177/02783649231193710
