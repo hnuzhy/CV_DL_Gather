@@ -1,5 +1,5 @@
 # ⭐Vision Language Action
-*this is the most popluar paradigm for achieving `robot manipulation`, also similar to `image-to-action policy models,` and `state-to-action mappings`*
+*this is the most popular paradigm for achieving `robot manipulation`, also similar to `image-to-action policy models,` and `state-to-action mappings`*
 
 ## ▶Materials
 
@@ -157,8 +157,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **VoxPoser(CoRL2023 Oral)(arxiv2023.07)** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models [[paper link](https://proceedings.mlr.press/v229/huang23b.html)][[arxiv link](https://arxiv.org/abs/2307.05973)][[project link](https://voxposer.github.io/)][[code|official](https://github.com/huangwl18/VoxPoser)][by `Stanford Fei-Fei Li`; It extracts `affordances` and `constraints` from large language models (`LLMs`) and vision-language  models (`VLMs`) to compose `3D value maps`; It needs `Detector+Segmentor+Tracker` and thus is very `slow`]
 
 * **GNFactor(CoRL2023 Oral)(arxiv2023.08)** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields [[openreview link](https://openreview.net/forum?id=b1tl3aOt2R2)][[paper link](https://proceedings.mlr.press/v229/ze23a.html)][[arxiv link](https://arxiv.org/abs/2308.16891)][[project link](https://yanjieze.com/GNFactor/)][[code|official](https://github.com/YanjieZe/GNFactor)][`SJTU + UC San Diego + University of Hong Kong + AWS AI, Amazon`; a work by the `Xiaolong Wang` group][It proposed a 3D policy that co-optimizes a `neural field` for reconstructing the `3D voxels` of the input scene and a `PerAct` module for predicting actions based on `voxel representations`.]
-
-* ❤**M2T2(CoRL2023)(arxiv2023.11)** M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place [[openreview link](https://openreview.net/forum?id=6zGpfOBImD)][[paper link](https://proceedings.mlr.press/v229/yuan23a.html)][[arxiv link](https://arxiv.org/abs/2311.00926)][[project link](https://m2-t2.github.io/)][[code|official](https://github.com/NVlabs/M2T2)][`University of Washington + NVIDIA`; `Dieter Fox`][M2T2 is `a unified transformer model` that predicts `target gripper poses` for various `action primitives`.]
 
 * **RoboCat(TMLR2023)(arxiv2023.06)** RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation [[openreview link](https://openreview.net/forum?id=vsCpILiWHu)][[arxiv link](https://arxiv.org/abs/2306.11706)][`Google DeepMind`]
 
