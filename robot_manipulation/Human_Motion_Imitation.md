@@ -43,3 +43,6 @@
 
 * **I-CTRL(arxiv2024.05)** I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2405.08726)][`Technische Universitat Wien (TU Wien), Vienna, Austria`]
 
+* **HumanPlus(arxiv2024.06)** HumanPlus: Humanoid Shadowing and Imitation from Humans [[arxiv link](https://arxiv.org/abs/2406.10454)][[project link](https://humanoid-ai.github.io/)][[code|official](https://github.com/MarkFzp/humanplus)][`Stanford University`]
+
+
