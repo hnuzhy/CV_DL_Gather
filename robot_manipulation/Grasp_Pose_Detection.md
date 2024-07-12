@@ -32,6 +32,8 @@
 
 * 👍**DexGraspNet(ICRA2023)(arxiv2022.10)** DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation [[paper link](https://ieeexplore.ieee.org/abstract/document/10160982/)][[arxiv link](https://arxiv.org/abs/2210.02697)][[project link](https://pku-epic.github.io/DexGraspNet/)][[code|official](https://github.com/PKU-EPIC/DexGraspNet)][`PKU`]
 
+* 👍👍**GAPartNet(ICRA2023)(arxiv2022.10)** GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Geng_GAPartNet_Cross-Category_Domain-Generalizable_Object_Perception_and_Manipulation_via_Generalizable_and_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2211.05272)][[project link](https://pku-epic.github.io/GAPartNet/)][[code|official](https://github.com/PKU-EPIC/GAPartNet)][`PKU`; `He Wang`]
+
 * **MetaGraspNetV2(TASE2023)** MetaGraspNetV2: All-in-One Dataset Enabling Fast and Reliable Robotic Bin Picking via Object Relationship Reasoning and Dexterous Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10309974/)][[code|official](https://github.com/maximiliangilles/MetaGraspNet)][`Karlsruher Institut für Technologie (KIT)`]
  
 * 👍**Sim-Suction(TRO2023)(arxiv2023.05)** Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark [[paper link](https://ieeexplore.ieee.org/abstract/document/10314015)][[arxiv link](https://arxiv.org/abs/2305.16378)][[project link](https://junchengli1.github.io/Sim-Suction/)][[code|official](https://github.com/junchengli1/Sim-Suction-API)][`Purdue University`]
