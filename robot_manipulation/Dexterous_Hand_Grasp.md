@@ -30,7 +30,7 @@
 
 * **ContactDB(CVPR2019 Oral, Best Paper Finalist)** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging [[arxiv link](https://arxiv.org/abs/1904.06830)][[project link](https://contactdb.cc.gatech.edu/)][`Georgia Tech Robotics`][`the first large-scale dataset that records detailed contact maps for functional human grasps`]
 
-* 👍**100DOH(CVPR2020)** Understanding Human Hands in Contact at Internet Scale [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.html)][[project link](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)][`hand-contact understanding`][`100DOH` dataset]
+* 👍**100DOH(CVPR2020 oral)** Understanding Human Hands in Contact at Internet Scale [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2006.06669)][[project link](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)][[code|official 1](https://github.com/ddshan/hand_object_detector)][[code|official 2](https://github.com/ddshan/hand_detector.d2)][`University of Michigan + Johns Hopkins University`][`hand-contact understanding`][`100DOH` dataset]
 
 * 👍**ContactHands(NIPS2020)** Detecting Hands and Recognizing Physical Contact in the Wild [[paper link](https://proceedings.neurips.cc/paper/2020/hash/595373f017b659cb7743291e920a8857-Abstract.html)][[project link](http://vision.cs.stonybrook.edu/~supreeth/ContactHands_data_website/)][[code|official](https://github.com/cvlab-stonybrook/ContactHands)][[CVLab@StonyBrook](https://github.com/cvlab-stonybrook)][`ContactHands` dataset][`hand contact estimation`]
 
@@ -65,6 +65,8 @@
 * **HO-NeRF(ICCV2023)** Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views [[paper link]()][[arxiv link](https://arxiv.org/abs/2308.11198)][[project link](https://iscas3dv.github.io/HO-NeRF/)][`Hand-Object Interaction`, `NeRF`]
 
 * **USST(ICCV2023)** Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Bao_Uncertainty-aware_State_Space_Transformer_for_Egocentric_3D_Hand_Trajectory_Forecasting_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2307.08243)][[project link](https://actionlab-cv.github.io/EgoHandTrajPred/)][[code|official](https://github.com/oppo-us-research/USST)][`3D Ego-Hand Trajectory Forecasting`]
+
+* **Hands23(NIPS2023)** Towards A Richer 2D Understanding of Hands at Scale [[paper link](https://papers.nips.cc/paper_files/paper/2023/hash/612a7948f3294a02a63d970566ca8536-Abstract-Conference.html)][[openreview link](https://openreview.net/forum?id=6ldTxwhgtP)][`University of Michigan + Addis Ababa University + New York University`]
 
 * **HOIDiffusion(CVPR2024)(arxiv2024.03)** HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data [[arxiv link](https://arxiv.org/abs/2403.12011)][[project link](https://mq-zhang1.github.io/HOIDiffusion/)][`UC San Diego + HKUST`; [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
 
