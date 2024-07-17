@@ -42,6 +42,11 @@
 
 * 👍👍**Grasp-Anything(ICRA2024)(arxiv2023.09)** Grasp-Anything: Large-scale Grasp Dataset from Foundation Models [[arxiv link](https://arxiv.org/abs/2309.09818)][[project link](https://grasp-anything-2023.github.io/)][[code|official](https://github.com/andvg3/Grasp-Anything)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
 
+* **LGD(Grasp-Anything++)(CVPR2024)(arxiv2024.06)** Language-driven Grasp Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2406.09489)][[project link](https://airvlab.github.io/grasp-anything/docs/grasp-anything-pp/)][[code|official](https://github.com/andvg3/LGD)][`FPT Software AI Center, Vietnam + Automation & Control Institute, TU Wien, Austria + Imperial College London, UK + Ton Duc Thang University, Vietnam + University of Liverpool, UK`]
+
+* **Grasp-Anything-6D(ECCV2024)** Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance [[arxiv link]()][[project link](https://airvlab.github.io/grasp-anything/docs/grasp-anything-6d/)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
+
+
 ### ※ Datasets Closely Related to the Grasp Task
 
 * **StereOBJ-1M(ICCV2021)** StereOBJ-1M: Large-Scale Stereo Image Dataset for 6D Object Pose Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_StereOBJ-1M_Large-Scale_Stereo_Image_Dataset_for_6D_Object_Pose_Estimation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2109.10115)][[project link](https://sites.google.com/view/stereobj-1m)][[code|official](https://github.com/xingyul/stereobj-1m)][`The Robotics Institute of Carnegie Mellon University`]
