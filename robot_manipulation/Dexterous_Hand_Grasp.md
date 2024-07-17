@@ -74,6 +74,9 @@
 
 * **MCC-HO(MCC-Hand-Object)(arxiv2024.04)** Reconstructing Hand-Held Objects in 3D [[arxiv link](https://arxiv.org/abs/2404.06507)][[project link](https://janehwu.github.io/mcc-ho/)][[code|official](https://github.com/janehwu/mcc-ho)][`University of California, Berkeley + University of Texas at Austin + California Institute of Technology`][It jointly `reconstructs hand and object geometry` given `a single RGB image` and `inferred 3D hand` as inputs.][The proposed alignment method `Retrieval-Augmented Reconstruction (RAR)` can be used to `automatically obtain 3D labels` for in-the-wild images of `hand-object interactions`.]
 
+* **HO-Cap(arxiv2024.06)** HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction [[arxiv link](https://arxiv.org/abs/2406.06843)][[project link](https://irvlutd.github.io/HOCap/)][[dataset link](https://utdallas.box.com/v/hocap-dataset-release)][[code|official](https://github.com/IRVLUTD/HO-Cap)][`University of Texas at Dallas + NVIDIA`][It can be used to study `3D reconstruction and pose tracking of hands and objects in videos`.][It also can be used as `human demonstrations` for `embodied AI and robot manipulation` research.]
+
+
 
 ### ▶ Dexterous Hand Grasp/Manipulation
 
