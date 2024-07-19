@@ -290,6 +290,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **RAM(arxiv2024.07)** RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2407.04689)][[project link](https://yxkryptonite.github.io/RAM/)][[code|official](https://github.com/yxKryptonite/RAM_code)][`University of Southern California + Peking University + Stanford University`; `He Wang`]
 
+* **ThinkGrasp(arxiv2024.07)** ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[arxiv link](https://arxiv.org/abs/2407.11298v1)][[project link](https://h-freax.github.io/thinkgrasp_page/)][[code|official]()][`Northeastern Univeristy + Boston Dynamics AI Institute`][`GPT-4o` + `LangSAM / VLPart` + `Graspnet`]
+
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
