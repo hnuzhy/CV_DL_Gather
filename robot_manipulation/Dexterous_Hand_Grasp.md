@@ -23,6 +23,7 @@
 
 * **TACO (CVPR2024)(arxiv2024.01)** [TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding](https://taco2024.github.io/) [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_TACO_Benchmarking_Generalizable_Bimanual_Tool-ACtion-Object_Understanding_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2401.08399)][[weixin blog](https://mp.weixin.qq.com/s/WdbK93Z3T4a9_AfPuo0WOQ)][[code|official](https://github.com/leolyliu/TACO-Instructions)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
 
+* **SHOWMe(CVIU2024)** SHOWMe: Robust object-agnostic hand-object 3D reconstruction from RGB video [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S1077314224001541)][[code|official](https://download.europe.naverlabs.com/showme/)][`NAVER LABS Europe + Inria centre at the University Grenoble Alpes`][It is based on the conference version [`(ICCVW2023) SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction`](https://openaccess.thecvf.com/content/ICCV2023W/ACVR/html/Swamy_SHOWMe_Benchmarking_Object-Agnostic_Hand-Object_3D_Reconstruction_ICCVW_2023_paper.html) with the [project link](https://europe.naverlabs.com/research/showme/) link]
 
 ## Papers
 
