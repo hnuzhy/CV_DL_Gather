@@ -136,5 +136,4 @@
 
 * **DexGYS(arxiv2024.05)** Grasp as You Say: Language-guided Dexterous Grasp Generation [[arxiv link](https://arxiv.org/abs/2405.19291)][[project link](https://sites.google.com/stanford.edu/dexgys)][`Sun Yat-sen University  + Stanford University + Wuhan University`; `Dexterous Grasp as You Say (DexGYS)`]
 
-
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
