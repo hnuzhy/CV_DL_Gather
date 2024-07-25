@@ -730,4 +730,5 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **FaceXFormer(arxiv2024.03)** FaceXFormer: A Unified Transformer for Facial Analysis [[arxiv link](https://arxiv.org/abs/2403.12960)][[project link](https://kartik-3004.github.io/facexformer_web/)][[code|official](https://github.com/Kartik-3004/facexformer)][`Johns Hopkins University`]
 
+* **TRG(ECCV2024)(arxiv2024.07)** 6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry [[arxiv link](https://arxiv.org/abs/2407.14136)][[code|official](https://github.com/asw91666/TRG-Release)][`Kwangwoon University`]
 
