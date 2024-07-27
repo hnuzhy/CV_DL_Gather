@@ -446,6 +446,8 @@ including `Head Detection`, `Head Counting`
 
 * 👍👍**PanoHead(CVPR2023)** PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘ [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/An_PanoHead_Geometry-Aware_3D_Full-Head_Synthesis_in_360deg_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.13071)][[project link](https://sizhean.github.io/panohead)][[code|official](https://github.com/SizheAn/PanoHead)]
 
+* **VGGHeads(arxiv2024.07)** VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads [[arxiv link](https://arxiv.org/abs/2407.18245)][[project link](https://www.robots.ox.ac.uk/~vgg/research/vgg-heads/)][[code|official](https://github.com/KupynOrest/head_detector)][`University of Oxford + Ukrainian Catholic University + PiñataFarms AI`][Diffusion-based image generation]
+
 
 #### ▶Human Parts
 including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Object Reconstruction`, `Human-Aware Object Placement`, `Human-Scene Contact`, `Human-Object Contact`, `Human-Object Interaction Tracking` and `Close Human Interaction`
