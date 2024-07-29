@@ -293,6 +293,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ThinkGrasp(arxiv2024.07)** ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[arxiv link](https://arxiv.org/abs/2407.11298v1)][[project link](https://h-freax.github.io/thinkgrasp_page/)][[code|official]()][`Northeastern Univeristy + Boston Dynamics AI Institute`][`GPT-4o` + `LangSAM / VLPart` + `Graspnet`][It is superior to other counterparts [`OVGNet (arxiv2024.05)`](https://github.com/cv516Buaa/OVGNet) and [`VLG (ICRA2023)`](https://github.com/xukechun/Vision-Language-Grasping), which all adopted the `Graspnet` for 6DoF grasp pose detection]
 
+* **Maniwhere(arxiv2024.07)** Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning [arxiv link](https://arxiv.org/abs/2407.15815)][[project link](https://gemcollector.github.io/maniwhere/)][`THU + SJTU + HKU + PKU +  Shanghai Qi Zhi Institute + Shanghai AI Lab`]
+
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
