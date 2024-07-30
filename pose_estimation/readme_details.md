@@ -484,6 +484,8 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **DM-HPE(CVPR2023)** Cross-Domain 3D Hand Pose Estimation With Dual Modalities [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_Cross-Domain_3D_Hand_Pose_Estimation_With_Dual_Modalities_CVPR_2023_paper.html)][`No code is available`, `cross-domain semi-supervised hand pose estimation`, `Dual Modalities`]
 
+* **(ECCV2024)(arxiv2024.07)** Weakly-Supervised 3D Hand Reconstruction with Knowledge Prior and Uncertainty Guidance [[arxiv link](https://arxiv.org/abs/2407.12307)][`Rensselaer Polytechnic Institute + IBM Research`][`No code is available`]
+
 
 #### ※ Head Pose Estimation / Eye Gaze Estimation
 belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation Regression` problem
