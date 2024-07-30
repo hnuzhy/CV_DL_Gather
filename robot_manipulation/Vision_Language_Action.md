@@ -204,9 +204,11 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **RoboCat(TMLR2023)(arxiv2023.06)** RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation [[openreview link](https://openreview.net/forum?id=vsCpILiWHu)][[arxiv link](https://arxiv.org/abs/2306.11706)][`Google DeepMind`]
 
-* **LLM-RL / LLaRP(ICLR2024)(arxiv2023.10)** Large Language Models as Generalizable Policies for Embodied Tasks [[openreview link](https://openreview.net/forum?id=u6imHU4Ebu)][[arxiv link](https://arxiv.org/abs/2310.17722)][[project link](https://llm-rl.github.io/)][[code|official](https://github.com/apple/ml-llarp)][`Apple`; `Large LAnguage model Reinforcement Learning Policy (LLaRP)`]
-
 * **Giving-Robots-a-Hand(arxiv2023.07)** Giving Robots a Hand: Learning Generalizable Manipulation with Eye-in-Hand Human Video Demonstrations [[arxiv link](https://arxiv.org/abs/2307.05959)][[project link](https://giving-robots-a-hand.github.io/)][`Stanford University`]
+
+* **RoboTAP(arxiv2023.08)** RoboTAP: Tracking Arbitrary Points for Few-Shot Visual Imitation [[arxiv link](https://arxiv.org/abs/2308.15975)][[project link](https://robotap.github.io/)][[code|official](https://github.com/google-deepmind/tapnet/blob/main/colabs/tapir_clustering.ipynb)][`Google DeepMind + University College London`][It is based on the `TAPNet`]
+
+* **LLM-RL / LLaRP(ICLR2024)(arxiv2023.10)** Large Language Models as Generalizable Policies for Embodied Tasks [[openreview link](https://openreview.net/forum?id=u6imHU4Ebu)][[arxiv link](https://arxiv.org/abs/2310.17722)][[project link](https://llm-rl.github.io/)][[code|official](https://github.com/apple/ml-llarp)][`Apple`; `Large LAnguage model Reinforcement Learning Policy (LLaRP)`]
 
 * 👍**RoboFlamingo(ICLR2024 Spotlight)(arxiv2023.11)** Vision-Language Foundation Models as Effective Robot Imitators [[openreview link](https://openreview.net/forum?id=lFYj0oibGR)][[arxiv link](https://arxiv.org/abs/2311.01378)][[project link](https://roboflamingo.github.io/)][[code|official](https://github.com/RoboFlamingo/RoboFlamingo)][`ByteDance + THU + SJTU 
 `; based on the `OpenFlamingo`, and tested on the dataset `CALVIN`]
@@ -281,6 +283,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * 👍**DrEureka(RSS2024)(arxiv2024.06)** DrEureka: Language Model Guided Sim-to-Real Transfer [[arxiv link](https://arxiv.org/abs/2406.01967)][[project link](https://eureka-research.github.io/dr-eureka/)][[code|official](https://github.com/eureka-research/DrEureka)][`UPenn + NVIDIA + UT Austin`][It is based on the `Isaac-Gym`; Our `LLM-guided sim-to-real` approach requires only the `physics simulation` for the target task and `automatically constructs suitable reward functions` and `domain randomization distributions` to support real-world transfer.]
 
 * **MDT-Policy(RSS2024)(arxiv2024.07)** Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals [[arxiv link](https://arxiv.org/abs/2407.05996)][[project link](https://intuitive-robots.github.io/mdt_policy/)][[code|official](https://github.com/intuitive-robots/mdt_policy)][`Intuitive Robots Lab (IRL), Karlsruhe Institute of Technology`][It tested on benchmarks `CALVIN` and `LIBERO`.]
+
+* **Track2Act(arxiv2024.05)** Track2Act: Predicting Point Tracks from Internet Videos Enables Diverse Zero-shot Manipulation [[arxiv link](https://arxiv.org/abs/2405.01527)][[project link](https://homangab.github.io/track2act/)][[code|official](https://github.com/homangab/Track-2-Act/)][`Carnegie Mellon University + University of Washington + Meta`]
 
 * **ERJ(RAL2024)(arxiv2024.06)** Redundancy-aware Action Spaces for Robot Learning [[arxiv link](https://arxiv.org/abs/2406.04144)][[project link](https://redundancy-actions.github.io/)][[code|official](https://github.com/mazpie/redundancy-action-spaces)][`Dyson Robot Learning Lab + Imperial College London`; `Stephen James`][This work analyses the criteria for designing `action spaces` for robot manipulation and introduces `ER (End-effector Redundancy)`, a novel action space formulation that, by addressing the `redundancies` present in the manipulator, aims to combine the advantages of both joint and task spaces, offering `fine-grained comprehensive control with overactuated robot arms` whilst achieving highly efficient robot learning.]
 
