@@ -53,4 +53,18 @@
 
 * **SiamCAR(CVPR2020)** SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking [[arxiv link](http://arxiv.org/abs/1911.07241v2)][[cvpr link](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_SiamCAR_Siamese_Fully_Convolutional_Classification_and_Regression_for_Visual_Tracking_CVPR_2020_paper.html)][[Codes|offical PyTorch](https://github.com/ohhhyeahhh/SiamCAR)]
 
+### ▶ Point Based
+*Point tracking is a new field with a few notable works released around the same time.*
+
+* **PIPs(ECCV2022 Oral)(arxiv2022.04)** Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_4)][[arxiv link](https://arxiv.org/abs/2204.04153)][[project link](https://particle-video-revisited.github.io/)][[code|official](https://github.com/aharley/pips)][`Carnegie Mellon University`][It was an inspiration for the work `TAPIR`]
+
+* **OmniMotion(ICCV2023 Oral, Best Student Paper)(arxiv2023.06)** Tracking Everything Everywhere All at Once [[paper link](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_Tracking_Everything_Everywhere_All_at_Once_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2306.05422)][[project link](https://omnimotion.github.io/)][[code|official](https://github.com/qianqianwang68/omnimotion)][`Cornell University + Google Research + UC Berkeley`][It doesn't perform as well as `TAPIR` and is substantially slower, but it provides `pseudo-3D reconstructions`, and could potentially be used on top of TAPIR tracks to further improve performance.]
+
+* **TAPIR(ICCV2023)(arxiv2023.06)** TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement [[paper link](http://openaccess.thecvf.com/content/ICCV2023/html/Doersch_TAPIR_Tracking_Any_Point_with_Per-Frame_Initialization_and_Temporal_Refinement_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2306.08637)][[project link](https://deepmind-tapir.github.io/)][[code|official](https://github.com/deepmind/tapnet)][`Google DeepMind + University of Oxford`]
+
+* **MFT(WACV2024)(arxiv2023.05)** MFT: Long-Term Tracking of Every Pixel [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Neoral_MFT_Long-Term_Tracking_of_Every_Pixel_WACV_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2305.12998)][[project link](https://cmp.felk.cvut.cz/~serycjon/MFT/)][[code|official](https://github.com/serycjon/MFT)][`Czech Technical University in Prague`][`Multi-Flow Tracking` hypothesizes many flow fields between different pairs of frames and scores them; multiple hypotheses leads to improved robustness.]
+
+* **CoTracker(ECCV2024)(arxiv2023.07)** CoTracker: It is Better to Track Together [[paper link]()][[arxiv link](https://arxiv.org/abs/2307.07635)][[project link](https://co-tracker.github.io/)][[code|official](https://github.com/facebookresearch/co-tracker)][`Meta AI + Visual Geometry Group, University of Oxford`]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
