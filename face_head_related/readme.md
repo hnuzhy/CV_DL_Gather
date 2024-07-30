@@ -571,7 +571,10 @@ also `3D Hand Shape and Pose Regression`
 
 * **SimpleHand(CVPR2024)(arxiv2024.03)** A Simple Baseline for Efficient Hand Mesh Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_A_Simple_Baseline_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2403.01813)][[project link](https://simplehand.github.io/)][[code|official](https://github.com/patienceFromZhou/simpleHand)][`JIIOV Technology`][It is a lightweight method based on `HRNet` or `FastViT`]
 
+* **4DHands(arxiv2024.05)** 4DHands: Reconstructing Interactive Hands in 4D with Transformers [[arxiv link](https://arxiv.org/abs/2405.20330)][[project link](https://4dhands.github.io/)][`Beijing Normal University + Tsinghua University + Lenovo`]
+
 * **Hamba(arxiv2024.07)** Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[arxiv link](https://arxiv.org/abs/2407.09646)][[project link](https://humansensinglab.github.io/Hamba/)][[code|official](https://github.com/humansensinglab/Hamba)][`Carnegie Mellon University`]
+
 
 
 ##### ▶Sign Language Understanding
