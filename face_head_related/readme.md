@@ -569,6 +569,10 @@ also `3D Hand Shape and Pose Regression`
 
 * **OHTA(CVPR2024)(arxiv2024.02)** OHTA: One-shot Hand Avatar via Data-driven Implicit Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_OHTA_One-shot_Hand_Avatar_via_Data-driven_Implicit_Priors_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2402.18969)][[project link](https://zxz267.github.io/OHTA/)][[code|official](https://github.com/zxz267/OHTA)][`ByteDance`][To test OHTA’s performance for the challenging `in-the-wild` images, they take the whole-body version of `MSCOCO` for experiments. They utilize the pose estimation results provided by `InterWild` and generate the masks using `SAM`]
 
+* **SimpleHand(CVPR2024)(arxiv2024.03)** A Simple Baseline for Efficient Hand Mesh Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_A_Simple_Baseline_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2403.01813)][[project link](https://simplehand.github.io/)][[code|official](https://github.com/patienceFromZhou/simpleHand)][`JIIOV Technology`][It is a lightweight method based on `HRNet` or `FastViT`]
+
+* **Hamba(arxiv2024.07)** Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[arxiv link](https://arxiv.org/abs/2407.09646)][[project link](https://humansensinglab.github.io/Hamba/)][[code|official](https://github.com/humansensinglab/Hamba)][`Carnegie Mellon University`]
+
 
 ##### ▶Sign Language Understanding
 including `Sign Language Recognition` and `Sign Language Translation`
