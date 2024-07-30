@@ -378,6 +378,8 @@
 
 * **S2Contact(ECCV2022)** S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning [[paper link]](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_33)][[arxiv link](https://arxiv.org/abs/2208.00874)][[project link](https://eldentse.github.io/s2contact/)][[code|official](https://github.com/eldentse/s2contact)][`University of Birmingham, UNIST, SUSTech`]
 
+* **THOR-Net(WACV2023)** THOR-Net: End-to-End Graformer-Based Realistic Two Hands and Object Reconstruction With Self-Supervision [[paper link](https://openaccess.thecvf.com/content/WACV2023/html/Aboukhadra_THOR-Net_End-to-End_Graformer-Based_Realistic_Two_Hands_and_Object_Reconstruction_With_WACV_2023_paper.html)][[arxiv link]()][[code|official](https://github.com/ATAboukhadra/THOR-Net)][`DFKI-AV Kaiserslautern + TU Kaiserslautern + NUST-SEECS Pakistan + UPM Saudi Arabia`]
+
 * **SHAR(CVPR2023)** Semi-supervised Hand Appearance Recovery via Structure Disentanglement and Dual Adversarial Discrimination [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Semi-Supervised_Hand_Appearance_Recovery_via_Structure_Disentanglement_and_Dual_Adversarial_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2303.06380)][[project link](https://www.yangangwang.com/papers/CVPR2023/ZHAO-SHAR-2023-03.html)][`Ynagang Wang`]
 
 
