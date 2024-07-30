@@ -357,6 +357,9 @@
 
 * **OF4HMR(TMLR2024)** Using Motion Cues to Supervise Single-frame Body Pose & Shape Estimation in Low Data Regimes [[openreview link](https://openreview.net/forum?id=fUhOb14sQv)][[arxiv link](https://arxiv.org/abs/2402.02736)][[code|official](https://github.com/cvlab-epfl/of4hmr)][`CVLab, EPFL` + `Meta AI`]
 
+* **Real3D(arxiv2024.06)** Real3D: Scaling Up Large Reconstruction Models with Real-World Images [[arxiv link](https://arxiv.org/abs/2406.08479)][[project link](https://hwjiang1510.github.io/Real3D/)][[code|official](https://github.com/hwjiang1510/Real3D)][`UT Austin`][The input contains only `one single object instance`][We scale up training data of `single-view LRMs` by enabling `self-training` on `in-the-wild` images][The real data for `self-training` involves [`MVImgNet`](https://gaplab.cuhk.edu.cn/projects/MVImgNet/) and our `collected real data`. The data for `testing` involves [`MVImgNet`](https://gaplab.cuhk.edu.cn/projects/MVImgNet/), [`CO3D`](https://github.com/facebookresearch/co3d), [`OmniObject3D`](https://omniobject3d.github.io/) and our real data.][It is based on the [TripoSR](https://github.com/VAST-AI-Research/TripoSR/), which is the `TripoSR: Fast 3D Object Reconstruction from a Single Image` ]
+
+
 ### ▶for Crowd Counting
 
 * **IRAST(ECCV2020)** Semi-supervised Crowd Counting via Self-training on Surrogate Tasks [[paper link](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_15)][[arxiv link](https://arxiv.org/abs/2007.03207)][`Sichuan University`]
