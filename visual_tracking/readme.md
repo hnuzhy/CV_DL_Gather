@@ -64,9 +64,14 @@
 
 * **MFT(WACV2024)(arxiv2023.05)** MFT: Long-Term Tracking of Every Pixel [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Neoral_MFT_Long-Term_Tracking_of_Every_Pixel_WACV_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2305.12998)][[project link](https://cmp.felk.cvut.cz/~serycjon/MFT/)][[code|official](https://github.com/serycjon/MFT)][`Czech Technical University in Prague`][`Multi-Flow Tracking` hypothesizes many flow fields between different pairs of frames and scores them; multiple hypotheses leads to improved robustness.]
 
+* **LEAP-VO(CVPR2024)(arxiv2024.01)** LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_LEAP-VO_Long-term_Effective_Any_Point_Tracking_for_Visual_Odometry_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2401.01887)][[project link](https://chiaki530.github.io/projects/leapvo)][[code|official](https://github.com/chiaki530/leapvo)][`TU Munich + Munich Center for Machine Learning + MPI for Intelligent Systems + Microsoft`][`Tracking + Visual Odometry`, Long-term Effective Any Point Tracking (LEAP)]
+
 * 👍**CoTracker(ECCV2024)(arxiv2023.07)** CoTracker: It is Better to Track Together [[paper link]()][[arxiv link](https://arxiv.org/abs/2307.07635)][[project link](https://co-tracker.github.io/)][[code|official](https://github.com/facebookresearch/co-tracker)][`Meta AI + Visual Geometry Group, University of Oxford`]
 
+* 👍**DINO-Tracker(ECCV2024)(arxiv2024.03)** DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video [[paper link]()][[arxiv link](https://arxiv.org/abs/2403.14548)][[project link](https://dino-tracker.github.io/)][[code|official](https://github.com/AssafSinger94/dino-tracker)][`Weizmann Institute of Science, Israel`]
+
 * **BootsTAP(arxiv2024.02)** BootsTAP: Bootstrapped Training for Tracking-Any-Point [[arxiv link](https://arxiv.org/abs/2402.00847)][[project link](https://bootstap.github.io/)][[code|official](https://github.com/google-deepmind/tapnet?tab=readme-ov-file#colab-demo)][`Google DeepMind + University of Oxford`][It is based on the `TAPIR`]
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
