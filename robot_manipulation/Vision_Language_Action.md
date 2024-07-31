@@ -264,7 +264,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ReAd / Reinforced Advantage feedback(arxiv2024.05)** Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration [[arxiv link](https://arxiv.org/abs/2405.14314)][[project link](https://read-llm.github.io/)][`THU + Shanghai AI Lab + Northwestern Polytechnical University + ZJU`; `Multi-Agent Collaboration`]
 
-* **ORION(arxiv2024.05)** ORION: Vision-based Manipulation from Single Human Video with Open-World Object Graphs [[arxiv link](https://arxiv.org/abs/2405.20321)][[project link](https://ut-austin-rpl.github.io/ORION-release/)][`The University of Texas at Austin + Sony AI`; `Yuke Zhu`][`Learning from action labels free human videos`][We investigate the problem of `imitating robot manipulation` from `a single human video` in the `open-world setting`, where `a robot must learn to manipulate novel objects from one video demonstration`.]
+* **ORION(arxiv2024.05)** Vision-based Manipulation from Single Human Video with Open-World Object Graphs [[arxiv link](https://arxiv.org/abs/2405.20321)][[project link](https://ut-austin-rpl.github.io/ORION-release/)][`The University of Texas at Austin + Sony AI`; `Yuke Zhu`][`Learning from action labels free human videos`][We investigate the problem of `imitating robot manipulation` from `a single human video` in the `open-world setting`, where `a robot must learn to manipulate novel objects from one video demonstration`.]
 
 * **ATM(RSS2024)(arxiv2024.01)** Any-point Trajectory Modeling for Policy Learning [[arxiv link](https://arxiv.org/abs/2401.00025)][[project link](https://xingyu-lin.github.io/atm/)][[code|official](https://github.com/Large-Trajectory-Model/ATM)][`UC Berkeley + IIIS, Tsinghua University + Stanford University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute + CUHK`][The method is evaluated on a challenging `simulation benchmark (LIBERO)` comprised of `130 language-conditioned manipulation tasks`, and on `5 tasks` in a `real-world UR5 Kitchen` environment.]
 
@@ -312,7 +312,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **RAM(arxiv2024.07)** RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2407.04689)][[project link](https://yxkryptonite.github.io/RAM/)][[code|official](https://github.com/yxKryptonite/RAM_code)][`University of Southern California + Peking University + Stanford University`; `He Wang`]
 
-* **GENIMA(arxiv2024.07)** Generative Image as Action Models [[arxiv link](https://arxiv.org/abs/2407.07875)][[project link](https://genima-robot.github.io/)][[code|official](https://github.com/MohitShridhar/genima)][`Dyson Robot Learning Lab`; the last author is `Stephen James`]
+* **GENIMA(arxiv2024.07)** Generative Image as Action Models [[arxiv link](https://arxiv.org/abs/2407.07875)][[project link](https://genima-robot.github.io/)][[code|official](https://github.com/MohitShridhar/genima)][`Dyson Robot Learning Lab`; the last author is `Stephen James`][This is an interesting work with similar idea with `Render and Diffuse`]
 
 * 👍**Im2Flow2Act(arxiv2024.07)** Flow as the Cross-domain Manipulation Interface [[arxiv link](https://arxiv.org/abs/2407.15208)][[project link](https://im-flow-act.github.io/)][`Stanford University + Columbia University + JP Morgan AI Research + Carnegie Mellon University`; `Shuran Song`]
 
