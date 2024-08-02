@@ -102,9 +102,13 @@
 
 * **DualAug(arxiv2023.10)** DualAug: Exploiting Additional Heavy Augmentation with OOD Data Rejection [[arxiv link](https://arxiv.org/abs/2310.08139)][[openreview link (rejected)](https://openreview.net/forum?id=XgklTOdV4J)]
 
+* **Adversarial-AutoMixup(ICLR2024 spotlight)(arxiv2023.12)** Adversarial-AutoMixup [[openreview link](https://openreview.net/forum?id=o8tjamaJ80)][[arxiv link](https://arxiv.org/abs/2312.11954)][[code|official](https://github.com/JinXins/Adversarial-AutoMixup)][`Chongqing Technology and Business University`]
+
 * **FeatAug-DETR & DataAug-DETR(TPAMI2024)** FeatAug-DETR: Enriching One-to-Many Matching for DETRs With Feature Augmentation [[paper link](https://ieeexplore.ieee.org/abstract/document/10480276/)][[arxiv link](https://arxiv.org/abs/2303.01503)][[code|official](https://github.com/rongyaofang/FeatAug-DETR)][`CUHK`, the augmentation of `data` and `feature` in `DETRs` (such as `DAB-DETR`, `Deformable-DETR`, and `H-Deformable-DETR`) is very useful for further designing `SSL` methods]
 
-* 👍**instance_augmentation(arxiv2024.06)** Dataset Enhancement with Instance-Level Augmentations [[arxiv link](https://arxiv.org/abs/2406.08249)][[code|official](github.com/KupynOrest/instance_augmentation)][`VGG, University of Oxford + PiñataFarms AI`]
+* **SUMix(ECCV2024)(arxiv2024.07)** SUMix: Mixup with Semantic and Uncertain Information [[arxiv link](https://arxiv.org/abs/2407.07805)][[code|official](https://github.com/JinXins/SUMix)][`Chongqing Technology and Business University`]
+
+* 👍**instance_augmentation(ECCV2024)(arxiv2024.06)** Dataset Enhancement with Instance-Level Augmentations [[arxiv link](https://arxiv.org/abs/2406.08249)][[code|official](github.com/KupynOrest/instance_augmentation)][`VGG, University of Oxford + PiñataFarms AI`]
 
 
 ### ▶for Image Classification
