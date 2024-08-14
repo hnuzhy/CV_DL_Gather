@@ -50,3 +50,8 @@
 * **EgoChoir(arxiv2024.05)** EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views [[arxiv link](https://arxiv.org/abs/2405.13659)][[project link](https://yyvhang.github.io/EgoChoir/)][[code|official](https://github.com/yyvhang/EgoChoir_release)][`University of Science and Technology of China`]
 
 * **WildHOI(ACMMM2024)(arxiv2024.07)** WildHOI: Monocular Human-Object Reconstruction in the Wild [[arxiv link](https://arxiv.org/abs/2407.20566)][[project link](https://huochf.github.io/WildHOI/)][[code|official](https://github.com/huochf/WildHOI)][`ShanghaiTech University`]
+
+* **F-HOI(arxiv2024.07)** F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions [[arxiv link](https://arxiv.org/abs/2407.12435)][[project link](https://f-hoi.github.io/)][[dataset link](https://drive.google.com/file/d/1cw3ZmNs8HwirV-b_Stb1YSHBy8bFi58Y/view?usp=sharing)][`CUHKSZ + BIGAI + PKU`]
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
