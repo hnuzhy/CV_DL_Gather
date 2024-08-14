@@ -50,6 +50,7 @@
 
 * **HolisticRoboPose(ECCV2024)(arxiv2024.02)** Real-time Holistic Robot Pose Estimation with Unknown States [[arxiv link](https://arxiv.org/abs/2402.05655)][[project link](https://oliverbansk.github.io/Holistic-Robot-Pose/)][[code|official](https://github.com/Oliverbansk/Holistic-Robot-Pose-Estimation)][`Peking University + Shanghai Jiao Tong University`]
 
+* **BoT(RSS2024 Workshop)** Body Transformer: LeveragingRobot Embodiment for Policy Learning [[openreview link](https://openreview.net/forum?id=IbXqRpANPD)][[project link](https://bodytransformer.site/)][`UC Berkeley`]
 
 ***
 
@@ -329,6 +330,10 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * **TieBot(arxiv2024.07)** TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach [[arxiv link](https://arxiv.org/abs/2407.03245)][[project link](https://tiebots.github.io/)][`National University of Singapore +  Shanghai Jiao Tong University + Nanjing University`; `Cewu Lu`][`Learning from action labels free human videos`]
 
 * **Maniwhere(arxiv2024.07)** Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning [[arxiv link](https://arxiv.org/abs/2407.15815)][[project link](https://gemcollector.github.io/maniwhere/)][`THU + SJTU + HKU + PKU +  Shanghai Qi Zhi Institute + Shanghai AI Lab`]
+
+* **NeuralJacobianFields(arxiv2024.07)** Unifying 3D Representation and Control of Diverse Robots with a Single Camera [[arxiv link](https://arxiv.org/abs/2407.08722v1)][[project link](https://sizhe-li.github.io/publication/neural_jacobian_field/)][[code|official](https://github.com/sizhe-li/neural-jacobian-field)][`CSAIL, MIT`]
+
+* **(arxiv2024.08)** Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling [[project link](https://gaussian-gbnd.github.io/)]
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
