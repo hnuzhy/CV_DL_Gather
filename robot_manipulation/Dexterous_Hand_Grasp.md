@@ -136,6 +136,10 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * 👍**OAKINK2(CVPR2024)(arxiv2024.03)** OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[arxiv link](https://arxiv.org/abs/2403.19417)][[project link](https://oakink.net/v2/)][`SJTU`][They propose a task-oriented framework, `CTC`, for `complex task and motion planning`. CTC consists of a `LLM-based task interpreter` for Complex Task `decomposition` and a `diffusion-based motion generator` for Primitive `fulfillment`.][The authors expect OAKINK2 to support `large-scale language-manipulation pre-training`, improving the performance of `multi-modal` (e.g. `vision-language-action`) models for `Complex Task Completion`.]
 
+* **(TASE2024)** LLM-Enabled Incremental Learning Framework for Hand Exoskeleton Control [[paper link](https://ieeexplore.ieee.org/abstract/document/10489910)][`Chinese Academy of Sciences`, 'IEEE Transactions on Automation Science and Engineering']
+
+* **(TRO2024)** Learning Human-like Functional Grasping for Multi-finger Hands from Few Demonstrations [[paper link](https://ieeexplore.ieee.org/abstract/document/10577462)][[project link](https://v-wewei.github.io/sr_dexgrasp/)][`Chinese Academy of Sciences`]
+
 * **GeneralFlow(arxiv2024.01)** General Flow as Foundation Affordance for Scalable Robot Learning [[arxiv link](https://arxiv.org/abs/2401.11439)][[project link](https://general-flow.github.io/)][[code|official](https://github.com/michaelyuancb/general_flow)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`; using the traditional `parallel grippers`]
 
 * **RealDex(arxiv2024.02)** RealDex: Towards Human-like Grasping for Robotic Dexterous Hand [[arxiv link](https://arxiv.org/abs/2402.13853)][`ShanghaiTech University + The University of Hong Kong`; using the `Shadow Hand` to conduct their real robot experiments and build the proposed dataset.]
@@ -150,10 +154,10 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **CIMER(arxiv2024.04)(Under review by RA-L)** Learning Prehensile Dexterity by Imitating and Emulating State-only Observations [[arxiv link](https://arxiv.org/abs/2404.05582)][[project link](https://sites.google.com/view/cimer-2024/)][[code|official](https://github.com/GT-STAR-Lab/CIMER)][`Georgia Institute of Technology`; based on their previous work `KODex`; they did not conduct real robot experiments.]
 
-* **Bi-VLA((arxiv2024.05)** Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations [[arxiv link](https://arxiv.org/abs/2405.06039)][`Intelligent Space Robotics Laboratory, Moscow, Russia`]
+* **Bi-VLA(arxiv2024.05)** Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations [[arxiv link](https://arxiv.org/abs/2405.06039)][`Intelligent Space Robotics Laboratory, Moscow, Russia`]
 
-* **(TASE2024)** LLM-Enabled Incremental Learning Framework for Hand Exoskeleton Control [[paper link](https://ieeexplore.ieee.org/abstract/document/10489910)][`Chinese Academy of Sciences`, 'IEEE Transactions on Automation Science and Engineering']
+* **penspin(arxiv2024.07)** Lessons from Learning to Spin "Pens" [[arxiv link](https://arxiv.org/abs/2407.18902)][[project link](https://penspin.github.io/)][[code|official](https://github.com/HaozhiQi/penspin)][`UC San Diego, + Carnegie Mellon University + UC Berkeley`; `Xiaolong Wang`]
 
-* **(TRO2024)** Learning Human-like Functional Grasping for Multi-finger Hands from Few Demonstrations [[paper link](https://ieeexplore.ieee.org/abstract/document/10577462)][[project link](https://v-wewei.github.io/sr_dexgrasp/)][`Chinese Academy of Sciences`]
+* **VoxAct-B(arxiv2024.07)** VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2407.04152)][[project link](https://voxact-b.github.io/)][`University of Southern California`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
