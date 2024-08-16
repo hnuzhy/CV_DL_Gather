@@ -339,6 +339,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **(arxiv2024.08)** Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling [[project link](https://gaussian-gbnd.github.io/)]
 
+* **(IROS2024)(arxiv2024.08)** Adapting Skills to Novel Grasps: A Self-Supervised Approach [[arxiv link](https://arxiv.org/abs/2408.00178v1)][[project link](https://www.robot-learning.uk/adapting-skills)][`The Robot Learning Lab at Imperial College London`; `Edward Johns`]
+
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
