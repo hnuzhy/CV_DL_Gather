@@ -43,7 +43,6 @@
 * **SAI3D(CVPR2024)(arxiv2023.12)** SAI3D: Segment Any Instance in 3D Scenes [[arxiv link](https://arxiv.org/abs/2312.11557)][[project link](https://yd-yin.github.io/SAI3D/)][[code|official](https://github.com/yd-yin/SAI3D)][`Peking University`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
 
 ***
-***
 
 ## ⭐Depth Anything Series
 *for the `monocular depth estimation` task*
@@ -56,7 +55,6 @@
 
 
 ***
-***
 
 ## ⭐Mesh Anything Series
 *for the `3D mesh generation` task*
@@ -64,6 +62,13 @@
 * **MeshAnything(arxiv2024.06)** MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers [[arxiv link](https://arxiv.org/abs/2406.10163)][[project link](https://buaacyw.github.io/mesh-anything/)][[blog link](https://zhuanlan.zhihu.com/p/706166825)][[code|official](https://github.com/buaacyw/MeshAnything)][`S-Lab, Nanyang Technological University, + others`]
 
 * **MeshAnythingV2(arxiv2024.08)** MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization [[arxiv link](https://arxiv.org/abs/2408.02555)][[project link](https://buaacyw.github.io/meshanything-v2/)][[blog link](https://baijiahao.baidu.com/s?id=1807065134602050319)][[code|official](https://github.com/buaacyw/MeshAnythingV2)][`S-Lab, Nanyang Technological University, + others`]
+
+***
+
+## ⭐Foundation Pose Series
+*for the `6D Pose Estimation` task*
+
+* **FoundationPose(CVPR2024 Highlight)(arxiv2023.12)** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.08344)][[project link](https://nvlabs.github.io/FoundationPose/)][[code|official](https://github.com/NVlabs/FoundationPose)][`NVIDIA`]
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
