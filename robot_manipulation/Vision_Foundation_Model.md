@@ -1,7 +1,8 @@
 # ⭐Vision Foundation Model
 *currently, we treat `SAM` as the only Vision Foundation Model and collect related works*
 
-## ⭐Segment Anything
+## ⭐Segment Anything Series
+*for the `instance segmentation` task*
 
 ### Materials
 
@@ -40,3 +41,29 @@
 * **SAM-6D(CVPR2024)(arxiv2023.11)** SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2311.15707)][[code|official](https://github.com/JiehongLin/SAM-6D)][`South China University of Technology`, the first author [`Jiehong Lin (林杰鸿)`](https://jiehonglin.github.io/)]
 
 * **SAI3D(CVPR2024)(arxiv2023.12)** SAI3D: Segment Any Instance in 3D Scenes [[arxiv link](https://arxiv.org/abs/2312.11557)][[project link](https://yd-yin.github.io/SAI3D/)][[code|official](https://github.com/yd-yin/SAI3D)][`Peking University`, the first author [`Yingda Yin 尹英达`](https://yd-yin.github.io/)]
+
+***
+***
+
+## ⭐Depth Anything Series
+*for the `monocular depth estimation` task*
+
+### Papers
+
+* **DepthAnything(CVPR2024)(arxiv2024.01)** Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Depth_Anything_Unleashing_the_Power_of_Large-Scale_Unlabeled_Data_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2401.10891)][[project link](https://depth-anything.github.io/)][[code|official](https://github.com/LiheYoung/Depth-Anything)][`HKU + TikTok + CUHK + ZJU`][the first author is [`Lihe Yang`](https://liheyoung.github.io/)][two keys factors: following the `scaling law of large dataset` and the `semi-supervised learning` technique][It harnesses large-scale unlabeled data to speed up data scaling-up and increase the data coverage]
+  
+* **DepthAnythingV2(NIPS2025)(arxiv2024.06)** Depth Anything V2 [[arxiv link](https://arxiv.org/abs/2406.09414)][[project link](https://depth-anything-v2.github.io/)][[code|official](https://github.com/DepthAnything/Depth-Anything-V2)][`HKU + TikTok`][the first author is [`Lihe Yang`](https://liheyoung.github.io/)][two keys factors: following the `scaling law of large dataset` and the `semi-supervised learning` technique][It demonstrates “precise synthetic data + pseudo-labeled real data” is a more promising roadmap than labeled real data]
+
+
+***
+***
+
+## ⭐Mesh Anything Series
+*for the `3D mesh generation` task*
+
+* **MeshAnything(arxiv2024.06)** MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers [[arxiv link](https://arxiv.org/abs/2406.10163)][[project link](https://buaacyw.github.io/mesh-anything/)][[blog link](https://zhuanlan.zhihu.com/p/706166825)][[code|official](https://github.com/buaacyw/MeshAnything)][`S-Lab, Nanyang Technological University, + others`]
+
+* **MeshAnythingV2(arxiv2024.08)** MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization [[arxiv link](https://arxiv.org/abs/2408.02555)][[project link](https://buaacyw.github.io/meshanything-v2/)][[blog link](https://baijiahao.baidu.com/s?id=1807065134602050319)][[code|official](https://github.com/buaacyw/MeshAnythingV2)][`S-Lab, Nanyang Technological University, + others`]
+
+
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
