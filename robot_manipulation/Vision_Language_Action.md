@@ -343,9 +343,11 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ClutterGen(arxiv2024.07)** ClutterGen: A Cluttered Scene Generator for Robot Learning [[arxiv link](https://arxiv.org/abs/2407.05425)][[project link](http://www.generalroboticslab.com/blogs/blog/2024-07-06-cluttergen/index.html)][[code|official](https://github.com/generalroboticslab/ClutterGen)][`Duke University`]
 
-* **(arxiv2024.08)** Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling [[project link](https://gaussian-gbnd.github.io/)]
+* **GaussianGBND(arxiv2024.08)** Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling [[project link](https://gaussian-gbnd.github.io/)]
 
-* **(IROS2024)(arxiv2024.08)** Adapting Skills to Novel Grasps: A Self-Supervised Approach [[arxiv link](https://arxiv.org/abs/2408.00178v1)][[project link](https://www.robot-learning.uk/adapting-skills)][`The Robot Learning Lab at Imperial College London`; `Edward Johns`]
+* **AdaptingSkills(IROS2024)(arxiv2024.08)** Adapting Skills to Novel Grasps: A Self-Supervised Approach [[arxiv link](https://arxiv.org/abs/2408.00178v1)][[project link](https://www.robot-learning.uk/adapting-skills)][`The Robot Learning Lab at Imperial College London`; `Edward Johns`]
+
+* **Kalib(arxiv2024.08)** Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking [[arxiv link](https://arxiv.org/abs/2408.10562)][[project link](https://sites.google.com/view/hand-eye-kalib)][[code|official](https://github.com/robotflow-initiative/Kalib)][`SJTU`; `Cewu Lu`]
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
