@@ -70,5 +70,15 @@
 
 * **FoundationPose(CVPR2024 Highlight)(arxiv2023.12)** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.08344)][[project link](https://nvlabs.github.io/FoundationPose/)][[code|official](https://github.com/NVlabs/FoundationPose)][`NVIDIA`]
 
+***
+
+## ⭐VLMs Distillation Series
+*for the `Vision Foundation Models Distillation` task*
+
+* 👍**AM-RADIO(CVPR2024)(arxiv2023.12)** AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One [[paper link](http://openaccess.thecvf.com/content/CVPR2024/html/Ranzinger_AM-RADIO_Agglomerative_Vision_Foundation_Model_Reduce_All_Domains_Into_One_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.06709)][[code|official](https://github.com/NVlabs/RADIO)][`NVIDIA`]
+
+* **TroL(arxiv2024.06)** TroL: Traversal of Layers for Large Language and Vision Models [[arxiv link](https://arxiv.org/abs/2406.12246)][[code|official](https://github.com/ByungKwanLee/TroL)][`KAIST`][It is one of the `Numerous Efficient Approaches`.]
+
+* **UNIC(ECCV2024)(arxiv2024.08)*** UNIC: Universal Classification Models via Multi-teacher Distillation [[arxiv link](https://arxiv.org/abs/2408.05088)][[project link](https://europe.naverlabs.com/research/publications-enhanced/unic-universal-classification-models-via-multi-teacher-distillation/)][[code|official](https://github.com/naver/unic)][`NAVER LABS Europe`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
