@@ -13,6 +13,8 @@
 
 ## ▶Papers
 
+* **Walk These Ways(CoRL2022)(arxiv2022.12)** Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior [[arxiv link](https://arxiv.org/abs/2212.03238)][[project link](https://gmargo11.github.io/walk-these-ways/)][[code|official](https://github.com/Improbable-AI/walk-these-ways)][`MIT`][using `Unitree Go1 robot`]
+
 * **PACER(CVPR2023)(arxiv2023.04)** Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion [[paper link](http://openaccess.thecvf.com/content/CVPR2023/html/Rempe_Trace_and_Pace_Controllable_Pedestrian_Animation_via_Guided_Trajectory_Diffusion_CVPR_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2304.01893)][[project link](https://research.nvidia.com/labs/toronto-ai/trace-pace/)][[code|official](https://github.com/nv-tlabs/pacer)][`NVIDIA + Stanford`; the first authors are [`Davis Rempe`](https://davrempe.github.io/) and [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
 
 * **PHC(PerpetualHumanoidControl)(ICCV2023)(arxiv2023.05)** Perpetual Humanoid Control for Real-time Simulated Avatars [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Perpetual_Humanoid_Control_for_Real-time_Simulated_Avatars_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2305.06456)][[project link](https://www.zhengyiluo.com/PHC-Site/)][[code|official](https://github.com/ZhengyiLuo/PerpetualHumanoidControl)][`Meta` and `CMU`; the first author [`Zhengyi Luo (罗正宜)`](https://www.zhengyiluo.com/)]
@@ -48,5 +50,7 @@
 * **SkillMimic(arxiv2024.08)** SkillMimic: Learning Reusable Basketball Skills from Demonstrations [[arxiv link](https://arxiv.org/abs/2408.15270)][[project link](https://ingrid789.github.io/SkillMimic/)][[code|official](https://github.com/wyhuai/SkillMimic)][`HKUST + Unitree + PKU + THU + IDEA + Tencent + CMU`][using `Issac Gym`][a `data-driven` approach that `mimics both human and ball motions` to learn a wide variety of basketball skills.]
 
 * **Jumping CoD(arxiv2024.09)** Agile Continuous Jumping in Discontinuous Terrains [[arxiv link](https://arxiv.org/abs/2409.10923)][[project link](https://yxyang.github.io/jumping_cod/)][[code|official](https://github.com/yxyang/jumping_cod)][`University of Washington + Google Deepmind + Carnegie Mellon University`][using `Unitree Go1 robot`]
+
+* **MaskedMimic(SIGGRAPH2024)** MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting [[pdf link](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)][[project link](https://research.nvidia.com/labs/par/maskedmimic/)][[`NVIDIA`] 
 
 * **GVHMR(SIGGRAPH2024)(arxiv2024.09)** World-Grounded Human Motion Recovery via Gravity-View Coordinates [[arxiv link](https://arxiv.org/abs/2409.06662)][[project link](https://zju3dv.github.io/gvhmr/)][[code|official](https://github.com/zju3dv/GVHMR)][[huggingface demo](https://huggingface.co/spaces/LittleFrog/GVHMR)][`Zhejiang University + The University of Hong Kong + Deep Glint + Shenzhen University`]
