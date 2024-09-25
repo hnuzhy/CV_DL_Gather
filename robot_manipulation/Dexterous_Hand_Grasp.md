@@ -171,6 +171,9 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **TaskDexGrasp(IROS2024)(arxiv2024.09)** Task-Oriented Dexterous Grasp Synthesis Using Differentiable Grasp Wrench Boundary Estimator [[arxiv link](https://arxiv.org/abs/2309.13586)][[project link](https://pku-epic.github.io/TaskDexGrasp/)][`Peking University + Beijing Academy of Artificial Intelligence + Galbot`; `He Wang`]
 
+* **DextrAH-G(CoRL2024)(arxiv2024.09)** DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics [[arxiv link](https://arxiv.org/abs/2407.02274v2)][[project link](https://sites.google.com/view/dextrah-g)][`Stanford University + University of Utah + NVIDIA + University of California, Berkeley`]
+
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
