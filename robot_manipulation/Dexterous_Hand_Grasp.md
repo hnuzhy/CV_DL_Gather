@@ -27,6 +27,13 @@
 
 ## Papers
 
+### ▶ Hand 3D Pose Estimation/Shape Regression
+
+* **Hands(ECCVW2024)** Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild [[arxiv link](https://arxiv.org/abs/2409.09714)][`The University of Tokyo`; `Yoichi Sato`]
+
+* **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
+
+
 ### ▶ Hand Object Contact/Interaction
 
 * **ContactDB(CVPR2019 Oral, Best Paper Finalist)** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging [[arxiv link](https://arxiv.org/abs/1904.06830)][[project link](https://contactdb.cc.gatech.edu/)][`Georgia Tech Robotics`][`the first large-scale dataset that records detailed contact maps for functional human grasps`]
