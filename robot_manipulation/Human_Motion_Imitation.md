@@ -45,4 +45,6 @@
 
 * **HumanPlus(arxiv2024.06)** HumanPlus: Humanoid Shadowing and Imitation from Humans [[arxiv link](https://arxiv.org/abs/2406.10454)][[project link](https://humanoid-ai.github.io/)][[code|official](https://github.com/MarkFzp/humanplus)][`Stanford University`]
 
+* **Jumping CoD(arxiv2024.09)** Agile Continuous Jumping in Discontinuous Terrains [[arxiv link](https://arxiv.org/abs/2409.10923)][[project link](https://yxyang.github.io/jumping_cod/)][[code|official](https://github.com/yxyang/jumping_cod)][`University of Washington + Google Deepmind + Carnegie Mellon University`][using `Unitree Go1 robot`]
+
 * **GVHMR(SIGGRAPH2024)(arxiv2024.09)** World-Grounded Human Motion Recovery via Gravity-View Coordinates [[arxiv link](https://arxiv.org/abs/2409.06662)][[project link](https://zju3dv.github.io/gvhmr/)][[code|official](https://github.com/zju3dv/GVHMR)][[huggingface demo](https://huggingface.co/spaces/LittleFrog/GVHMR)][`Zhejiang University + The University of Hong Kong + Deep Glint + Shenzhen University`]
