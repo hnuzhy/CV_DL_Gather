@@ -45,4 +45,4 @@
 
 * **HumanPlus(arxiv2024.06)** HumanPlus: Humanoid Shadowing and Imitation from Humans [[arxiv link](https://arxiv.org/abs/2406.10454)][[project link](https://humanoid-ai.github.io/)][[code|official](https://github.com/MarkFzp/humanplus)][`Stanford University`]
 
-
+* **GVHMR(SIGGRAPH2024)(arxiv2024.09)** World-Grounded Human Motion Recovery via Gravity-View Coordinates [[arxiv link](https://arxiv.org/abs/2409.06662)][[project link](https://zju3dv.github.io/gvhmr/)][[code|official](https://github.com/zju3dv/GVHMR)][[huggingface demo](https://huggingface.co/spaces/LittleFrog/GVHMR)][`Zhejiang University + The University of Hong Kong + Deep Glint + Shenzhen University`]
