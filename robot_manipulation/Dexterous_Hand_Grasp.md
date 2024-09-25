@@ -169,4 +169,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **ACE(arxiv2024.08)** ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation [[arxiv link](https://arxiv.org/abs/2408.11805)][[project link](https://ace-teleop.github.io/)][[code|official](https://github.com/ACETeleop/ACETeleop)][`UC San Diego`; `Xiaolong Wang`]
 
+* **TaskDexGrasp(IROS2024)(arxiv2024.09)** Task-Oriented Dexterous Grasp Synthesis Using Differentiable Grasp Wrench Boundary Estimator [[arxiv link](https://arxiv.org/abs/2309.13586)][[project link](https://pku-epic.github.io/TaskDexGrasp/)][`Peking University + Beijing Academy of Artificial Intelligence + Galbot`; `He Wang`]
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
