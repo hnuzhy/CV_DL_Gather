@@ -98,6 +98,8 @@
 
 * **(ICCV2021)** Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.html)][`Dalian University of Technology`]
 
+* **Diverse-and-Stable-Grasp(RAL2021)(arxiv2021.04)** Synthesizing Diverse and Physically Stable Grasps with Arbitrary Hand Structures using Differentiable Force Closure Estimator [[paper link](https://ieeexplore.ieee.org/abstract/document/9619920/)][[arxiv link](https://arxiv.org/abs/2104.09194)][[project link](https://sites.google.com/view/ral2021-grasp/)][[code|official](https://github.com/tengyu-liu/diverse-and-stable-grasp)][`UCLA + BIGAI + PKU + THU`; `Song-Chun Zhu`]
+
 * **DexMV(ECCV2022)(arxiv2021.08)** DexMV: Imitation Learning for Dexterous Manipulation from Human Videos [[paper link]()][[arxiv link](https://arxiv.org/abs/2108.05877)][[project link](https://yzqin.github.io/dexmv/)][[code|official](https://github.com/yzqin/dexmv-sim)][`UC San Diego`; related to [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
 
 * **VRL3(NIPS2022)(arxiv2022.02)** VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d4cc7a2d0d70736e29a3b48c3729bc06-Abstract-Conference.html)][[arxiv link](https://arxiv.org/abs/2202.10324)][[project link](https://sites.google.com/nyu.edu/vrl3)][[code|official](https://github.com/microsoft/VRL3)][`NYU + NYU Shanghai + Microsoft Research Asia`]
