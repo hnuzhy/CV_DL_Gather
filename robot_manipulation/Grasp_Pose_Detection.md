@@ -44,7 +44,7 @@
 
 * **LGD(Grasp-Anything++)(CVPR2024)(arxiv2024.06)** Language-driven Grasp Detection [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2406.09489)][[huggingface link](https://huggingface.co/datasets/airvlab/Grasp-Anything-pp)][[project link](https://airvlab.github.io/grasp-anything/docs/grasp-anything-pp/)][[code|official](https://github.com/andvg3/LGD)][`FPT Software AI Center, Vietnam + Automation & Control Institute, TU Wien, Austria + Imperial College London, UK + Ton Duc Thang University, Vietnam + University of Liverpool, UK`]
 
-* **Grasp-Anything-6D(ECCV2024)** Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance [[arxiv link]()][[project link](https://airvlab.github.io/grasp-anything/docs/grasp-anything-6d/)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
+* **Grasp-Anything-6D(ECCV2024)** Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance [[pdf link](https://www.csc.liv.ac.uk/~anguyen/assets/pdfs/2024_ECCV_LGRASP6D.pdf)][[project link](https://airvlab.github.io/grasp-anything/docs/grasp-anything-6d/)][[code|official](https://github.com/Fsoft-AIC/Language-Driven-6-DoF-Grasp-Detection-Using-Negative-Prompt-Guidance)][`FPT Software - AIC Lab (Hanoi, Vietnam)`]
 
 
 ### ※ Datasets Closely Related to the Grasp Task
