@@ -169,7 +169,7 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **penspin(arxiv2024.07)** Lessons from Learning to Spin "Pens" [[arxiv link](https://arxiv.org/abs/2407.18902)][[project link](https://penspin.github.io/)][[code|official](https://github.com/HaozhiQi/penspin)][`UC San Diego, + Carnegie Mellon University + UC Berkeley`; `Xiaolong Wang`]
 
-* **VoxAct-B(arxiv2024.07)** VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2407.04152)][[project link](https://voxact-b.github.io/)][`University of Southern California`]
+* **VoxAct-B(CoRL2024)(arxiv2024.07)** VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2407.04152)][[project link](https://voxact-b.github.io/)][`University of Southern California`]
 
 * **ACE(arxiv2024.08)** ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation [[arxiv link](https://arxiv.org/abs/2408.11805)][[project link](https://ace-teleop.github.io/)][[code|official](https://github.com/ACETeleop/ACETeleop)][`UC San Diego`; `Xiaolong Wang`]
 
