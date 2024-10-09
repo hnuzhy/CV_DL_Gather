@@ -325,7 +325,10 @@
 
 * **RestrictedRepresentations(NIPS2023)(arxiv2023.06)** Equivariant Single View Pose Prediction Via Induced and Restricted Representations [[openreview link](https://openreview.net/forum?id=dxVN2fZjx6)][[arxiv link](https://arxiv.org/abs/2307.03704)][`Northeastern University`, the first author [`Owen Howell`](https://owenhowell20.github.io/), on datasets `PASCAL3D+` and `SYMSOL`, `Machine Learning, Group Theory`]
 
+* **RnC(NIPS2023, Spotlight)(arxiv2022.10)** Rank-N-Contrast: Learning Continuous Representations for Regression [[paper link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/39e9c5913c970e3e49c2df629daff636-Abstract-Conference.html)][[openreview link](https://openreview.net/forum?id=WHedsAeatp)][[arxiv link](https://arxiv.org/abs/2210.01189)][[code|official](https://github.com/kaiwenzha/Rank-N-Contrast)][`MIT CSAIL + GIST`]
+
 * **(arxiv2024.04)** Learning a Category-level Object Pose Estimator without Pose Annotations [[arxiv link](https://arxiv.org/abs/2404.05626)][`Xi’an Jiaotong Univeristy + Johns Hopkins University + Tsinghua University + University of Freiburg + MPII`][based on `Zero-1-to-3`; tested on datasets `PASCAL3D+` and `KITTI`]
+
 
 #### Few-Shot Learning
 
