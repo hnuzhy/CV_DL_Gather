@@ -743,3 +743,5 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **TRG(ECCV2024)(arxiv2024.07)** 6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry [[arxiv link](https://arxiv.org/abs/2407.14136)][[code|official](https://github.com/asw91666/TRG-Release)][`Kwangwoon University`]
 
+* **Lercpose(ICIP2024)** Lercpose: Learned Ranking and Contrastive Loss for Robust Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10647301)][[code|official](https://github.com/soni-H/lercpose/)][`Mercedes benz R&D, India`]
+
