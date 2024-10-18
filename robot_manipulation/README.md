@@ -11,7 +11,7 @@ This is a mixed collection of many different fields including `Dexterous Hand Gr
 
 * [The Roadmap and Technical Challenges of Sim2Real Embodied AI (with a focus on generalist robotic manipulation)](https://dexforce.feishu.cn/wiki/Zsubw2FIriW8gRkpesFcwiCvnpA) [authored by [`Kui Jia`](http://kuijia.site/)]
 
-
+* [Spatial and Embodied Intelligence Research (Mission and Objective)](https://ncn1lcetrrnu.feishu.cn/wiki/E1N3w9wtLi4rDVknN3lcLbjBnYd) [authored by [`Kui Jia`](http://kuijia.site/)]
 
 
 
