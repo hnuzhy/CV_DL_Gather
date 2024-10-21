@@ -405,5 +405,70 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **TinyVLA(arxiv2024.09)** TinyVLA : Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2409.12514)][[project link](https://tiny-vla.github.io/)][`Midea Group + East China Normal University + Shanghai University + Syracuse University + Beijing Innovation Center of Humanoid Robotics`]
 
+
+
+* **RoVi-Aug(CoRL2024, Oral)(arxiv2024.09)** RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning [[openreview link](https://openreview.net/forum?id=ctzBccpolr)][[arxiv link](https://arxiv.org/abs/2409.03403)][[project link](https://rovi-aug.github.io/)][`University of California, Berkeley + Toyota Research Institute + Physical Intelligence`]
+
+* **SPIN(CVPR2024)(arxiv2024.05)** SPIN: Simultaneous Perception, Interaction and Navigation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Uppal_SPIN_Simultaneous_Perception_Interaction_and_Navigation_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2405.07991)][[project link](https://spin-robot.github.io/)][`CMU`]
+
+* **TRANSIC(CoRL2024)(arxiv2024.05)** TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction [[arxiv link](https://arxiv.org/abs/2405.10315)][[project link](https://transic-robot.github.io/)][[code|official](https://github.com/transic-robot/transic)][`Stanford University`; `Jiajun Wu + Li Fei-Fei`]
+
+* **Make-An-Agent(NIPS2024)(arxiv2024.07)** Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion [[arxiv link](https://arxiv.org/abs/2407.10973)][[project link](https://cheryyunl.github.io/make-an-agent/)][[code|official](https://github.com/cheryyunl/Make-An-Agent)][`University of Maryland + College Park + Tsinghua University, IIIS + UC San Diego`; `Huazhe Xu`]
+
+* **CabiNet(ICRA2023)(arxiv2023.04)** CabiNet: Scaling Neural Collision Detection for Object Rearrangement with Procedural Scene Generation [[paper link](https://ieeexplore.ieee.org/abstract/document/10161528/)][[arxiv link](https://arxiv.org/abs/2304.09302)][[project link](https://cabinet-object-rearrangement.github.io/)][[code|official](https://github.com/NVlabs/cabi_net)][`NVIDIA`; `Dieter Fox`][`Procedural Scene Generation`]
+
+* **AxisEst(arxiv2024.09)** Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking [[arxiv link](https://arxiv.org/abs/2409.16287)][[project link](https://hytidel.github.io/video-tracking-for-axis-estimation/)][[code|official](https://github.com/TianxingChen/VideoTracking-For-AxisEst)][`University of Hong Kong + Shenzhen University + Shanghai Jiaotong University + Southern University of Science and Technology`][`Articulated Object Manipulation`]
+
+* **RSRD(CoRL2024, Oral)(arxiv2024.09)** Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction [[openreview link](https://openreview.net/forum?id=2LLu3gavF1)][[arxiv link](https://arxiv.org/abs/2409.18121)][[project link](https://robot-see-robot-do.github.io/)][[code|official](https://github.com/kerrj/rsrd)][`UC Berkeley`]
+
+* **UOIS-SAM(arxiv2024.09)** Adapting Segment Anything Model for Unseen Object Instance Segmentation [[arxiv link](https://arxiv.org/abs/2409.15481)][`CUHK`][`Unseen Object Instance Segmentation (UOIS) SAM`]
+
+* **Diff-Control(IROS2024)** Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning [[pdf link](https://diff-control.github.io/static/videos/Diff-Control.pdf)][[project link](https://diff-control.github.io/)][[code|official](https://github.com/ir-lab/Diff-Control)][`Interactive Robotics Lab, Arizona State University + Kyushu Institute of Technology`]
+
+* **Catch_It(arxiv2024.09)** Catch It! Learning to Catch in Flight with Mobile Dexterous Hands [[arxiv link](https://arxiv.org/abs/2409.10319)][[project link](https://mobile-dex-catch.github.io/)][[code|official](https://github.com/hang0610/Catch_It)][`Shanghai Qi Zhi Institute + Tsinghua University + Shanghai AI Lab + Georgia Institute of Technology + Stanford University`]
+
+* **SimGen(arxiv2024.06)** SimGen: Simulator-conditioned Driving Scene Generation [[arxiv link](https://arxiv.org/abs/2406.09386)][[project link](https://metadriverse.github.io/simgen/)][[code|official](https://github.com/metadriverse/SimGen)][`University of California, Los Angeles + Shanghai Jiao Tong University`; `Minyi Guo`]
+
+* **GraspGPT(RAL2023)(arxiv2023.07)** GraspGPT: Leveraging Semantic Knowledge From a Large Language Model for Task-Oriented Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10265134)][[arxiv link](https://arxiv.org/abs/2307.13204)][[project link](https://sites.google.com/view/graspgpt/home)][[code|official](https://github.com/mkt1412/GraspGPT_public)][`Southern University of Science and Technology + Georgia Institute of Technology`][The journal version [`FoundationGrasp: Generalizable Task-Oriented Grasping with Foundation Models`](https://sites.google.com/view/foundationgrasp), which is released in [`arxiv2024.04`](https://arxiv.org/abs/2404.10399)]
+
+* **PRESTO(arxiv2024.09)** PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation [[arxiv link](https://arxiv.org/abs/2409.16012)][[project link](https://kiwi-sherbet.github.io/PRESTO/)][`UT Austin + KAIST`; `Yuke Zhu`]
+
+* **DIAL-MPC(arxiv2024.09)** Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing [[arxiv link](https://arxiv.org/abs/2409.15610)][[project link](https://lecar-lab.github.io/dial-mpc/)][[code|official](https://github.com/LeCAR-Lab/dial-mpc)][`Carnegie Mellon University`][`DIAL-MPC: Diffusion-Inspired Annealing For Legged MPC`]
+
+* 👍**PhysGen(ECCV2024)(arxiv2024.09)** PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation [[arxiv link](https://arxiv.org/abs/2409.18964)][[project link](https://stevenlsw.github.io/physgen/)][[code|official](https://github.com/stevenlsw/physgen)][`University of Illinois Urbana-Champaign`]
+
+* **Open-TeleVision(CoRL2024)(arxiv2024.07)** Open-TeleVision: Teleoperation with Immersive Active Visual Feedback [[openreview link](https://openreview.net/forum?id=Yce2jeILGt)][[arxiv link](https://arxiv.org/abs/2407.01512)][[project link](https://robot-tv.github.io/)][[code|official](https://github.com/OpenTeleVision/TeleVision)][`UC San Diego + MIT`; `Xiaolong Wang`]
+
+* 👍👍**DRRobot(CoRL2024, Oral)(arxiv2024.10)** Differentiable Robot Rendering [[openreview link](https://openreview.net/forum?id=lt0Yf8Wh5O)][[arxiv link](https://arxiv.org/abs/2410.13851)][[project link](https://drrobot.cs.columbia.edu/)][[code|official](https://github.com/cvlab-columbia/drrobot)][`Columbia University + Stanford University`; `Shuran Song`]
+
+* **LINGO(SIGGRAPH2024)(arxiv2024.10)** Autonomous Character-Scene Interaction Synthesis from Text Instruction [[arxiv link](https://arxiv.org/abs/2410.03187)][[project link](https://lingomotions.com/)][`Peking University + BIGAI`][This paper introduces a framework for synthesizing `multi-stage scene-aware interaction motions` and a comprehensive `language-annotated MoCap dataset (LINGO)`.]
+
+* **TacDiffusion(arxiv2024.09)** TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation [[arxiv link](https://arxiv.org/abs/2409.11047)][[code|official](https://github.com/popnut123/TacDiffusion)][`Technical University of Munich`]
+
+* **D3Fields(CoRL2024, Oral)(arxiv2023.09)** D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement [[openreview link](https://openreview.net/forum?id=Uaaj4MaVIQ)][[arxiv link](https://arxiv.org/abs/2309.16118)][[project link](https://robopil.github.io/d3fields/)][[code|official](https://github.com/WangYixuan12/d3fields)]
+
+* **BiDexHD(arxiv2024.10)** Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations [[arxiv link](https://arxiv.org/abs/2410.02477)][[project link](https://sites.google.com/view/bidexhd)][`Peking University`][It is based on the `TACO Dataset` and `Isaac Gym`]
+
+* **GEMBench(arxiv2024.10)** Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy [[arxiv link](https://arxiv.org/abs/2410.01345)][[project link](https://www.di.ens.fr/willow/research/gembench/)][[code|official](https://github.com/vlc-robot/robot-3dlotus/)][`CNRS, PSL Research University`, `Shizhe Chen`][It is still based on the `RLBench`]
+
+* **XMoP(RSS Workshop 2024)** Whole-Body Neural Policy for Zero-Shot Cross-Embodiment Motion Planning [[openreview link](https://openreview.net/forum?id=fg0NWbup5t)][[project link](https://sites.google.com/view/xmop)][[code|official](https://github.com/prabinrath/xmop)][`Arizona State University`]
+
+* **ROSE-SoftGripper(IJRR2024)** [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649241272120)][[project link](https://sites.google.com/view/rosesoftgripper)][`Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (JAIST)`; `Soft Robot`]
+
+* **GR-2(arxiv2024.10)** GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2410.06158)][[project link](https://gr2-manipulation.github.io/)][`Robotics Research Team, ByteDance Research`]
+
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
