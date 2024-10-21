@@ -132,11 +132,13 @@
 
 * 👍**GaussianGrasper(arxiv2024.03)** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping [[paper link]()][[arxiv link](https://arxiv.org/abs/2403.09637)][[project link](https://mrsecant.github.io/GaussianGrasper/)][[dataset link](https://drive.google.com/file/d/1Zsl0yCXezqwLrAYzOb-u33q8gdjvRfAC/view?usp=drive_link)][[code|official](https://github.com/MrSecant/GaussianGrasper)][`Beihang University + EncoSmart + HKU + CASIA + Tsinghua AIR + Imperial College London`]
 
-* 👍**CGDF(arxiv2024.04)** Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation [[arxiv link](https://arxiv.org/abs/2404.04643)][[project link](https://constrained-grasp-diffusion.github.io/)][`IIIT Hyderabad + MIT + Brown University`][`CGDF: Constrained Grasp Diffusion Fields`; Dual-Arm Manipulation]
+* **CGDF(arxiv2024.04)** Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation [[arxiv link](https://arxiv.org/abs/2404.04643)][[project link](https://constrained-grasp-diffusion.github.io/)][`IIIT Hyderabad + MIT + Brown University`][`CGDF: Constrained Grasp Diffusion Fields`; Dual-Arm Manipulation]
 
 * **SemGrasp(arxiv2024.04)** SemGrasp: Semantic Grasp Generation via Language Aligned Discretization [[arxiv link](https://arxiv.org/abs/2404.03590)][[project link](https://kailinli.github.io/SemGrasp/)][`SJTU + Shanghai AI Lab`]
 
 * **DexGYS(arxiv2024.05)** Grasp as You Say: Language-guided Dexterous Grasp Generation [[arxiv link](https://arxiv.org/abs/2405.19291)][[project link](https://sites.google.com/stanford.edu/dexgys)][`Sun Yat-sen University  + Stanford University + Wuhan University`; `Dexterous Grasp as You Say (DexGYS)`]
+
+* 👍👍**CenterGrasp(RAL2024)(arxiv2023.12)** CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10499443)][[arxiv link](https://arxiv.org/abs/2312.08240)][[project link](http://centergrasp.cs.uni-freiburg.de/)][[code|official](https://github.com/robot-learning-freiburg/CenterGrasp)][`University of Freiburg + University of Technology Nuremberg`][It is based on `CenterSnap`, `DeepSDF` and `Neural Grasp Distance Fields (NGDF)`, and is much better than `GraspNet`, `AnyGrasp` and `GIGA`]
 
 * 👍**RNGNet(CoRL2024)(arxiv2024.06)** Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping [[openreview link](https://openreview.net/forum?id=jPkOFAiOzf)][[arxiv link](https://arxiv.org/abs/2406.01767)][[code|official](https://github.com/THU-VCLab/RegionNormalizedGrasp)][`THU-Shenzhen`][It is better than `HGGD`]
 
