@@ -138,4 +138,6 @@
 
 * **DexGYS(arxiv2024.05)** Grasp as You Say: Language-guided Dexterous Grasp Generation [[arxiv link](https://arxiv.org/abs/2405.19291)][[project link](https://sites.google.com/stanford.edu/dexgys)][`Sun Yat-sen University  + Stanford University + Wuhan University`; `Dexterous Grasp as You Say (DexGYS)`]
 
+* 👍**RNGNet(CoRL2024)(arxiv2024.06)** Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping [[openreview link](https://openreview.net/forum?id=jPkOFAiOzf)][[arxiv link](https://arxiv.org/abs/2406.01767)][[code|official](https://github.com/THU-VCLab/RegionNormalizedGrasp)][`THU-Shenzhen`][It is better than `HGGD`]
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
