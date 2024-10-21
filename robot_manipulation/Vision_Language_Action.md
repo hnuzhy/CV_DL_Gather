@@ -507,27 +507,25 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **TouchInsight(UIST2024)(arxiv2024.10)** TouchInsight: Uncertainty-aware Rapid Touch and Text Input for Mixed Reality from Egocentric Vision [[paper link](https://dl.acm.org/doi/10.1145/3654777.3676330)][[arxiv link](https://arxiv.org/abs/2410.05940)][[project link](https://siplab.org/projects/TouchInsight)][`ETH Zürich + Meta`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **EgoPressure(arxiv2024.09)** EgoPressure: A Dataset for Hand Pressure and Pose Estimation in Egocentric Vision [[arxiv link](https://arxiv.org/abs/2409.02224)][[project link](https://yiming-zhao.github.io/EgoPressure/)][`ETH Zurich + Microsoft`][It used the `MANO`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **3DTacDex(arxiv2024.09)** Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning [[arxiv link](https://arxiv.org/abs/2409.17549)][[project link](https://3dtacdex.github.io/)][`Peking University`; `Hao Dong`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**iDP3(arxiv2024.10)** Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[arxiv link](https://arxiv.org/abs/2410.10803)][[project link](https://humanoid-manipulation.github.io/)][[code|official](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)][`Stanford University + Simon Fraser University + UPenn + UIUC + CMU`; `Jiajun Wu`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Gen2Act(arxiv2024.09)** Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation [[arxiv link](https://arxiv.org/abs/2409.16283)][[project link](https://homangab.github.io/gen2act/)][`Google DeepMind + Carnegie Mellon University + Stanford University`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ObjDex(CoRL2024)** Object-Centric Dexterous Manipulation from Human Motion Data [[openreview link](https://openreview.net/forum?id=KAzku0Uyh1)][[project link](https://sites.google.com/view/obj-dex)][`Stanford University + Peking University`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**A3VLM(CoRL2024)(arxiv2024.06)** A3VLM: Actionable Articulation-Aware Vision Language Model [[arxiv link](https://arxiv.org/abs/2406.07549)][[code|official](https://github.com/changhaonan/A3VLM)][`SJTU + Shanghai AI Lab + Rutgers University + Yuandao AI + PKU + CUHK MMLab`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**RACER(arxiv2024.09)** RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning [[arxiv link](https://arxiv.org/abs/2409.14674)][[project link](https://rich-language-failure-recovery.github.io/)][[code|official](https://github.com/sled-group/RACER)][`University of Michigan`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **UniAff(arxiv2024.09)** UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models [[arxiv link](https://arxiv.org/abs/2409.20551)][[project link](https://sites.google.com/view/uni-aff/home)][`SJTU + HKUST + NUS + Rutgers University`; `Cewu Lu`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **MIFAG(arxiv2024.08)** Learning 2D Invariant Affordance Knowledge for 3D Affordance Grounding [[arxiv link](https://arxiv.org/abs/2408.13024)][[project link](https://goxq.github.io/mifag/)][[code|official](https://github.com/goxq/MIFAG-code)][`University of Science and Technology of China + Shanghai AI Laboratory + Northwestern Polytechnical University + TeleAI, China Telecom Corp Ltd`][`Multi-Image Guided Invariant-Feature-Aware 3D Affordance Grounding (MIFAG)`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RDT-1B(arxiv2024.10)** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2410.07864)][[project link](https://rdt-robotics.github.io/rdt-robotics/)][[code|official](https://github.com/thu-ml/RoboticsDiffusionTransformer)][`Tsinghua University`; `Jun Zhu`]
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
