@@ -148,6 +148,7 @@
 
 * 👍**BiADT(ICCV2023)** Bidirectional Alignment for Domain Adaptive Detection with Transformers [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/He_Bidirectional_Alignment_for_Domain_Adaptive_Detection_with_Transformers_ICCV_2023_paper.html)][[pdf link](https://web.engr.oregonstate.edu/~sinisa/research/publications/iccv23_biadt.pdf)][[code|official](https://github.com/helq2612/biADT)]
 
+* **LGCL(BMVC2024)(arxiv2024.10)** Improving Object Detection via Local-global Contrastive Learning [[arxiv link](https://arxiv.org/abs/2410.05058)][[project link](https://local-global-detection.github.io/)][[code|official](https://github.com/danaitri)][`Huawei Noah's Ark Lab + University of Edinburgh + University of Birmingham`]
 
 `*********************************`
 
