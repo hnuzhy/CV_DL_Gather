@@ -92,6 +92,15 @@
 
 * **HO-Cap(arxiv2024.06)** HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction [[arxiv link](https://arxiv.org/abs/2406.06843)][[project link](https://irvlutd.github.io/HOCap/)][[dataset link](https://utdallas.box.com/v/hocap-dataset-release)][[code|official](https://github.com/IRVLUTD/HO-Cap)][`University of Texas at Dallas + NVIDIA`][It can be used to study `3D reconstruction and pose tracking of hands and objects in videos`.][It also can be used as `human demonstrations` for `embodied AI and robot manipulation` research.]
 
+* **GenHeld(arxiv2024.06)** GenHeld: Generating and Editing Handheld Objects [[arxiv link](https://arxiv.org/abs/2406.05059)][[project link](https://ivl.cs.brown.edu/research/genheld.html)][[code|official](https://github.com/ChaerinMin/GenHeld)][`Brown University`]
+
+* **Text2Grasp(arxiv2024.04)** Text2Grasp: Grasp synthesis by text prompts of object grasping parts [[arxiv link](https://arxiv.org/abs/2404.15189)][`Dalian University of Technology`]
+
+* **MGD(arxiv2024.09)** Multi-Modal Diffusion for Hand-Object Grasp Generation [[arxiv link](https://arxiv.org/abs/2409.04560)][[code|official](https://github.com/noahcao/mgd)][`Carnegie Mellon University + Adobe`]
+
+* **RegionGrasp(ECCVW2024)(arxiv2024.10)** RegionGrasp: A Novel Task for Contact Region Controllable Hand Grasp Generation [[arxiv link](https://arxiv.org/abs/2410.07995)][[code|official](https://github.com/10cat/RegionGrasp)][`University of Alberta, Canada + Snap Research, USA`]
+
+* **GraspDiffusion(arxiv2024.10)** GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[arxiv link](https://arxiv.org/abs/2410.13911)][[project link](https://webtoon.github.io/GraspDiffusion)][`Naver Webtoon + Seoul National University`]
 
 
 ### ▶ Dexterous Hand Grasp/Manipulation
@@ -157,6 +166,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **RealDex(arxiv2024.02)** RealDex: Towards Human-like Grasping for Robotic Dexterous Hand [[arxiv link](https://arxiv.org/abs/2402.13853)][`ShanghaiTech University + The University of Hong Kong`; using the `Shadow Hand` to conduct their real robot experiments and build the proposed dataset.]
 
+* **DexDiffuser(arxiv2024.02)** DexDiffuser: Generating Dexterous Grasps with Diffusion Models [[arxiv link](https://arxiv.org/abs/2402.02989)][[project link](https://yulihn.github.io/DexDiffuser_page/)][`Division of Robotics, Perception and Learning (RPL), KTH`]
+
 * **UniDexFPM(arxiv2024.03)** Dexterous Functional Pre-Grasp Manipulation with Diffusion Policy [[arxiv link](https://arxiv.org/abs/2403.12421)][[project link](https://unidexfpm.github.io/)][`PKU`; It created a simulation environment based on `Isaac Gym` using `Shadow Hand` and `UR10e robots`.]
 
 * **ShapeGrasp(arxiv2024.03)** ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition [[arxiv link](https://arxiv.org/abs/2403.18062)][[project link](https://shapegrasp.github.io/)][`CMU`; All of the experiments are conducted with a `Kinova Jaco robotic arm` equipped with a `three-finger gripper`, coupled with a fixed `Oak-D SR passive stereo-depth camera` for `RGB` and `depth` perception.]
@@ -167,7 +178,11 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * 👍**UGG(ECCV2024)(arxiv2023.11)** UGG: Unified Generative Grasping [[arxiv link](https://arxiv.org/abs/2311.16917)][[project link](https://jiaxin-lu.github.io/ugg/)][[code|official](https://github.com/Jiaxin-Lu/ugg)][`University of Texas at Austin + ByteDance Inc + Pixocial Technology + Dolby Laboratories`]
 
+* 👍**SemGrasp(ECCV2024)(arxiv2024.04)** SemGrasp: Semantic Grasp Generation via Language Aligned Discretization [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_7)][[arxiv link](https://arxiv.org/abs/2404.03590)][[project link](https://kailinli.github.io/SemGrasp/)][[dataset link (CapGrasp)](https://huggingface.co/datasets/LiKailin/CapGrasp)][`Shanghai Jiao Tong University + Shanghai AI Laboratory`; `Cewu Lu`]
+
 * **CIMER(arxiv2024.04)(Under review by RA-L)** Learning Prehensile Dexterity by Imitating and Emulating State-only Observations [[arxiv link](https://arxiv.org/abs/2404.05582)][[project link](https://sites.google.com/view/cimer-2024/)][[code|official](https://github.com/GT-STAR-Lab/CIMER)][`Georgia Institute of Technology`; based on their previous work `KODex`; they did not conduct real robot experiments.]
+
+* **DexGYS/DexGYSNet/DexGYSGrasp(arxiv2024.05)** Grasp as You Say: Language-guided Dexterous Grasp Generation [[arxiv link](https://arxiv.org/abs/2405.19291)][[project link](https://sites.google.com/stanford.edu/dexgys)][`Sun Yat-sen University + Stanford University + Wuhan University `] 
 
 * **Bi-VLA(arxiv2024.05)** Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations [[arxiv link](https://arxiv.org/abs/2405.06039)][`Intelligent Space Robotics Laboratory, Moscow, Russia`]
 
