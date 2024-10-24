@@ -163,7 +163,9 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * 👍**DexCap(RSS2024)(arxiv2024.03)** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2403.07788)][[project link](https://dex-cap.github.io/)][[code|official](https://github.com/j96w/DexCap)][`Stanford`; `Li Fei-Fei`][It is a `portable hand motion capture system`, alongside `DexIL`, a novel imitation algorithm for training `dexterous robot skills` directly from `human hand mocap data`.][It showcases the system's capability to `effectively learn from in-the-wild mocap data`, paving the way for future `data collection` methods for `dexterous manipulation`.]
 
-* **GraspXL(ECCV2024)(arxiv2024.03)** GraspXL: Generating Grasping Motions for Diverse Objects at Scale [[arxiv link](https://arxiv.org/abs/2403.19649)][[project link](https://eth-ait.github.io/graspxl/)][[code|official](https://github.com/zdchan/graspxl)][`ETH Zurich + MPII Germany`; they did not conduct real robot experiments.]
+* 👍**GraspXL(ECCV2024)(arxiv2024.03)** GraspXL: Generating Grasping Motions for Diverse Objects at Scale [[arxiv link](https://arxiv.org/abs/2403.19649)][[project link](https://eth-ait.github.io/graspxl/)][[code|official](https://github.com/zdchan/graspxl)][`ETH Zurich + MPII Germany`; they did not conduct real robot experiments.]
+
+* 👍**UGG(ECCV2024)(arxiv2023.11)** UGG: Unified Generative Grasping [[arxiv link](https://arxiv.org/abs/2311.16917)][[project link](https://jiaxin-lu.github.io/ugg/)][[code|official](https://github.com/Jiaxin-Lu/ugg)][`University of Texas at Austin + ByteDance Inc + Pixocial Technology + Dolby Laboratories`]
 
 * **CIMER(arxiv2024.04)(Under review by RA-L)** Learning Prehensile Dexterity by Imitating and Emulating State-only Observations [[arxiv link](https://arxiv.org/abs/2404.05582)][[project link](https://sites.google.com/view/cimer-2024/)][[code|official](https://github.com/GT-STAR-Lab/CIMER)][`Georgia Institute of Technology`; based on their previous work `KODex`; they did not conduct real robot experiments.]
 
@@ -178,7 +180,6 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 * **TaskDexGrasp(IROS2024)(arxiv2024.09)** Task-Oriented Dexterous Grasp Synthesis Using Differentiable Grasp Wrench Boundary Estimator [[arxiv link](https://arxiv.org/abs/2309.13586)][[project link](https://pku-epic.github.io/TaskDexGrasp/)][`Peking University + Beijing Academy of Artificial Intelligence + Galbot`; `He Wang`]
 
 * **DextrAH-G(CoRL2024)(arxiv2024.09)** DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics [[arxiv link](https://arxiv.org/abs/2407.02274v2)][[project link](https://sites.google.com/view/dextrah-g)][`Stanford University + University of Utah + NVIDIA + University of California, Berkeley`]
-
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
