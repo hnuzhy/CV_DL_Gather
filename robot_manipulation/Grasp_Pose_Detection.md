@@ -86,7 +86,7 @@
 
 * **GraspNeRF(ICRA2023)(arxiv2022.10)** GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF [[paper link](https://ieeexplore.ieee.org/abstract/document/10160842)][[arxiv link](https://arxiv.org/abs/2210.06575)][[project link](https://pku-epic.github.io/GraspNeRF/)][[code|official](https://github.com/PKU-EPIC/GraspNeRF)][`Peking University + Beijing Academy of Artificial Intelligence + National University of Defense Technology  `][using the `NeRF`]
 
-* **Vision-Language-Grasping(ICRA2023)(arxiv2023.02)** A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter [[paper link](https://ieeexplore.ieee.org/abstract/document/10161041)][[arxiv link](https://arxiv.org/abs/2302.12610)][[code|official](https://github.com/xukechun/Vision-Language-Grasping)][`ZJU + University of Texas at Austin`]
+* ❤**Vision-Language-Grasping(ICRA2023)(arxiv2023.02)** A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter [[paper link](https://ieeexplore.ieee.org/abstract/document/10161041)][[arxiv link](https://arxiv.org/abs/2302.12610)][[code|official](https://github.com/xukechun/Vision-Language-Grasping)][`ZJU + University of Texas at Austin`][a modular method combined with CLIP]
 
 * **3DSGrasp(ICRA2023)(arxiv2023.01)** 3DSGrasp: 3D Shape-Completion for Robotic Grasp [[paper link](https://ieeexplore.ieee.org/abstract/document/10160350)][[arxiv link](https://arxiv.org/abs/2301.00866)][[code|official](https://github.com/NunoDuarte/3DSGrasp)][`Universidade de Lisboa, Portugal + University of Genoa, Italy`][`Completion of Shape`]
 
@@ -125,6 +125,8 @@
 * **GL-MSDA(ICRA2024)(arxiv2024.03)** Sim-to-Real Grasp Detection with Global-to-Local RGB-D Adaptation [[arxiv link](https://arxiv.org/abs/2403.11511)][[code|official](https://github.com/mahaoxiang822/GL-MSDA)][`Beihang University + HIT`][`RGB-D Adaptation`]
 
 * **APEX(IROS2024)(arxiv2024.04)** APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models [[arxiv link](https://arxiv.org/abs/2404.02284)][[project link](https://sites.google.com/view/apex-dual-arm/home)][`University of Central Florida`][It designed and used the `Collision-Free Generative Diffusion Models`; Dual-Arm Manipulation]
+
+* ❤**ThinkGrasp(CoRL2024)(arxiv2024.07)** ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter [[arxiv link](https://arxiv.org/abs/2407.11298v1)][[project link](https://h-freax.github.io/thinkgrasp_page/)][[code|official](https://github.com/H-Freax/ThinkGrasp)][`Northeastern Univeristy + Boston Dynamics AI Institute`][`GPT-4o` + `LangSAM / VLPart` + `Graspnet`][It is superior to other counterparts [`OVGNet (arxiv2024.05)`](https://github.com/cv516Buaa/OVGNet) and [`VLG (ICRA2023)`](https://github.com/xukechun/Vision-Language-Grasping), which all adopted the `Graspnet` for 6DoF grasp pose detection]
 
 * **PhyGrasp(arxiv2024.02)** PhyGrasp: Generalizing Robotic Grasping with Physics-informed Large Multimodal Models [[arxiv link](https://arxiv.org/abs/2402.16836)][[project link](https://sites.google.com/view/phygrasp)][[code|official](https://github.com/dkguo/PhyGrasp)][`Mechanical Engineering + University of California + Berkeley`]
 
