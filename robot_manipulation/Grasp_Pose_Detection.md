@@ -13,7 +13,7 @@
 
 * 👍**GraspNet-1Billion(CVPR2020)** GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.html)][[project link](www.graspnet.net)][[code|official](https://github.com/graspnet/graspnet-baseline)][[paperswithcode link](https://paperswithcode.com/dataset/graspnet-1billion)][`SJTU`]
 
-* 👍**ACRONYM(ICRA2021)(arxiv2020.11)** ACRONYM: A Large-Scale Grasp Dataset Based on Simulation [[paper link](https://ieeexplore.ieee.org/abstract/document/9560844/)][[arxiv link](https://arxiv.org/abs/2011.09584)][[project link](https://sites.google.com/nvidia.com/graspdataset)][[code|official](https://github.com/NVlabs/acronym)][`NVIDIA + University of Washington`]
+* 👍**ACRONYM(ICRA2021)(arxiv2020.11)** ACRONYM: A Large-Scale Grasp Dataset Based on Simulation [[paper link](https://ieeexplore.ieee.org/abstract/document/9560844/)][[arxiv link](https://arxiv.org/abs/2011.09584)][[project link](https://sites.google.com/view/graspdataset)][[code|official](https://github.com/NVlabs/acronym)][`NVIDIA + University of Washington`]
  
 * **SuctionNet-1Billion(RAL2021)(arxiv2021.03)** SuctionNet-1Billion: A Large-Scale Benchmark for Suction Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/9547830/)][[arxiv link](https://arxiv.org/abs/2103.12311)][[project link](https://graspnet.net/suction)][[code|official](https://github.com/graspnet/suctionnet-baseline)][`SJTU`]
    
