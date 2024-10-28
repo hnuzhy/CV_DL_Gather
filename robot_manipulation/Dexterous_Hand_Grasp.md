@@ -134,6 +134,8 @@
 
 * **GraspDiff(TVCG2024)** GraspDiff: Grasping Generation for Hand-Object Interaction With Multimodal Guided Diffusion [[paper link](https://ieeexplore.ieee.org/abstract/document/10689328)][`Southeast University`; `Yangang Wang`]
 
+* **WildHOI(ECCV2024)** 3D Reconstruction of Objects in Hands without Real World 3D Supervision [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-73229-4_8)][[project link](https://ap229997.github.io/projects/wild-hoi/)][[code|official](https://github.com/ap229997/wild-hoi/)][`University of Illinois Urbana-Champaign`]
+
 
 ### ▶ Dexterous Hand Grasp/Manipulation
 
