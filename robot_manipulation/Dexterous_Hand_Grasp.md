@@ -45,7 +45,7 @@
 
 * **4DHands/OmniHands(arxiv2024.05)** OmniHands: Towards Robust 4D Hand Mesh Recovery via A Versatile Transformer [[arxiv link](https://arxiv.org/abs/2405.20330)][[project link](https://omnihand.github.io/)][[code|official](https://github.com/LinDixuan/OmniHands)][`Beijing Normal University + Tsinghua University + Lenovo`]
 
-* **Hamba(NIPS2024)(arxiv2024.07)** Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[arxiv link](https://arxiv.org/abs/2407.09646)][[project link](https://humansensinglab.github.io/Hamba/)][[code|official](https://github.com/humansensinglab/Hamba)][`Carnegie Mellon University`]
+* **Hamba(NIPS2024)(arxiv2024.07)** Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[arxiv link](https://arxiv.org/abs/2407.09646)][[project link](https://humansensinglab.github.io/Hamba/)][[code|official](https://github.com/humansensinglab/Hamba)][`Carnegie Mellon University`][It performed best on [HO3D (version 2)](https://codalab.lisn.upsaclay.fr/competitions/4318#results) and [HO3D (version 3)](https://codalab.lisn.upsaclay.fr/competitions/4393#results)]
 
 * **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
 
