@@ -561,20 +561,6 @@ also `3D Hand Shape and Pose Regression`
 
 * **DIR (ICCV2023 Oral)** Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Ren_Decoupled_Iterative_Refinement_Framework_for_Interacting_Hands_Reconstruction_from_a_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2302.02410)][[project link](https://pengfeiren96.github.io/DIR/)][[code|official](https://github.com/PengfeiRen96/DIR)][`PICO IDL ByteDance` + `BUPT`]
 
-* **HMP(WACV2024)** HMP: Hand Motion Priors for Pose and Shape Estimation From Video [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Duran_HMP_Hand_Motion_Priors_for_Pose_and_Shape_Estimation_From_WACV_2024_paper.html)][[project link](https://hmp.is.tue.mpg.de/)][[code|official](https://github.com/enesduran/HMP)][`MPII`, taking video as the input, tested on datasets `HO3D` and `DexYCB`, mainly focusing on `hand occlusions`]
-
-* **Ev2Hands(3DV2024)** 3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera [[arxiv link](https://arxiv.org/abs/2312.14157)][[project link](https://4dqv.mpi-inf.mpg.de/Ev2Hands/)][[code|official](https://github.com/Chris10M/Ev2Hands)][`MPII`, a new `synthetic` large-scale dataset of two interacting hands, `Ev2Hands-S`, and a new real benchmark with real event streams and ground-truth 3D annotations, `Ev2Hands-R`.]
-
-* 👍**HaMeR(CVPR2024)(arxiv2023.12)** Reconstructing Hands in 3D with Transformers [[paper link](http://openaccess.thecvf.com/content/CVPR2024/html/Pavlakos_Reconstructing_Hands_in_3D_with_Transformers_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.05251)][[project link](https://geopavlakos.github.io/hamer/)][[dataset HInt](https://github.com/ddshan/hint)][[code|official](https://github.com/geopavlakos/hamer)][the first author [`Georgios Pavlakos`](https://geopavlakos.github.io/), `University of California, Berkeley`, a new dataset `HInt` which is built by sampling frames from `New Days of Hands`, `EpicKitchens-VISOR` and `Ego4D` and annotating the hands with `2D keypoints`.]
-
-* **OHTA(CVPR2024)(arxiv2024.02)** OHTA: One-shot Hand Avatar via Data-driven Implicit Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_OHTA_One-shot_Hand_Avatar_via_Data-driven_Implicit_Priors_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2402.18969)][[project link](https://zxz267.github.io/OHTA/)][[code|official](https://github.com/zxz267/OHTA)][`ByteDance`][To test OHTA’s performance for the challenging `in-the-wild` images, they take the whole-body version of `MSCOCO` for experiments. They utilize the pose estimation results provided by `InterWild` and generate the masks using `SAM`]
-
-* **SimpleHand(CVPR2024)(arxiv2024.03)** A Simple Baseline for Efficient Hand Mesh Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_A_Simple_Baseline_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2403.01813)][[project link](https://simplehand.github.io/)][[code|official](https://github.com/patienceFromZhou/simpleHand)][`JIIOV Technology`][It is a lightweight method based on `HRNet` or `FastViT`]
-
-* **4DHands(arxiv2024.05)** 4DHands: Reconstructing Interactive Hands in 4D with Transformers [[arxiv link](https://arxiv.org/abs/2405.20330)][[project link](https://4dhands.github.io/)][`Beijing Normal University + Tsinghua University + Lenovo`]
-
-* **Hamba(arxiv2024.07)** Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[arxiv link](https://arxiv.org/abs/2407.09646)][[project link](https://humansensinglab.github.io/Hamba/)][[code|official](https://github.com/humansensinglab/Hamba)][`Carnegie Mellon University`]
-
 
 
 ##### ▶Sign Language Understanding
