@@ -451,7 +451,7 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **XMoP(RSS Workshop 2024)** Whole-Body Neural Policy for Zero-Shot Cross-Embodiment Motion Planning [[openreview link](https://openreview.net/forum?id=fg0NWbup5t)][[project link](https://sites.google.com/view/xmop)][[code|official](https://github.com/prabinrath/xmop)][`Arizona State University`]
 
-* **ROSE-SoftGripper(IJRR2024)** [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649241272120)][[project link](https://sites.google.com/view/rosesoftgripper)][`Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (JAIST)`; `Soft Robot`]
+* **ROSE-SoftGripper(IJRR2024)** Soft yet Secure: Exploring Membrane Buckling for Achieving a Versatile Grasp with a Rotation-driven Squeezing Gripper [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649241272120)][[project link](https://sites.google.com/view/rosesoftgripper)][`Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (JAIST)`; `Soft Robot`]
 
 * **GR-2(arxiv2024.10)** GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation [[arxiv link](https://arxiv.org/abs/2410.06158)][[project link](https://gr2-manipulation.github.io/)][`Robotics Research Team, ByteDance Research`]
 
