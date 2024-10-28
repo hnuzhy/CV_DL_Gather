@@ -25,6 +25,9 @@
 
 * **SHOWMe(CVIU2024)** SHOWMe: Robust object-agnostic hand-object 3D reconstruction from RGB video [[paper link](https://www.sciencedirect.com/science/article/abs/pii/S1077314224001541)][[code|official](https://download.europe.naverlabs.com/showme/)][`NAVER LABS Europe + Inria centre at the University Grenoble Alpes`][It is based on the conference version [`(ICCVW2023) SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction`](https://openaccess.thecvf.com/content/ICCV2023W/ACVR/html/Swamy_SHOWMe_Benchmarking_Object-Agnostic_Hand-Object_3D_Reconstruction_ICCVW_2023_paper.html) with the [project link](https://europe.naverlabs.com/research/showme/) link]
 
+* **HOGraspNet(ECCV2024)(arxiv2024.09)** Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-73007-8_17)][[arxiv link](https://arxiv.org/abs/2409.04033)][[project link](https://hograspnet2024.github.io/)][[code|official](https://github.com/UVR-WJCHO/HOGraspNet)][`KAIST + Kwangwoon University + Surromind + Imperial College London`]
+
+
 ## Papers
 
 ### ▶ Hand 3D Pose Estimation/Shape Regression
@@ -53,7 +56,7 @@
 
 * **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
 
-* **** [[arxiv link]()][[project link]()][[code|official]()]
+* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
 
@@ -109,7 +112,7 @@
 
 * **DiffH2O(SIGGRAPH2024)(arxiv2024.03)** DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions [[arxiv link](https://arxiv.org/abs/2403.17827)][[project link](https://diffh2o.github.io/)][`Meta, Switzerland + ETH`]
 
-* **MCC-HO(MCC-Hand-Object)(arxiv2024.04)** Reconstructing Hand-Held Objects in 3D [[arxiv link](https://arxiv.org/abs/2404.06507)][[project link](https://janehwu.github.io/mcc-ho/)][[code|official](https://github.com/janehwu/mcc-ho)][`University of California, Berkeley + University of Texas at Austin + California Institute of Technology`][It jointly `reconstructs hand and object geometry` given `a single RGB image` and `inferred 3D hand` as inputs.][The proposed alignment method `Retrieval-Augmented Reconstruction (RAR)` can be used to `automatically obtain 3D labels` for in-the-wild images of `hand-object interactions`.]
+* 👍**MCC-HO(MCC-Hand-Object)(arxiv2024.04)** Reconstructing Hand-Held Objects in 3D [[arxiv link](https://arxiv.org/abs/2404.06507)][[project link](https://janehwu.github.io/mcc-ho/)][[code|official](https://github.com/janehwu/mcc-ho)][`University of California, Berkeley + University of Texas at Austin + California Institute of Technology`][It jointly `reconstructs hand and object geometry` given `a single RGB image` and `inferred 3D hand` as inputs.][The proposed alignment method `Retrieval-Augmented Reconstruction (RAR)` can be used to `automatically obtain 3D labels` for in-the-wild images of `hand-object interactions`.]
 
 * **HO-Cap(arxiv2024.06)** HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction [[arxiv link](https://arxiv.org/abs/2406.06843)][[project link](https://irvlutd.github.io/HOCap/)][[dataset link](https://utdallas.box.com/v/hocap-dataset-release)][[code|official](https://github.com/IRVLUTD/HO-Cap)][`University of Texas at Dallas + NVIDIA`][It can be used to study `3D reconstruction and pose tracking of hands and objects in videos`.][It also can be used as `human demonstrations` for `embodied AI and robot manipulation` research.]
 
