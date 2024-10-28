@@ -1,5 +1,5 @@
-# ⭐Open Vocabulary Detection
-*also known as `Open World Detection`, `Open World/Vocabulary Segmentation`*
+# ⭐Open Vocabulary Vision
+*also known as `Open World/Vocabulary Detection`, `Open World/Vocabulary Segmentation`*
 
 ## Materials
 
