@@ -120,7 +120,7 @@
 
 * 👍**NeuGraspNet(RSS2024)(arxiv2023.06)** Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering [[paper link]()][[arxiv link](https://arxiv.org/abs/2306.07392)][[project link](https://sites.google.com/view/neugraspnet)][`TU Darmstadt, Germany + NIT Trichy, India + Hessian.AI, Darmstadt, Germany`][using the `NeRF`]
 
-* **(ICRA2024)(arxiv2024.02)** Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise [[arxiv link](https://arxiv.org/abs/2402.18699)][`PKU + Huawei`][`Noisy Label Learning`]
+* **Coarse-to-fine_Affordance(ICRA2024)(arxiv2024.02)** Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise [[arxiv link](https://arxiv.org/abs/2402.18699)][[project link](https://sites.google.com/view/coarse-to-fine/)][[code|official](https://github.com/Suhan-Ling/Coarse-to-fine_Affordance)][`PKU + Huawei`][`Noisy Label Learning`]
 
 * **GL-MSDA(ICRA2024)(arxiv2024.03)** Sim-to-Real Grasp Detection with Global-to-Local RGB-D Adaptation [[arxiv link](https://arxiv.org/abs/2403.11511)][[code|official](https://github.com/mahaoxiang822/GL-MSDA)][`Beihang University + HIT`][`RGB-D Adaptation`]
 
