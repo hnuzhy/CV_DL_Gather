@@ -31,9 +31,16 @@
 
 * **Hands(ECCVW2024)** Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild [[arxiv link](https://arxiv.org/abs/2409.09714)][`The University of Tokyo`; `Yoichi Sato`]
 
+* **HandDGP(ECCV2024)(arxiv2024.07)** HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72920-1_27)][[arxiv link](https://arxiv.org/abs/2407.15844)][[project link](https://nianticlabs.github.io/handdgp/)][[code|official](https://github.com/nianticlabs/HandDGP)][`Niantic`]
+
+* **OmniHands(arxiv2024.04)** OmniHands: Towards Robust 4D Hand Mesh Recovery via A Versatile Transformer [[arxiv link](https://arxiv.org/abs/2405.20330)][[project link](https://omnihand.github.io/)][[code|official](https://github.com/LinDixuan/OmniHands)][`Beijing Normal University + Tsinghua University + Lenovo`]
+
 * **Hamba(NIPS2024)(arxiv2024.07)** Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[arxiv link](https://arxiv.org/abs/2407.09646)][[project link](https://humansensinglab.github.io/Hamba/)][[code|official](https://github.com/humansensinglab/Hamba)]
 
 * **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
+
+* **** [[arxiv link]()][[project link]()][[code|official]()]
+
 
 
 ### ▶ Hand Object Contact/Interaction
