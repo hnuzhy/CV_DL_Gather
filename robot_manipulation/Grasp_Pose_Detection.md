@@ -132,7 +132,7 @@
 
 * 👍**FlexLoG(arxiv2024.03)** Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping [[arxiv link](https://arxiv.org/abs/2403.15054)][`THU + 3Shanghai AI Lab`]
 
-* 👍**GaussianGrasper(arxiv2024.03)** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping [[paper link]()][[arxiv link](https://arxiv.org/abs/2403.09637)][[project link](https://mrsecant.github.io/GaussianGrasper/)][[dataset link](https://drive.google.com/file/d/1Zsl0yCXezqwLrAYzOb-u33q8gdjvRfAC/view?usp=drive_link)][[code|official](https://github.com/MrSecant/GaussianGrasper)][`Beihang University + EncoSmart + HKU + CASIA + Tsinghua AIR + Imperial College London`]
+* 👍**GaussianGrasper(RAL2024)(arxiv2024.03)** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping [[paper link]()][[arxiv link](https://arxiv.org/abs/2403.09637)][[project link](https://mrsecant.github.io/GaussianGrasper/)][[dataset link](https://drive.google.com/file/d/1Zsl0yCXezqwLrAYzOb-u33q8gdjvRfAC/view?usp=drive_link)][[code|official](https://github.com/MrSecant/GaussianGrasper)][`Beihang University + EncoSmart + HKU + CASIA + Tsinghua AIR + Imperial College London`]
 
 * **CGDF(arxiv2024.04)** Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation [[arxiv link](https://arxiv.org/abs/2404.04643)][[project link](https://constrained-grasp-diffusion.github.io/)][`IIIT Hyderabad + MIT + Brown University`][`CGDF: Constrained Grasp Diffusion Fields`; Dual-Arm Manipulation]
 
