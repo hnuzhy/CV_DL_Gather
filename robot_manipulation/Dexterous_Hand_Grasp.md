@@ -39,7 +39,7 @@
 
 * **SimpleHand(CVPR2024)(arxiv2024.03)** A Simple Baseline for Efficient Hand Mesh Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_A_Simple_Baseline_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2403.01813)][[project link](https://simplehand.github.io/)][[code|official](https://github.com/patienceFromZhou/simpleHand)][`JIIOV Technology`][It is a lightweight method based on `HRNet` or `FastViT`]
 
-* **Hands(ECCVW2024)** Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild [[arxiv link](https://arxiv.org/abs/2409.09714)][`The University of Tokyo`; `Yoichi Sato`]
+* **HandCLR(ECCVW2024)** Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild [[arxiv link](https://arxiv.org/abs/2409.09714)][`The University of Tokyo`; `Yoichi Sato`]
 
 * **HandDGP(ECCV2024)(arxiv2024.07)** HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72920-1_27)][[arxiv link](https://arxiv.org/abs/2407.15844)][[project link](https://nianticlabs.github.io/handdgp/)][[code|official](https://github.com/nianticlabs/HandDGP)][`Niantic`]
 
