@@ -107,7 +107,7 @@
 
 * **HOISDF(CVPR2024)(arxiv2024.02)** HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_HOISDF_Constraining_3D_Hand-Object_Pose_Estimation_with_Global_Signed_Distance_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2402.17062)][[project link](https://amathislab.github.io/HOISDF/)][[code|official](https://github.com/amathislab/HOISDF)][`EPFL`][It achieved state-of-the-art results on the `DexYCB` and `HO3Dv2` datasets]
 
-* **DiffH2O(arxiv2024.03)** DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions [[arxiv link](https://arxiv.org/abs/2403.17827)][[project link](https://diffh2o.github.io/)][`Meta, Switzerland + ETH`]
+* **DiffH2O(SIGGRAPH2024)(arxiv2024.03)** DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions [[arxiv link](https://arxiv.org/abs/2403.17827)][[project link](https://diffh2o.github.io/)][`Meta, Switzerland + ETH`]
 
 * **MCC-HO(MCC-Hand-Object)(arxiv2024.04)** Reconstructing Hand-Held Objects in 3D [[arxiv link](https://arxiv.org/abs/2404.06507)][[project link](https://janehwu.github.io/mcc-ho/)][[code|official](https://github.com/janehwu/mcc-ho)][`University of California, Berkeley + University of Texas at Austin + California Institute of Technology`][It jointly `reconstructs hand and object geometry` given `a single RGB image` and `inferred 3D hand` as inputs.][The proposed alignment method `Retrieval-Augmented Reconstruction (RAR)` can be used to `automatically obtain 3D labels` for in-the-wild images of `hand-object interactions`.]
 
