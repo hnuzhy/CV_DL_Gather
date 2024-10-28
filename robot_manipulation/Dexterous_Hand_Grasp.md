@@ -45,6 +45,8 @@
 
 * **HandDGP(ECCV2024)(arxiv2024.07)** HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72920-1_27)][[arxiv link](https://arxiv.org/abs/2407.15844)][[project link](https://nianticlabs.github.io/handdgp/)][[code|official](https://github.com/nianticlabs/HandDGP)][`Niantic`]
 
+* **WildHands(ECCV2024)(arxiv2023.12)** 3D Hand Pose Estimation in Everyday Egocentric Images [[paper link](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10034.pdf)][[arxiv link](https://arxiv.org/abs/2312.06583)][[project link](https://ap229997.github.io/projects/hands/)][[code|official](https://github.com/ap229997/hands)][`University of Illinois Urbana-Champaign`]
+
 * **4DHands/OmniHands(arxiv2024.05)** OmniHands: Towards Robust 4D Hand Mesh Recovery via A Versatile Transformer [[arxiv link](https://arxiv.org/abs/2405.20330)][[project link](https://omnihand.github.io/)][[code|official](https://github.com/LinDixuan/OmniHands)][`Beijing Normal University + Tsinghua University + Lenovo`]
 
 * **Hamba(NIPS2024)(arxiv2024.07)** Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [[arxiv link](https://arxiv.org/abs/2407.09646)][[project link](https://humansensinglab.github.io/Hamba/)][[code|official](https://github.com/humansensinglab/Hamba)][`Carnegie Mellon University`][It performed best on [HO3D (version 2)](https://codalab.lisn.upsaclay.fr/competitions/4318#results) and [HO3D (version 3)](https://codalab.lisn.upsaclay.fr/competitions/4393#results)]
