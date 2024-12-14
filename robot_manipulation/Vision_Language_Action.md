@@ -532,23 +532,24 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **robots-pretrain-robots(arxiv2024.10)** Robots Pre-Train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [[arxiv link](https://arxiv.org/abs/2410.22325)][[project link](https://robots-pretrain-robots.github.io/)][[code|official](https://github.com/luccachiang/robots-pretrain-robots)][`UC San Diego + Tongji University + Shanghai Jiao Tong University + University of Maryland + Tsinghua University`; `Huazhe Xu`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Kinematic-Motion-Retargeting(arxiv2024.02)** Kinematic Motion Retargeting for Contact-Rich Anthropomorphic Manipulations [[arxiv link](https://arxiv.org/abs/2402.04820)][`Carnegie Mellon University + Boston Dynamics AI Institute + FAIR at Meta`][Hand motion capture and retargeting]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DexH2R(arxiv2024.11)** DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [[arxiv link](https://arxiv.org/abs/2411.04428)][` University of California, Berkeley`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ImOV3D(NIPS2024)(arxiv2024.10)** ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images [[openreview link](https://openreview.net/forum?id=RCO9fRP8AJ)][[arxiv link](https://arxiv.org/abs/2410.24001)][[code|official](https://github.com/yangtiming/ImOV3D)][`Shanghai Qi Zhi Institute + IIIS, Tsinghua University + Shanghai AI Lab`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RefHuman(NIPS2024)(arxiv2024.10)** Referring Human Pose and Mask Estimation in the Wild [[openreview link](https://openreview.net/forum?id=fXEi3LVflp)][[arxiv link](https://arxiv.org/abs/2410.20508)][[code|official](https://github.com/bo-miao/RefHuman)][`University of Western Australia + Xidian University + Hunan University + Griffith University`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **E3GNet(arxiv2024.10)** Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation [[arxiv link](https://arxiv.org/abs/2410.22980)][`Tsinghua University`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CAGE(arxiv2024.10)** CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2410.14974)][[project link](http://cage-policy.github.io/)][[code|official](https://github.com/cage-policy/CAGE)][`Shanghai Jiao Tong University + Shanghai Artificial Intelligence Laboratory`; `Cewu Lu + Hao-Shu Fang`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **SAMPart3D(arxiv2024.11)** SAMPart3D: Segment Any Part in 3D Objects [[arxiv link](https://arxiv.org/abs/2411.07184)][[project link](https://yhyang-myron.github.io/SAMPart3D-website/)][[code|official](https://github.com/Pointcept/SAMPart3D)][`The University of Hong Kong + VAST`]
 
-* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **EquiDiff(CoRL2024, Outstanding Paper Award Finalist)(arxiv2024.07)** Equivariant Diffusion Policy [[openreview link](https://openreview.net/forum?id=wD2kUVLT1g)][[arxiv link](https://arxiv.org/pdf/2407.01812)][[project link](https://equidiff.github.io/)][[code|official](https://github.com/pointW/equidiff)][`Northeastern University + Boston Dynamics AI Institute`]
+
+* **ReMix(CoRL2024)(arxiv2024.08)** ReMix: Optimizing Data Mixtures for Large Scale Imitation Learning [[openreview link](https://openreview.net/forum?id=fIj88Tn3fc)][[arxiv link](https://arxiv.org/abs/2408.14037)][[code|official](https://github.com/jhejna/remix)][`Stanford + UC Berkeley`]
 
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
