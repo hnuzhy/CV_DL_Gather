@@ -55,6 +55,8 @@
 
 * **GVHMR(SIGGRAPH2024)(arxiv2024.09)** World-Grounded Human Motion Recovery via Gravity-View Coordinates [[arxiv link](https://arxiv.org/abs/2409.06662)][[project link](https://zju3dv.github.io/gvhmr/)][[code|official](https://github.com/zju3dv/GVHMR)][[huggingface demo](https://huggingface.co/spaces/LittleFrog/GVHMR)][`Zhejiang University + The University of Hong Kong + Deep Glint + Shenzhen University`]
 
+* **XMoP(RSS Workshop 2024)** Whole-Body Neural Policy for Zero-Shot Cross-Embodiment Motion Planning [[openreview link](https://openreview.net/forum?id=fg0NWbup5t)][[project link](https://sites.google.com/view/xmop)][[code|official](https://github.com/prabinrath/xmop)][`Arizona State University`]
+
 * **HOVER(arxiv2024.10)** HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[arxiv link](https://arxiv.org/abs/2410.21229)][[project link](https://hover-versatile-humanoid.github.io/)][`NVIDIA + CMU + UC Berkeley + UT Austin + UC San Diego`; `Xiaolong Wang + Yuke Zhu`]
 
 
