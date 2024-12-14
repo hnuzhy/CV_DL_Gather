@@ -30,6 +30,17 @@
 
 ## Papers
 
+
+### ▶ 3D Hand Avatar (3D Hand Mesh + Texture)
+
+* **OHTA(CVPR2024)(arxiv2024.02)** OHTA: One-shot Hand Avatar via Data-driven Implicit Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_OHTA_One-shot_Hand_Avatar_via_Data-driven_Implicit_Priors_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2402.18969)][[project link](https://zxz267.github.io/OHTA/)][[code|official](https://github.com/zxz267/OHTA)][`ByteDance`][Hand Avatar = 3D Hand Mesh + Texture][To test OHTA’s performance for the challenging `in-the-wild` images, they take the whole-body version of `MSCOCO` for experiments. They utilize the 3D hand pose estimation results provided by [`DIR`](https://github.com/PengfeiRen96/DIR) trained on `InterWild`]
+
+* **UHM(CVPR2024, Oral)(arxiv2024.05)** Authentic Hand Avatar from a Phone Scan via Universal Hand Model [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Moon_Authentic_Hand_Avatar_from_a_Phone_Scan_via_Universal_Hand_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2405.07933)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/UHM)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+
+* **URHand(CVPR2024, Oral)(arxiv2024.01)** URHand: Universal Relightable Hands [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_URHand_Universal_Relightable_Hands_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2401.05334)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/goliath)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+
+* **XHand(arxiv2024.07)** XHand: Real-time Expressive Hand Avatar [[arxiv link](https://arxiv.org/abs/2407.21002)][[project link](https://agnjason.github.io/XHand-page/)][[code|official](https://github.com/agnJason/XHand)][`Zhejiang University`][Hand Avatar = 3D Hand Mesh + Texture]
+
 ### ▶ Hand 3D Pose Estimation/Shape Regression
 
 * **HMP(WACV2024)** HMP: Hand Motion Priors for Pose and Shape Estimation From Video [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Duran_HMP_Hand_Motion_Priors_for_Pose_and_Shape_Estimation_From_WACV_2024_paper.html)][[project link](https://hmp.is.tue.mpg.de/)][[code|official](https://github.com/enesduran/HMP)][`MPII`, taking video as the input, tested on datasets `HO3D` and `DexYCB`, mainly focusing on `hand occlusions`]
@@ -58,25 +69,25 @@
 
 * **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
 
-
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
-### ▶ 3D Hand Avatar (3D Hand Mesh + Texture)
+***
 
-* **OHTA(CVPR2024)(arxiv2024.02)** OHTA: One-shot Hand Avatar via Data-driven Implicit Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_OHTA_One-shot_Hand_Avatar_via_Data-driven_Implicit_Priors_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2402.18969)][[project link](https://zxz267.github.io/OHTA/)][[code|official](https://github.com/zxz267/OHTA)][`ByteDance`][Hand Avatar = 3D Hand Mesh + Texture][To test OHTA’s performance for the challenging `in-the-wild` images, they take the whole-body version of `MSCOCO` for experiments. They utilize the 3D hand pose estimation results provided by [`DIR`](https://github.com/PengfeiRen96/DIR) trained on `InterWild`]
+### ▶ Hand Touch/Pressure Synthesis
 
-* **UHM(CVPR2024, Oral)(arxiv2024.05)** Authentic Hand Avatar from a Phone Scan via Universal Hand Model [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Moon_Authentic_Hand_Avatar_from_a_Phone_Scan_via_Universal_Hand_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2405.07933)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/UHM)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+* **PressureVision(ECCV2022)** PressureVision: Estimating Hand Pressure from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_19)][[code|official](https://github.com/facebookresearch/pressurevision)][`facebookresearch`, `Hand Pressure`]
 
-* **URHand(CVPR2024, Oral)(arxiv2024.01)** URHand: Universal Relightable Hands [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_URHand_Universal_Relightable_Hands_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2401.05334)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/goliath)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+* **EgoPressure(arxiv2024.09)** EgoPressure: A Dataset for Hand Pressure and Pose Estimation in Egocentric Vision [[arxiv link](https://arxiv.org/abs/2409.02224)][[project link](https://yiming-zhao.github.io/EgoPressure/)][`ETH Zurich + Microsoft`][It used the `MANO`]
 
-* **XHand(arxiv2024.07)** XHand: Real-time Expressive Hand Avatar [[arxiv link](https://arxiv.org/abs/2407.21002)][[project link](https://agnjason.github.io/XHand-page/)][[code|official](https://github.com/agnJason/XHand)][`Zhejiang University`][Hand Avatar = 3D Hand Mesh + Texture]
+* **TouchInsight(UIST2024)(arxiv2024.10)** TouchInsight: Uncertainty-aware Rapid Touch and Text Input for Mixed Reality from Egocentric Vision [[paper link](https://dl.acm.org/doi/10.1145/3654777.3676330)][[arxiv link](https://arxiv.org/abs/2410.05940)][[project link](https://siplab.org/projects/TouchInsight)][`ETH Zürich + Meta`]
 
 
-### ▶ Hand Object Contact/Grasp/Interaction Reconstruction/Generation
-
-* **ContactDB(CVPR2019 Oral, Best Paper Finalist)** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging [[arxiv link](https://arxiv.org/abs/1904.06830)][[project link](https://contactdb.cc.gatech.edu/)][`Georgia Tech Robotics`][`the first large-scale dataset that records detailed contact maps for functional human grasps`]
+### ▶ Hand Object Interaction Related
+*Hand Object Contact/Grasp/Manipulation/Interaction Detection/Segmentation/Recognition/Reconstruction/Understanding/Generation*
 
 * **ObMan(CVPR2019)(arxiv2019.04)** Learning Joint Reconstruction of Hands and Manipulated Objects [[paper link](https://openaccess.thecvf.com/content_CVPR_2019/html/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.html)][[arxiv link](https://arxiv.org/abs/1904.05767)][[project link](https://hassony2.github.io/obman)][[code|official](https://github.com/hassony2/obman)][`Inria + PSL Research University + MPII`; This is also a new synthetic dataset]
+
+* **ContactDB(CVPR2019 Oral, Best Paper Finalist)** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging [[arxiv link](https://arxiv.org/abs/1904.06830)][[project link](https://contactdb.cc.gatech.edu/)][`Georgia Tech Robotics`][`the first large-scale dataset that records detailed contact maps for functional human grasps`]
 
 * 👍**100DOH(CVPR2020 oral)** Understanding Human Hands in Contact at Internet Scale [[paper link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.html)][[arxiv link](https://arxiv.org/abs/2006.06669)][[project link](http://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)][[code|official 1](https://github.com/ddshan/hand_object_detector)][[code|official 2](https://github.com/ddshan/hand_detector.d2)][`University of Michigan + Johns Hopkins University`][`hand-contact understanding`][`100DOH` dataset]
 
@@ -92,7 +103,7 @@
 
 * **GraspTTA&GraspNet(ICCV2021 Oral)(arxiv2021.04)** Hand-Object Contact Consistency Reasoning for Human Grasps Generation [[paper link](https://openaccess.thecvf.com/content/ICCV2021/html/Jiang_Hand-Object_Contact_Consistency_Reasoning_for_Human_Grasps_Generation_ICCV_2021_paper.html)][[arxiv link](https://arxiv.org/abs/2104.03304)][[project link](https://hwjiang1510.github.io/GraspTTA/)][[code|official](https://github.com/hwjiang1510/GraspTTA)][`UC San Diego`; [`Xiaolong Wang`](https://xiaolonw.github.io/) group]
 
-* **PressureVision(ECCV2022)** PressureVision: Estimating Hand Pressure from a Single RGB Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_19)][[code|official](https://github.com/facebookresearch/pressurevision)][`facebookresearch`, `Hand Pressure`]
+* 👍**SCR(CVPR2022)** Stability-Driven Contact Reconstruction From Monocular Color Images [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Stability-Driven_Contact_Reconstruction_From_Monocular_Color_Images_CVPR_2022_paper.html)][[project link](https://www.yangangwang.com/papers/ZZM-SCR-2022-03.html)][[Corresponding Author](https://www.yangangwang.com/)][`Southeast University`, `CBF dataset` (hand-object Contact with Balancing Force recording, version 0.1)]
 
 * 👍**EgoHOS(ECCV2022)** Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_8)][[project link](https://www.seas.upenn.edu/~shzhou2/projects/eos_dataset/)][[code|official](https://github.com/owenzlz/EgoHOS)][`Hand-Object Segmentation`]
 
@@ -101,8 +112,6 @@
 * **VISOR(NIPS2022)** EPIC-KITCHENS VISOR Benchmark: VIdeo Segmentations and Object Relations [[paper link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/590a7ebe0da1f262c80d0188f5c4c222-Abstract-Datasets_and_Benchmarks.html)][[project link](https://epic-kitchens.github.io/VISOR/)][`EPIC-KITCHENS`, a new set of `challenges` not encountered in current `video segmentation datasets`]
 
 * 👍**HOIG or HOGAN(NIPS2022 spotlight)** Hand-Object Interaction Image Generation [[openreview link](https://openreview.net/forum?id=DDEwoD608_l)][[arxiv link](https://arxiv.org/abs/2211.15663)][[project link](https://play-with-hoi-generation.github.io/)][[code|official](https://github.com/play-with-HOI-generation/HOIG)]
-
-* 👍**SCR(CVPR2022)** Stability-Driven Contact Reconstruction From Monocular Color Images [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Stability-Driven_Contact_Reconstruction_From_Monocular_Color_Images_CVPR_2022_paper.html)][[project link](https://www.yangangwang.com/papers/ZZM-SCR-2022-03.html)][[Corresponding Author](https://www.yangangwang.com/)][`Southeast University`, `CBF dataset` (hand-object Contact with Balancing Force recording, version 0.1)]
 
 * **IHIO(CVPR2022)(arxiv2022.04)** What's in your hands? 3D Reconstruction of Generic Objects in Hands [[paper link](http://openaccess.thecvf.com/content/CVPR2022/html/Ye_Whats_in_Your_Hands_3D_Reconstruction_of_Generic_Objects_in_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2204.07153)][[project link](https://judyye.github.io/ihoi/)][[code|official](https://github.com/JudyYe/ihoi)][`Carnegie Mellon University + Meta AI`]
 
@@ -124,7 +133,9 @@
 
 * **HOISDF(CVPR2024)(arxiv2024.02)** HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_HOISDF_Constraining_3D_Hand-Object_Pose_Estimation_with_Global_Signed_Distance_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2402.17062)][[project link](https://amathislab.github.io/HOISDF/)][[code|official](https://github.com/amathislab/HOISDF)][`EPFL`][It achieved state-of-the-art results on the `DexYCB` and `HO3Dv2` datasets]
 
-* **DiffH2O(SIGGRAPH2024)(arxiv2024.03)** DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions [[arxiv link](https://arxiv.org/abs/2403.17827)][[project link](https://diffh2o.github.io/)][`Meta, Switzerland + ETH`]
+* **HOLD(CVPR2024, Highlight)(arxiv2023.11)** HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_HOLD_Category-agnostic_3D_Reconstruction_of_Interacting_Hands_and_Objects_from_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2311.18448)][[project link](https://zc-alexfan.github.io/hold)][[code|official](https://github.com/zc-alexfan/hold)][`ETH + MPII`; `Michael J. Black`]
+
+* 👍**DiffH2O(SIGGRAPH2024)(arxiv2024.03)** DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions [[arxiv link](https://arxiv.org/abs/2403.17827)][[project link](https://diffh2o.github.io/)][`Meta, Switzerland + ETH`]
 
 * 👍**MCC-HO(MCC-Hand-Object)(arxiv2024.04)** Reconstructing Hand-Held Objects in 3D [[arxiv link](https://arxiv.org/abs/2404.06507)][[project link](https://janehwu.github.io/mcc-ho/)][[code|official](https://github.com/janehwu/mcc-ho)][`University of California, Berkeley + University of Texas at Austin + California Institute of Technology`][It jointly `reconstructs hand and object geometry` given `a single RGB image` and `inferred 3D hand` as inputs.][The proposed alignment method `Retrieval-Augmented Reconstruction (RAR)` can be used to `automatically obtain 3D labels` for in-the-wild images of `hand-object interactions`.]
 
@@ -144,6 +155,13 @@
 
 * **WildHOI(ECCV2024)** 3D Reconstruction of Objects in Hands without Real World 3D Supervision [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-73229-4_8)][[project link](https://ap229997.github.io/projects/wild-hoi/)][[code|official](https://github.com/ap229997/wild-hoi/)][`University of Illinois Urbana-Champaign`]
 
+* **HOGraspNet(ECCV2024)(arxiv2024.09)** Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-73007-8_17)][[arxiv link](https://arxiv.org/abs/2409.04033)][[project link](https://hograspnet2024.github.io/)][[code|official](https://github.com/UVR-WJCHO/HOGraspNet)][`KAIST UVR Lab + KAIST CVL Lab + Kwangwoon University + Surromind + KAIST KI-ITC ARRC + Imperial College London`]
+
+* **FürElise(SIGGRAPH Asia 2024)(arxiv2024.10)** FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance [[arxiv link](https://arxiv.org/abs/2410.05791)][[project link](https://for-elise.github.io/)][`Stanford University`]
+
+* **HoP(arxiv2024.09)** Hand-Object Interaction Pretraining from Videos [[arxiv link](https://arxiv.org/abs/2409.08273)][[project link](https://hgaurav2k.github.io/hop/)][[code|official](https://github.com/hgaurav2k/hop)][`University of California, Berkeley`; `Pieter Abbeel`]
+
+***
 
 ### ▶ Dexterous Hand Grasp/Manipulation
 
