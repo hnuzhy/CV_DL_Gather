@@ -137,6 +137,8 @@ also named ***Deep Generative Model***
 
 * **PITI(arxiv2022)** Pretraining is All You Need for Image-to-Image Translation [[arxiv link](https://arxiv.org/abs/2205.12952)][[project link](https://tengfei-wang.github.io/PITI/index.html)][[code|official](https://github.com/PITI-Synthesis/PITI)][`a diffusion-based image-to-image translation method that utilizes large-scale pretraining as a way to improve the quality of generated results`]
 
+* **GeoWizard(ECCV2024)(arxiv2024.03)** GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72670-5_14)][[arxiv link](https://arxiv.org/abs/2403.12013)][[project link](https://fuxiao0719.github.io/projects/geowizard/)][[code|official](https://github.com/fuxiao0719/GeoWizard)][`CUHK + The University of Adelaide + HKUST + ShanghaiTech University + HKU + Light Illusions`; `Xiaoxiao Long`]
+
 
 #### ▶ Text-to-Image Diffusion
 `Text-to-image generation is often achieved by encoding text inputs into latent vectors using pretrained language models like CLIP`.
