@@ -402,6 +402,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * 👍**A3VLM(CoRL2024)(arxiv2024.06)** A3VLM: Actionable Articulation-Aware Vision Language Model [[arxiv link](https://arxiv.org/abs/2406.07549)][[code|official](https://github.com/changhaonan/A3VLM)][`SJTU + Shanghai AI Lab + Rutgers University + Yuandao AI + PKU + CUHK MMLab`]
 
+* **Manipulate-Anything(CoRL2024)(arxiv2024.06)** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[arxiv link](https://arxiv.org/abs/2406.18915)][[project link](https://robot-ma.github.io/)][`University of Washington + NVIDIA + Allen Institute for Artifical Intelligence + Universidad Católica San Pablo`; `Dieter Fox`]
+
 * 👍**EquiBot(CoRL2024)(arxiv2024.07)** EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning [[arxiv link](https://arxiv.org/abs/2407.01479)][[project link](https://equi-bot.github.io/)][[code|official](https://github.com/yjy0625/equibot)][`Stanford University`][ This work is largely based on their previous work [(ICRA2024)(arxiv2023.10) EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation](https://arxiv.org/abs/2310.16050).][During the human demonstration processing stage, it used `Grounded Segment Anything Model with DEVA` [(ICCV2023)](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) as the `object detection and tracking model` and `HaMeR` [(CVPR2024)](https://github.com/geopavlakos/hamer) as the `hand detection model`.]
 
 * **TieBot(CoRL2024, Oral)(arxiv2024.07)** TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach [[arxiv link](https://arxiv.org/abs/2407.03245)][[project link](https://tiebots.github.io/)][`National University of Singapore +  Shanghai Jiao Tong University + Nanjing University`; `Cewu Lu`][`Learning from action labels free human videos`]
@@ -483,8 +485,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * 👍**RoboPoint(arxiv2024.06)** RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics [[arxiv link](https://arxiv.org/abs/2406.10721)][[project link](https://robo-point.github.io/)][[code|official](https://github.com/wentaoyuan/RoboPoint)][`University of Washington + NVIDIA`; `Dieter Fox`][ROBOPOINT is a `VLM` that predicts `image keypoint affordances` given `language instruction`s.]
 
 * **SigmaAgent(arxiv2024.06)** Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2406.09738)][[project link](https://teleema.github.io/projects/Sigma_Agent/)][`HKUST-GZ`][This work is partly based on the `RVT`; Sigma-Agent incorporates `contrastive Imitation Learning (contrastive IL)` modules to strengthen `vision-language` and `current-future` representations.]
-
-* **Manipulate-Anything(arxiv2024.06)** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[arxiv link](https://arxiv.org/abs/2406.18915)][[project link](https://robot-ma.github.io/)][`University of Washington + NVIDIA + Allen Institute for Artifical Intelligence + Universidad Católica San Pablo`]
 
 * **LLaRA(arxiv2024.06)** LLaRA: Supercharging Robot Learning Data for Vision-Language Policy [[arxiv link](https://arxiv.org/abs/2406.20095)][[code|official](https://github.com/LostXine/LLaRA)][`Stony Brook University + University of Wisconsin-Madison`]
 
