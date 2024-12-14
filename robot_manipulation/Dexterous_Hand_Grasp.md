@@ -38,8 +38,6 @@
 
 * 👍**HaMeR(CVPR2024)(arxiv2023.12)** Reconstructing Hands in 3D with Transformers [[paper link](http://openaccess.thecvf.com/content/CVPR2024/html/Pavlakos_Reconstructing_Hands_in_3D_with_Transformers_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2312.05251)][[project link](https://geopavlakos.github.io/hamer/)][[dataset HInt](https://github.com/ddshan/hint)][[code|official](https://github.com/geopavlakos/hamer)][the first author [`Georgios Pavlakos`](https://geopavlakos.github.io/), `University of California, Berkeley`, a new dataset `HInt` which is built by sampling frames from `New Days of Hands`, `EpicKitchens-VISOR` and `Ego4D` and annotating the hands with `2D keypoints`.]
 
-* **OHTA(CVPR2024)(arxiv2024.02)** OHTA: One-shot Hand Avatar via Data-driven Implicit Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_OHTA_One-shot_Hand_Avatar_via_Data-driven_Implicit_Priors_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2402.18969)][[project link](https://zxz267.github.io/OHTA/)][[code|official](https://github.com/zxz267/OHTA)][`ByteDance`][Hand Avatar = 3D Hand Mesh + Texture][To test OHTA’s performance for the challenging `in-the-wild` images, they take the whole-body version of `MSCOCO` for experiments. They utilize the 3D hand pose estimation results provided by [`DIR`](https://github.com/PengfeiRen96/DIR) trained on `InterWild`]
-
 * **SimpleHand(CVPR2024)(arxiv2024.03)** A Simple Baseline for Efficient Hand Mesh Reconstruction [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_A_Simple_Baseline_for_Efficient_Hand_Mesh_Reconstruction_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2403.01813)][[project link](https://simplehand.github.io/)][[code|official](https://github.com/patienceFromZhou/simpleHand)][`JIIOV Technology`][It is a lightweight method based on `HRNet` or `FastViT`]
 
 * **HHMR(CVPR2024)(arxiv2024.06)** HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Li_HHMR_Holistic_Hand_Mesh_Recovery_by_Enhancing_the_Multimodal_Controllability_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2406.01334)][[project link](https://dw1010.github.io/project/HHMR/HHMR.html)][`Tsinghua University + Beijing Normal University`]
@@ -58,15 +56,23 @@
 
 * **STMR(arxiv2024.07)** STMR: Spiral Transformer for Hand Mesh Reconstruction [[arxiv link](https://arxiv.org/abs/2407.05967)][[code|official](https://github.com/SmallXieGithub/STMR)][`South China University of Technology + Pazhou Lab`]
 
-* **XHand(arxiv2024.07)** XHand: Real-time Expressive Hand Avatar [[arxiv link](https://arxiv.org/abs/2407.21002)][[project link](https://agnjason.github.io/XHand-page/)][[code|official](https://github.com/agnJason/XHand)][`Zhejiang University`][Hand Avatar = 3D Hand Mesh + Texture]
-
 * **WiLoR(arxiv2024.09)** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild [[arxiv link](https://arxiv.org/abs/2409.12259)][[project link](https://rolpotamias.github.io/WiLoR/)][[code|official](https://github.com/rolpotamias/WiLoR)][`Imperial College London + Shanghai Jiao Tong University`][doing hand `detection` and `reconstruction`.]
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
+### ▶ 3D Hand Avatar (3D Hand Mesh + Texture)
+
+* **OHTA(CVPR2024)(arxiv2024.02)** OHTA: One-shot Hand Avatar via Data-driven Implicit Priors [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Zheng_OHTA_One-shot_Hand_Avatar_via_Data-driven_Implicit_Priors_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2402.18969)][[project link](https://zxz267.github.io/OHTA/)][[code|official](https://github.com/zxz267/OHTA)][`ByteDance`][Hand Avatar = 3D Hand Mesh + Texture][To test OHTA’s performance for the challenging `in-the-wild` images, they take the whole-body version of `MSCOCO` for experiments. They utilize the 3D hand pose estimation results provided by [`DIR`](https://github.com/PengfeiRen96/DIR) trained on `InterWild`]
+
+* **UHM(CVPR2024, Oral)(arxiv2024.05)** Authentic Hand Avatar from a Phone Scan via Universal Hand Model [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Moon_Authentic_Hand_Avatar_from_a_Phone_Scan_via_Universal_Hand_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2405.07933)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/UHM)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+
+* **URHand(CVPR2024, Oral)(arxiv2024.01)** URHand: Universal Relightable Hands [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_URHand_Universal_Relightable_Hands_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2401.05334)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/goliath)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+
+* **XHand(arxiv2024.07)** XHand: Real-time Expressive Hand Avatar [[arxiv link](https://arxiv.org/abs/2407.21002)][[project link](https://agnjason.github.io/XHand-page/)][[code|official](https://github.com/agnJason/XHand)][`Zhejiang University`][Hand Avatar = 3D Hand Mesh + Texture]
 
 
-### ▶ Hand Object Contact/Interaction
+### ▶ Hand Object Contact/Grasp/Interaction Reconstruction/Generation
 
 * **ContactDB(CVPR2019 Oral, Best Paper Finalist)** ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging [[arxiv link](https://arxiv.org/abs/1904.06830)][[project link](https://contactdb.cc.gatech.edu/)][`Georgia Tech Robotics`][`the first large-scale dataset that records detailed contact maps for functional human grasps`]
 
@@ -97,6 +103,8 @@
 * 👍**HOIG or HOGAN(NIPS2022 spotlight)** Hand-Object Interaction Image Generation [[openreview link](https://openreview.net/forum?id=DDEwoD608_l)][[arxiv link](https://arxiv.org/abs/2211.15663)][[project link](https://play-with-hoi-generation.github.io/)][[code|official](https://github.com/play-with-HOI-generation/HOIG)]
 
 * 👍**SCR(CVPR2022)** Stability-Driven Contact Reconstruction From Monocular Color Images [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Stability-Driven_Contact_Reconstruction_From_Monocular_Color_Images_CVPR_2022_paper.html)][[project link](https://www.yangangwang.com/papers/ZZM-SCR-2022-03.html)][[Corresponding Author](https://www.yangangwang.com/)][`Southeast University`, `CBF dataset` (hand-object Contact with Balancing Force recording, version 0.1)]
+
+* **IHIO(CVPR2022)(arxiv2022.04)** What's in your hands? 3D Reconstruction of Generic Objects in Hands [[paper link](http://openaccess.thecvf.com/content/CVPR2022/html/Ye_Whats_in_Your_Hands_3D_Reconstruction_of_Generic_Objects_in_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2204.07153)][[project link](https://judyye.github.io/ihoi/)][[code|official](https://github.com/JudyYe/ihoi)][`Carnegie Mellon University + Meta AI`]
 
 * **OakInk(CVPR2022)(arxiv2022.03)** OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction [[paper link](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_OakInk_A_Large-Scale_Knowledge_Repository_for_Understanding_Hand-Object_Interaction_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2203.15709)][[project link](https://oakink.net/)][[code|official](https://github.com/oakink/OakInk)][`SJTU`]
 
