@@ -21,6 +21,13 @@
 
 * 👍**Florence-2(CVPR2024)(arxiv2023.11)** Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2311.06242)][[project link](https://blog.roboflow.com/florence-2/)][[code|official](https://github.com/kijai/ComfyUI-Florence2)][[code|huggingface](https://huggingface.co/microsoft/Florence-2-large)][`Azure AI, Microsoft`]
 
+* **ImOV3D(NIPS2024)(arxiv2024.10)** ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images [[openreview link](https://openreview.net/forum?id=RCO9fRP8AJ)][[arxiv link](https://arxiv.org/abs/2410.24001)][[code|official](https://github.com/yangtiming/ImOV3D)][`Shanghai Qi Zhi Institute + IIIS, Tsinghua University + Shanghai AI Lab`]
+
+
 ### ▶ Vision Language Application
 
 * **LQMFormer(CVPR2024)** LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Shah_LQMFormer_Language-aware_Query_Mask_Transformer_for_Referring_Image_Segmentation_CVPR_2024_paper.html)][[code|(not available)]()][`Johns Hopkins University`; `Referring Image Segmentation (RIS)` aims to segment objects from an image based on a language description.]
+
+* **RefHuman(NIPS2024)(arxiv2024.10)** Referring Human Pose and Mask Estimation in the Wild [[openreview link](https://openreview.net/forum?id=fXEi3LVflp)][[arxiv link](https://arxiv.org/abs/2410.20508)][[code|official](https://github.com/bo-miao/RefHuman)][`University of Western Australia + Xidian University + Hunan University + Griffith University`]
+
+
