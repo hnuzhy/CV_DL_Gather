@@ -120,6 +120,8 @@
 
 * 👍**NeuGraspNet(RSS2024)(arxiv2023.06)** Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering [[paper link]()][[arxiv link](https://arxiv.org/abs/2306.07392)][[project link](https://sites.google.com/view/neugraspnet)][`TU Darmstadt, Germany + NIT Trichy, India + Hessian.AI, Darmstadt, Germany`][using the `NeRF`]
 
+* **AO-Grasp(arxiv2023.10)** AO-Grasp: Articulated Object Grasp Generation [[arxiv link](https://arxiv.org/abs/2310.15928)][[project link](https://stanford-iprl-lab.github.io/ao-grasp/)][[code|official](https://github.com/stanford-iprl-lab/ao-grasp)][`Stanford University, USA + University of Freiburg, Germany`]
+
 * **Coarse-to-fine_Affordance(ICRA2024)(arxiv2024.02)** Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise [[arxiv link](https://arxiv.org/abs/2402.18699)][[project link](https://sites.google.com/view/coarse-to-fine/)][[code|official](https://github.com/Suhan-Ling/Coarse-to-fine_Affordance)][`PKU + Huawei`][`Noisy Label Learning`]
 
 * **GL-MSDA(ICRA2024)(arxiv2024.03)** Sim-to-Real Grasp Detection with Global-to-Local RGB-D Adaptation [[arxiv link](https://arxiv.org/abs/2403.11511)][[code|official](https://github.com/mahaoxiang822/GL-MSDA)][`Beihang University + HIT`][`RGB-D Adaptation`]
@@ -143,5 +145,10 @@
 * 👍**CenterGrasp(RAL2024)(arxiv2023.12)** CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10499443)][[arxiv link](https://arxiv.org/abs/2312.08240)][[project link](http://centergrasp.cs.uni-freiburg.de/)][[code|official](https://github.com/robot-learning-freiburg/CenterGrasp)][`University of Freiburg + University of Technology Nuremberg`][It is based on `CenterSnap`, `DeepSDF` and `Neural Grasp Distance Fields (NGDF)`, and better than `GIGA` (yet not better than `GraspNet` and `AnyGrasp`)]
 
 * 👍**RNGNet(CoRL2024)(arxiv2024.06)** Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping [[openreview link](https://openreview.net/forum?id=jPkOFAiOzf)][[arxiv link](https://arxiv.org/abs/2406.01767)][[code|official](https://github.com/THU-VCLab/RegionNormalizedGrasp)][`THU-Shenzhen`][It is better than `HGGD`]
+
+* **TARGO(arxiv2024.07)** TARGO: Benchmarking Target-driven Object Grasping under Occlusions [[arxiv link](https://arxiv.org/abs/2407.06168)][[project link](https://targo-benchmark.github.io/)][[code|official](https://github.com/TARGO-benchmark/TARGO)][`Technical University of Munich + CFCS, School of CS, Peking University + University of Oxford + Munich Center for Machine Learning (MCML)`; `Dong Hao`]
+
+* **GraspSAM(arxiv2024.09)** GraspSAM: When Segment Anything Model Meets Grasp Detection [[arxiv link](https://arxiv.org/abs/2409.12521)][[project link](https://gistailab.github.io/graspsam/)][[code|official](https://github.com/gist-ailab/GraspSAM)][`Gwangju Institute of Science and Technology (GIST)`]
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
