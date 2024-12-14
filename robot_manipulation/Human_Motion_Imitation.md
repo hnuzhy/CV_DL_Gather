@@ -54,3 +54,7 @@
 * **MaskedMimic(SIGGRAPH2024)** MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting [[pdf link](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)][[project link](https://research.nvidia.com/labs/par/maskedmimic/)][[`NVIDIA`] 
 
 * **GVHMR(SIGGRAPH2024)(arxiv2024.09)** World-Grounded Human Motion Recovery via Gravity-View Coordinates [[arxiv link](https://arxiv.org/abs/2409.06662)][[project link](https://zju3dv.github.io/gvhmr/)][[code|official](https://github.com/zju3dv/GVHMR)][[huggingface demo](https://huggingface.co/spaces/LittleFrog/GVHMR)][`Zhejiang University + The University of Hong Kong + Deep Glint + Shenzhen University`]
+
+* **HOVER(arxiv2024.10)** HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[arxiv link](https://arxiv.org/abs/2410.21229)][[project link](https://hover-versatile-humanoid.github.io/)][`NVIDIA + CMU + UC Berkeley + UT Austin + UC San Diego`; `Xiaolong Wang + Yuke Zhu`]
+
+
