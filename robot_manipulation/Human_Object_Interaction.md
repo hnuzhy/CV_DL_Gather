@@ -53,5 +53,6 @@
 
 * **F-HOI(arxiv2024.07)** F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions [[arxiv link](https://arxiv.org/abs/2407.12435)][[project link](https://f-hoi.github.io/)][[dataset link](https://drive.google.com/file/d/1cw3ZmNs8HwirV-b_Stb1YSHBy8bFi58Y/view?usp=sharing)][`CUHKSZ + BIGAI + PKU`]
 
+
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
