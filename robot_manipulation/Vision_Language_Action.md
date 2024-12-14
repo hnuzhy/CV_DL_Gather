@@ -409,6 +409,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **Manipulate-Anything(CoRL2024)(arxiv2024.06)** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[arxiv link](https://arxiv.org/abs/2406.18915)][[project link](https://robot-ma.github.io/)][`University of Washington + NVIDIA + Allen Institute for Artifical Intelligence + Universidad Católica San Pablo`; `Dieter Fox`]
 
+* **LLARVA(CoRL2024)(arxiv2024.06)** LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning [[arxiv link](https://arxiv.org/abs/2406.11815)][[project link](https://llarva24.github.io/)][[code|official](https://github.com/Dantong88/LLARVA)][`Berkeley AI Research, UC Berkeley`]
+
 * 👍**EquiBot(CoRL2024)(arxiv2024.07)** EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning [[arxiv link](https://arxiv.org/abs/2407.01479)][[project link](https://equi-bot.github.io/)][[code|official](https://github.com/yjy0625/equibot)][`Stanford University`][ This work is largely based on their previous work [(ICRA2024)(arxiv2023.10) EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation](https://arxiv.org/abs/2310.16050).][During the human demonstration processing stage, it used `Grounded Segment Anything Model with DEVA` [(ICCV2023)](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) as the `object detection and tracking model` and `HaMeR` [(CVPR2024)](https://github.com/geopavlakos/hamer) as the `hand detection model`.]
 
 * **TieBot(CoRL2024, Oral)(arxiv2024.07)** TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach [[arxiv link](https://arxiv.org/abs/2407.03245)][[project link](https://tiebots.github.io/)][`National University of Singapore +  Shanghai Jiao Tong University + Nanjing University`; `Cewu Lu`][`Learning from action labels free human videos`]
@@ -467,16 +469,13 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **LCB(arxiv2024.05)** From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control [[arxiv link](https://arxiv.org/abs/2405.04798)][[project link](https://fredshentu.github.io/LCB_site/)][`University of California Berkeley`][It is tested on benchmarks `LangTable` and `CALVIN`]
 
-* **ReAd / Reinforced Advantage feedback(arxiv2024.05)** Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration [[arxiv link](https://arxiv.org/abs/2405.14314)][[project link](https://read-llm.github.io/)][`THU + Shanghai AI Lab + Northwestern Polytechnical University + ZJU`; `Multi-Agent Collaboration`]
+* **ReAd(arxiv2024.05)** Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration [[arxiv link](https://arxiv.org/abs/2405.14314)][[project link](https://read-llm.github.io/)][`THU + Shanghai AI Lab + Northwestern Polytechnical University + ZJU`; `Multi-Agent Collaboration`][Reinforced Advantage feedback]
 
 * **ORION(arxiv2024.05)** Vision-based Manipulation from Single Human Video with Open-World Object Graphs [[arxiv link](https://arxiv.org/abs/2405.20321)][[project link](https://ut-austin-rpl.github.io/ORION-release/)][`The University of Texas at Austin + Sony AI`; `Yuke Zhu`][`Learning from action labels free human videos`][We investigate the problem of `imitating robot manipulation` from `a single human video` in the `open-world setting`, where `a robot must learn to manipulate novel objects from one video demonstration`.]
-
 
 * 👍**ManiCM(arxiv2024.06)** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2406.01586)][[project link](https://manicm-fast.github.io/)][[code|official](https://github.com/ManiCM-fast/ManiCM)][`THU-SZ + Shanghai AI Lab + CMU`][It is based on `3D Diffusion Policy` and is much better, where DP3 is accelerated via `consistency model`.][It did not conduct experiments on benchmarks `RLBench` and `CALVIN`]
 
 * **OpenVLA(arxiv2024.06)** OpenVLA: An Open-Source Vision-Language-Action Model [[arxiv link](https://arxiv.org/abs/2406.09246)][[project link](https://openvla.github.io/)][[code|official](https://github.com/openvla/openvla)][[SimplerEnv-OpenVLA (not officially)](https://github.com/DelinQu/SimplerEnv-OpenVLA)][`Stanford University + UC Berkeley + Toyota Research Institute + Google DeepMind + Physical Intelligence + MIT`][It has better performance than `RT-1/2/H/X` and `Octo`]
-
-* **LLARVA(arxiv2024.06)** LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning [[arxiv link](https://arxiv.org/abs/2406.11815)][[project link](https://llarva24.github.io/)][[code|official](https://github.com/Dantong88/LLARVA)][`Berkeley AI Research, UC Berkeley`]
 
 * **VKT(arxiv2024.06)** Scaling Manipulation Learning with Visual Kinematic Chain Prediction [[arxiv link](https://arxiv.org/abs/2406.07837)][[project link](https://mlzxy.github.io/visual-kinetic-chain/)][[code|official](https://github.com/mlzxy/visual-kinetic-chain)][`Rutgers University`][The proposed `Visual Kinematics Transformer (VKT)` is a `convolution-free` architecture that supports an `arbitrary number of camera viewpoints`, and that is trained with a single objective of `forecasting kinematic structures` through optimal `point-set matching`.]
 
