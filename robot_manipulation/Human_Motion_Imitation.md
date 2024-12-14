@@ -37,6 +37,8 @@
 
 * **LDP(arxiv2024.03)** Human Motion Prediction under Unexpected Perturbation [[arxiv link](https://arxiv.org/abs/2403.15891)][`University of Leeds, United Kingdom + INRIA, France`]
 
+* **LegManip(arxiv2024.03)** Learning Visual Quadrupedal Loco-Manipulation from Demonstrations [[arxiv link](https://arxiv.org/abs/2403.20328)][[project link](https://zhengmaohe.github.io/leg-manip/)][`Shanghai Qi Zhi Institute + University of California, Berkeley + Tsinghua University + HKUST-GZ`][It aims to empower a `quadruped robot` to execute real-world manipulation tasks `using only its legs`; It used `3D Diffusion Policy` as the `high-level planner`.]
+
 * **PhysReaction(arxiv2024.04)** PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation [[arxiv link](https://arxiv.org/abs/2404.01081)][[project link](https://yunzeliu.github.io/PhysReaction/)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
 
 * **LMM(arxiv2024.04)** Large Motion Model for Unified Multi-Modal Motion Generation [[arxiv link](https://arxiv.org/abs/2404.01284)][[project link](https://mingyuan-zhang.github.io/projects/LMM.html)][[code|official](https://github.com/mingyuan-zhang/LMM)][`S-Lab + SenseTime`]
