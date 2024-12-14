@@ -526,6 +526,95 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **RDT-1B(arxiv2024.10)** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2410.07864)][[project link](https://rdt-robotics.github.io/rdt-robotics/)][[code|official](https://github.com/thu-ml/RoboticsDiffusionTransformer)][`Tsinghua University`; `Jun Zhu`]
 
+
+
+* **Shortcut-models(arxiv2024.10)** One Step Diffusion via Shortcut Models [[arxiv link](https://arxiv.org/abs/2410.12557)][[project link](https://kvfrans.com/shortcut-models/)][[code|official](https://github.com/kvfrans/shortcut-models)][`UC Berkeley`; `Sergey Levine + Pieter Abeel`]
+
+* **affordance-policy(arxiv2024.10)** Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Policy Learning using Affordance-Centric Task Frames [[arxiv link](https://arxiv.org/abs/2410.12124)][[project link](https://affordance-policy-policy.github.io/)][`QUT Centre for Robotics + University of Adelaide`]
+
+* **GenDP(CoRL2024, Oral)(arxiv2024.10)** GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy [[openreview link](https://openreview.net/forum?id=7wMlwhCvjS)][[arxiv link](https://arxiv.org/abs/2410.17488)][[project link](https://robopil.github.io/GenDP/)][[code|official](https://github.com/WangYixuan12/gendp)][`Columbia University + University of Illinois Urbana-Champaign + Boston Dynamics AI Institute`][This work is based on `Diffusion Policy`, `robomimic` and `D3Fields`]
+
+* **PhyScene(CVPR2024, Highlight)(arxiv2024.04)** PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2404.09465)][[project link](https://physcene.github.io/)][[code|official](https://github.com/PhyScene/PhyScene)][`BIGAI`]
+
+* **GraspSAM(arxiv2024.09)** GraspSAM: When Segment Anything Model Meets Grasp Detection [[arxiv link](https://arxiv.org/abs/2409.12521)][[project link](https://gistailab.github.io/graspsam/)][[code|official](https://github.com/gist-ailab/GraspSAM)][`Gwangju Institute of Science and Technology (GIST)`]
+
+* **SCANet(IROS2024, Oral)(arxiv2024.03)** SCANet: Correcting LEGO Assembly Errors with Self-Correct Assembly Network [[arxiv link](https://arxiv.org/abs/2403.18195)][[project link](https://scanet-iros2024.github.io/)][[code|official](https://github.com/Yaser-wyx/SCANet)][`Southeast University + Peking University`; `Dong Hao`]
+
+* **HPT(NIPS2024, Spotlight)(arxiv2024.09)** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers [[openreview link](https://openreview.net/forum?id=Pf7kdIjHRf)][[arxiv link](https://arxiv.org/abs/2409.20537)][[project link](https://liruiw.github.io/hpt/)][[code|official](https://github.com/liruiw/HPT)][`MIT CSAIL + FAIR`; `Kaiming He`]
+
+* **Data-Scaling-Laws(arxiv2024.10)** Data Scaling Laws in Imitation Learning for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2410.18647)][[project link](https://data-scaling-laws.github.io/)][[code|official](https://github.com/Fanqi-Lin/Data-Scaling-Laws)][`Tsinghua University + Shanghai Qi Zhi Institute + Shanghai Artificial Intelligence Laboratory`]
+
+* **UHM(CVPR2024, Oral)(arxiv2024.05)** Authentic Hand Avatar from a Phone Scan via Universal Hand Model [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Moon_Authentic_Hand_Avatar_from_a_Phone_Scan_via_Universal_Hand_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2405.07933)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/UHM)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+
+* **URHand(CVPR2024, Oral)(arxiv2024.01)** URHand: Universal Relightable Hands [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_URHand_Universal_Relightable_Hands_CVPR_2024_paper.html)][[arxiv link](http://arxiv.org/abs/2401.05334)][[project link](https://frozenburning.github.io/projects/urhand/)][[code|official](https://github.com/facebookresearch/goliath)][`Codec Avatars Lab, Meta + Nanyang Technological University`]
+
+* **AO-Grasp(arxiv2023.10)** AO-Grasp: Articulated Object Grasp Generation [[arxiv link](https://arxiv.org/abs/2310.15928)][[project link](https://stanford-iprl-lab.github.io/ao-grasp/)][[code|official](https://github.com/stanford-iprl-lab/ao-grasp)][`Stanford University, USA + University of Freiburg, Germany`]
+
+* **TARGO(arxiv2024.07)** TARGO: Benchmarking Target-driven Object Grasping under Occlusions [[arxiv link](https://arxiv.org/abs/2407.06168)][[project link](https://targo-benchmark.github.io/)][[code|official](https://github.com/TARGO-benchmark/TARGO)][`Technical University of Munich + CFCS, School of CS, Peking University + University of Oxford + Munich Center for Machine Learning (MCML)`; `Dong Hao`]
+
+* **DiffusionForcing(arxiv2024.07)** Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion [[arxiv link](https://arxiv.org/abs/2407.01392)][[project link](https://boyuan.space/diffusion-forcing/)][[code|official](https://github.com/buoyancy99/diffusion-forcing)][`MIT`]
+
+* **RialTo / RialToPolicyLearning(RSS2024)(arxiv2024.03)** Reconciling Reality Through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation [[arxiv link](https://arxiv.org/abs/2403.03949)][[project link](https://real-to-sim-to-real.github.io/RialTo/)][[code|official](https://github.com/real-to-sim-to-real/RialToPolicyLearning)][`Massachusetts Institute of Technology + University of Washington + TU Darmstadt`]
+
+* **EasyHeC(RAL2023)(arxiv2023.05)** EasyHeC: Accurate and Automatic Hand-eye Calibration via Differentiable Rendering and Space Exploration [[paper link](https://ieeexplore.ieee.org/abstract/document/10251600)][[arxiv link](https://arxiv.org/abs/2305.01191)][[project link](https://ootts.github.io/easyhec/)][[code|official](https://github.com/ootts/EasyHeC)][`State Key Lab of CAD & CG, Zhejiang University + University of California, San Diego`; `Xiaowei Zhou +  Hao Su`]
+
+* **CLOVER(NIPS2024)(arxiv2024.09)** Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation [[openreview link](https://openreview.net/forum?id=1ptdkwZbMG)][[paper link]()][[arxiv link](https://arxiv.org/abs/2409.09016)][[project link]()][[code|official](https://github.com/OpenDriveLab/CLOVER)][`Shanghai AI Lab + Shanghai Jiao Tong University + HKU + Tsinghua University`][It followed the methods `AVDC` and `RoboFlamingo`]
+
+* 👍**DiT-Block-Policy(arxiv2024.10)** The Ingredients for Robotic Diffusion Transformers [[arxiv link](https://arxiv.org/pdf/2410.10088)][[project link](https://dit-policy.github.io/)][[code|official](https://github.com/sudeepdasari/dit-policy)][`Carnegie Mellon University + UC Berkeley`; `Sergey Levine`]
+
+* **IHIO(CVPR2022)(arxiv2022.04)** What's in your hands? 3D Reconstruction of Generic Objects in Hands [[paper link](http://openaccess.thecvf.com/content/CVPR2022/html/Ye_Whats_in_Your_Hands_3D_Reconstruction_of_Generic_Objects_in_CVPR_2022_paper.html)][[arxiv link](https://arxiv.org/abs/2204.07153)][[project link](https://judyye.github.io/ihoi/)][[code|official](https://github.com/JudyYe/ihoi)][`Carnegie Mellon University + Meta AI`]
+
+* **DI-MaskDINO(NIPS2024)(arxiv2024.10)*** DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model [[openreview link](https://openreview.net/forum?id=srQxkSPJLW)][[arxiv link](https://arxiv.org/abs/2410.16707)][`Chongqing University + Tsinghua University`; `Jifeng Dai`]
+
+* **HOLD(CVPR2024, Highlight)(arxiv2023.11)** HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_HOLD_Category-agnostic_3D_Reconstruction_of_Interacting_Hands_and_Objects_from_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2311.18448)][[project link](https://zc-alexfan.github.io/hold)][[code|official](https://github.com/zc-alexfan/hold)][`ETH + MPII`; `Michael J. Black`]
+
+* **RoMa(3DV)(arxiv2021.03)** Deep Regression on Manifolds: A 3D Rotation Case Study [[paper link](https://ieeexplore.ieee.org/abstract/document/9665892)][[arxiv link](https://arxiv.org/abs/2103.16317)][[project link](https://naver.github.io/roma/)][[code|official](https://github.com/naver/roma)]
+
+* **GeoWizard(ECCV2024)(arxiv2024.03)** GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72670-5_14)][[arxiv link](https://arxiv.org/abs/2403.12013)][[project link](https://fuxiao0719.github.io/projects/geowizard/)][[code|official](https://github.com/fuxiao0719/GeoWizard)][`CUHK + The University of Adelaide + HKUST + ShanghaiTech University + HKU + Light Illusions`; `Xiaoxiao Long`]
+
+* **robots-pretrain-robots(arxiv2024.10)** Robots Pre-Train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets [[arxiv link](https://arxiv.org/abs/2410.22325)][[project link](https://robots-pretrain-robots.github.io/)][[code|official](https://github.com/luccachiang/robots-pretrain-robots)][`UC San Diego + Tongji University + Shanghai Jiao Tong University + University of Maryland + Tsinghua University`; `Huazhe Xu`]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+* **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+
+
+
+
+
+
+
+
 * **** [[openreview link]()][[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
 
