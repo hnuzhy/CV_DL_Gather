@@ -54,7 +54,8 @@
 
 * **RSP(ICML2024)(arxiv2024.06)** Visual Representation Learning with Stochastic Frame Prediction [[arxiv link](https://arxiv.org/abs/2406.07398)][[project link](https://sites.google.com/view/2024rsp)][[code|official](https://github.com/huiwon-jang/RSP)][`KAIST + UC Berkeley + Dyson Robot Learning Lab`][It can be used for `Vision-based Robot Learning` inlcuding the `RLBench`]
 
-### Lightweight and Efficient Training 
+### Joint, Lightweight and Efficient Training 
 
 * **EfficientTrain++(TPAMI2024)(arxiv2024.05)** EfficientTrain++: Generalized Curriculum Learning for Efficient Visual Backbone Training [[paper link](https://ieeexplore.ieee.org/abstract/document/10530470/)][[arxiv link](https://arxiv.org/pdf/2405.08768)][[weixin blog](https://mp.weixin.qq.com/s/FJj0F2NcW9ftmT_lbO1R3w)][[code|official](https://github.com/LeapLabTHU/EfficientTrain)][`THU + BAAI`, used the `generalized curriculum learning`][The conference (EfficientTrain, ICCV2023) version [EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones](https://arxiv.org/abs/2211.09703)]
 
+* **DI-MaskDINO(NIPS2024)(arxiv2024.10)*** DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model [[openreview link](https://openreview.net/forum?id=srQxkSPJLW)][[arxiv link](https://arxiv.org/abs/2410.16707)][`Chongqing University + Tsinghua University`; `Jifeng Dai`]
