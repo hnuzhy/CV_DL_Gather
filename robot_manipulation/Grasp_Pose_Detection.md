@@ -164,5 +164,10 @@
 
 * **HiFi-CS(arxiv2024.09)** HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models [[arxiv link](https://arxiv.org/abs/2409.10419)][`New York University`][Visual Grounding + Grasp Pose Estimation]
 
+* **E3GNet(arxiv2024.10)** Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation [[arxiv link](https://arxiv.org/abs/2410.22980)][`Tsinghua University`]
+
+* **RT-Grasp(arxiv2024.11)** RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model [[arxiv link](https://arxiv.org/abs/2411.05212)][[project link](https://sites.google.com/view/rt-grasp)][`Baidu RAL + Rutgers University`]
+
+
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
