@@ -106,6 +106,8 @@
 
 * **GeoMatch(CoRL2023)(arxiv2023.12)** Geometry Matching for Multi-Embodiment Grasping [[paper link](https://proceedings.mlr.press/v229/attarian23a)][[arxiv link](https://arxiv.org/abs/2312.03864)][[project link](https://geo-match.github.io/)][[code|official](https://github.com/google-deepmind/geomatch)][`Google DeepMind + University of Toronto + Georgia Institute of Technology`]
 
+* **GraspGPT(RAL2023)(arxiv2023.07)** GraspGPT: Leveraging Semantic Knowledge From a Large Language Model for Task-Oriented Grasping [[paper link](https://ieeexplore.ieee.org/abstract/document/10265134)][[arxiv link](https://arxiv.org/abs/2307.13204)][[project link](https://sites.google.com/view/graspgpt/home)][[code|official](https://github.com/mkt1412/GraspGPT_public)][`Southern University of Science and Technology + Georgia Institute of Technology`][The journal version [`FoundationGrasp: Generalizable Task-Oriented Grasping with Foundation Models`](https://sites.google.com/view/foundationgrasp), which is released in [`arxiv2024.04`](https://arxiv.org/abs/2404.10399)]
+
 * **(RAL2023)(arxiv2023.11)** Anthropomorphic Grasping with Neural Object Shape Completion [[paper link](https://ieeexplore.ieee.org/abstract/document/10271524)][[arxiv link](https://arxiv.org/abs/2311.02510)][`TUM`][using the `NeRF`][`Completion of Shape`]
 
 * 👍👍**HGGD(RAL2023)(arxiv2024.03)** Efficient Heatmap-Guided 6-Dof Grasp Detection in Cluttered Scenes [[paper link](https://ieeexplore.ieee.org/document/10168242)][[arxiv link](https://arxiv.org/pdf/2403.18546)][[bilibili link](https://www.bilibili.com/video/BV1hH4y1H7qv/)][[code|official](https://github.com/THU-VCLab/HGGD)][`THU`][`Attention`: HGGD detects grasps only from `heatmap guidance`, without `any workspace mask` (adopted in [`Graspness`](https://github.com/rhett-chen/graspness_implementation)) or `object/foreground segmentation` method (adopted in [`Scale-balanced Grasp`](https://github.com/mahaoxiang822/scale-balanced-grasp)). It may be useful to add some of this prior information to get better results.]
@@ -134,6 +136,8 @@
 
 * 👍**FlexLoG(arxiv2024.03)** Rethinking 6-Dof Grasp Detection: A Flexible Framework for High-Quality Grasping [[arxiv link](https://arxiv.org/abs/2403.15054)][`THU + 3Shanghai AI Lab`]
 
+* **Click2Grasp(IROS2024)(arxiv2024.03)** Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors [[arxiv link](https://arxiv.org/abs/2403.14526)][[project link](https://tsagkas.github.io/click2grasp/)][[code|official](https://github.com/tsagkas/click2grasp)][`University of Edinburgh + Edinburgh Centre for Robotics + UCL`]
+
 * 👍**GaussianGrasper(RAL2024)(arxiv2024.03)** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping [[arxiv link](https://arxiv.org/abs/2403.09637)][[project link](https://mrsecant.github.io/GaussianGrasper/)][[dataset link](https://drive.google.com/file/d/1Zsl0yCXezqwLrAYzOb-u33q8gdjvRfAC/view?usp=drive_link)][[code|official](https://github.com/MrSecant/GaussianGrasper)][`Beihang University + EncoSmart + HKU + CASIA + Tsinghua AIR + Imperial College London`]
 
 * **CGDF(arxiv2024.04)** Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation [[arxiv link](https://arxiv.org/abs/2404.04643)][[project link](https://constrained-grasp-diffusion.github.io/)][`IIIT Hyderabad + MIT + Brown University`][`CGDF: Constrained Grasp Diffusion Fields`; Dual-Arm Manipulation]
@@ -144,11 +148,19 @@
 
 * 👍**CenterGrasp(RAL2024)(arxiv2023.12)** CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10499443)][[arxiv link](https://arxiv.org/abs/2312.08240)][[project link](http://centergrasp.cs.uni-freiburg.de/)][[code|official](https://github.com/robot-learning-freiburg/CenterGrasp)][`University of Freiburg + University of Technology Nuremberg`][It is based on `CenterSnap`, `DeepSDF` and `Neural Grasp Distance Fields (NGDF)`, and better than `GIGA` (yet not better than `GraspNet` and `AnyGrasp`)]
 
+* **ROSE-SoftGripper(IJRR2024)** Soft yet Secure: Exploring Membrane Buckling for Achieving a Versatile Grasp with a Rotation-driven Squeezing Gripper [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649241272120)][[project link](https://sites.google.com/view/rosesoftgripper)][`Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (JAIST)`; `Soft Robot`]
+
 * 👍**RNGNet(CoRL2024)(arxiv2024.06)** Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping [[openreview link](https://openreview.net/forum?id=jPkOFAiOzf)][[arxiv link](https://arxiv.org/abs/2406.01767)][[code|official](https://github.com/THU-VCLab/RegionNormalizedGrasp)][`THU-Shenzhen`][It is better than `HGGD`]
 
 * **TARGO(arxiv2024.07)** TARGO: Benchmarking Target-driven Object Grasping under Occlusions [[arxiv link](https://arxiv.org/abs/2407.06168)][[project link](https://targo-benchmark.github.io/)][[code|official](https://github.com/TARGO-benchmark/TARGO)][`Technical University of Munich + CFCS, School of CS, Peking University + University of Oxford + Munich Center for Machine Learning (MCML)`; `Dong Hao`]
 
+* **AffGrasp(arxiv2024.08)** Learning Precise Affordances from Egocentric Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2408.10123)][[project link](https://reagan1311.github.io/affgrasp/)][`University of Edinbugh + Huawei Noah’s Ark Lab`]
+
 * **GraspSAM(arxiv2024.09)** GraspSAM: When Segment Anything Model Meets Grasp Detection [[arxiv link](https://arxiv.org/abs/2409.12521)][[project link](https://gistailab.github.io/graspsam/)][[code|official](https://github.com/gist-ailab/GraspSAM)][`Gwangju Institute of Science and Technology (GIST)`]
+
+* **RTAGrasp(arxiv2024.09)** RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment [[arxiv link](https://arxiv.org/abs/2409.16033)][[project link](https://sites.google.com/view/rtagrasp/home)][`SUSTech`]
+
+
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
