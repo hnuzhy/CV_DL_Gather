@@ -156,11 +156,13 @@
 
 * **AffGrasp(arxiv2024.08)** Learning Precise Affordances from Egocentric Videos for Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2408.10123)][[project link](https://reagan1311.github.io/affgrasp/)][`University of Edinbugh + Huawei Noah’s Ark Lab`]
 
+* **AdaptingSkills(IROS2024)(arxiv2024.08)** Adapting Skills to Novel Grasps: A Self-Supervised Approach [[arxiv link](https://arxiv.org/abs/2408.00178v1)][[project link](https://www.robot-learning.uk/adapting-skills)][`The Robot Learning Lab at Imperial College London`; `Edward Johns`]
+
 * **GraspSAM(arxiv2024.09)** GraspSAM: When Segment Anything Model Meets Grasp Detection [[arxiv link](https://arxiv.org/abs/2409.12521)][[project link](https://gistailab.github.io/graspsam/)][[code|official](https://github.com/gist-ailab/GraspSAM)][`Gwangju Institute of Science and Technology (GIST)`]
 
 * **RTAGrasp(arxiv2024.09)** RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment [[arxiv link](https://arxiv.org/abs/2409.16033)][[project link](https://sites.google.com/view/rtagrasp/home)][`SUSTech`]
 
-
+* **HiFi-CS(arxiv2024.09)** HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models [[arxiv link](https://arxiv.org/abs/2409.10419)][`New York University`][Visual Grounding + Grasp Pose Estimation]
 
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
