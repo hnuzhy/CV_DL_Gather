@@ -187,6 +187,12 @@
 
 * **ARCap(arxiv2024.10)** ARCap: Collecting High-quality Human Demonstrations for Robot Learning with Augmented Reality Feedback [[arxiv link](https://arxiv.org/abs/2410.08464)][[project link](https://stanford-tml.github.io/ARCap/)][[code|official](https://github.com/Ericcsr/ARCap)][`Stanford University`; `Li Fei-Fei`][This is a portable data collection system that provides visual feedback through `augmented reality (AR)` and `haptic warnings` to guide users in collecting high-quality demonstrations.]
 
+* **DexHub&DART(arxiv2024.11)** DexHub and DART: Towards Internet Scale Robot Data Collection [[arxiv link](https://arxiv.org/abs/2411.02214)][[project link](https://dexhub.ai/project)][`MIT`][`Dexterous Augmented Reality Teleoperation` based on the `Apple Vision Pro`]
+
+* **LookAround(arxiv2024.11)** Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck [[arxiv link](https://arxiv.org/abs/2411.00704)][`MIT`][Tiis idea is similar to `AV-ALOHA`]
+
+* **AnyBimanual(arxiv2024.12)** AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation [[arxiv link](https://arxiv.org/abs/2412.06779)][[project link](https://anybimanual.github.io/)][[code|official](https://github.com/TengBoYuu/AnyBimanual)][`Tsinghua University + Nanyang Technological University`][AnyBimanual is mainly built upon the `PerAct2` ]
+
 
 
 ### ※ 6) Simulation/Synthesis/Generation for Embodied AI
