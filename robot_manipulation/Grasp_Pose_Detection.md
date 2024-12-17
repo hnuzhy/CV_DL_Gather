@@ -148,6 +148,8 @@
 
 * **ROSE-SoftGripper(IJRR2024)** Soft yet Secure: Exploring Membrane Buckling for Achieving a Versatile Grasp with a Rotation-driven Squeezing Gripper [[paper link](https://journals.sagepub.com/doi/abs/10.1177/02783649241272120)][[project link](https://sites.google.com/view/rosesoftgripper)][`Soft Haptics Laboratory, Japan Advanced Institute of Science and Technology (JAIST)`; `Soft Robot`]
 
+* **Show&Grasp(arxiv2024.04)** Show and Grasp: Few-shot Semantic Segmentation for Robot Grasping through Zero-shot Foundation Models [[arxiv link](https://arxiv.org/abs/2404.12717)][[project link](https://leobarcellona.github.io/showandgrasp.github.io/)][`University of Padua + Polytechnic University of Turin`]
+
 * 👍**RNGNet(CoRL2024)(arxiv2024.06)** Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping [[openreview link](https://openreview.net/forum?id=jPkOFAiOzf)][[arxiv link](https://arxiv.org/abs/2406.01767)][[code|official](https://github.com/THU-VCLab/RegionNormalizedGrasp)][`THU-Shenzhen`][It is better than `HGGD`]
 
 * **TARGO(arxiv2024.07)** TARGO: Benchmarking Target-driven Object Grasping under Occlusions [[arxiv link](https://arxiv.org/abs/2407.06168)][[project link](https://targo-benchmark.github.io/)][[code|official](https://github.com/TARGO-benchmark/TARGO)][`Technical University of Munich + CFCS, School of CS, Peking University + University of Oxford + Munich Center for Machine Learning (MCML)`; `Dong Hao`]
