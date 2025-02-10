@@ -678,31 +678,31 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * 👍**SKIL(arxiv2025.01)** SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation [[arxiv link](https://arxiv.org/abs/2501.14400)][[project link](https://skil-robotics.github.io/SKIL-robotics/)][`Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute` + `Yang Gao`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **TelePreview(arxiv2024.12)** TelePreview: A User-Friendly Teleoperation System with Virtual Arm Assistance for Enhanced Effectiveness [[arxiv link](https://arxiv.org/abs/2412.13548)][[project link](https://nus-lins-lab.github.io/telepreview/)][`National University of Singapore`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**Sketch-MoMa(arxiv2024.12)** Sketch-MoMa: Teleoperation for Mobile Manipulator via Interpretation of Hand-Drawn Sketches [[arxiv link](https://arxiv.org/abs/2412.19153)][[project link](https://toyotafrc.github.io/SketchMoMa-Proj/)][`Frontier Research Center, Toyota Motor Corporation + Aichi Institute of Technology`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Insights-from-Neuroscience(arxiv2024.12)** Modality-Driven Design for Multi-Step Dexterous Manipulation: Insights from Neuroscience [[arxiv link](https://arxiv.org/abs/2412.11337)][`Microsoft + Institute of Science Tokyo`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Bimanual-Nonprehensile-Mani(arxiv2024.09)** In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation [[arxiv link](https://arxiv.org/abs/2409.15465)][`Stanford University + Toyota Research Institute (TRI)`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Self-Collision-Avoidance(RAL2024)** Frame-By-Frame Motion Retargeting With Self-Collision Avoidance From Diverse Human Demonstrations [[paper link](https://ieeexplore.ieee.org/abstract/document/10654310)][`China Jiliang University + Zhejiang University of Technology + Zhejiang Laboratory`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Object-Part-Scene-Flow(arxiv2024.09)** Embodiment-Agnostic Action Planning via Object-Part Scene Flow [[arxiv link](https://arxiv.org/abs/2409.10032)][`CUHK+ UCB`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ARMADA(arxiv2024.12)** ARMADA: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition [[arxiv link](https://arxiv.org/abs/2412.10631)][[project link](https://nataliya.dev/armada)][`Apple`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **PriorDexGrasp(arxiv2024.12)** Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge [[arxiv link](https://arxiv.org/abs/2412.15587)][`SJTU` + `Haoshu Fang + Cewu Lu`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **S2I(arxiv2024.09)** Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization [[arxiv link](https://arxiv.org/abs/2409.19917)][[project link](https://tonyfang.net/s2i/)][`SJTU + Shanghai AI Lab` + `Haoshu Fang + Cewu Lu`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Haptic-ACT(arxiv2024.09)** Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR [[arxiv link](https://arxiv.org/abs/2409.11925)][[project link](https://sites.google.com/view/hapticact)][`Robot Intelligence Lab, Imperial College London + Extend Robotics`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **VLA-Diffu-Switch(arxiv2024.10)** Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand [[arxiv link](https://arxiv.org/abs/2410.14022)][[project link](https://vla-diffu-switch.github.io/)][`EPFL`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ForceMimic(arxiv2024.10)** ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation [[arxiv link](https://arxiv.org/abs/2410.07554)][[project link](https://forcemimic.github.io/)][`SJTU` + `Cewu Lu`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ExBody2(arxiv2024.12)** ExBody2: Advanced Expressive Humanoid Whole-Body Control [[arxiv link](https://arxiv.org/abs/2412.13196)][[project link](https://exbody2.github.io/)][`UC San Diego + UC Berkeley + MIT + NVIDIA` + `Xiaolong Wang`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
@@ -796,9 +796,9 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ZeroMSF(arxiv2025.01)** Zero-Shot Monocular Scene Flow Estimation in the Wild [[arxiv link](https://arxiv.org/abs/2501.10357)][[project link](https://research.nvidia.com/labs/lpr/zero_msf//)][`NVIDIA Research + Brown University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **OrientAnything(arxiv2024.12)** Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models [[arxiv link](https://arxiv.org/abs/2412.18605)][[project link](https://orient-anything.github.io/)][[code|official](https://github.com/SpatialVision/Orient-Anything)][`Zhejiang University + Sea AI Lab + The University of Hong Kong`]
 
 
 
