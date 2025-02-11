@@ -39,6 +39,8 @@
 
 * **LegManip(arxiv2024.03)** Learning Visual Quadrupedal Loco-Manipulation from Demonstrations [[arxiv link](https://arxiv.org/abs/2403.20328)][[project link](https://zhengmaohe.github.io/leg-manip/)][`Shanghai Qi Zhi Institute + University of California, Berkeley + Tsinghua University + HKUST-GZ`][It aims to empower a `quadruped robot` to execute real-world manipulation tasks `using only its legs`; It used `3D Diffusion Policy` as the `high-level planner`.]
 
+* **VBC(CoRL2024, Oral)(arxiv2024.03)** Visual Whole-Body Control for Legged Loco-Manipulation [[openreview link](https://openreview.net/forum?id=cT2N3p1AcE)][[arxiv link](https://arxiv.org/abs/2403.16967)][[project link](https://wholebody-b1.github.io/)][[code|official](https://github.com/Ericonaldo/visual_wholebody)][`UC San Diego + Shanghai Jiao Tong University + Fudan University` + `Xiaolong Wang`]
+
 * **PhysReaction(arxiv2024.04)** PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation [[arxiv link](https://arxiv.org/abs/2404.01081)][[project link](https://yunzeliu.github.io/PhysReaction/)][`THU + Shanghai AI Lab + Shanghai Qi Zhi`]
 
 * **LMM(arxiv2024.04)** Large Motion Model for Unified Multi-Modal Motion Generation [[arxiv link](https://arxiv.org/abs/2404.01284)][[project link](https://mingyuan-zhang.github.io/projects/LMM.html)][[code|official](https://github.com/mingyuan-zhang/LMM)][`S-Lab + SenseTime`]
@@ -61,4 +63,7 @@
 
 * **HOVER(arxiv2024.10)** HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[arxiv link](https://arxiv.org/abs/2410.21229)][[project link](https://hover-versatile-humanoid.github.io/)][`NVIDIA + CMU + UC Berkeley + UT Austin + UC San Diego`; `Xiaolong Wang + Yuke Zhu`]
 
+* **ExBody2(arxiv2024.12)** ExBody2: Advanced Expressive Humanoid Whole-Body Control [[arxiv link](https://arxiv.org/abs/2412.13196)][[project link](https://exbody2.github.io/)][`UC San Diego + UC Berkeley + MIT + NVIDIA` + `Xiaolong Wang`]
+
+* 👍**RFM_loco_mani(RAL2024)(arxiv2024.12)** Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator [[paper link](https://ieeexplore.ieee.org/abstract/document/10806624)][[arxiv link](https://arxiv.org/abs/2412.03012)][[project link](https://clearlab-sustech.github.io/RFM_loco_mani/)][`Southern University of Science and Technology + Zhejiang University-University of Illinois Urbana-Champaign Institute + LimX Dynamics`]
 
