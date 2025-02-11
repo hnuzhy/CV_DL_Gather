@@ -263,6 +263,8 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **FunGrasp(arxiv2024.11)** FunGrasp: Functional Grasping for Diverse Dexterous Hands [[arxiv link](https://arxiv.org/abs/2411.16755)][[project link](https://hly-123.github.io/FunGrasp/)][`HKUST-GZ + ETH + HKUST`][This system `FunGrasp` can grasp diverse objects ranging from `a large heavy hammer` to `thin light scissors`.]
 
+* **PriorDexGrasp(arxiv2024.12)** Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge [[arxiv link](https://arxiv.org/abs/2412.15587)][`SJTU` + `Haoshu Fang + Cewu Lu`]
+
 * **DexHier(arxiv2025.01)** From Simple to Complex Skills: The Case of In-Hand Object Reorientation [[arxiv link](https://arxiv.org/abs/2501.05439)][[project link](https://dexhier.github.io/)][`UC Berkeley + Meta AI + TU Dresden + The Centre for Tactile Internet with Human-in-the-Loop (CeTI)`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
