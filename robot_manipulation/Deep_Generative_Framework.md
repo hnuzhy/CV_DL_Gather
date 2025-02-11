@@ -190,6 +190,7 @@ also named ***Deep Generative Model***
 
 * 👍**RealFusion(arxiv2023)** RealFusion: 360° Reconstruction of Any Object from a Single Image [[arxiv link](https://arxiv.org/abs/2302.10663)][[project link](https://lukemelas.github.io/realfusion/)][[codes|official](https://github.com/lukemelas/realfusion)][inspired by `DreamFields` and `DreamFusion`][`NeRF (InstantNGP)` + `Stable Diffusion (DreamFusion)`]
 
+* **Meshtron(arxiv2024.12)** Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale [[openreview link](https://openreview.net/forum?id=mhzDv7UAMu)][[arxiv link](https://arxiv.org/abs/2412.09548)][[project link](https://research.nvidia.com/labs/dir/meshtron/)][[project link 2](https://meshtron.github.io/)][`NVIDIA`][This paper is rejected by ICLR2025]
 
 
 ### ▲ NeRF-based
