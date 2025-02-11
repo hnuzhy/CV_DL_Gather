@@ -135,6 +135,8 @@
 
 * **HOLD(CVPR2024, Highlight)(arxiv2023.11)** HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_HOLD_Category-agnostic_3D_Reconstruction_of_Interacting_Hands_and_Objects_from_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2311.18448)][[project link](https://zc-alexfan.github.io/hold)][[code|official](https://github.com/zc-alexfan/hold)][`ETH + MPII`; `Michael J. Black`]
 
+* **GazeHOI(arxiv2024.03)** Gaze-guided Hand-Object Interaction Synthesis: Dataset and Method [[arxiv link](https://arxiv.org/abs/2403.16169)][[project link](https://takiee.github.io/gaze-hoi/)][[code|official](https://github.com/takiee/GazeHOI-toolkit)][`ShanghaiTech University`]
+
 * 👍**DiffH2O(SIGGRAPH2024)(arxiv2024.03)** DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions [[arxiv link](https://arxiv.org/abs/2403.17827)][[project link](https://diffh2o.github.io/)][`Meta, Switzerland + ETH`]
 
 * 👍**MCC-HO(MCC-Hand-Object)(arxiv2024.04)** Reconstructing Hand-Held Objects in 3D [[arxiv link](https://arxiv.org/abs/2404.06507)][[project link](https://janehwu.github.io/mcc-ho/)][[code|official](https://github.com/janehwu/mcc-ho)][`University of California, Berkeley + University of Texas at Austin + California Institute of Technology`][It jointly `reconstructs hand and object geometry` given `a single RGB image` and `inferred 3D hand` as inputs.][The proposed alignment method `Retrieval-Augmented Reconstruction (RAR)` can be used to `automatically obtain 3D labels` for in-the-wild images of `hand-object interactions`.]
@@ -164,6 +166,8 @@
 * **UniHOI(arxiv2024.11)** UniHOI: Learning Fast, Dense and Generalizable 4D Reconstruction for Egocentric Hand Object Interaction Videos [[arxiv link](https://arxiv.org/abs/2411.09145)][`Tsinghua University + Shanghai Artificial Intelligence Laboratory + Shanghai Qi Zhi Institute`; `Yang Gao`]
 
 * **EasyHOI(arxiv2024.11)** EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild [[arxiv link](https://arxiv.org/abs/2411.14280)][[project link](https://lym29.github.io/EasyHOI-page/)][[code|official](https://github.com/lym29/EasyHOI)][`The University of Hong Kong + ShanghaiTech University + Hong Kong University of Science and Technology + Nanyang Technological University + Max Planck Institute for Informatics + Texas A&M University`]
+
+* **Hands-on-Hands-off(UIST2024)** Hands-on, Hands-off: Gaze-Assisted Bimanual 3D Interaction [[paper link](https://dl.acm.org/doi/abs/10.1145/3654777.3676331)][[code|official](https://github.com/Matho97/hands-on-hands-off)][`Aarhus University, Denmark + Google`]
 
 * **Superquadrics(AAAI2025)(arxiv2025.01)** Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics [[arxiv link](https://arxiv.org/abs/2501.07100)][`University of Birmingham + Jilin University + Dongguk University`]
 
@@ -259,6 +263,7 @@ Hand-Informed Representations for Dexterous Manipulation [[openreview link](http
 
 * **FunGrasp(arxiv2024.11)** FunGrasp: Functional Grasping for Diverse Dexterous Hands [[arxiv link](https://arxiv.org/abs/2411.16755)][[project link](https://hly-123.github.io/FunGrasp/)][`HKUST-GZ + ETH + HKUST`][This system `FunGrasp` can grasp diverse objects ranging from `a large heavy hammer` to `thin light scissors`.]
 
+* **DexHier(arxiv2025.01)** From Simple to Complex Skills: The Case of In-Hand Object Reorientation [[arxiv link](https://arxiv.org/abs/2501.05439)][[project link](https://dexhier.github.io/)][`UC Berkeley + Meta AI + TU Dresden + The Centre for Tactile Internet with Human-in-the-Loop (CeTI)`]
 
 * **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
