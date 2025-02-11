@@ -704,97 +704,73 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ExBody2(arxiv2024.12)** ExBody2: Advanced Expressive Humanoid Whole-Body Control [[arxiv link](https://arxiv.org/abs/2412.13196)][[project link](https://exbody2.github.io/)][`UC San Diego + UC Berkeley + MIT + NVIDIA` + `Xiaolong Wang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **EVE(UIST2024)(arxiv2024.04)** EVE: Enabling Anyone to Train Robots using Augmented Reality [[paper link](https://dl.acm.org/doi/abs/10.1145/3654777.3676413)][[arxiv link](https://arxiv.org/abs/2404.06089)][`University of Washington + NVIDIA` + `Dieter Fox`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**3D-ViTac(CoRL2024)(arxiv2024.10)** 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing [[openreview link](https://openreview.net/forum?id=bk28WlkqZn)][[arxiv link](https://arxiv.org/abs/2410.24091)][[project link](https://binghao-huang.github.io/3D-ViTac/)][`Columbia University + University of Illinois Urbana-Champaign + University of Washington`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**Survey(arxiv2024.04)** What Foundation Models can Bring for Robot Learning in Manipulation: A Survey [[arxiv link](https://arxiv.org/abs/2404.18201)][`Samsung + Beijing University of Posts and Telecommunications + Tsinghua University + Universit  ̈at Hamburg, Germany`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Tactile-Skin-RL(arxiv2024.07)** Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing [[arxiv link](https://arxiv.org/abs/2407.07885)][[project link](https://jessicayin.github.io/tactile-skin-rl/)][`Meta FAIR + University of Pennsylvania GRASP Lab + UC Berkeley + UW-Madison`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ViViDex(ICRA2025)(arxiv2024.04)** ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos [[arxiv link](https://arxiv.org/abs/2404.15709)][[project link](https://zerchen.github.io/projects/vividex.html)][`Inria + Mohamed bin Zayed University of Artificial Intelligence`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Plan-Seq-Learn(ICLR2024)(arxiv2024.05)** Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks [[openreview link](https://openreview.net/forum?id=hQVCCxQrYN)][[arxiv link](https://arxiv.org/abs/2405.01534)][[project link](https://mihdalal.github.io/planseqlearn/)][[code|official](https://github.com/mihdalal/planseqlearn)][`Carnegie Mellon University + Mistral AI`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**FAST(arxiv2025.01)** FAST: Efficient Action Tokenization for Vision-Language-Action Models [[arxiv link](https://arxiv.org/abs/2501.09747)][[project link](https://www.physicalintelligence.company/research/fast)][[code|official](https://github.com/Physical-Intelligence/openpi)][`Physical Intelligence + UC Berkeley + Stanford` + `Chelsea Finn + Sergey Levine`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**MT-Policy(arxiv2025.01)** Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.06994)][[project link](https://portal-cornell.github.io/motion_track_policy/)][`Cornell University + Stanford University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RoboHanger(arxiv2024.12)** RoboHanger: Learning Generalizable Robotic Hanger Insertion for Diverse Garments [[arxiv link](https://arxiv.org/abs/2412.01083)][[project link](https://chen01yx.github.io/Robohanger_Index/)][`Peking University + GALBOT + Beijing Academy of Artificial Intelligence`+ `He Wang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **GreenAug(arxiv2024.07)** Green Screen Augmentation Enables Scene Generalisation in Robotic Manipulation [[arxiv link](https://arxiv.org/abs/2407.07868)][[project link](https://greenaug.github.io/)][[code|official](https://github.com/eugeneteoh/greenaug)][`Dyson Robot Learning Lab` + `Xiao Ma + Stephen James`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **VBC(CoRL2024, Oral)(arxiv2024.03)** Visual Whole-Body Control for Legged Loco-Manipulation [[openreview link](https://openreview.net/forum?id=cT2N3p1AcE)][[arxiv link](https://arxiv.org/abs/2403.16967)][[project link](https://wholebody-b1.github.io/)][[code|official](https://github.com/Ericonaldo/visual_wholebody)][`UC San Diego + Shanghai Jiao Tong University + Fudan University` + `Xiaolong Wang`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DexHier(arxiv2025.01)** From Simple to Complex Skills: The Case of In-Hand Object Reorientation [[arxiv link](https://arxiv.org/abs/2501.05439)][[project link](https://dexhier.github.io/)][`UC Berkeley + Meta AI + TU Dresden + The Centre for Tactile Internet with Human-in-the-Loop (CeTI)`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**RFM_loco_mani(RAL2024)(arxiv2024.12)** Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator [[paper link](https://ieeexplore.ieee.org/abstract/document/10806624)][[arxiv link](https://arxiv.org/abs/2412.03012)][[project link](https://clearlab-sustech.github.io/RFM_loco_mani/)][`Southern University of Science and Technology + Zhejiang University-University of Illinois Urbana-Champaign Institute + LimX Dynamics`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **MocapRobot(arxiv2025.01)** Learning to Transfer Human Hand Skills for Robot Manipulations [[arxiv link](https://arxiv.org/abs/2501.04169)][[project link](https://rureadyo.github.io/MocapRobot/)][`Seoul National University + Carnegie Mellon University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **VTAO-BiManip(arxiv2025.01)** VTAO-BiManip: Masked Visual-Tactile-Action Pre-training with Object Understanding for Bimanual Dexterous Manipulation [[arxiv link](https://arxiv.org/abs/2501.03606)][`Zhejiang University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DISCOVERSE(2025)** DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments [[paper link](https://drive.google.com/file/d/1637XPqWMajfC_ZqKfCGxDxzRMrsJQA1g/view)][[project link](https://air-discoverse.github.io/)][[code|official](https://github.com/TATP-233/DISCOVERSE)][`Tsinghua University + Zhejiang University + Tongji University + Xi'an Jiaotong University + D-Robotics`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **TactGen(TRO2024)** TactGen: Tactile Sensory Data Generation via Zero-Shot Sim-to-Real Transfer [[paper link](https://ieeexplore.ieee.org/abstract/document/10815063)][`Oxford University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ManiBox(arxiv2024.11)** ManiBox: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation [[arxiv link](https://arxiv.org/abs/2411.01850)][[project link](https://thkkk.github.io/manibox)][[code|official](https://github.com/thkkk/manibox)][`Tsinghua University + National University of Singapore`]
 
-* ****  [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **PAD(NeurIPS2024)(arxiv2024.11)** Prediction with Action: Visual Policy Learning via Joint Denoising Process [[arxiv link](https://arxiv.org/abs/2411.18179)][[project link](https://sites.google.com/view/pad-paper)][[code|official](https://github.com/Robert-gyj/Prediction_with_Action)][`Tsinghua University + Shanghai Qizhi Institute + Shanghai AI Lab`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DreamToManipulate(ICLR2025)(arxiv2024.12)** Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination [[openreview link](https://openreview.net/forum?id=3RSLW9YSgk)][[arxiv link](https://arxiv.org/abs/2412.14957)][[project link](https://leobarcellona.github.io/DreamToManipulate/)][`University of Padova + Polytechnic of Torino + University of Amsterdam`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **DenseMatcher(arxiv2024.12)** DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo [[arxiv link](https://arxiv.org/abs/2412.05268)][[project link](https://tea-lab.github.io/DenseMatcher/)][[code|official](https://github.com/JunzheJosephZhu/DenseMatcher)][`IIIS, Tsinghua University + Tepan Inc. + Shanghai Qi Zhi Institute + UC Berkeley + Stanford University + Shanghai AI Lab + Shanghai Jiao Tong University` + `Huazhe Xu`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RoboMatrix(arxiv2024.12)** RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[arxiv link](https://arxiv.org/abs/2412.00171)][[project link](https://robo-matrix.github.io/)][[code|official](https://github.com/WayneMao/RoboMatrix/)][[weixin blog](https://mp.weixin.qq.com/s/kW9K4Kwj8BGbe1Mu__PXrg)][`Waseda University + Beijing Institute of Technology + Megvii Technology + The Chinese University of Hong Kong`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **CPM(CoRL2023)(arxiv2024.05)** Composable Part-Based Manipulation [[paper link](https://proceedings.mlr.press/v229/liu23e.html)][[openreview link](https://openreview.net/forum?id=o-K3HVUeEw)][[arxiv link](https://arxiv.org/abs/2405.05876)][[project link 1](https://sites.google.com/view/part-based-manipulation)][[project link 2](https://cpmcorl2023.github.io/)][[weixin blog](https://mp.weixin.qq.com/s/NZQorI9aP6YM9SXsC5hMOg)][`Stanford + MIT + NVIDIA + University of Utah + Georgia Tech` + `Jiajun Wu`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **SeeDo(arxiv2024.10)** VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model [[arxiv link](https://arxiv.org/abs/2410.08792)][[project link](https://ai4ce.github.io/SeeDo/)][[code|official](https://github.com/ai4ce/SeeDo)][`New York University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **ARCADE(IROS2024)(arxiv2024.10)** ARCADE: Scalable Demonstration Collection and Generation via Augmented Reality for Imitation Learning [[arxiv link](https://arxiv.org/abs/2410.15994)][[project link](https://yy-gx.github.io/ARCADE/)][[code|official](https://github.com/YY-GX/ARCADE/tree/Unity_ROS)][[weixin blog](https://mp.weixin.qq.com/s/w0INUTi5TlAGp6ALnh8v0Q)][`University of North Carolina at Chapel Hill`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **RoboSpatial(arxiv2024.11)** RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics [[arxiv link](https://arxiv.org/abs/2411.16537)][`The Ohio State University + NVIDIA`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**SMITE(arxiv2024.10)** SMITE: Segment Me In TimE [[paper link]()][[arxiv link](https://arxiv.org/abs/2410.18538)][[project link](https://segment-me-in-time.github.io/)][[code|official](https://github.com/alimohammadiamirhossein/smite/)][[weixin blog](https://mp.weixin.qq.com/s/b2b6NxyaVpjGO8_pgL7KFA)][`Simon Fraser University + Autodesk Research + University of Toronto + Google DeepMind`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Meshtron(arxiv2024.12)** Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale [[openreview link](https://openreview.net/forum?id=mhzDv7UAMu)][[arxiv link](https://arxiv.org/abs/2412.09548)][[project link](https://research.nvidia.com/labs/dir/meshtron/)][[project link 2](https://meshtron.github.io/)][`NVIDIA`][This paper is rejected by ICLR2025]
 
-* ****  [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **HOGSA(AAAI2025)(arxiv2025.01)** HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation [[arxiv link](https://arxiv.org/abs/2501.02845)][[project link](https://iscas3dv.github.io/HOGSA/)][`Institute of Software, Chinese Academy of Sciences + University of Chinese Academy of Sciences + Institute of Automation, Chinese Academy of Sciences + Google`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **GroundedSAM(arxiv2024.01)** Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks [[arxiv link](https://arxiv.org/abs/2401.14159)][[code|official 1](https://github.com/IDEA-Research/Grounded-SAM-2)][[code|official 2](https://github.com/IDEA-Research/Grounded-Segment-Anything)][`International Digital Economy Academy (IDEA)`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**SegTTO(arxiv2025.01)** Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation [[arxiv link](https://arxiv.org/abs/2501.04696)][[code|official](https://github.com/UlinduP/SegTTO)][`University of Moratuwa + Stony Brook University + Khalifa University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* **Superquadrics(AAAI2025)(arxiv2025.01)** Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics [[arxiv link](https://arxiv.org/abs/2501.07100)][`University of Birmingham + Jilin University + Dongguk University`]
 
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* ****  [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
-
-* **** [[paper link]()][[arxiv link]()][[project link]()][[code|official]()]
+* 👍**YOLO-UniOW(arxiv2024.12)** YOLO-UniOW: Efficient Universal Open-World Object Detection [[arxiv link](https://arxiv.org/abs/2412.20645)][[code|official](https://github.com/THU-MIG/YOLO-UniOW)][`Tsinghua University + Tencent ARC Lab`]
 
 * **ZeroMSF(arxiv2025.01)** Zero-Shot Monocular Scene Flow Estimation in the Wild [[arxiv link](https://arxiv.org/abs/2501.10357)][[project link](https://research.nvidia.com/labs/lpr/zero_msf//)][`NVIDIA Research + Brown University`]
 
