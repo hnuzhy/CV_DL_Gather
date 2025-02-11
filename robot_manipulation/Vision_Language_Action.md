@@ -541,12 +541,11 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * 👍**SplatSim(CoRL Workshop)(arxiv2024.09)** SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting [[arxiv link](https://arxiv.org/abs/2409.10161)][[project link](https://splatsim.github.io/)][`CMU`][`Use Gaussian Splatting as a Renderer over Existing Simulators`]
 
-
 * **HPT(NIPS2024, Spotlight)(arxiv2024.09)** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers [[openreview link](https://openreview.net/forum?id=Pf7kdIjHRf)][[arxiv link](https://arxiv.org/abs/2409.20537)][[project link](https://liruiw.github.io/hpt/)][[code|official](https://github.com/liruiw/HPT)][`MIT CSAIL + FAIR`; `Kaiming He`]
 
 * **CLOVER(NIPS2024)(arxiv2024.09)** Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation [[openreview link](https://openreview.net/forum?id=1ptdkwZbMG)][[arxiv link](https://arxiv.org/abs/2409.09016)][[project link]()][[code|official](https://github.com/OpenDriveLab/CLOVER)][`Shanghai AI Lab + Shanghai Jiao Tong University + HKU + Tsinghua University`][It followed the methods `AVDC` and `RoboFlamingo`]
 
-* **PAD(NeurIPS2024)(arxiv2024.11)** Prediction with Action: Visual Policy Learning via Joint Denoising Process [[arxiv link](https://arxiv.org/abs/2411.18179)][[project link](https://sites.google.com/view/pad-paper)][[code|official](https://github.com/Robert-gyj/Prediction_with_Action)][`Tsinghua University + Shanghai Qizhi Institute + Shanghai AI Lab`]
+* **PAD(NIPS2024)(arxiv2024.11)** Prediction with Action: Visual Policy Learning via Joint Denoising Process [[arxiv link](https://arxiv.org/abs/2411.18179)][[project link](https://sites.google.com/view/pad-paper)][[code|official](https://github.com/Robert-gyj/Prediction_with_Action)][`Tsinghua University + Shanghai Qizhi Institute + Shanghai AI Lab`]
 
 * **Any2Policy(NIPS2024)** Any2Policy: Learning Visuomotor Policy with Any-Modality [[openreview link](https://openreview.net/forum?id=8lcW9ltJx9)][`Midea Group`]
 
