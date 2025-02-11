@@ -165,6 +165,10 @@
 
 * **EasyHOI(arxiv2024.11)** EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild [[arxiv link](https://arxiv.org/abs/2411.14280)][[project link](https://lym29.github.io/EasyHOI-page/)][[code|official](https://github.com/lym29/EasyHOI)][`The University of Hong Kong + ShanghaiTech University + Hong Kong University of Science and Technology + Nanyang Technological University + Max Planck Institute for Informatics + Texas A&M University`]
 
+* **Superquadrics(AAAI2025)(arxiv2025.01)** Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics [[arxiv link](https://arxiv.org/abs/2501.07100)][`University of Birmingham + Jilin University + Dongguk University`]
+
+* **HOGSA(AAAI2025)(arxiv2025.01)** HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation [[arxiv link](https://arxiv.org/abs/2501.02845)][[project link](https://iscas3dv.github.io/HOGSA/)][`Institute of Software, Chinese Academy of Sciences + University of Chinese Academy of Sciences + Institute of Automation, Chinese Academy of Sciences + Google`]
+
 
 ***
 
