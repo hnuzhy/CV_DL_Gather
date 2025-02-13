@@ -739,6 +739,8 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 
 * **ViViDex(ICRA2025)(arxiv2024.04)** ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos [[arxiv link](https://arxiv.org/abs/2404.15709)][[project link](https://zerchen.github.io/projects/vividex.html)][`Inria + Mohamed bin Zayed University of Artificial Intelligence`]
 
+* 👍**MT-Policy(ICRA2025)(arxiv2025.01)** Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.06994)][[project link](https://portal-cornell.github.io/motion_track_policy/)][`Cornell University + Stanford University`]
+
 
 * **GazeTD(arxiv2025.01)** Gaze-based Task Decomposition for Robot Manipulation in Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.15071)][`The University of Tokyo`]
 
@@ -747,8 +749,6 @@ representations` for the robot workspace using a `PointNext` backbone.][It consi
 * 👍**SKIL(arxiv2025.01)** SKIL: Semantic Keypoint Imitation Learning for Generalizable Data-efficient Manipulation [[arxiv link](https://arxiv.org/abs/2501.14400)][[project link](https://skil-robotics.github.io/SKIL-robotics/)][`Tsinghua University + Shanghai AI Laboratory + Shanghai Qi Zhi Institute` + `Yang Gao`]
 
 * 👍**FAST(arxiv2025.01)** FAST: Efficient Action Tokenization for Vision-Language-Action Models [[arxiv link](https://arxiv.org/abs/2501.09747)][[project link](https://www.physicalintelligence.company/research/fast)][[code|official](https://github.com/Physical-Intelligence/openpi)][`Physical Intelligence + UC Berkeley + Stanford` + `Chelsea Finn + Sergey Levine`]
-
-* 👍**MT-Policy(arxiv2025.01)** Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [[arxiv link](https://arxiv.org/abs/2501.06994)][[project link](https://portal-cornell.github.io/motion_track_policy/)][`Cornell University + Stanford University`]
 
 * **MocapRobot(arxiv2025.01)** Learning to Transfer Human Hand Skills for Robot Manipulations [[arxiv link](https://arxiv.org/abs/2501.04169)][[project link](https://rureadyo.github.io/MocapRobot/)][`Seoul National University + Carnegie Mellon University`]
 
