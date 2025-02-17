@@ -142,6 +142,8 @@
 
 * **SemGrasp(arxiv2024.04)** SemGrasp: Semantic Grasp Generation via Language Aligned Discretization [[arxiv link](https://arxiv.org/abs/2404.03590)][[project link](https://kailinli.github.io/SemGrasp/)][`SJTU + Shanghai AI Lab`]
 
+* **GeneralizingGrasp(CVPR2024)(arxiv2024.04)** Generalizing 6-DoF Grasp Detection via Domain Prior Knowledge [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_Generalizing_6-DoF_Grasp_Detection_via_Domain_Prior_Knowledge_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2404.01727)][[code|official](https://github.com/mahaoxiang822/Generalizing-Grasp)]
+
 * **DexGYS(arxiv2024.05)** Grasp as You Say: Language-guided Dexterous Grasp Generation [[arxiv link](https://arxiv.org/abs/2405.19291)][[project link](https://sites.google.com/stanford.edu/dexgys)][`Sun Yat-sen University  + Stanford University + Wuhan University`; `Dexterous Grasp as You Say (DexGYS)`]
 
 * 👍**CenterGrasp(RAL2024)(arxiv2023.12)** CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10499443)][[arxiv link](https://arxiv.org/abs/2312.08240)][[project link](http://centergrasp.cs.uni-freiburg.de/)][[code|official](https://github.com/robot-learning-freiburg/CenterGrasp)][`University of Freiburg + University of Technology Nuremberg`][It is based on `CenterSnap`, `DeepSDF` and `Neural Grasp Distance Fields (NGDF)`, and better than `GIGA` (yet not better than `GraspNet` and `AnyGrasp`)]
