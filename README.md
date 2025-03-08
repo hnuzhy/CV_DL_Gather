@@ -72,7 +72,6 @@
 * [**6D Object Pose Estimation**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/others/6D_Object_Pose_Estimation.md)
 * [**Domain Adaptation**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/transfer_learning/Domain_Adaptation.md)
 * [**Semi-Supervised Learning**](https://github.com/hnuzhy/CV_DL_Gather/blob/master/transfer_learning/Semi-Supervised_Learning.md)
-* [**Robot Manipulation**](https://github.com/hnuzhy/CV_DL_Gather/tree/master/robot_manipulation/README.md)
 
 ## Other Collection Depository
 
