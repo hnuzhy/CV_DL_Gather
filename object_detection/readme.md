@@ -188,3 +188,4 @@
 
 * **YOLOv10(arxiv2024.05)** YOLOv10: Real-Time End-to-End Object Detection [[arxiv link](https://arxiv.org/abs/2405.14458)][[code|official](https://github.com/THU-MIG/yolov10)][`THU`][The code base is built with `ultralytics` and `RT-DETR`.]
 
+* **YOLOv12(arxiv2025.02)** YOLOv12: Attention-Centric Real-Time Object Detectors [[arxiv link](https://arxiv.org/abs/2502.12524)][[code|official](https://github.com/sunsmarterjie/yolov12)][`University at Buffalo, SUNY + University of Chinese Academy of Sciences`]
