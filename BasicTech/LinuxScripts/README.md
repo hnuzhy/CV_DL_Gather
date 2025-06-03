@@ -71,6 +71,10 @@ sudo vim /etc/network/interfaces  # 查看网卡信息，并为网卡配置静�
     # interfaces(5) file used by ifup(8) and ifdown(8)
     auto lo
     iface lo inet loopback
+    # set a dynamic IP address
+    auto eth0
+    iface eth0 inet dhcp
+    # set a static IP address
     auto eno1
     iface eno1 inet static
     address 202.120.57.94
