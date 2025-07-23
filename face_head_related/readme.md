@@ -731,3 +731,5 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **Lercpose(ICIP2024)** Lercpose: Learned Ranking and Contrastive Loss for Robust Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10647301)][[code|official](https://github.com/soni-H/lercpose/)][`Mercedes benz R&D, India`]
 
+* **ULD-HeadPose(CVPR2025)** Unsupervised Discovery of Facial Landmarks and Head Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Tourani_Unsupervised_Discovery_of_Facial_Landmarks_and_Head_Pose_CVPR_2025_paper.html)][[code|official](https://github.com/touranisatyajit/cvpr2025-uld-headpose)]
+
