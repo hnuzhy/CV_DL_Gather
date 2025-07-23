@@ -329,6 +329,9 @@
 
 * **(arxiv2024.04)** Learning a Category-level Object Pose Estimator without Pose Annotations [[arxiv link](https://arxiv.org/abs/2404.05626)][`Xi’an Jiaotong Univeristy + Johns Hopkins University + Tsinghua University + University of Freiburg + MPII`][based on `Zero-1-to-3`; tested on datasets `PASCAL3D+` and `KITTI`]
 
+* **Symmetry-Robust(ICML2025)** Symmetry-Robust 3D Orientation Estimation [[openreview link](https://openreview.net/forum?id=rcDYnkG1F8)][`MIT CSAIL, Cambridge, MA + Backflip AI`]
+
+
 
 #### Few-Shot Learning
 
