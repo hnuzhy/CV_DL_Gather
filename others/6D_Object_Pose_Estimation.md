@@ -140,4 +140,8 @@ Also named ***3D Object Detection***
 
 * 👍**GS-Pose(arxiv2024.03)** GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation [[arxiv link](https://arxiv.org/abs/2403.10683)][[project link](https://dingdingcai.github.io/gs-pose/)][[code|official](https://github.com/dingdingcai/GSPose)][`Tampere University` + `University of Oulu`]
 
+* **One2Any(CVPR2025)(arxiv2025.05)** One2Any: One-Reference 6D Pose Estimation for Any Object [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_One2Any_One-Reference_6D_Pose_Estimation_for_Any_Object_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2505.04109)][[project link]()][[code|official](https://github.com/lmy1001/One2Any)][`ETH Zurich + INSAIT, Sofia University + Google + TUM`; `Luc Van Gool`]
+
+
+
 
