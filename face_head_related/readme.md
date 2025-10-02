@@ -358,6 +358,11 @@
 
 * **ImFace++(arxiv2023.12)** ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations [[arxiv link](https://arxiv.org/abs/2312.04028)][[code|official](https://github.com/MingwuZheng/ImFace/tree/imface%2B%2B)][`Beihang University`, the extended journal version of `ImFace`]
 
+* **Pixel3DMM(arxiv2025.05)** Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction [[arxiv link](https://arxiv.org/abs/2505.00615)][[project link](https://simongiebenhain.github.io/pixel3dmm/)][[code|official](https://github.com/SimonGiebenhain/pixel3dmm)][`Technical University of Munich + Synthesia + University College London`]
+
+* **DAViD(ICCV2025)(arxiv2025.07)** DAViD: Data-efficient and Accurate Vision Models from Synthetic Data [[arxiv link](https://arxiv.org/abs/2507.15365)][[project link](https://microsoft.github.io/DAViD/)][[code|official](https://github.com/microsoft/DAViD)][`Microsoft- Mixed Reality & AI`]
+
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
@@ -574,6 +579,8 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * 👍**SignBERT+ (TPAMI2023)** SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10109128)][[arxvi link](https://arxiv.org/abs/2305.04868)][[project link](https://signbert-zoo.github.io/)][`Sign Language Understanding (SLU)`]
 
+* **HandShadowPoser(SIGGRAPH2025)(arxiv2025.05)** Hand-Shadow Poser [[paper link](https://dl.acm.org/doi/10.1145/3730836)][[arxiv link](https://arxiv.org/abs/2505.07012)][[project link](https://hxwork.github.io/collections/2025_HandShadowPoser/webpage.html)][[code|official](https://github.com/hxwork/HandShadowPoser)][`The Chinese University of Hong Kong, Hong Kong + University College London + University of Electronic Science and Technology of China`]
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
@@ -732,4 +739,7 @@ including `Sign Language Recognition` and `Sign Language Translation`
 * **Lercpose(ICIP2024)** Lercpose: Learned Ranking and Contrastive Loss for Robust Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10647301)][[code|official](https://github.com/soni-H/lercpose/)][`Mercedes benz R&D, India`]
 
 * **ULD-HeadPose(CVPR2025)** Unsupervised Discovery of Facial Landmarks and Head Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Tourani_Unsupervised_Discovery_of_Facial_Landmarks_and_Head_Pose_CVPR_2025_paper.html)][[code|official](https://github.com/touranisatyajit/cvpr2025-uld-headpose)]
+
+* **NLML-HPE(arxiv2025.07)** NLML-HPE: Head Pose Estimation with Limited Data via Manifold Learning [[arxiv link](https://arxiv.org/abs/2507.18429)][[code|official](https://github.com/MahdiGhafoorian/NLML_HPE)][`Department of Engineering, Universitat Pompeu Fabra, Spain`]
+
 
