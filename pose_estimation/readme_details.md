@@ -616,6 +616,9 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * **ESCAPE-TGT(CVPR2024)** ESCAPE: Encoding Super-keypoints for Category-Agnostic Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Nguyen_ESCAPE_Encoding_Super-keypoints_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.html)][[code|official](https://github.com/khoiucd/escape-tgt)][`University of Wisconsin-Madison + National University of Singapore`]
 
+* **PoseScript(TPAMI2025)(arxiv2022.10)** PoseScript: Linking 3D Human Poses and Natural Language [[paper link](https://ieeexplore.ieee.org/abstract/document/10542395)][[arxiv link](https://arxiv.org/abs/2210.11795)][[project link](https://europe.naverlabs.com/research/publications/posescript-3d-human-poses-from-natural-language/)][[code|official](https://github.com/naver/posescript)][[ECCV2022 conference](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_20)][`CSIC-UPC, Barcelona, Spain + NAVER LABS Europe`]
+
+
 ### ▶ Keypoints for Human Motion Generation
 **Motion Synthesis / Motion Diffusion Model**
 
