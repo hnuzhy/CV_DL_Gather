@@ -14,7 +14,7 @@
   * **[▶ Face Alignment](#-Face-Alignment)**
   * **[▶ Face Detection](#-Face-Detection)**
   * **[▶ Face Recognition](#-Face-Recognition)**
-  * **[▶ Face Reconstruction (3D)](#-Face-Reconstruction-3D)**
+  * **[▶ Face/Head Reconstruction (3D)](#-FaceHead-Reconstruction-3D)**
   * **[▶ Hand/Head/Person Detection](#-HandHeadPerson-Detection)**
   * **[▶ Hand Pose Estimation](#-Hand-Pose-Estimation)**
   * **[▶ Head Pose Estimation](#-Head-Pose-Estimation)**
@@ -139,6 +139,15 @@
 
 * 👍**PJAE(ICCV2023)** Interaction-aware Joint Attention Estimation Using People Attributes [[paper link]()][[arxiv link link](https://arxiv.org/abs/2308.05382)][[project link](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/selection/ICCV2023-PJAE.html)][[code|official](https://github.com/chihina/PJAE)][`Japan`, `Toyota Technological Institute and University of Hyogo`]
 
+* **FOV-GTD(ECCV2024)** Gaze Target Detection Based on Head-Local-Global Coordination [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-73383-3_18)][[pdf link](https://openreview.net/pdf?id=UCHcuE3tlV)][`Beihang University`][`Gaze Target Detection`]
+
+* **AL-GTD(ACMMM2024)(arxiv2024.09)** AL-GTD: Deep Active Learning for Gaze Target Detection [[paper link](https://dl.acm.org/doi/abs/10.1145/3664647.3680952)][[arxiv link](https://arxiv.org/abs/2409.18561)][[code|official](https://github.com/francescotonini/al-gtd)][`University of Trento + Fondazione Bruno Kessler`][`Gaze Target Detection`]
+
+* **MVGTE(ICCV2025)(arxiv2025.08)** Multi-view Gaze Target Estimation [[paper link](https://openaccess.thecvf.com/content/ICCV2025/html/Miao_Multi-view_Gaze_Target_Estimation_ICCV_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2508.05857)][[project link](https://www3.cs.stonybrook.edu/~cvl/multiview_gte.html)][[code|official](https://github.com/cvlab-stonybrook/multi-view-gte)][`Stony Brook University + The University of Adelaide`][`Gaze Target Detection`]
+
+* **SHOT(ACMMM2025)(arxiv2025.09)** Beyond the Individual: Introducing Group Intention Forecasting with SHOT Dataset [[paper link](https://dl.acm.org/doi/abs/10.1145/3746027.3758248)][[arxiv link](https://arxiv.org/abs/2509.20715)][[project link](https://xinyi-hu.github.io/SHOT_DATASET/)][[code|official](https://github.com/Xinyi-Hu/SHOT-Dataset)][`Wuhan University + Peking University + National University of Singapore + Wuhan University of Technology`]
+
+
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
@@ -240,7 +249,7 @@
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
 
-### ▶ Face Reconstruction (3D)
+### ▶ Face/Head Reconstruction (3D)
 
 #### Materials
 
@@ -358,9 +367,18 @@
 
 * **ImFace++(arxiv2023.12)** ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations [[arxiv link](https://arxiv.org/abs/2312.04028)][[code|official](https://github.com/MingwuZheng/ImFace/tree/imface%2B%2B)][`Beihang University`, the extended journal version of `ImFace`]
 
+* **Faceptor(ECCV2024 Oral)(arxiv2024.03)** Faceptor: A Generalist Model for Face Perception [[paper link](https://link.springer.com/chapter/10.1007/978-3-031-72754-2_14)][[arxiv link](https://arxiv.org/abs/2403.09500)][[code|official](https://github.com/lxq1000/Faceptor)][`Beijing University of Posts and Telecommunications, Beijing`]
+
+* **FaceLift(ICCV2025)(arxiv2024.12)** FaceLift: Learning Generalizable Single Image 3D Face Reconstruction from Synthetic Heads [[paper link](https://openaccess.thecvf.com/content/ICCV2025/html/Lyu_FaceLift_Learning_Generalizable_Single_Image_3D_Face_Reconstruction_from_Synthetic_ICCV_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2412.17812)][[project link](https://www.wlyu.me/FaceLift/)][[code|official](https://github.com/weijielyu/FaceLift)][`University of California, Merced + Adobe Research`]
+
+* **HRAvatar(CVPR2025)(arxiv2025.03)** HRAvatar: High-Quality and Relightable Gaussian Head Avatar [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_HRAvatar_High-Quality_and_Relightable_Gaussian_Head_Avatar_CVPR_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2503.08224)][[project link](https://eastbeanzhang.github.io/HRAvatar/)][[code|official](https://github.com/Pixel-Talk/HRAvatar)][`Tsinghua University + International Digital Economy Academy (IDEA)`]
+
 * **Pixel3DMM(arxiv2025.05)** Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction [[arxiv link](https://arxiv.org/abs/2505.00615)][[project link](https://simongiebenhain.github.io/pixel3dmm/)][[code|official](https://github.com/SimonGiebenhain/pixel3dmm)][`Technical University of Munich + Synthesia + University College London`]
 
 * **DAViD(ICCV2025)(arxiv2025.07)** DAViD: Data-efficient and Accurate Vision Models from Synthetic Data [[arxiv link](https://arxiv.org/abs/2507.15365)][[project link](https://microsoft.github.io/DAViD/)][[code|official](https://github.com/microsoft/DAViD)][`Microsoft- Mixed Reality & AI`]
+
+* **ImHead(ICCV2025)(arxiv2025.10)** ImHead: A Large-scale Implicit Morphable Model for Localized Head Modeling [[paper link](https://openaccess.thecvf.com/content/ICCV2025/html/Potamias_ImHead_A_Large-scale_Implicit_Morphable_Model_for_Localized_Head_Modeling_ICCV_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2510.10793)][[project link](https://rolpotamias.github.io/imHead/)][`Imperial College London, United Kingdom`]
+
 
 
 
@@ -392,6 +410,9 @@
 * **Ubi-TOUCH (UIST2023)(CCF-A)** Ubi-TOUCH: Ubiquitous Tangible Object Utilization through Consistent Hand-object interaction in Augmented Reality [[paper link](https://dl.acm.org/doi/abs/10.1145/3586183.3606793)][`Purdue University`, application in `Augmented Reality`]
 
 * **InstruMentAR (CHI2023)** InstruMentAR: Auto-Generation of Augmented Reality Tutorials for Operating Digital Instruments Through Recording Embodied Demonstration [[paper link](https://dl.acm.org/doi/abs/10.1145/3544548.3581442)][[pdf link](https://3dvar.com/Liu2023InstruMentAR.pdf)][`Purdue University`, application in `Augmented Reality`]
+
+* 👍👍**HaGRID(WACV2024)(arxiv2022.06)** HaGRID - HAnd Gesture Recognition Image Dataset [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Kapitanov_HaGRID_--_HAnd_Gesture_Recognition_Image_Dataset_WACV_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2206.08219)][[code1|official](https://github.com/ai-forever/dynamic_gestures)][[code2|official](https://github.com/hukenovs/hagrid)][[(arxiv2024.12) HaGRIDv2: 1M Images for Static and Dynamic Hand Gesture Recognition](https://arxiv.org/abs/2412.01508)][`SaluteDevices, Russia`]
+
 
 
 #### ▶Body/Person
@@ -481,6 +502,7 @@ including `Human-Parts Detection`, `Human Activity Understanding`, `Human and Ob
 
 * **Hi4D(Humans interacting in 4D)(CVPR2023)** Hi4D: 4D Instance Segmentation of Close Human Interaction [[arxiv link](https://arxiv.org/abs/2303.15380)][[project link](https://yifeiyin04.github.io/Hi4D/)][`ETH Zürich`, A dataset of humans in close physical interaction]
 
+* **CHAR(TMC2025)** CHAR: Composite Head-Body Activities Recognition With a Single Earable Device [[paper link](https://ieeexplore.ieee.org/abstract/document/10916516)][[PPT link](https://yongpanzou.github.io/documents/CHARSlides.pdf)][`Shenzhen University`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
@@ -579,7 +601,11 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * 👍**SignBERT+ (TPAMI2023)** SignBERT+: Hand-model-aware Self-supervised Pre-training for Sign Language Understanding [[paper link](https://ieeexplore.ieee.org/abstract/document/10109128)][[arxvi link](https://arxiv.org/abs/2305.04868)][[project link](https://signbert-zoo.github.io/)][`Sign Language Understanding (SLU)`]
 
+* 👍**SOKE(ICCV2025)(arxiv2024.11)** Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator [[paper link](https://openaccess.thecvf.com/content/ICCV2025/html/Zuo_Signs_as_Tokens_A_Retrieval-Enhanced_Multilingual_Sign_Language_Generator_ICCV_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2411.17799)][[project link](https://2000zrl.github.io/soke/)][[code|official](https://github.com/2000ZRL/SOKE)][`Imperial College London`]
+ 
 * **HandShadowPoser(SIGGRAPH2025)(arxiv2025.05)** Hand-Shadow Poser [[paper link](https://dl.acm.org/doi/10.1145/3730836)][[arxiv link](https://arxiv.org/abs/2505.07012)][[project link](https://hxwork.github.io/collections/2025_HandShadowPoser/webpage.html)][[code|official](https://github.com/hxwork/HandShadowPoser)][`The Chinese University of Hong Kong, Hong Kong + University College London + University of Electronic Science and Technology of China`]
+
+
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
