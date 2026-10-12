@@ -377,6 +377,9 @@ instance-aware dynamic networks to adaptively adjust part of the network paramet
 
 * **HoT(CVPR2024)** Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation [[paper link](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Hourglass_Tokenizer_for_Efficient_Transformer-Based_3D_Human_Pose_Estimation_CVPR_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2311.12028)][[code|official](https://github.com/NationalGAILab/HoT)][`PKU-SZ + Amazon Prime Video  + University of Trento`]
 
+* 👍**FMPose3D(CVPR2026)(arxiv2026.02)** FMPose3D: monocular 3D pose estimation via flow matching [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_FMPose3D_monocular_3D_pose_estimation_via_flow_matching_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2602.05755)][[project link](https://xiu-cs.github.io/FMPose3D/)][[code|official](https://github.com/AdaptiveMotorControlLab/FMPose3D)][`EPFL`][`3D pose of human and animals`]
+
+
 ### ▶ Special Multiple Person Pose Estimation
 
 * **PoseTrack(CVPR2017)** PoseTrack: Joint Multi-Person Pose Estimation and Tracking [[arxiv link](https://arxiv.org/abs/1611.07727)][[Codes|Matlab&Caffe](https://github.com/iqbalu/PoseTrack-CVPR2017)]
@@ -548,6 +551,7 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 * **UAO(arxiv2024.02)** Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation [[arxiv link](https://arxiv.org/abs/2402.02339)][`Peking University, Shenzhen`]
 
+
 #### ※ 2D Human Pose Estimation (Single and Multiple)
 
 * **DataDistill, Pseudo-Labeling, PL(CVPR2018)** Data Distillation: Towards Omni-Supervised Learning [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/html/Radosavovic_Data_Distillation_Towards_CVPR_2018_paper.html)][[arxiv link](https://arxiv.org/abs/1712.04440)][`Omni-Supervised Learning`, `a special regime of semi-supervised learning`, with tasks `human keypoint detection` and `general object detection`]
@@ -620,7 +624,7 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 
 
 ### ▶ Keypoints for Human Motion Generation
-**Motion Synthesis / Motion Diffusion Model**
+**Motion Synthesis / Interaction Generation / Motion Diffusion Model**
 
 * **MoFusion(CVPR2023)** MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[paper link](https://openaccess.thecvf.com/content/CVPR2023/html/Dabral_Mofusion_A_Framework_for_Denoising-Diffusion-Based_Motion_Synthesis_CVPR_2023_paper.html)][[arxiv link](http://arxiv.org/abs/2212.04495)][[project link](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)][code is not avaliable][`MPII`]
 
@@ -631,4 +635,12 @@ belonging to the `Domain Adaptive Regression (DGA)` or `Semi-Supervised Rotation
 * **InterDiff(ICCV2023)** InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[paper link](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_InterDiff_Generating_3D_Human-Object_Interactions_with_Physics-Informed_Diffusion_ICCV_2023_paper.html)][[arxiv link](https://arxiv.org/abs/2308.16905)][[project link](https://sirui-xu.github.io/InterDiff/)][[code|official](https://github.com/Sirui-Xu/InterDiff)][`University of Illinois at Urbana-Champaign`, `Human-Object Interactions`]
 
 * **OmniControl(arxiv2023.10)** OmniControl: Control Any Joint at Any Time for Human Motion Generation [[arxiv link](https://arxiv.org/abs/2310.08580)][[project link](https://neu-vi.github.io/omnicontrol/)][[code|official](https://github.com/neu-vi/omnicontrol)][`Northeastern University + Google Research`]
+
+* 👍**FrankenMotion(CVPR2026)(arxiv2026.01)** FrankenMotion: Part-level Human Motion Generation and Composition [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Li_FrankenMotion_Part-level_Human_Motion_Generation_and_Composition_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2601.10909)][[project link](https://coral79.github.io/frankenmotion/)][[code|official](https://github.com/Coral79/FrankenMotion-Code)][`University of Tübingen + Tübingen AI Center + Max Planck Institute for Informatics, Saarland Informatics Campus`]
+
+* **FunHSI(arxiv2026.01)** Open-Vocabulary Functional 3D Human-Scene Interaction Generation [[arxiv link](https://arxiv.org/abs/2601.20835)][[project link](https://jliu4ai.github.io/projects/funhsi/)][`Meshcapade + University of Amsterdam + Max Planck Institute for Intelligent Systems + Stanford University`; `Michael J. Black`]
+
+* **GRASP(NIPS2026)(arxiv2026.05)** GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions [[arxiv link](https://arxiv.org/abs/2605.15764)][[project link](https://social-reaoning.github.io/grasp/)][[code|official](https://github.com/Social-Reaoning/grasp)][`UIUC + Georgia Tech + Amazon AGI + Korea University`]
+
+
 
