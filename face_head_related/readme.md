@@ -379,7 +379,7 @@
 
 * **ImHead(ICCV2025)(arxiv2025.10)** ImHead: A Large-scale Implicit Morphable Model for Localized Head Modeling [[paper link](https://openaccess.thecvf.com/content/ICCV2025/html/Potamias_ImHead_A_Large-scale_Implicit_Morphable_Model_for_Localized_Head_Modeling_ICCV_2025_paper.html)][[arxiv link](https://arxiv.org/abs/2510.10793)][[project link](https://rolpotamias.github.io/imHead/)][`Imperial College London, United Kingdom`]
 
-
+* **ViDS(arxiv2026.07)** ViDS: Video Diffusion Shader using 3D Face Tracking [[arxiv link](https://arxiv.org/abs/2607.24124)][[project link](https://fusheng-ji.github.io/ViDS/)][`Technical University of Munich + Toyota Motor Europe NV/SA + Woven by Toyota`]
 
 
 **-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-|-+-**
@@ -413,6 +413,9 @@
 
 * 👍👍**HaGRID(WACV2024)(arxiv2022.06)** HaGRID - HAnd Gesture Recognition Image Dataset [[paper link](https://openaccess.thecvf.com/content/WACV2024/html/Kapitanov_HaGRID_--_HAnd_Gesture_Recognition_Image_Dataset_WACV_2024_paper.html)][[arxiv link](https://arxiv.org/abs/2206.08219)][[code1|official](https://github.com/ai-forever/dynamic_gestures)][[code2|official](https://github.com/hukenovs/hagrid)][[(arxiv2024.12) HaGRIDv2: 1M Images for Static and Dynamic Hand Gesture Recognition](https://arxiv.org/abs/2412.01508)][`SaluteDevices, Russia`]
 
+* **HandGestureCustomization(UIST2024)(arxiv2024.02)** Vision-Based Hand Gesture Customization from a Single Demonstration [[paper link](https://dl.acm.org/doi/abs/10.1145/3654777.3676378)][[arxiv link](https://arxiv.org/abs/2402.08420)][`Apple Inc. USA`]
+
+* **Gestura(IMWUT2025)(arxiv2025.10)** Gestura: A LVLM-Powered System Bridging Motion and Semantics for Real-Time Free-Form Gesture Understanding [[paper link](https://dl.acm.org/doi/10.1145/3770709)][[arxiv link](https://arxiv.org/abs/2510.21814)][[project link](https://evans-lx.github.io/Gestura/)][[code|official](https://github.com/Evans-lx/Gestura/)][`Institute of Artificial Intelligence (TeleAI) of China Telecom, China + Southeast University, China + Goertek Inc, China`]
 
 
 #### ▶Body/Person
@@ -762,10 +765,18 @@ including `Sign Language Recognition` and `Sign Language Translation`
 
 * **TRG(ECCV2024)(arxiv2024.07)** 6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry [[arxiv link](https://arxiv.org/abs/2407.14136)][[code|official](https://github.com/asw91666/TRG-Release)][`Kwangwoon University`]
 
+* 👍**HelmetPoser(ICRA2025)(arxiv2024.09)** HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions [[paper link](https://ieeexplore.ieee.org/abstract/document/11128564)][[arxiv link](https://arxiv.org/abs/2409.05006)][[project link](https://lqiutong.github.io/HelmetPoser.github.io/)][`China-Singapore International Joint Research Institute (CSIJRI) and School of Electrical and Electronic Engineering, Nanyang
+Technological University`]
+
 * **Lercpose(ICIP2024)** Lercpose: Learned Ranking and Contrastive Loss for Robust Head Pose Estimation [[paper link](https://ieeexplore.ieee.org/abstract/document/10647301)][[code|official](https://github.com/soni-H/lercpose/)][`Mercedes benz R&D, India`]
 
 * **ULD-HeadPose(CVPR2025)** Unsupervised Discovery of Facial Landmarks and Head Pose [[paper link](https://openaccess.thecvf.com/content/CVPR2025/html/Tourani_Unsupervised_Discovery_of_Facial_Landmarks_and_Head_Pose_CVPR_2025_paper.html)][[code|official](https://github.com/touranisatyajit/cvpr2025-uld-headpose)]
 
 * **NLML-HPE(arxiv2025.07)** NLML-HPE: Head Pose Estimation with Limited Data via Manifold Learning [[arxiv link](https://arxiv.org/abs/2507.18429)][[code|official](https://github.com/MahdiGhafoorian/NLML_HPE)][`Department of Engineering, Universitat Pompeu Fabra, Spain`]
+
+* **PerformRecast(CVPR2026)(arxiv2026.03)** PerformRecast: Expression and Head Pose Disentanglement for Portrait Video Editing [[paper link](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_PerformRecast_Expression_and_Head_Pose_Disentanglement_for_Portrait_Video_Editing_CVPR_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2603.19731)][[project link](https://youku-aigc.github.io/PerformRecast/)][[code|official](https://github.com/youku-aigc/PerformRecast)][`HUJING Digital Media & Entertainment Group`]
+
+* **VGGT-HPE(CVPR2026 Workshop)(arxiv2026.04)** VGGT-HPE: Reframing Head Pose Estimation as Relative Pose Prediction [[paper link](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/html/Vasileiou_VGGT-HPE_Reframing_Head_Pose_Estimation_as_Relative_Pose_Prediction_CVPRW_2026_paper.html)][[arxiv link](https://arxiv.org/abs/2604.10106)][[project link](https://vasilikivas.github.io/VGGT-HPE/)][[code|official](https://github.com/VasilikiVas/vggt-hpe)][`Archimedes, Athena Research Center, Marousi, Greece + HERON, Hellenic Robotics Center of Excellence, Athens, Greece + Robotics Institute, Athena Research Center, Marousi, Greece + School of ECE, National Technical University of Athens, Greece + University of Pennsylvania`]
+
 
 
